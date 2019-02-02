@@ -40,12 +40,9 @@ date: 2019-02-02
 ## Formatting Guide
 
 ### Link types
-- [Embedded link](http://google.com)
-- [Embedded link to an internal page](scholarship)
-- Visible link <http://google.com>
-- Do parentheses also form visible link? (http://google.com)
-- And how about a plain link? http://google.com
-- Link to a
+- Visible link uses angle brackets <http://google.com>
+- [Embedded link: place text in brackets, URL in parentheses](http://google.com)
+- But an embedded link to an internal page or post on this site requires the full URL
 
 ### Markdown image with pre-slash pathname (no baseurl because custom domain), actual size, but no caption
 ![root image caption](/images/sample-300x200.jpg)
