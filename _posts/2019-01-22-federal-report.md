@@ -35,14 +35,13 @@ Funded by The Spencer Foundation
 - Part 4 Exploratory Study of the State's Role - The Wisconsin Example
 - Part 5 Lessons Learned by the Guinea Pig
 
-Files converted and archived in 2019 at
-<http://jackdougherty.org>
+Files converted and archived in 2019 at <http://jackdougherty.org>
 
-- [PDF full document](/jack-site/documents/dougherty1999-federal-full.pdf)
+- [PDF full document](/documents/dougherty1999-federal-full.pdf)
 - ODT files
-  - [part1](/jack-site/documents/dougherty1999-federal-part1.odt)
-  - [part2](/jack-site/documents/dougherty1999-federal-part2.odt)
-  - [part2b](/jack-site/documents/dougherty1999-federal-part2b.odt)
-  - [part3](/jack-site/documents/dougherty1999-federal-part3.odt)
-  - [part4](/jack-site/documents/dougherty1999-federal-part4.odt)
-  - [part5](/jack-site/documents/dougherty1999-federal-part5.odt)
+  - [part1](/documents/dougherty1999-federal-part1.odt)
+  - [part2](/documents/dougherty1999-federal-part2.odt)
+  - [part2b](/documents/dougherty1999-federal-part2b.odt)
+  - [part3](/documents/dougherty1999-federal-part3.odt)
+  - [part4](/documents/dougherty1999-federal-part4.odt)
+  - [part5](/documents/dougherty1999-federal-part5.odt)

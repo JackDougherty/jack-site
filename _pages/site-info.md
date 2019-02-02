@@ -39,12 +39,16 @@ date: 2019-02-02
 
 ## Formatting Guide
 
-### List of sample links
+### Link types
 - [Embedded link](http://google.com)
+- [Embedded link to an internal page](scholarship)
 - Visible link <http://google.com>
+- Do parentheses also form visible link? (http://google.com)
+- And how about a plain link? http://google.com
+- Link to a
 
-### Markdown image with pre-slash baseurl pathname, actual size, but no caption
-![root image caption](/jack-site/images/sample-300x200.jpg)
+### Markdown image with pre-slash pathname (no baseurl because custom domain), actual size, but no caption
+![root image caption](/images/sample-300x200.jpg)
 
 ### [Liquid templating](https://jekyllrb.com/docs/liquid/) image in root no-slash images  
 {% include figure image_path="images/sample-300x200.jpg" alt="sample image" caption="here's the sample image" %}
