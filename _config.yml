@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Jack Dougherty"
 description              : "Teaching & Advising, Digital Scholarship, and Community Engagement by Professor Jack Dougherty, Trinity College, Hartford CT, USA"
 url                      : "https://jackdougherty.org" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-url
-baseurl                  : "jack-site" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog" - BUT for GitHub Pages site with custom domain, there is NO subpath
 repository               : "jackdougherty/jack-site"
 teaser                   : # teaser image path: "/images/photo.jpg"
 # breadcrumbs            : false # true, false (default)
