@@ -1,0 +1,16 @@
+# main links
+main:
+- title: "Home"
+  url: /
+- title: "Bio + CV"
+  url: /bio/
+- title: "Teaching"
+  url: /teaching/
+- title: "Advising"
+  url: /advising/
+- title: "Posts"
+  url: /posts/
+- title: "Scholarship"
+  url: /scholarship/
+- title: "Site Info"
+  url: /site-info/

@@ -1,0 +1,23 @@
+---
+title: 'Teaching Race and Education in the Archives'
+date: 2019-01-30
+permalink: /2019/01/30/teaching-race-archives/
+categories:
+  - teaching
+  - history
+  - Educational Studies
+  - Trinity College
+---
+When I first began to teach educational history in the early 1990s, as a TA for Carl Kaestle at the University of Wisconsin-Madison, he taught me the value of bringing intro-level undergraduates to the archives during the first week of class. Starting the first week of classes with a "history lab" shakes up students' pre-conceptions of how we learn about the past and present. Guiding our students to "think like historians" requires creating active learning exercises for them to discover the past by exploring primary source materials, not just passively listening to lectures. I've continued this pedagogical tradition for the past two decades at Trinity College in Hartford CT. Students in my Educ 300: Ed Reform Past & Present course begin our exploration of the 19th-Century Common Schools movement by examining school textbooks created in that era, to understand what they reveal about the ideologies of reformers. Check out the [Educ 300 syllabus](https://commons.trincoll.edu/edreform), as well as the [introductory slides](http://bit.ly/what-textbooks-reveal) and [history lab worksheet](http://bit.ly/watkinson-textbook-exercise) with questions and source materials.
+
+While the digitization of public-domain books makes this exercise possible wherever one has internet access, my students and I are fortunate that the [Watkinson Library at Trinity](https://www.trincoll.edu/LITC/Watkinson/) holds [Henry Barnard's collection](https://www.trincoll.edu/LITC/Watkinson/collections/Pages/Education.aspx) of over 7,000 textbooks. Hands-on access with historical archives brings the past closer to our present-day lives, and it's also more efficient to flip and skim several pages at a time. Special thanks to Christina Bleyer, the new director of the Watkinson, who kindly stayed late and welcomed my students to work with the materials during our evening class time, when the archive is normally closed.
+
+{% include figure image_path="assets/images/2019/2019-01-28-bryan-jess-at-watkinson.jpg" alt="students with textbook" caption="Bryan and Jess exploring race in Guyot's Grammar-School Geography (1880)" %}
+
+Explore the "Races of Men" section of the Guyot 1880 textbook shown above, [digitized by Ball State University](http://libx.bsu.edu/cdm/ref/collection/HstrcTxtbks/id/21395)
+
+When I began teaching this lab years ago, I recall being mindful that explicit 19th-century expressions of racism might disturb my students. In particular, I've always tried to think about this exercise from the perspective of students of color who attend a predominantly white college, and are trying to figure out their white professor on the first day of class. At the beginning of this exercise, my standard caution to students of all races has been something like this: while these textbooks may contain racial and gendered views that offend us today, our goal is to try to understand the world views of the reformers who promoted this movement through their archives.
+
+But what's changed over the past two decades, in a very positive direction, is the composition and curiosity of my students. In contrast to my experience decades ago, when perhaps one or two students of color enrolled in my course, this semester about half of my class of 21 students probably identify as people of color. Furthermore, many students this semester have expressed intense curiosity about racism in 19th-century textbooks, as shown in the photo above. Although I officially ended class around 9pm, a handful of students of different races stayed longer, shared their enthusiasm about the archives, and asked Christina Bleyer questions about other collections at the Watkinson. To my recollection, this is the first time in twenty years of teaching at Trinity College that I could not get students to leave the archives after class ended!
+
+Teaching can be an emotionally draining occupation. I worry about my students coming of age during the Trump era. How do they make sense of the recent resurgence of white supremacy and anti-immigration policies? How will this influence their everyday decisions and long-term dreams? At the same time, my students are sparking new hope within me. As our classrooms become more racially diverse, and more students express genuine curiosity for learning about race and education in America's past and present, perhaps it will encourage me to teach---and listen---in new ways. And perhaps that will motivate me to share more of my reflections and experiences with others.
