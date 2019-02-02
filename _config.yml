@@ -20,8 +20,8 @@ title                    : "JackDougherty.org"
 title_separator          : "-"
 name                     : "Jack Dougherty"
 description              : "Teaching & Advising, Digital Scholarship, and Community Engagement by Professor Jack Dougherty, Trinity College, Hartford CT, USA"
-url                      : "https://jackdougherty.org"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://jackdougherty.org" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-url
+baseurl                  : "jack-site" # the subpath of your site, e.g. "/blog"
 repository               : "jackdougherty/jack-site"
 teaser                   : # teaser image path: "/images/photo.jpg"
 # breadcrumbs            : false # true, false (default)
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Jack Dougherty"
-  avatar           : "assets/images/jackdougherty.jpg"
+  avatar           : "images/home/jackdougherty.jpg"
   bio              : "Professor and Director of Educational Studies; Director of Center for Hartford Engagement and Research (CHER); Trinity College, Hartford CT, USA"
   # location         : " "
   # email            : " "

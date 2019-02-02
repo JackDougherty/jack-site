@@ -12,7 +12,7 @@ When I first began to teach educational history in the early 1990s, as a TA for 
 
 While the digitization of public-domain books makes this exercise possible wherever one has internet access, my students and I are fortunate that the [Watkinson Library at Trinity](https://www.trincoll.edu/LITC/Watkinson/) holds [Henry Barnard's collection](https://www.trincoll.edu/LITC/Watkinson/collections/Pages/Education.aspx) of over 7,000 textbooks. Hands-on access with historical archives brings the past closer to our present-day lives, and it's also more efficient to flip and skim several pages at a time. Special thanks to Christina Bleyer, the new director of the Watkinson, who kindly stayed late and welcomed my students to work with the materials during our evening class time, when the archive is normally closed.
 
-{% include figure image_path="assets/images/2019/2019-01-28-bryan-jess-at-watkinson.jpg" alt="students with textbook" caption="Bryan and Jess exploring race in Guyot's Grammar-School Geography (1880)" %}
+{% include figure image_path="images/2019/2019-01-28-bryan-jess-at-watkinson.jpg" alt="students with textbook" caption="Bryan and Jess exploring race in Guyot's Grammar-School Geography (1880)" %}
 
 Explore the "Races of Men" section of the Guyot 1880 textbook shown above, [digitized by Ball State University](http://libx.bsu.edu/cdm/ref/collection/HstrcTxtbks/id/21395)
 

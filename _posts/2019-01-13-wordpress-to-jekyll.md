@@ -18,8 +18,8 @@ Why make this big shift? As usual, it's driven by a combination of factors:
 
 ## How It Works
 All content now resides on a personal domain <http://jackdougherty.org> with a workflow that should be simpler (at least for me) for the future. Here's the basic steps I followed, and see more details in the [Site Info page](site_info):
-- Create a free account on [GitHub](http://github.com), and create and publish a personal repository <https://github.com/JackDougherty/jackdougherty.github.io>
-- Optional: If you don't like the default GitHub Pages personal repo domain name (mine would have been <http://jackdougherty.github.io>), purchase your own domain name (I recommend buying from <http://ReclaimHosting.com>)
+- Create a free account on [GitHub](http://github.com), and create and publish a project repository <https://github.com/JackDougherty/jack-site>
+- Optional: If you don't like the default GitHub Pages personal repo domain name (mine would have been <http://jackdougherty.github.io/jack-site>), purchase your own domain name (I recommend buying from <http://ReclaimHosting.com>)
 - Compose in the lightweight [Markdown format](https://en.wikipedia.org/wiki/Markdown) with the [Atom editor](https://atom.io/)
 - Format posts and pages using a remote Jekyll theme called [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose
 - Use [GitHub Desktop](https://desktop.github.com/) to push edits from my local drive to my personal GitHub repository, using the GitHub Pages feature to automatically publish Jekyll-based content as a static site, which quickly loads on your browser.
