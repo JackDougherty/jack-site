@@ -3,11 +3,29 @@ title: "Teaching"
 permalink: /teaching/
 date: 2019-01-01
 ---
+[Read my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections about guiding undergraduate learning at Trinity College.
 
-list of sub-pages?
+## Courses taught
+See [all courses in the Educational Studies Program](http://commons.trincoll.edu/educ/courses) at Trinity College.
 
-or collections?
+### Educ 200: Analyzing Schools
+This course introduces the study of schooling within an interdisciplinary framework. Drawing upon sociology, we investigate the resources, structures, and social contexts which influence student opportunities and outcomes in the United States and other countries. Drawing upon psychology, we contrast theories of learning, both in the abstract and in practice. Drawing upon philosophy, we examine competing educational goals and their underlying assumptions regarding human nature, justice, and democracy. In addition, a community learning component, where students observe and participate in nearby K-12 classrooms for three hours per week, will be integrated with course readings and written assignments.
+NOTE: Each student must reserve one three-hour block of time in their weekly schedule (anytime between 9am – 3pm weekdays) for a community learning placement in a neighborhood Hartford public school, to be arranged by the instructor during the first week of the course. Enrollment limited to 29. See my Educ 200 syllabus from Fall 2016.
 
-see also blog posts by category: teaching, to come
+### Educ 300: Education Reform, Past & Present
+How do we explain the rise and decline of education reform movements? How do we evaluate their level of “success” from different sources of evidence? Drawing upon primary source materials and historical interpretations, this course examines a broad array of elementary, secondary, and higher education reform movements from the mid-nineteenth century to the present, analyzing social, material, and ideological contexts. This intermediate-level seminar explores a topic common to all branches of educational studies from both theoretical and comparative perspectives. Prerequisite: Ed 200 or permission of instructor. Enrollment limited to 24. See my current Educ 300 syllabus.
 
-extra line
+### Educ 308: Cities, Suburbs, and Schools
+How did city dwellers’ dreams of better schooling, along with public policy decisions in housing and transportation, contribute to the rise of suburbia in the twentieth century? How do city-suburban disparities affect teaching and learning in classrooms today? What promise do Sheff v O’Neill remedies for racial isolation, such as magnet schools at the Learning Corridor, hold for the future? Students will investigate these questions while developing their skills in oral history, ethnographic fieldwork, and geographical information system (GIS) software. Community learning experiences will be integrated with seminar readings and research projects. Prerequisite: Ed 200 or Psyc 225 or the Cities Program or permission of instructor. Enrollment limited to 20. See my current Educ 308 syllabus.
+
+### Educ 350: Teaching and Learning
+This seminar will explore theoretical, policy, and practical issues of teaching and learning. Who should teach in public schools, and what kind of preparation is necessary? What type of curriculum should be taught, and how do different interest groups shape that decision? How should we assess the quality of student learning? Finally, how do debates on all of these questions influence the nature of teachers’ work and classroom life? Note: For the community learning component, students will design and teach two hands-on science or math lessons at a nearby elementary school during our class time. Prerequisite: Ed 200 or permission of instructor (email a one-paragraph statement of interest to either instructor). Enrollment limited to 19. See my current Educ 350 syllabus (with Prof Kyle Evans, Mathematics).
+
+### Educ 400 Senior Research Seminar
+To fulfill the senior exercise requirement, students carry out an independent research project which builds upon acquired skills and evolving interests. The weekly seminar provides a thematic focus as well as a continuous forum for both support and critical feedback from peers, in preparation for a public presentation of the student’s work at the end of the semester. Each year, the seminar will be organized around a broad theme in educational studies. Ordinarily taken in the fall semester of the senior year, with the option of continuing as a one-credit senior thesis (Educ 497) in the spring semester. See my Educ 400 syllabus from Fall 2017.
+
+### Trinity edX 005: Data Visualization for All
+Tell your story and show it with data. In this introductory data visualization course, you will learn how to design interactive charts and maps on the web, using easy-to-learn free tools: Google Sheets, Tableau Public, Highcharts, Leaflet, and GitHub. We’ll begin with easy-to-learn tools, then gradually work our way up to editing open-source code templates with GitHub. Together, we’ll follow step-by-step tutorials with video screencasts, and share our work for feedback on the web. Real-world examples are drawn from Trinity College students working with community organizations in the City of Hartford, Connecticut. This course is ideal for non-profit organizations, small business owners, local governments, journalists, academics, or anyone who wants to tell their story and show the data.
+- edX free online course <https://www.edx.org/course/data-visualization-all-trinityx-t005x>
+- Data Visualization For All open-access textbook <http://datavizforall.org>
+- [Data Visualization internship seminar](http://commons.trincoll.edu/dataviz), Spring 2017 at Trinity College
