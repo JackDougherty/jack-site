@@ -7,7 +7,9 @@ layout: post
 guid: http://commons.trincoll.edu/jackdougherty/?p=2605
 permalink: /2016/09/22/friendly-advice-for-your-history-conference-panel/
 categories:
-  - Blog posts
+  - scholarship
+  - presentation
+  - history
 ---
 _As summer ends, the fall academic conference season begins. This time of year I find myself writing the same email to panelists for whom I&#8217;ve been assigned to serve as chair and/or discussant at the History of Education Society meeting in November. So this year I&#8217;ll also share it as a blog post to make the process more transparent, and encourage others to comment and share their own approach or advice, which may differ from mine. _
 

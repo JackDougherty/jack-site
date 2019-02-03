@@ -7,11 +7,14 @@ layout: post
 guid: http://commons.trincoll.edu/jackdougherty/?p=2601
 permalink: /2016/09/20/wanted-trinity-students-with-bikes/
 categories:
-  - Blog posts
+  - teaching
+  - Trinity College
+  - Hartford
+  - data visualization
 ---
+{% include video id="183580319" provider="vimeo" %}
 
-  
-_Above: A different short video I recorded with the &#8220;Cycling, Sustainability & Hartford&#8221; First-Year Seminar. Not related to the event below, but still fun to watch._
+_Above: [A different short video](https://vimeo.com/183580319) I recorded with the &#8220;Cycling, Sustainability & Hartford&#8221; First-Year Seminar. Not related to the event below, but still fun to watch._
 
 The short version:
 

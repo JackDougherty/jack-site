@@ -7,10 +7,12 @@ layout: post
 guid: http://commons.trincoll.edu/jackdougherty/?p=756
 permalink: /2012/10/11/blind-review/
 categories:
-  - How to
-  - how-to-writing
+- teaching
+- Trinity College
+- technology
+- web writing
 ---
-<figure id="attachment_764" style="width: 300px" class="wp-caption alignleft">[<img class="size-medium wp-image-764" alt="" src="http://commons.trincoll.edu/jackdougherty/files/2012/10/MaskFlickrLightningfades-300x173.png" width="300" height="173" srcset="http://localhost/wordpress/wp-content/uploads/2012/10/MaskFlickrLightningfades-300x173.png 300w, http://localhost/wordpress/wp-content/uploads/2012/10/MaskFlickrLightningfades.png 424w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.flickr.com/photos/summerdisney/3376079573/)<figcaption class="wp-caption-text">photo by Lightningfades via Flickr CC-BY</figcaption></figure> 
+<figure id="attachment_764" style="width: 300px" class="wp-caption alignleft">[<img class="size-medium wp-image-764" alt="" src="http://commons.trincoll.edu/jackdougherty/files/2012/10/MaskFlickrLightningfades-300x173.png" width="300" height="173" srcset="http://localhost/wordpress/wp-content/uploads/2012/10/MaskFlickrLightningfades-300x173.png 300w, http://localhost/wordpress/wp-content/uploads/2012/10/MaskFlickrLightningfades.png 424w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.flickr.com/photos/summerdisney/3376079573/)<figcaption class="wp-caption-text">photo by Lightningfades via Flickr CC-BY</figcaption></figure>
 
 At our small liberal arts college, whenever my students are working on a writing assignment on the same theme, I ask them to submit it in blind-review format. My goal is to judge written expression on its own two feet, without being swayed by my impressions of students&#8217; abilities from class discussions or other interactions. In their end-of-semester course evaluations, several students have praised this method for giving them what they believe is a fairer opportunity to succeed. And I&#8217;m always amazed by the number of (pleasant) surprises when I finish evaluating an anonymous set of essays and match them up to list of names. Sometimes the most extroverted talkers in class have the most difficulty assembling a coherent argument on paper. Other times, the quietest student, who hasn&#8217;t made a peep during our discussions, demonstrates how much deep thinking is going on behind the scenes.
 
@@ -24,7 +26,7 @@ But the Internet screwed me up. More precisely, the learning management system s
 
 Given my preference for hosting course materials on WordPress and receiving student assignments in Dropbox, I looked for solutions on <a title="profhacker" href="http://chronicle.com/blogs/profhacker/" target="_blank">ProfHacker</a>. My favorite free service used to be <a title="ProfHackerFileStork" href="http://chronicle.com/blogs/profhacker/receive-files-in-dropbox-with-filestork/35567" target="_blank">FileStork</a>, but alas, it shut down in mid-2012. Currently I use the <a title="ProfHackerJotForm" href="http://chronicle.com/blogs/profhacker/create-forms-with-file-uploads-using-dropbox-forms/32009" target="_blank">JotForm &#8220;Send To Dropbox&#8221; feature</a>, which allows me to accept up to 100 free submissions per month. Here&#8217;s how it looks at the bottom of a typical assignment:<figure id="attachment_760" style="width: 487px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-760" alt="" src="http://localhost/wordpress/wp-content/uploads/2012/10/JotFormScreenshot.png" width="487" height="191" srcset="http://localhost/wordpress/wp-content/uploads/2012/10/JotFormScreenshot.png 487w, http://localhost/wordpress/wp-content/uploads/2012/10/JotFormScreenshot-300x118.png 300w" sizes="(max-width: 487px) 100vw, 487px" />](http://localhost/wordpress/wp-content/uploads/2012/10/JotFormScreenshot.png)<figcaption class="wp-caption-text">Screenshot of a typical JotForm upload screen. Don&#8217;t click, because it&#8217;s not the real thing!</figcaption></figure> 
+[<img class="size-full wp-image-760" alt="" src="http://localhost/wordpress/wp-content/uploads/2012/10/JotFormScreenshot.png" width="487" height="191" srcset="http://localhost/wordpress/wp-content/uploads/2012/10/JotFormScreenshot.png 487w, http://localhost/wordpress/wp-content/uploads/2012/10/JotFormScreenshot-300x118.png 300w" sizes="(max-width: 487px) 100vw, 487px" />](http://localhost/wordpress/wp-content/uploads/2012/10/JotFormScreenshot.png)<figcaption class="wp-caption-text">Screenshot of a typical JotForm upload screen. Don&#8217;t click, because it&#8217;s not the real thing!</figcaption></figure>
 
 &nbsp;
 

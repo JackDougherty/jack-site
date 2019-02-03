@@ -7,7 +7,11 @@ layout: post
 guid: http://commons.trincoll.edu/jackdougherty/?p=1900
 permalink: /2014/04/22/sheff-history-harvest/
 categories:
-  - Blog posts
+- teaching
+- history
+- Hartford
+- community engagement
+- technology
 ---
 <img class="aligncenter size-full wp-image-1901" alt="Sheff25postcard600wide" src="http://localhost/wordpress/wp-content/uploads/2014/04/Sheff25postcard600wide.jpg" width="600" height="465" srcset="http://localhost/wordpress/wp-content/uploads/2014/04/Sheff25postcard600wide.jpg 600w, http://localhost/wordpress/wp-content/uploads/2014/04/Sheff25postcard600wide-300x233.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />HARTFORD, CT – Trinity College received a grant for $1,250 from Connecticut Humanities to sponsor a &#8220;history harvest&#8221; at the 25th anniversary of the Sheff v. O&#8217;Neill struggle against segregated schools. In April 1989, Elizabeth Horton Sheff and nine other families filed a lawsuit against then-Gov. William O&#8217;Neill to provide equal educational opportunities for students in both city and suburban districts. The grant funds a public presentation and discussion of these events and helps Trinity students and faculty to record, preserve and share participants&#8217; memories of this key chapter in Connecticut&#8217;s civil rights history.
 

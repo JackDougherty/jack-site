@@ -44,6 +44,11 @@ date: 2019-02-02
 - [Embedded link: place text in brackets, URL in parentheses](http://google.com)
 - But an embedded link to an internal page or post on this site requires the full URL
 
+### Footnote
+Write the main text and insert a bracketed footnote symbol with a unique number or keyword.[^keyword] Then somewhere else in the main text, write the same bracketed footnote symbol and number/keyword, followed by a colon, and the footnote text.
+
+[^keyword]: Here's the footnote text.
+
 ### Markdown image with pre-slash pathname (no baseurl because custom domain), actual size, but no caption
 ![root image caption](/images/sample-300x200.jpg)
 

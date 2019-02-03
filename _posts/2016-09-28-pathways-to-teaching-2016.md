@@ -7,18 +7,21 @@ layout: post
 guid: http://commons.trincoll.edu/jackdougherty/?p=2635
 permalink: /2016/09/28/pathways-to-teaching-2016/
 categories:
-  - Blog posts
+  - teaching
+  - advising
+  - Educational Studies
+  - Trinity College
 ---
-<figure id="attachment_2683" style="width: 3024px" class="wp-caption alignright">[<img class="size-full wp-image-2683" src="http://commons.trincoll.edu/jackdougherty/files/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343.jpg" alt="Both virtual (via video conference) and physical panelists" width="3024" height="4032" srcset="http://localhost/wordpress/wp-content/uploads/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343.jpg 3024w, http://localhost/wordpress/wp-content/uploads/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343-225x300.jpg 225w, http://localhost/wordpress/wp-content/uploads/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343-768x1024.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](http://commons.trincoll.edu/jackdougherty/files/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343.jpg)<figcaption class="wp-caption-text">Both virtual (via video conference) and physical panelists at our Pathways to Teaching discussion</figcaption></figure> 
+<figure id="attachment_2683" style="width: 3024px" class="wp-caption alignright">[<img class="size-full wp-image-2683" src="http://commons.trincoll.edu/jackdougherty/files/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343.jpg" alt="Both virtual (via video conference) and physical panelists" width="3024" height="4032" srcset="http://localhost/wordpress/wp-content/uploads/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343.jpg 3024w, http://localhost/wordpress/wp-content/uploads/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343-225x300.jpg 225w, http://localhost/wordpress/wp-content/uploads/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343-768x1024.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](http://commons.trincoll.edu/jackdougherty/files/2016/09/Pathways-2016-virtual-physical-panel-e1475718108343.jpg)<figcaption class="wp-caption-text">Both virtual (via video conference) and physical panelists at our Pathways to Teaching discussion</figcaption></figure>
 
 Curious about teaching in a K-12 school after Trinity?
-  
+
 Feeling overwhelmed by different options and programs?
-  
+
 Come join us for a panel discussion:
 
 **Pathways to Teaching with Trinity Students & Recent Alumni**
-  
+
 Wednesday, October 5th, 2016, 6:30-7:30pm in Rittenberg Lounge, Mather Hall
 
 Listen and learn from current Trinity students and recent alumni who have followed different pathways to teaching. Guests will appear in person and via video conference to share their stories, explain the decisions each of them made, and offer their advice. Professor Jack Dougherty will moderate the discussion and refer to the [Pathways to Teaching advising web pages](http://www.trincoll.edu/Academics/MajorsAndMinors/educational/pathways/Pages/default.aspx) hosted by the Educational Studies Program. **If you missed this event, see video below.**

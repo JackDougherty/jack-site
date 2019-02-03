@@ -7,12 +7,14 @@ layout: post
 guid: http://commons.trincoll.edu/jackdougherty/?p=2028
 permalink: /2015/04/22/writing-and-publishing-in-the-digital-age/
 categories:
-  - Blog posts
+- scholarship
+- presentation
+- web writing
 ---
 **Writing and Publishing in the Digital Age**
-  
+
 Wednesday April 22, 2015, 12 &#8211; 1 pm, Allbritton Center 311
-  
+
 Discussion and lunch sponsored by the Academic (Technology) Roundtable, [Center for Faculty Career Development](http://www.wesleyan.edu/cfcd/atr/index.html), Wesleyan University
 
 Have online writing and editing tools changed how you and your students collaborate in (or outside of) class? Or have you considered publishing your next peer-reviewed journal article, or perhaps a digital book, with an open-access scholarly press? Explore these questions with **Mark Edington, **Director of [Amherst College Press](https://acpress.amherst.edu/), a digital-first open access publisher, and **Jack Dougherty, **Harber Fellow in Education and Entrepreneurship at Wesleyan and Associate Professor of Educational Studies at Trinity College.

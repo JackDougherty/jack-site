@@ -7,9 +7,12 @@ layout: post
 guid: http://commons.trincoll.edu/jackdougherty/?p=862
 permalink: /2012/10/30/digital-publishing/
 categories:
-  - Blog posts
+- scholarship
+- presentation
+- history
+- web writing
 ---
-<figure id="attachment_864" style="width: 150px" class="wp-caption alignright">[<img class="size-full wp-image-864" src="http://localhost/wordpress/wp-content/uploads/2012/10/UPennHistoryDept.jpg" alt="" width="150" height="133" />](http://localhost/wordpress/wp-content/uploads/2012/10/UPennHistoryDept.jpg)<figcaption class="wp-caption-text">College Hall at UPenn</figcaption></figure> 
+<figure id="attachment_864" style="width: 150px" class="wp-caption alignright">[<img class="size-full wp-image-864" src="http://localhost/wordpress/wp-content/uploads/2012/10/UPennHistoryDept.jpg" alt="" width="150" height="133" />](http://localhost/wordpress/wp-content/uploads/2012/10/UPennHistoryDept.jpg)<figcaption class="wp-caption-text">College Hall at UPenn</figcaption></figure>
 
 Sarah Manekin invited me and others to contribute to a workshop on &#8220;Researching, Writing and Publishing History in the Digital Age&#8221; for graduate students in the Department of History, University of Pennsylvania, Philadelphia on Friday, November 16th, 2012. This workshop builds on a prior discussion we organized at the History of Education Society meeting in 2010, which served as a pilot for _<a title="whda" href="http://writinghistory.trincoll.edu" target="_blank">Writing History in the Digital Age</a>_ (co-edited with Kristen Nawrotzki), our open peer reviewed volume that is freely available online and forthcoming from the University of Michigan Press.
 

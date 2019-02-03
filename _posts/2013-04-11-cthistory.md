@@ -7,7 +7,14 @@ layout: post
 guid: http://commons.trincoll.edu/jackdougherty/?p=1296
 permalink: /2013/04/11/cthistory/
 categories:
-  - Blog posts
+- teaching
+- scholarship
+- history
+- Educational Studies
+- Trinity College
+- Hartford
+- community engagement
+- web writing
 ---
 [iframe width=&#8221;640&#8243; height=&#8221;360&#8243; src=&#8221;http://www.youtube.com/embed/NuWg9Jrkrpw?rel=0&#8243; allowfullscreen]
 

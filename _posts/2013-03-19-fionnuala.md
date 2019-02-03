@@ -11,11 +11,18 @@ enclosure:
     http://localhost/wordpress/wp-content/uploads/2013/05/FionnualaDarbyHudgens20130318Small.m4v
     18361912
     video/mp4
-    
+
 categories:
-  - Blog posts
+- teaching
+- scholarship
+- history
+- policy
+- Educational Studies
+- Trinity College
+- Hartford
+- community engagement
 ---
-<figure id="attachment_1330" style="width: 256px" class="wp-caption alignright">[<img class=" wp-image-1330 " src="http://localhost/wordpress/wp-content/uploads/2013/05/DarbyHudgensFionnuala.png" alt="" width="256" height="194" srcset="http://localhost/wordpress/wp-content/uploads/2013/05/DarbyHudgensFionnuala.png 427w, http://localhost/wordpress/wp-content/uploads/2013/05/DarbyHudgensFionnuala-300x227.png 300w" sizes="(max-width: 256px) 100vw, 256px" />](http://localhost/wordpress/wp-content/uploads/2013/05/FionnualaDarbyHudgens20130318Small.m4v)<figcaption class="wp-caption-text">Click to view video clip</figcaption></figure> 
+<figure id="attachment_1330" style="width: 256px" class="wp-caption alignright">[<img class=" wp-image-1330 " src="http://localhost/wordpress/wp-content/uploads/2013/05/DarbyHudgensFionnuala.png" alt="" width="256" height="194" srcset="http://localhost/wordpress/wp-content/uploads/2013/05/DarbyHudgensFionnuala.png 427w, http://localhost/wordpress/wp-content/uploads/2013/05/DarbyHudgensFionnuala-300x227.png 300w" sizes="(max-width: 256px) 100vw, 256px" />](http://localhost/wordpress/wp-content/uploads/2013/05/FionnualaDarbyHudgens20130318Small.m4v)<figcaption class="wp-caption-text">Click to view video clip</figcaption></figure>
 
 _Updated May 3, 2013: Video clip from CT-N, for educational purposes only._
 
