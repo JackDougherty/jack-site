@@ -24,6 +24,9 @@ categories:
 - [Embedded link: place text in brackets, URL in parentheses](http://google.com)
 - But an embedded link to an internal page or post on this site requires the full URL
 
+### Footnote
+A text-only footnote.^[This is a footnote, with no reference]
+
 ### Markdown image with pre-slash pathname (no baseurl because custom domain), actual size, but no caption
 ![root image caption](/images/sample-300x200.jpg)
 
