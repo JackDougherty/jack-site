@@ -25,17 +25,16 @@ date: 2019-02-02
 
 
 ## TO DO
-- clean up WP post migration and reduce image clutter
+migrate old WP pages on advising, pathways to this site and/or Educ WP
+- clean up old WP posts to match Markdown format; remove old images
+- redirect old WP site to this site
+- improve Site search configuation to include Pages, not just Posts <https://mmistakes.github.io/minimal-mistakes/docs/configuration/>
+  - Try Google Custom Search Engine <https://mmistakes.github.io/minimal-mistakes/docs/configuration/#google-custom-search-engine>
+  - Try Jekyll Algolia - see deployment guide for GitHub Pages: <https://community.algolia.com/jekyll-algolia/github-pages.html>
 - change CSS for images from 100 width to auto?
   - https://github.com/mmistakes/minimal-mistakes/issues/1963
   - https://github.com/mmistakes/minimal-mistakes/issues/1583
-- configure Site search to include Pages, not just Posts <https://mmistakes.github.io/minimal-mistakes/docs/configuration/>
-  - Try Google Custom Search Engine <https://mmistakes.github.io/minimal-mistakes/docs/configuration/#google-custom-search-engine>
-  - Try Jekyll Algolia - see deployment guide for GitHub Pages: <https://community.algolia.com/jekyll-algolia/github-pages.html>
-- configure Google Analytics
 - modify footer to add Creative Commons licensing. See `_includes` > footer > custom.html snippets, or footer.html
-- modify CSS to reduce height of feature__wrapper in home.md
-- can Atom Editor be coded to auto-update dates inserted into Pages (last updated...)?
 
 ## Formatting Guide
 

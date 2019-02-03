@@ -3,9 +3,7 @@ title: "Teaching"
 permalink: /teaching/
 date: 2019-01-01
 ---
-[Read my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections about guiding student learning at Trinity College.
-
-See [all courses offered by the Educational Studies Program](http://commons.trincoll.edu/educ/courses) at Trinity College.
+[Read my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections on guiding undergraduate learning. See [all courses offered by the Educational Studies Program](http://commons.trincoll.edu/educ/courses) at Trinity College.
 
 ## Courses taught
 
@@ -23,13 +21,13 @@ How did city dwellers’ dreams of better schooling, along with public policy de
 This seminar will explore theoretical, policy, and practical issues of teaching and learning. Who should teach in public schools, and what kind of preparation is necessary? What type of curriculum should be taught, and how do different interest groups shape that decision? How should we assess the quality of student learning? Finally, how do debates on all of these questions influence the nature of teachers’ work and classroom life? Note: For the community learning component, students will design and teach two hands-on science or math lessons at a nearby elementary school during our class time. Prerequisite: Ed 200 or permission of instructor (email a one-paragraph statement of interest to either instructor). Enrollment limited to 19. [See my Educ 350 syllabus (with Prof Kyle Evans), Spring 2019](http://bit.ly/educ350).
 
 ### Educ 400 Senior Research Seminar
-To fulfill the senior exercise requirement, students carry out an independent research project which builds upon acquired skills and evolving interests. The weekly seminar provides a thematic focus as well as a continuous forum for both support and critical feedback from peers, in preparation for a public presentation of the student’s work at the end of the semester. Each year, the seminar will be organized around a broad theme in educational studies. Ordinarily taken in the fall semester of the senior year, with the option of continuing as a one-credit senior thesis (Educ 497) in the spring semester. [See my Educ 400 syllabus, Fall 2017]((http://jackdougherty.org/educ400).
+To fulfill the senior exercise requirement, students carry out an independent research project which builds upon acquired skills and evolving interests. The weekly seminar provides a thematic focus as well as a continuous forum for both support and critical feedback from peers, in preparation for a public presentation of the student’s work at the end of the semester. Each year, the seminar will be organized around a broad theme in educational studies. Ordinarily taken in the fall semester of the senior year, with the option of continuing as a one-credit senior thesis (Educ 497) in the spring semester. [See my Educ 400 syllabus, Fall 2017](http://jackdougherty.org/educ400).
 
 ### First-Year Seminar: Color and Money - Race and Social Class at Trinity and Beyond
 Who gains—and who loses—in the admissions process at Trinity College and other elite institutions? Which racial diversity or financial aid policies might meet our desired goals? How do undergraduates experience racial and social class differences on campus? What can we learn from Trinity’s own history to recommend meaningful change? In this seminar, students will role-play a college admissions committee, conduct interviews for a campus research project, and enhance their research and writing skills. Given our controversial topic, participants should be prepared to listen to alternative viewpoints, challenge (and be challenged) on opinions and evidence, and get involved in making change. See my [FYSM syllabus, Fall 2015](https://commons.trincoll.edu/colorandmoney/).
 
-### Trinity edX 005: Data Visualization for All
+### Data Visualization for All
 Tell your story and show it with data. In this introductory data visualization course, you will learn how to design interactive charts and maps on the web, using easy-to-learn free tools: Google Sheets, Tableau Public, Highcharts, Leaflet, and GitHub. We’ll begin with easy-to-learn tools, then gradually work our way up to editing open-source code templates with GitHub. Together, we’ll follow step-by-step tutorials with video screencasts, and share our work for feedback on the web. Real-world examples are drawn from Trinity College students working with community organizations in the City of Hartford, Connecticut. This course is ideal for non-profit organizations, small business owners, local governments, journalists, academics, or anyone who wants to tell their story and show the data.
-- edX free online course <https://www.edx.org/course/data-visualization-all-trinityx-t005x>
-- Data Visualization For All open-access textbook <http://datavizforall.org>
+- *Data Visualization For All* open-access textbook <http://datavizforall.org>
 - [Data Visualization internship seminar syllabus, Spring 2017](http://commons.trincoll.edu/dataviz).
+- edX free online course <https://www.edx.org/course/data-visualization-all-trinityx-t005x>
