@@ -1,13 +1,12 @@
 ---
-id: 2934
 title: Teaching How to Avoid Plagiarism
 date: 2017-12-07T21:08:00+00:00
-author: jdoughe2
-layout: post
-guid: http://commons.trincoll.edu/jackdougherty/?p=2918
 permalink: /2017/12/07/teaching-how-to-avoid-plagiarism/
 categories:
-  - Blog posts
+- teaching
+- Trinity College
+- technology
+- web writing
 ---
 Tennyson O&#8217;Donnell, Director of Trinity&#8217;s Writing Center, asked several of us to join him this semester on ways to address plagiarism with &#8220;less policing and more pedagogy.&#8221; This seemed like a good opportunity to improve on my&nbsp;[Avoiding Plagiarism](http://commons.trincoll.edu/edreform/assignments/avoid-plagiarism-exercise/) learning exercise, which currently appears on the WordPress syllabus for my First-Year Seminar and Educ 300 Ed Reform: Past and Present courses.
 
@@ -37,11 +36,3 @@ The Google Form enables manual grading: instructors can click on &#8220;Response
 Alternative Moodle version: I don&#8217;t know the details, but it may be possible for Trinity&#8217;s instructional technologists to translate this form into a Moodle component, which faculty could request to add to any Moodle course. Potential advantages might be the ability to connect scores to the Moodle gradebook, or perhaps the ability to insert feedback on students&#8217; responses. But a Moodle version of this form would require Trinity to create an &#8220;open&#8221; Moodle demo site where faculty can see and test modules before deciding whether to add (or request IT to add them) to their Moodle courses.
 
 **5) Interactive multiple choice quiz:** I didn&#8217;t create a demo, but you can easily imagine different versions of multiple-choice quizzes on avoiding plagiarism. Both Google Forms and Moodle (and many other platforms) support quizzes. If you like this concept, then design some thoughtful questions and add adaptive responses, so that incorrect guesses show hints toward the correct answer. And share the demo link to your quiz, as well as the underlying text and answers, so that other faculty (or instructional technologists) can customize for other courses.
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
