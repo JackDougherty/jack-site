@@ -25,9 +25,9 @@ categories:
 - But an embedded link to an internal page or post on this site requires the full URL
 
 ### Footnote
-Write the main body and insert a footnote symbol with number or keyword.[^keyword]
+Write the main text and insert a bracketed footnote symbol with a unique number or keyword.[^keyword] Then somewhere else in the main text, write the same bracketed footnote symbol and number/keyword, followed by a colon, and the footnote text.
 
-[keyword]: Here's the footnote text.
+[^keyword]: Here's the footnote text.
 
 ### Markdown image with pre-slash pathname (no baseurl because custom domain), actual size, but no caption
 ![Jack Dougherty](/images/2019/dougherty-jack-150x150.jpg)
