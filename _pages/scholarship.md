@@ -3,9 +3,16 @@ title: "Scholarship"
 permalink: /scholarship/
 date: 2019-01-01
 ---
-## Listed in reverse chronological order
 
-Dougherty, Jack, and contributors. *On the Line: How Schooling, Housing, and Civil Rights Shaped Hartford and Its Suburbs*. Open-access book-in-progress, under contract with Amherst College Press, 2018. <http://OnTheLine.trincoll.edu>. Abstract: Draft edition of a digital-first, open-access, book-in-progress. A history of housing and schooling boundaries that have divided metropolitan Hartford, Connecticut, and the struggles of families and civil rights activists to cross over, redraw, or erase these lines.
+## Works in-progress
+
+Dougherty, Jack, and contributors. *On the Line: How Schooling, Housing, and Civil Rights Shaped Hartford and Its Suburbs*. Open-access book-in-progress, under contract with Amherst College Press. <http://OnTheLine.trincoll.edu>. Abstract: Draft edition of a digital-first, open-access, book-in-progress. A history of housing and schooling boundaries that have divided metropolitan Hartford, Connecticut, and the struggles of families and civil rights activists to cross over, redraw, or erase these lines.
+
+Dougherty, Jack, and Ilya Ilyankou. *Data Visualization for All*. Open-access textbook-in-progress, Trinity College. <http://datavizforall.org.> Abstract: Tell your data story with free and easy-to-learn tools. This open-access textbook shows how to design interactive charts and maps for your website. We begin with drag-and-drop tools and gradually work our way up to editing open-source code templates. This friendly introduction includes step-by-step tutorials, video screencasts, and real-world examples. Featured tools include Google Sheets, Tableau Public, Highcharts, Leaflet, GitHub, and more.
+
+## Publications (in descending chronological order)
+
+Dougherty, Jack, and Megan Faver Hartline. “Op-Ed: Your Dean Favors Experiential Liberal Arts: Now What?” *Campus Compact of Southern New England (CCSNE)*, January 28, 2019. <https://ccsne.compact.org/resource-posts/your-dean-favors-experiential-liberal-arts/>. Abstract: We believe that experiential learning has a place when it serves the core mission of a liberal arts education: how to think from the perspective of other people, especially when their academic orientations or life backgrounds differ from your own. For newer faculty navigating the difficult waters of higher education — and for academic leaders seeking to offer them intellectual and institutional guidance — we offer these pieces of advice.
 
 Cotto Jr., Robert, and Jack Dougherty. "Review of 'Why Busing Failed' by Matthew Delmont." *History of Education Quarterly* 57, no. 1 (January 2017). <https://doi.org/10.1017/heq.2016.7>.
 
