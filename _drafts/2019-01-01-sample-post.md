@@ -25,10 +25,12 @@ categories:
 - But an embedded link to an internal page or post on this site requires the full URL
 
 ### Footnote
-A text-only footnote.^[This is a footnote, with no reference]
+Write the main body and insert a footnote symbol with number or keyword.[^keyword]
+
+[keyword]: Here's the footnote text.
 
 ### Markdown image with pre-slash pathname (no baseurl because custom domain), actual size, but no caption
-![root image caption](/images/sample-300x200.jpg)
+![Jack Dougherty](/images/2019/dougherty-jack-150x150.jpg)
 
 ### [Liquid templating](https://jekyllrb.com/docs/liquid/) image in root no-slash images  
 {% include figure image_path="images/sample-300x200.jpg" alt="sample image" caption="here's the sample image" %}

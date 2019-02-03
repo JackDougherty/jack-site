@@ -35,6 +35,6 @@ That answer still rings true today as a reminder for why experiential learning m
 
 About the authors: Jack Dougherty is Faculty Director of Community Learning, and Megan Faver Hartline is Director of Community Learning, at the Center for Hartford Engagement and Research (CHER) <http://cher.trincoll.edu> at Trinity College, Connecticut.
 
-![](/images/2019/dougherty-jack-150x150.jpg)
+![Jack Dougherty](/images/2019/dougherty-jack-150x150.jpg)
 
-![](/images/2019/hartline-megan-150x150.jpg)
+![Megan Faver Hartline](/images/2019/hartline-megan-150x150.jpg)
