@@ -3,6 +3,8 @@ title: "Advising"
 permalink: /advising/
 date: 2019-01-01
 ---
+{% include figure image_path="images/2017/educ-dinner-small.jpg" alt="Ed Studies dinner 2017" caption="Educational Studies Dinner, April 2017" %}
+
 [Read my posts about advising](https://jackdougherty.org/categories/#advising) for answers to common questions about graduation requirements, independent studies, recommendation letters, and graduate school.
 
 Learn [how to declare your Educational Studies major](https://commons.trincoll.edu/educ/major).

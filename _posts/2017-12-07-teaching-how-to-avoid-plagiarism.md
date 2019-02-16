@@ -27,7 +27,7 @@ Here&#8217;s some ideas to consider, created with the assistance of Ilya Ilyanko
 
 See open-source code on GitHub:&nbsp;<https://github.com/Action-Lab/avoid-plagiarism-tooltip>&nbsp; &nbsp;Click to open the index.html file. Faculty can make a copy and insert their own examples, or more likely, ask an instructional technologist to do it for them. This version has no grading component.&nbsp;
 
-**4) Interactive 5-step form:** Another way to enhance the explanatory text is to create a 5-step online form, which walks students through the stages of improperly and properly paraphrasing and citing a source. Try this demo:&nbsp;<https://goo.gl/forms/1X1gFLf4woMSvF6E3>
+**4) Interactive 7-step form:** Another way to enhance the explanatory text is to create a 5-step online form, which walks students through the stages of improperly and properly paraphrasing and citing a source. Try this demo:&nbsp;<https://goo.gl/forms/1X1gFLf4woMSvF6E3>
 
 Basically, this version updates my existing exercise from a relatively static WordPress page into a slightly more interactive Google Form. Any faculty member with a basic knowledge of Google Drive (or an instructional technologist) can make a copy to customize for their own course.
 
