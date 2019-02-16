@@ -8,11 +8,11 @@ layout: single
 feature_row:
 - image_path: images/home/teaching-600x400.jpg
   alt: "photo of students learning about inequality"
-  excerpt: "[Course syllabi](/teaching/) in US education history, policy, and practice"
+  excerpt: "[Teaching courses](/teaching/) in US education history, policy, and practice"
   url: "/teaching/"
 - image_path: images/home/edstudies-600x400.jpg
   alt: "Ed Studies students in senior research seminar"
-  excerpt: "[Educational Studies interdisciplinary major](http://commons.trincoll.edu/educ) at Trinity College"
+  excerpt: "[Advising students](/advising/) in the [interdisciplinary Educational Studies Program](http://commons.trincoll.edu/educ)"
   url: http://commons.trincoll.edu/educ
 - image_path: images/home/calendar-300x200.jpg
   alt: "sample appointment calendar"
