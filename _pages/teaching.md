@@ -5,8 +5,6 @@ date: 2019-02-17
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 
-See also all courses offered by the [Educational Studies Program](http://commons.trincoll.edu/educ) at Trinity College.
-
 ## My Course Syllabi
 
 ### Educ 200: Analyzing Schools
