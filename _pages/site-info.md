@@ -16,6 +16,8 @@ Take a brief tour of my public GitHub repo for my personal site at <https://gith
 - The `_config.yml` file contains my site settings, written in [Jekyll](https://jekyllrb.com/) code, based on the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) located elsewhere on GitHub.
 - After making edits to the web content on my local computer, I push updates to my [free online GitHub account](http://github.com) with the user-friendly [GitHub Desktop](https://desktop.github.com/) tool (which I prefer over the command-line version). Publishing my content through [GitHub Pages](https://pages.github.com/) automatically converts Markdown and Jekyll code into static HTML pages, which appear in your web browser under my [custom domain name](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
 
+### One-minute video: Website with Jekyll remote-theme and GitHub Pages
+{% include video id="1eYPa6XVIXM" provider="youtube" %}
 
 ## Customizations not fully documented in Minimal Mistakes Theme
 - replace Home with static page, not recent posts
