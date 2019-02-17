@@ -1,5 +1,5 @@
 ---
-title: 'Migrating from Wordpress to Jekyll remote-theme and GitHub Pages'
+title: 'Migrating from WordPress to Jekyll remote-theme and GitHub Pages'
 date: 2019-02-17
 permalink: /2019/02/17/wordpress-to-jekyll-github/
 categories:
@@ -36,7 +36,7 @@ Take a brief tour of my public GitHub repo for my personal site at <https://gith
 - My photos are uploaded to the images folder, and PDFs to the documents folder. The data folder contains the website navigation menu.
 - The `_config.yml` file contains my site settings, written in [Jekyll](https://jekyllrb.com/) code, based on the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) located elsewhere on GitHub.
 - After making edits to the web content on my local computer, I push updates to my [free online GitHub account](http://github.com) with the user-friendly [GitHub Desktop](https://desktop.github.com/) tool (which I prefer over the command-line version). Publishing my content through [GitHub Pages](https://pages.github.com/) automatically converts Markdown and Jekyll code into static HTML pages, which appear in your web browser under my [custom domain name](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
-- See more details on my [Site Info page](site-info).
+- See more details on my [Site Info page](https://jackdougherty.org/site-info/).
 
 ## Benefits
 - **Feeling more secure about my work:** Now that my personal site is detached from the campus WordPress platform, I'm no longer worried that my writing will suddenly go *poof* and disappear if (or when) the multi-site beast goes down. My work is always saved in two locations---my local computer and my online GitHub repository---plus additional backups. And a greater sense of security gives me more time to write, which is the broader goal, not web maintenance.
