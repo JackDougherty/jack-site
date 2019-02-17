@@ -3,9 +3,19 @@ title: "Site Info"
 permalink: /site-info/
 date: 2019-02-02
 ---
+Read more about my WordPress-to-Jekyll transition at <http://jackdougherty.org/2019/02/17/wordpress-to-jekyll-github>
 
-## Migrating from WordPress to Jekyll
-- Learn why and how I [migrated from WordPress to Jekyll](2019/01/01/wordpress-to-jekyll) with this Minimal-Mistakes remote theme
+## How It Works: Static-Site Generator with Markdown, Jekyll remote theme, and GitHub Pages
+Take a brief tour of my public GitHub repo for my personal site at <https://github.com/jackdougherty/jack-site>.
+
+{% include figure image_path="images/2019/jack-site-atom-screenshot.png" alt="site screenshot in Atom Editor" caption="Screenshot of my new personal site files, as seen with Atom Editor" %}
+
+- My primary site content resides in two key folders -- pages and posts -- named from familiar WordPress concepts.
+- For example, my "teaching.md" page is written in easy-to-read [Markdown format](https://en.wikipedia.org/wiki/Markdown), with header info at the top, followed by text and links.
+- My photos are uploaded to the images folder, and PDFs to the documents folder. The data folder contains the website navigation menu.
+- The `_config.yml` file contains my site settings, written in [Jekyll](https://jekyllrb.com/) code, based on the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) located elsewhere on GitHub.
+- After making edits to the web content on my local computer, I push updates to my [free online GitHub account](http://github.com) with the user-friendly [GitHub Desktop](https://desktop.github.com/) tool (which I prefer over the command-line version). Publishing my content through [GitHub Pages](https://pages.github.com/) automatically converts Markdown and Jekyll code into static HTML pages, which appear in your web browser under my [custom domain name](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
+
 
 ## Customizations not fully documented in Minimal Mistakes Theme
 - replace Home with static page, not recent posts
