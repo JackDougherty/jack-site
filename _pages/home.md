@@ -12,8 +12,8 @@ feature_row:
   url: "/teaching/"
 - image_path: images/home/edstudies-600x400.jpg
   alt: "Ed Studies students in senior research seminar"
-  excerpt: "[Advising undergrad students](/advising/) at Trinity College"
-  url: http://commons.trincoll.edu/educ
+  excerpt: "[Advising undergraduates](/advising/) in Educational Studies at Trinity College"
+  url: "/advising/"
 - image_path: images/home/calendar-300x200.jpg
   alt: "sample appointment calendar"
   excerpt: "[Book a 20-minute appointment](http://jackdougherty.youcanbook.me) on my calendar"

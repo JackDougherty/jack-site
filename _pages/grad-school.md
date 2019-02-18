@@ -21,6 +21,6 @@ So if you're serious about applying to graduate school, let's work together to h
 
 ### Personal statements from former students
 
-[Samantha Alcala '11 gave me permission to share her personal statement from 2016](documents/alcala-samantha-statement-2016.pdf) when applying to the M.A. program in Sociology and Education at Teachers College, Columbia University.
+[Samantha Alcala '11 gave me permission to share her personal statement from 2016](http://jackdougherty.org/documents/alcala-samantha-statement-2016.pdf) when applying to the M.A. program in Sociology and Education at Teachers College, Columbia University.
 
-[Lis (Pennington) Fornaro '07 gave me permission to share her personal statement from 2013](documents/fornaro-lis-statement-2013.pdf) when applying to the Ph.D. program in Urban Education at Temple University.
+[Lis (Pennington) Fornaro '07 gave me permission to share her personal statement from 2013](http://jackdougherty.org/documents/fornaro-lis-statement-2013.pdf) when applying to the Ph.D. program in Urban Education at Temple University.

@@ -1,5 +1,5 @@
 ---
-title: "Advising"
+title: "Advising and Appointment Calendar"
 permalink: /advising/
 date: 2019-01-01
 ---
@@ -11,6 +11,8 @@ date: 2019-01-01
 - [How to add/drop/swap a course on TCOnline](https://docs.google.com/document/d/1XCuP6esk2u3mrDwH8DceuP2mKhJz33BiJqpyBYzjqak)
 - [How to declare your Educational Studies major](https://commons.trincoll.edu/educ/major)
 - [How to declare your Community Action minor](https://cher.trincoll.edu/community-learning/student-pathways/community-action-minor/)
+- [Pathways to Teaching](http://commons.trincoll.edu/educ/pathways-to-teaching)
+- [Student Pathways from the Center for Hartford Engagement and Research, CHER](http://cher.trincoll.edu/student-pathways)
 - [How to request a reference or recommendation letter](http://jackdougherty.org/letter)
 - [Advice on applying to graduate school](http://jackdougherty.org/grad-school)
 - [Frequently Asked Questions and Answers by Trinity Registrar](https://www.trincoll.edu/Academics/registrar/Pages/AcademicPolicyFAQs.aspx)
