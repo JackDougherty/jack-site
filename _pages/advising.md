@@ -5,14 +5,21 @@ date: 2019-01-01
 ---
 {% include figure image_path="images/2017/educ-dinner-small.jpg" alt="Educational Studies Majors Dinner 2017" caption="Educational Studies Majors Dinner, April 2017" %}
 
-[Read my posts about advising](https://jackdougherty.org/categories/#advising) for answers to common questions about graduation requirements, independent studies, recommendation letters, and graduate school.
-
-Learn [how to declare your Educational Studies major](https://commons.trincoll.edu/educ/major).
+## Advising Resources
+- [UNOFFICIAL guide to completing your Trinity College degree](http://bit.ly/complete-degree)
+- [How to plan for course pre-registration at Trinity College](http://bit.ly/pre-reg-plan)
+- [How to add/drop/swap a course on TCOnline](https://docs.google.com/document/d/1XCuP6esk2u3mrDwH8DceuP2mKhJz33BiJqpyBYzjqak)
+- [How to declare your Educational Studies major](https://commons.trincoll.edu/educ/major)
+- [How to declare your Community Action minor](https://cher.trincoll.edu/community-learning/student-pathways/community-action-minor/)
+- [How to request a reference or recommendation letter](letter)
+- [Advice on applying to graduate school](grad-school)
+- [Frequently Asked Questions and Answers by Trinity Registrar](https://www.trincoll.edu/Academics/registrar/Pages/AcademicPolicyFAQs.aspx)
+- [See also my posts about advising](https://jackdougherty.org/categories/#advising)
 
 For quick questions, email me at [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu).
 
 To request feedback on a Google Document, set Share > Can Comment to my Google username: jackdrty@gmail.com.
 
-To schedule a 20-minute appointment in my office, use my [online calendar](https://jackdougherty.youcanbook.me) below, or email me possible dates/times to talk by phone or video conference.
+To schedule a 20-minute appointment to discuss whatever's on your mind, use my [online calendar](https://jackdougherty.youcanbook.me) below, or email me possible dates/times to talk by phone or video conference.
 
 <iframe src="https://jackdougherty.youcanbook.me/" width="100%" height="1000px"></iframe>
