@@ -11,8 +11,8 @@ date: 2019-01-01
 - [How to add/drop/swap a course on TCOnline](https://docs.google.com/document/d/1XCuP6esk2u3mrDwH8DceuP2mKhJz33BiJqpyBYzjqak)
 - [How to declare your Educational Studies major](https://commons.trincoll.edu/educ/major)
 - [How to declare your Community Action minor](https://cher.trincoll.edu/community-learning/student-pathways/community-action-minor/)
-- [How to request a reference or recommendation letter](letter)
-- [Advice on applying to graduate school](grad-school)
+- [How to request a reference or recommendation letter](_pages/letter)
+- [Advice on applying to graduate school](_pages/grad-school)
 - [Frequently Asked Questions and Answers by Trinity Registrar](https://www.trincoll.edu/Academics/registrar/Pages/AcademicPolicyFAQs.aspx)
 - [See also my posts about advising](https://jackdougherty.org/categories/#advising)
 
