@@ -12,7 +12,7 @@ feature_row:
   url: "/teaching/"
 - image_path: images/home/edstudies-600x400.jpg
   alt: "Ed Studies students in senior research seminar"
-  excerpt: "[Advising undergraduates](/advising/) in Educational Studies at Trinity College"
+  excerpt: "[Advising students](/advising/) at Trinity College"
   url: "/advising/"
 - image_path: images/home/calendar-300x200.jpg
   alt: "sample appointment calendar"
