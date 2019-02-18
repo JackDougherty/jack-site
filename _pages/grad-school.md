@@ -3,7 +3,7 @@ title: "Advice on Applying to Graduate School"
 permalink: /grad-school/
 date: 2019-02-17
 ---
-Trinity College seniors and recent alumni often ask me for advice on preparing applications to different types of graduate school programs. Here's my general advice to read online, and be sure to [book an appointment on my calendar](_pages/advising) for us to discuss your plans. See also my advice on [How to request a reference or recommendation letter](_pages/letter).
+Trinity College seniors and recent alumni often ask me for advice on preparing applications to different types of graduate school programs. Here's my general advice to read online, and be sure to [book an appointment on my calendar](http://jackdougherty.org/advising) for us to discuss your plans. See also my advice on [How to request a reference or recommendation letter](http://jackdougherty.org/letter).
 
 First, don't fall into the trap of thinking that everyone must apply to graduate school. I often try to discourage people from leaping into graduate school if they don't yet have a clear goal of what they seek to accomplish, other than merely "going to school," which most of you have already done for the past sixteen years. I believe that some of the best applicants to graduate school are people who became *more grounded* in their ideas and experiences years after their undergraduate education. In my case, going to graduate school was the *last* thing on my mind after earning my bachelor's degree. But after five years of working and teaching in different communities, graduate school made sense as a way for me to advance my own learning on schooling, social structures, and possibilities for change.
 
