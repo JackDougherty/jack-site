@@ -2,6 +2,7 @@
 title: Friendly advice for your history conference panel
 date: 2016-09-22T06:37:20+00:00
 permalink: /2016/09/22/friendly-advice-for-your-history-conference-panel/
+redirect_to: /2019/02-24/history-panel-advice/
 categories:
   - scholarship
   - presentation
