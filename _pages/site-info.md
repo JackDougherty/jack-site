@@ -88,3 +88,6 @@ Code:
 
 Demo:
 {% include video id="3sK7-g0otGM" provider="youtube" %}
+
+### Redirect
+I modified config.yml to accept jekyll-redirect-from plugin for GitHub Pages, but have only succeeded with the redirect_to option. See <https://github.com/jekyll/jekyll-redirect-from#redirect-to>
