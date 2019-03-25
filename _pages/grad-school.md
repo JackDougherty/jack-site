@@ -21,6 +21,8 @@ So if you're serious about applying to graduate school, let's work together to h
 
 ### Personal statements from former students
 
+[Nicole George '18 gave me permission to share her personal statement from 2017](http://jackdougherty.org/documents/george-nicole-statement-2017.pdf) when applying to the Master's of Social Work program at Virginia Commonwealth University.
+
 [Samantha Alcala '11 gave me permission to share her personal statement from 2016](http://jackdougherty.org/documents/alcala-samantha-statement-2016.pdf) when applying to the M.A. program in Sociology and Education at Teachers College, Columbia University.
 
 [Lis (Pennington) Fornaro '07 gave me permission to share her personal statement from 2013](http://jackdougherty.org/documents/fornaro-lis-statement-2013.pdf) when applying to the Ph.D. program in Urban Education at Temple University.
