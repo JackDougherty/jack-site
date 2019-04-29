@@ -14,6 +14,6 @@ As the inaugural Director of the [Center for Hartford Engagement and Research](h
 - richer assessment of the quality of Trinity's engagement with Hartford through community partner focus groups and neighborhood resident door-to-door interviews in Spanish and English
 - improved communications between campus and the community through social media, videos, and monthly newsletter
 
-[View CV](http://bit.ly/cv-jack-dougherty) and faculty profile](http://internet2.trincoll.edu/facProfiles/Default.aspx?fid=1004266)
+[View CV](http://bit.ly/cv-jack-dougherty) and [Trinity faculty profile](http://internet2.trincoll.edu/facProfiles/Default.aspx?fid=1004266)
 
 Follow his two-wheeled adventures on [JackBikes.org](http://jackbikes.org).
