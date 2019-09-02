@@ -17,7 +17,7 @@ For two decades, Jack has taught and advised hundreds of undergraduate students 
 - the capstone Educ 400: Senior Research Seminar, where all majors propose, conduct, and present a study using qualitative, quantitative, and/or historical methods
 Learn more on the [Teaching page](https://jackdougherty.org/teaching/) and the [Advising page](https://jackdougherty.org/advising/).
 
-As the inaugural Director of the [Center for Hartford Engagement and Research](http://cher.trincoll.edu) (CHER), Jack leads a team of nine staff and an annual combined budget of $1 million to strengthen educational partnerships between the campus and the city's diverse neighborhoods. Working together, the team accomplishments include:
+As the founding Director of the [Center for Hartford Engagement and Research](http://cher.trincoll.edu) (CHER), Jack leads a team of nine staff and an annual combined budget of $1 million to strengthen educational partnerships between the campus and the city's diverse neighborhoods. Working together, the team accomplishments include:
 - launch of the Liberal Arts Action Lab, where Hartford community partners propose research questions to be answered by teams of Trinity College and Capital Community College students and faculty fellows
 - startup of the Public Humanities Collaborative, a summer research program for Trinity students to partner with Hartford organizations and Trinity faculty, funded by the Mellon Foundation
 - expansion of professional development for faculty who teach Community Learning courses that connect with the city

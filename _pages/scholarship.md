@@ -1,7 +1,7 @@
 ---
 title: "Scholarship"
 permalink: /scholarship/
-date: 2019-01-01
+date: 2019-02-01
 ---
 
 ## Works in-progress

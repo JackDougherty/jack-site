@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-date: 2019-02-17
+date: 2019-09-01
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 
