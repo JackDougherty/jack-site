@@ -21,29 +21,37 @@ Looking around for alternative tools helped clarify which features were most val
 Then I looked back at <a title="YouCanBookMe" href="http://youcanbook.me/" >YouCanBook.Me</a>, a free service that I had initially dismissed as too inflexible, and discovered that it offered all of the features I desired, after I deciphered an obscure phrase in the user interface. Here's instructions and screenshots on how I've customized the settings (with one suggested revision for the developer).
 
 1) Create a YouCanBook.Me account (using your Google login) and walk through the setup pages (accepting defaults, for now) to link to your Google Calendar.
+
 ![](/images/2012/YouCanBookMeSetup.png)
 
 2) Launch the Settings Editor, and under the Basic tab, design your header page.
+
 ![](/images/2012/YouCanBookMeBasicScreen.png)
 
 3) Under the Times tab, click ALL days of the week and hours when you might PLAUSIBLY be available to meet (such as Mon-Fri, 8am-5pm, which we'll modify soon). On the right side, designate a booking time (mine is 20 minutes). Now for the hidden step: pretend that the field labeled "on duty events" says something more useful, such as "Customize my times to match available Google Calendar events with this phrase." Insert your exact phrase into the text box (mine is "office hours").
+
 ![](/images/2012/YouCanBookMeTimesScreen.png)
 
 4) In your Google Calendar, create an event that matches your phrase ("office hours"). Near the bottom, change its default display from show me as "busy" to "available."
+
 ![](/images/2012/YCBMGoogleCalendarEvent.jpg)
 
 5) In the YouCanBookMe dashboard, publish your booking page online, and share the link and/or embed on your website. Appointment-seekers will see only the available slots that you have designated in your settings.
+
 ![](/images/2012/YouCanBookMeUserView.png)
 
 6) When appointment-seekers select a slot and enter their email address, they receive a confirmation message in their inbox. Fortunately, YouCanBook.Me does NOT require other users to have a Google Calendar in order to book a slot with you (which is a clear advantage over the old system), but a great feature is that their confirmation email includes a handy link to add the appointment to their Google Calendar if they happen to have one.
+
 ![](/images/2012/YouCanBookMeBookingScreen.png)
 
 7) Here's the magic: when users book appointments during my office hours slots, it automatically appears in my Google Calendar.&nbsp;Furthermore, if I manually schedule an appointment for another student during my office hours, it automatically removes that slot from the display of available times (which is a huge improvement over the old Google Calendar Appointment slots).
+
 ![](/images/2012/YouCanBookMeGCalBookedView.png)
 
 8) iOS Cal users: watch out for accidental overrides. If you create an "all-day" event on your calendar and the default setting is "busy," it will accidentally block out any appointments that you have available to fill. This issue stumped me until I figured out the underlying problem. When I create all-day events in Google Calendar, the default is "available," so that worked just fine. But when I create all-day events in my iPhone's Calendar application (which is linked to my Google Calendar data), the default is "busy," which overrides all appointment slot availability that day for my students. Oops. Gotta remember to switch those all-day iOS Cal entries from "busy" to "free."
 
 9) Back inside your YouCanBookMe dashboard, you can manage information fields to be collected in the automatic booking form (I added a spot for appointment-seekers to add the topic they'd like to discuss), along with more advanced display settings. For example, to move the calendar grid from the center of the web page to the left margin, under the "appearance" tab, I inserted this bit of CSS code to override the default.
+
 ![](/images/2012/YouCanBookMeAppearanceCSS.png)
 
 I discovered these steps after reading the&nbsp;<a title="YCBM help tool" href="http://feedbackfrenzy.com/service/item.jsp?instance=ycbm&amp;item=uvHaDGFbPdfrf2au2QP4" >YouCanBookMe's online help tool on non-standard start &amp; end times (the "stencil" feature)</a>. If the company makes the interface and documentation clearer to newcomers, their tool is likely to be adopted by many former Google Calendar Appointment slots users. I hope that YCBM enjoys a longer life span on the web.
