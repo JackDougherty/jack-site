@@ -11,6 +11,8 @@ One of the most popular posts that I originally wrote in December 2012 was the t
 
 <em>Updated on March 23, 2016:</em>&nbsp;Here's the new link to request an education account, which no longer appears to be automatic for users who log in with an .edu email address:&nbsp;<a href="https://youcanbook.me/feature/community/">https://youcanbook.me/feature/community/</a>
 
+![](images/2012/YouCanBookMeSetup.png)
+
 <em>Updated on February 26, 2015: </em>The friendly folks at YouCanBook.Me tell me that the "On Duty" feature (which displays my office hours, as described below) now requires a paid premium-level subscription OR a free non-profit account. <del>Users who log in with an .edu email address automatically qualify for a free non-profit account</del>, or you can request one by visiting their <a href="https://gb.youcanbook.me/nonprofit.jsp">Non-Profit help page</a>. Also, for more up-to--date instructions, see also YouCanBook.Me's own <a href="https://ga.youcanbook.me/feature/onduty">tutorial on using the "On Duty"</a> (aka "office hours") feature.
 
 <em>Updated from original Dec 2012 post:</em>
