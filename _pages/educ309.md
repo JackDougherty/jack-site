@@ -39,7 +39,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Review Trinity Institutional Review Board (IRB) for research ethics <http://commons.trincoll.edu/irb>
 - Complete CITI online research ethics training, if you have not already done so, and email me certificate by Sunday Sept 7th.
 - Instructor will complete one IRB application for the class research project, listing each student as a researcher.
-- Write short essay 0 and submit for blind review (practice): Why are you here, and what do you wish to learn?
+- Write short essay 0 and submit for blind review (practice): Why are you here, and what do you wish to learn? Do NOT include your name anywhere in the file, so that I may evaluate your work anonymously. Save your essay in MS Word format, insert your *favorite cartoon character* into the filename (example: Tweetybird-essay0.docx), and upload your responses for blind review to <https://form.jotform.com/70646100400136>. 
 
 ### Thur Sept 5
 - Bring your [Bantam Bus Pass](https://cher.trincoll.edu/transportation/) and walking shoes for experiential learning and research discussion
