@@ -11,8 +11,6 @@ date: 2019-09-02
 - Book an appointment on my [online calendar](https://jackdougherty.youcanbook.me/)
 - [Map to our classroom](https://goo.gl/maps/QqfbxBsDXc7ZwEbv8) and [Trinity campus map](http://map.trincoll.edu)
 
-Jump to: [Week 1](#week1): Jan 25 -- [Week 2](#week2): Feb 1 ....
-
 ### Description
 In this upper-level undergraduate seminar, our primary goal is to work as a team to strengthen our skills in basic qualitative and quantitative research on race, class, and educational policy. We will closely read studies by other authors, then design and conduct our own small-scale research projects, and publicly present our findings. Our theme for Fall 2019 is "Researching Trinity and Hartford."
 
