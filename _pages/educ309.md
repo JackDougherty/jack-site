@@ -17,9 +17,9 @@ In this upper-level undergraduate seminar, our primary goal is to work as a team
 ### Our Research Projects
 We will conduct interviews with a stratified random sample of Trinity students to ask:
 
-1. How do perceptions and experiences of Hartford vary among first- and second-year Trinity students of different racial, social class, and gender backgrounds?
+1. How do perceptions and experiences of Hartford vary among first-year Trinity students of different racial, social class, and gender backgrounds?
 
-2. How do perceptions and experiences of  race and social class at Trinity vary among first- and second-year students of different backgrounds?
+2. How do perceptions and experiences of race and social class at Trinity vary among first-year students of different backgrounds?
 
 In addition, for the Community Learning component of this course, we will attend Hartford neighborhood group meetings to share the results of a recent door-to-door survey on how community residents perceive and experience Trinity College, and listen to how participants respond to this study.
 
@@ -39,53 +39,62 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Review Trinity Institutional Review Board (IRB) for research ethics <http://commons.trincoll.edu/irb>
 - Complete CITI online research ethics training, if you have not already done so, and email me certificate by Sunday Sept 7th.
 - Instructor will complete one IRB application for the class research project, listing each student as a researcher.
-- Write short essay 0 and submit for blind review (practice): Why are you here, and what do you wish to learn? Do NOT include your name anywhere in the file, so that I may evaluate your work anonymously. Save your essay in MS Word format, insert your *favorite cartoon character* (instead of your ID) into the filename (example: Tweetybird-essay0.docx), and upload your responses for blind review to <https://form.jotform.com/70646100400136>. 
+- Write short essay 0 and submit for blind review (practice): Why are you here, and what do you wish to learn? Do NOT include your name anywhere in the file, so that I may evaluate your work anonymously. Save your essay in MS Word format, insert your *favorite cartoon character* (instead of your ID) into the filename (example: Tweetybird-essay0.docx), and upload your responses for blind review to <https://form.jotform.com/70646100400136>.
 
 ### Thur Sept 5
 - Bring your [Bantam Bus Pass](https://cher.trincoll.edu/transportation/) and walking shoes for experiential learning and research discussion
 - Schedule day/time for class to meet for dinner & discussion at instructor's home
 
-### Tues Sept 10: How Do We Define Race?
+### Tues Sept 10: How Do We Define Race and Class?
 - For all texts and videos below, read before class, bring your notes, and be prepared to discuss:
 - Michael Omi and Howard Winant, *Racial Formation in the United States: From the 1960s to the 1990s, Second Edition* (New York: Routledge, 1986), pp 54-56.
-- Ibram X. Kendi, *How to Be an Antiracist* (One World/Random House, 2019), <https://books.google.com/books?id=lbqkDwAAQBAJ>, excerpts.
+- Ibram X. Kendi, *How to Be an Antiracist* (One World/Random House, 2019), <https://books.google.com/books?id=lbqkDwAAQBAJ>, introduction and chapter 1.
 - Kelefa Sanneh, “The Fight to Redefine Racism,” *The New Yorker*, August 12, 2019, <https://www.newyorker.com/magazine/2019/08/19/the-fight-to-redefine-racism>.
-- Discussion facilitators ___ and ___
+- Annette Lareau, “Social Class Differences in Family-School Relationships: The Importance of Cultural Capital,” Sociology of Education 60, no. 2 (April 1987): 73, <https://www-jstor-org.ezproxy.trincoll.edu/stable/2112583>, see pages 73-74 on defining "cultural capital."
+- Annette Lareau, "Chapter 1: Concerted Cultivation" in *Unequal Childhoods: Class, Race, and Family Life, Second Edition* (University of California Press, 2003/2011,  <https://www-jstor-org.ezproxy.trincoll.edu/stable/10.1525/j.ctt1ppgj4>.
+- Discussion facilitators: all will be assigned questions to lead us
 
-### Thur Sept 12: How Do We Define Class?
-- Read Annette Lareau, excerpt TBA
-- Education data exercise TBA
-- Write short essay #1 and submit for blind review by Sunday Sept 15th at 6pm on question to come*
+### Thur Sept 12: How Have Others Researched Race and Class at Trinity?
+- Sophomore Interview Project by Color and Money: First-Year Seminar on Race and Social Class at Trinity College, Fall 2011, 2013, 2015.
+  - Assignment (with Methodology) 2015: <https://commons.trincoll.edu/colorandmoney/assignments/interview-essay/>
+  - Interview Guide 2015 <http://jackdougherty.org/documents/2015-interview-guide.pdf>
+  - Masked version of interview list by category, 2013 <http://jackdougherty.org/documents/2013-MasterList-MASKED2.png>
+  - Masked interview transcripts, 2013 -- to show in seminar only
+  - Initial steps for thematic analysis of interviews, [2013 Google Sheet](https://docs.google.com/spreadsheets/d/16D0ZNWlGquqf94XBNpne7S8CIfkTZkIaLb0JOqscgDo/edit#gid=0)
+  - Interview analysis essays by first-year students [Elise](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-analysis-essay-3)>Elise and [Daniella](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-essay-4)
+- Assign: Write short essay #1 and submit for blind review by Sunday Sept 15th at 6pm on question to come*
 
 ### Tues Sept 17: How Did Anthony Jack Research Race and Class?
 - Anthony Jack, *The Privileged Poor*, Introduction, Chapter 1, Appendix (research methods)
 - Anthony Jack, *On Diversity: Access Ain’t Inclusion* (TEDxCambridge, 2019), <https://www.youtube.com/watch?v=j7w2Gv7ueOc>.
-- Discussion facilitators ___ and ____
+- Discussion facilitators _____
 
-### Thur Sept 19: How Will We Research Race and Class at Trinity?
+### Thur Sept 19: How Does *The Privileged Poor* Connect with Trinity
 - Read Anthony Jack, *The Privileged Poor*, Chapters 2-3 and Conclusion
 - Bettina Cecilia Gonzalez (Trinity '16), *(Un)Privileged: The Cost of Being Poor at An Elite Institution*, 2016, <https://www.youtube.com/watch?v=qZUsjhlRFnw>.
-- Discussion facilitators ___ and ____
+- Discussion facilitators ______
 - Write short essay #2 and submit for blind review by Sunday Sept 22nd at 6pm on question to come*
 
 ### Tues Sept 24: How Will We Research Trinity Students on Hartford?
-- Read Anth: Ethnographic Methods class, interview research methods and essay, to come*
-- Read First-Year Seminar Color and Money interview research methods and selected student essays, to come*
+- Read Ardyn Allessie, Lucy Pereira, and John Anderson, "Differences Among First-Year Students’ Perceptions of Hartford," Anth 301 Methods, Trinity College, December 2017.
+  - research design <http://bit.ly/cact-eval>
+  - [essay](https://docs.google.com/document/d/1anjSyLBgM7wzy29_RvHMg9OdnqkLeZ7dotGRP1MyUrA/edit?usp=sharing)
+  - [slides](https://docs.google.com/presentation/d/1XGErPFLWsvftLHhvQ0mv-1eU3Y7GxWLQcgLBO3r8Es8/edit?usp=sharing)
 - Finalize our research design and practice interview guide
 
 ### Thur Sept 26: How Does Trinity Respond to Anthony Jack's Research?
-- Q&A session in class with guest Anthony Jack, led by facilitators ____ and ____
-- Present our research design for his feedback, led by facilitators ____ and ____
-- Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by ____ and ____
+- Q&A session in class with guest Anthony Jack, led by facilitators _______
+- Present our research design for his feedback, led by facilitators _______
+- Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by _______
 - Write short essay #3 and submit for blind review by Sunday Sept 29th at 6pm on question to come*
 
 ### Tues Oct 1: How Do Hartford Residents View Trinity?
 - Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," September 2019, to come*
 - Assign short essay #4, which requires participating in one of the following Neighborhood Revitalization Zone meetings to listen to feedback on the report above
-  - Tues Oct 8th at 6pm, Maple Ave NRZ, St. Augustine Church with ______
-  - Thurs Oct 10th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave with _____
-  - Tues Oct 15th at 5:30pm, Frog Hollow NRZ, 70 Vernon St with _______
-  - one more TBA
+  - Tues Oct 8th at 6pm, Maple Ave NRZ, St. Augustine Church, with students ______
+  - Thurs Oct 10th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students _____
+  - Tues Oct 15th at 5:30pm, Frog Hollow NRZ, 70 Vernon St, with students _______
+  - one more TBA, with students ______
 - Begin interviews with your assigned students, and complete 4 transcripts by end of Trinity Days, Oct 15th.
 
 ### Thur Oct 3: How to Transcribe and Mask Interviews
@@ -97,6 +106,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Thur Oct 10: How to Interpret Patterns Across Multiple Interviews
 - Read FYSM Color & Money packets from past interviews
+- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due ___
 
 ### Tues Oct 15
 - No class: Trinity Day
@@ -114,7 +124,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Secondary source readings to compare with our findings, TBA
 
 ### Thur Oct 31: Presenting our findings
-- Public presentation of research findings for guest evaluators, during class OR Common Hour, TBA
+- Public presentation of research findings for guest evaluators. Final preparations during class, and presentation during Common Hour 12:15-1:15pm.
 
 ### Tues Nov 5
 - Assign short essay #5: each student will identify a short reading on topic related to this seminar, and write essay about why it matters, with discussion questions, for Nov 19, Nov 21, Dec 3
@@ -126,28 +136,31 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Tues Nov 12: How have race and class barriers evolved in metropolitan Hartford over time?
 - *On The Line*, Preface and Chapters 1-3
-- Discussion facilitators ____ and _____ and ____ and _____
-- Assign individual essay: future research proposal or graduate school statement
+- Discussion facilitators _________
+- Assign individual writing you can use, due before our last class on Dec 5th. Prepare a research proposal for your senior thesis or a Community Learning Research Fellows project application, or a personal statement for your application to graduate school, actual or aspirational. Your writing must build on research experiences and insights from Educ 309 in some way. No more than 1500 words. See these resources:
+  - Ed Studies Junior Plan for Senior Thesis, with samples <https://commons.trincoll.edu/educ/junior-plan/>
+  - Community Learning Research Fellows application, *need to add samples* <https://cher.trincoll.edu/fellows>
+  - Advice on Applying to Grad School, with sample student essays: https://jackdougherty.org/grad-school/
+  -
 
 ### Thur Nov 14: How have activists challenged metro Hartford housing and schooling barriers over time?
 - *On The Line*, Chapters 4-5
-- Discussion facilitators ____ and _____ and ____ and ____
+- Discussion facilitators _________
 - Short essay #6 (anonymous) with constructive criticism about *On The Line*, due Sunday Nov 17th at 6pm.
 
 ### Tues Nov 19
-- Discuss readings recommended by students, with their short essays and discussion questions, by ____ and ____ and ____
-
+- Discuss readings recommended by students, with their short essays and discussion questions, by _______
 ### Thur Nov 21
-- Discuss readings recommended by students, with their short essays and discussion questions, by ____ and ____ and ____
+- Discuss readings recommended by students, with their short essays and discussion questions, by _______
 
 ### Tues Nov 26
-- No class: Schedule meetings with instructor to plan your future research proposal or graduate school statement, due at last class
+- No class. Instead, schedule individual or small-group meetings with instructor to plan your future research proposal or graduate school statement, due at last class
 
 ### Thur Nov 28
 - No class: Thanksgiving
 
 ### Tues Dec 3
-- Discuss readings recommended by students, with their short essays and discussion questions, by ____ and ____ and ____
+- Discuss readings recommended by students, with their short essays and discussion questions, by ________
 
 ### Thur Dec 5
 - Share and reflect on individual final essays
@@ -160,7 +173,7 @@ Students may access their individual scores on the password-protected Moodle sit
 
 - Short essays on readings, no more than 500 words: 6 x 5 each = 30 points
 - Transcripts of assigned student interviews: 4 x 2.5 each = 10 points
-- Essay on Interpreting Interview Data, no more than 2000 words = 20 points
+- Individual essay on interpreting patterns across interviews, no more than 2000 words = 20 points
 - Research team presentation, evaluated by guest (10) and instructor (10) = 20 points
 - Individual future research proposal or grad school statement, under 1500 words = 10 points
 - Peer evaluation of overall contribution to learning = 10 points
@@ -170,7 +183,5 @@ Total = 100 points
 Late assignments will receive a 10 percent penalty for every 12 hours overdue, with exceptions granted only for verified medical or family emergencies. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Students are expected to engage in academic honesty in all forms of work for this course. You are responsible for understanding and following the Intellectual Honesty policy (around page 20) of the [Trinity Student Handbook](http://www.trincoll.edu/SiteCollectionDocuments/StudentHandbook.pdf).
 
 Trinity College is committed to creating an inclusive and accessible learning environment consistent with the Americans with Disabilities Act. If you have approval for academic accommodations, please notify faculty during the first two weeks of the semester or a minimum of 10 days prior to needing your accommodations. Please be sure to meet with me privately to discuss implementation. If you do not have approved accommodations, but have a disability requiring academic accommodations, or have questions about applying, please contact Lori Clapis, Coordinator of Accessibility Resources at 860-297-4025 or at Lori.Clapis@trincoll.edu.
-
-Students with Academic Accommodations: Trinity College complies with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act. If you have a documented disability and require academic accommodations, please schedule a meeting with me during the first two weeks of the semester and bring a copy of your accommodations letter. If you do not have a letter, but have questions about applying for academic accommodations, please contact Lori Clapis, Coordinator of Accommodation Resources, at 860-297-4025 or [Lori.Clapis@trincoll.edu](mailto:Lori.Clapis@trincoll.edu).
 
 Please notify me during the first week of the course if you require any scheduling accommodations for religious observances.
