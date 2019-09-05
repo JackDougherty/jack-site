@@ -43,16 +43,19 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Thur Sept 5
 - Bring your [Bantam Bus Pass](https://cher.trincoll.edu/transportation/) and walking shoes for experiential learning and research discussion
-- Schedule day/time for class to meet for dinner & discussion at instructor's home
+- After our excursion, discuss [Anthropology research methods, map and interview questions, Dec 2017](https://docs.google.com/document/d/1ytuoor0eaUluUKVBvm47p-CxD0qP1BF1uURgvBMsAQM/edit)
+- Pick up reading packets from my hallway table, beginning Thursday afternoon
+- Instructor will email a Google Sheet for everyone to sign up to facilitate a discussion question on readings below
 
 ### Tues Sept 10: How Do We Define Race and Class?
+
 - For all texts and videos below, read before class, bring your notes, and be prepared to discuss:
 - Michael Omi and Howard Winant, *Racial Formation in the United States: From the 1960s to the 1990s, Second Edition* (New York: Routledge, 1986), pp 54-56.
 - Ibram X. Kendi, *How to Be an Antiracist* (One World/Random House, 2019), <https://books.google.com/books?id=lbqkDwAAQBAJ>, introduction and chapter 1.
 - Kelefa Sanneh, “The Fight to Redefine Racism,” *The New Yorker*, August 12, 2019, <https://www.newyorker.com/magazine/2019/08/19/the-fight-to-redefine-racism>.
 - Annette Lareau, “Social Class Differences in Family-School Relationships: The Importance of Cultural Capital,” Sociology of Education 60, no. 2 (April 1987): 73, <https://www-jstor-org.ezproxy.trincoll.edu/stable/2112583>, see pages 73-74 on defining "cultural capital."
 - Annette Lareau, "Chapter 1: Concerted Cultivation" in *Unequal Childhoods: Class, Race, and Family Life, Second Edition* (University of California Press, 2003/2011,  <https://www-jstor-org.ezproxy.trincoll.edu/stable/10.1525/j.ctt1ppgj4>.
-- Discussion facilitators: all will be assigned questions to lead us
+- Schedule day/time for class to meet for dinner & discussion at instructor's home
 
 ### Thur Sept 12: How Have Others Researched Race and Class at Trinity?
 - Sophomore Interview Project by Color and Money: First-Year Seminar on Race and Social Class at Trinity College, Fall 2011, 2013, 2015.
