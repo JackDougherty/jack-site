@@ -59,13 +59,13 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Schedule day/time for class to meet for dinner & discussion at instructor's home _______
 
 ### Thur Sept 12: How Have Others Researched Race and Class at Trinity?
-- Sophomore Interview Project by Color and Money: First-Year Seminar on Race and Social Class at Trinity College, Fall 2011, 2013, 2015.
+- Read how students in my students in my “Color and Money” First-Year Seminar on Race and Social Class at Trinity College conducted this Sophomore Interview Project in Fall 2011, 2013, 2015. What ideas does it spark in your minds about how we will conduct our study?
   - Assignment (with Methodology) 2015: <https://commons.trincoll.edu/colorandmoney/assignments/interview-essay/>
   - Interview Guide 2015 <http://jackdougherty.org/documents/2015-interview-guide.pdf>
   - Masked version of interview list by category, 2013 <http://jackdougherty.org/documents/2013-MasterList-MASKED2.png>
   - Masked interview transcripts, 2013 -- to show in seminar only
   - Initial steps for thematic analysis of interviews, [2013 online Google Sheet](https://docs.google.com/spreadsheets/d/16D0ZNWlGquqf94XBNpne7S8CIfkTZkIaLb0JOqscgDo/edit#gid=0)
-  - Interview analysis essays by first-year students [Elise](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-analysis-essay-3)and [Daniella](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-essay-4)
+  - Interview analysis essays by first-year students [Elise](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-analysis-essay-3) and [Daniella](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-essay-4)
 - Read and reflect on anonymous responses to short essay #0: [Why are you here, and what do you wish to learn?](https://docs.google.com/document/d/1gfB9X5zBKluypHwNO7CmqWbvI0nQHzKo0lgngDrLcEM)
 - Assign: Write short essay #1 and submit for blind review by Sunday Sept 15th at 6pm on question to come*
 
