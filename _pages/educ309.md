@@ -36,9 +36,8 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Tues Sept 3
 - Introduction to syllabus and our research projects
-- Review Trinity Institutional Review Board (IRB) for research ethics <http://commons.trincoll.edu/irb>
-- Complete CITI online research ethics training, if you have not already done so, and email me certificate by Sunday Sept 7th.
-- Instructor will complete one IRB application for the class research project, listing each student as a researcher.
+- Review Trinity Institutional Review Board (IRB) for research ethics <http://commons.trincoll.edu/irb>. Instructor will complete one IRB application for the class research project, listing each student as a researcher.
+- Complete CITI online research ethics training, if you have not already done so, and email me certificate by Sunday Sept 7th. See detailed instructions and follow option A or B, but A is preferable for future research you may conduct. <https://commons.trincoll.edu/irb/ethics-training/>
 - Write short essay 0 and submit for blind review (practice): Why are you here, and what do you wish to learn? Do NOT include your name anywhere in the file, so that I may evaluate your work anonymously. Save your essay in MS Word format, insert your *favorite cartoon character* (instead of your ID) into the filename (example: Tweetybird-essay0.docx), and upload your responses for blind review to <https://form.jotform.com/70646100400136>.
 
 ### Thur Sept 5
@@ -53,6 +52,10 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Ibram X. Kendi, *How to Be an Antiracist* (One World/Random House, 2019), <https://books.google.com/books?id=lbqkDwAAQBAJ>, introduction and chapter 1.
 - Kelefa Sanneh, “The Fight to Redefine Racism,” *The New Yorker*, August 12, 2019, <https://www.newyorker.com/magazine/2019/08/19/the-fight-to-redefine-racism>.
 - Annette Lareau, "Chapter 1: Concerted Cultivation" in *Unequal Childhoods: Class, Race, and Family Life, Second Edition* (University of California Press, 2003/2011,  <https://www-jstor-org.ezproxy.trincoll.edu/stable/10.1525/j.ctt1ppgj4>.
+- Presentation slides in class: [How Do We Define Race and Social Class?](https://docs.google.com/presentation/d/1x31N1OEfzrPyBBMv9BSx2mzHtOxADb91QQ0I-EuQh6M/)
+- Discuss: What are successful strategies to facilitate a discussion that deepens our understanding of the readings?
+- Assign discussion facilitators for Sept 17, 19, 24, 26th
+- Housekeeping: CITI online training, photocopy funds
 - Schedule day/time for class to meet for dinner & discussion at instructor's home _______
 
 ### Thur Sept 12: How Have Others Researched Race and Class at Trinity?
@@ -63,6 +66,7 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Masked interview transcripts, 2013 -- to show in seminar only
   - Initial steps for thematic analysis of interviews, [2013 Google Sheet](https://docs.google.com/spreadsheets/d/16D0ZNWlGquqf94XBNpne7S8CIfkTZkIaLb0JOqscgDo/edit#gid=0)
   - Interview analysis essays by first-year students [Elise](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-analysis-essay-3)>Elise and [Daniella](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-essay-4)
+- Read and reflect on anonymous responses to short essay #0: [Why are you here, and what do you wish to learn?](https://docs.google.com/document/d/1gfB9X5zBKluypHwNO7CmqWbvI0nQHzKo0lgngDrLcEM)
 - Assign: Write short essay #1 and submit for blind review by Sunday Sept 15th at 6pm on question to come*
 
 ### Tues Sept 17: How Did Anthony Jack Research Race and Class?
@@ -81,12 +85,13 @@ Each student must bring a laptop to each class session for writing, editing, and
   - research design <http://bit.ly/cact-eval>
   - [essay](https://docs.google.com/document/d/1anjSyLBgM7wzy29_RvHMg9OdnqkLeZ7dotGRP1MyUrA/edit?usp=sharing)
   - [slides](https://docs.google.com/presentation/d/1XGErPFLWsvftLHhvQ0mv-1eU3Y7GxWLQcgLBO3r8Es8/edit?usp=sharing)
+- Discussion facilitators ______
 - Finalize our research design and practice interview guide
 
 ### Thur Sept 26: How Does Trinity Respond to Anthony Jack's Research?
 - Q&A session in class with guest Anthony Jack, led by facilitators _______
 - Present our research design for his feedback, led by facilitators _______
-- Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by _______
+- Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by Amber and Mabel
 - Write short essay #3 and submit for blind review by Sunday Sept 29th at 6pm on question to come*
 
 ### Tues Oct 1: How Do Hartford Residents View Trinity?
