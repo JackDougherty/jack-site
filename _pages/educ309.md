@@ -54,9 +54,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Annette Lareau, "Chapter 1: Concerted Cultivation" in *Unequal Childhoods: Class, Race, and Family Life, Second Edition* (University of California Press, 2003/2011,  <https://www-jstor-org.ezproxy.trincoll.edu/stable/10.1525/j.ctt1ppgj4>.
 - Presentation slides in class: [How Do We Define Race and Social Class?](https://docs.google.com/presentation/d/1x31N1OEfzrPyBBMv9BSx2mzHtOxADb91QQ0I-EuQh6M/)
 - Discuss: What are successful strategies to facilitate a discussion that deepens our understanding of the readings?
-- Assign discussion facilitators for Sept 17, 19, 24, 26th
 - Housekeeping: CITI online training, photocopy funds
-- [Schedule day/time for class to meet for dinner & discussion at instructor's home](https://docs.google.com/spreadsheets/d/1xCcpnqUJYx07PNyJyZ8O_5d6k-Lts5Mo1vh6vp933QQ/edit#gid=0)
 
 ### Thur Sept 12: How Have Others Researched Race and Class at Trinity?
 - Read how students in my students in my “Color and Money” First-Year Seminar on Race and Social Class at Trinity College conducted this Sophomore Interview Project in Fall 2011, 2013, 2015. What ideas does it spark in your minds about how we will conduct our study?
@@ -76,8 +74,9 @@ Each student must bring a laptop to each class session for writing, editing, and
     - Example: Ibram, Kelef,and Annette walk into a bar…..
 	  - Annette: Hey, Ibram, I’ve been meaning to ask you, “....[insert quote….” (p. 67)
 
-
 ### Tues Sept 17: How Did Anthony Jack Research Race and Class?
+- [Schedule day/time for class to meet for dinner & discussion at instructor's home](https://docs.google.com/spreadsheets/d/1xCcpnqUJYx07PNyJyZ8O_5d6k-Lts5Mo1vh6vp933QQ/edit#gid=0)
+- [Sign up for discussion facilitator roles for Sept 17-19-26](https://docs.google.com/document/d/1627CkhjzA4UfNuOdqgtqsG8Y5F8LSasNrfmZugtJGtI/edit)
 - Anthony Jack, *The Privileged Poor*, Introduction, Chapter 1, Appendix (research methods)
 - Anthony Jack, *On Diversity: Access Ain’t Inclusion* (TEDxCambridge, 2019), <https://www.youtube.com/watch?v=j7w2Gv7ueOc>.
 - Discussion facilitators _____
