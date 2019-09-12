@@ -67,7 +67,15 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Initial steps for thematic analysis of interviews, [2013 online Google Sheet](https://docs.google.com/spreadsheets/d/16D0ZNWlGquqf94XBNpne7S8CIfkTZkIaLb0JOqscgDo/edit#gid=0)
   - Interview analysis essays by first-year students [Elise](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-analysis-essay-3) and [Daniella](http://commons.trincoll.edu/colorandmoney/2013/12/04/interview-essay-4)
 - Read and reflect on anonymous responses to short essay #0: [Why are you here, and what do you wish to learn?](https://docs.google.com/document/d/1gfB9X5zBKluypHwNO7CmqWbvI0nQHzKo0lgngDrLcEM)
-- Assign: Write short essay #1 and submit for blind review by Sunday Sept 15th at 6pm on question to come*
+- Assign: Write short essay #1, no more than 500 words, and submit for blind review by Sunday Sept 15th 6pm. Do NOT include your name anywhere in the file, so that I may evaluate your work anonymously. Save your essay in MS Word format, insert your Trinity ID number into the filename (example: 1234567-essay1.docx), and upload your responses for blind review to <https://form.jotform.com/70646100400136>.
+  - Imagine a room with all of the people above who are defining and discussing race and/or social class. What kinds of conversations might they have? How would you imagine some of them agreeing or disagreeing with one another? Write an essay that clearly demonstrates your understanding of at least 3 of the 4 authors: Omi & Winant, Kendi, Sanneh, Lareau. Make sure you clearly show your understanding of at least one of their major points, and support it with at least one quote for each author.
+  - For this assignment, you can simply insert parentheses and page numbers, with no formal bibliography. Example…. According to Kendi, “.......” (p.5).
+  - You can choose to write a traditional expository essay
+	For sentence starters, see the http://bit.ly/TheySayISayTemplates
+  - OR you can write in dialogue format, like a play.
+    - Example: Ibram, Kelef,and Annette walk into a bar…..
+	  - Annette: Hey, Ibram, I’ve been meaning to ask you, “....[insert quote….” (p. 67)
+
 
 ### Tues Sept 17: How Did Anthony Jack Research Race and Class?
 - Anthony Jack, *The Privileged Poor*, Introduction, Chapter 1, Appendix (research methods)
