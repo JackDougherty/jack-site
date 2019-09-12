@@ -56,7 +56,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Discuss: What are successful strategies to facilitate a discussion that deepens our understanding of the readings?
 - Assign discussion facilitators for Sept 17, 19, 24, 26th
 - Housekeeping: CITI online training, photocopy funds
-- Schedule day/time for class to meet for dinner & discussion at instructor's home _______
+- [Schedule day/time for class to meet for dinner & discussion at instructor's home](https://docs.google.com/spreadsheets/d/1xCcpnqUJYx07PNyJyZ8O_5d6k-Lts5Mo1vh6vp933QQ/edit#gid=0)
 
 ### Thur Sept 12: How Have Others Researched Race and Class at Trinity?
 - Read how students in my students in my “Color and Money” First-Year Seminar on Race and Social Class at Trinity College conducted this Sophomore Interview Project in Fall 2011, 2013, 2015. What ideas does it spark in your minds about how we will conduct our study?
