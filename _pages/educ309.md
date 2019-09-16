@@ -77,14 +77,13 @@ Each student must bring a laptop to each class session for writing, editing, and
 ### Tues Sept 17: How Did Anthony Jack Research Race and Class?
 - [Schedule day/time for class to meet for dinner & discussion at instructor's home](https://docs.google.com/spreadsheets/d/1xCcpnqUJYx07PNyJyZ8O_5d6k-Lts5Mo1vh6vp933QQ/edit#gid=0)
 - [Sign up for discussion facilitator roles for Sept 17-19-26](https://docs.google.com/document/d/1627CkhjzA4UfNuOdqgtqsG8Y5F8LSasNrfmZugtJGtI/edit)
-- Anthony Jack, *The Privileged Poor*, Introduction, Chapter 1, Appendix (research methods)
+- Anthony Jack, *The Privileged Poor*, Introduction, Chapter 1 by facilitators Amber and Elizabeth Daly
+- *The Privileged Poor*, Appendix (research methods) by facilitator Elizabeth Densen
 - Anthony Jack, *On Diversity: Access Ain’t Inclusion* (TEDxCambridge, 2019), <https://www.youtube.com/watch?v=j7w2Gv7ueOc>.
-- Discussion facilitators _____
 
 ### Thur Sept 19: How Does *The Privileged Poor* Connect with Trinity
-- Read Anthony Jack, *The Privileged Poor*, Chapters 2-3 and Conclusion
-- Bettina Cecilia Gonzalez (Trinity '16), *(Un)Privileged: The Cost of Being Poor at An Elite Institution*, 2016, <https://www.youtube.com/watch?v=qZUsjhlRFnw>.
-- Discussion facilitators ______
+- Read Anthony Jack, *The Privileged Poor*, Chapters 2-3 by facilitators Meghan and ____
+- *The Privileged Poor*, Conclusion and Bettina Cecilia Gonzalez (Trinity '16), *(Un)Privileged: The Cost of Being Poor at An Elite Institution*, 2016, <https://www.youtube.com/watch?v=qZUsjhlRFnw>, by facilitators Mabel and Rafael
 - Write short essay #2 and submit for blind review by Sunday Sept 22nd at 6pm on question to come*
 
 ### Tues Sept 24: How Will We Research Trinity Students on Hartford?
