@@ -75,14 +75,16 @@ Each student must bring a laptop to each class session for writing, editing, and
 	  - Annette: Hey, Ibram, I’ve been meaning to ask you, “....[insert quote….” (p. 67)
 
 ### Tues Sept 17: How Did Anthony Jack Research Race and Class?
-- [Schedule day/time for class to meet for dinner & discussion at instructor's home](https://docs.google.com/spreadsheets/d/1xCcpnqUJYx07PNyJyZ8O_5d6k-Lts5Mo1vh6vp933QQ/edit#gid=0)
-- [Sign up for discussion facilitator roles for Sept 17-19-26](https://docs.google.com/document/d/1627CkhjzA4UfNuOdqgtqsG8Y5F8LSasNrfmZugtJGtI/edit)
+- [Sign up for discussion facilitator roles for Sept 17-19-26](https://docs.google.com/document/d/1627CkhjzA4UfNuOdqgtqsG8Y5F8LSasNrfmZugtJGtI/)
 - Anthony Jack, *The Privileged Poor*, Introduction, Chapter 1 by facilitators Amber and Elizabeth Daly
-- *The Privileged Poor*, Appendix (research methods) by facilitator Elizabeth Densen
+- *The Privileged Poor*, Appendix (research methods) by facilitator Elizabeth Densen and Eleanor Faraguna
 - Anthony Jack, *On Diversity: Access Ain’t Inclusion* (TEDxCambridge, 2019), <https://www.youtube.com/watch?v=j7w2Gv7ueOc>.
+- [Review sample student responses to Essay 1](http://jackdougherty.org/documents/educ309-essay1-samples-2019.pdf)
+- Strategies to strengthen your writing for Essay 2
+- [Schedule day/time for class to meet for dinner & discussion at instructor's home](https://docs.google.com/spreadsheets/d/1xCcpnqUJYx07PNyJyZ8O_5d6k-Lts5Mo1vh6vp933QQ/edit#gid=0)
 
 ### Thur Sept 19: How Does *The Privileged Poor* Connect with Trinity
-- Read Anthony Jack, *The Privileged Poor*, Chapters 2-3 by facilitators Meghan and ____
+- Read Anthony Jack, *The Privileged Poor*, Chapters 2-3 by facilitators Meghan and Clare
 - *The Privileged Poor*, Conclusion and Bettina Cecilia Gonzalez (Trinity '16), *(Un)Privileged: The Cost of Being Poor at An Elite Institution*, 2016, <https://www.youtube.com/watch?v=qZUsjhlRFnw>, by facilitators Mabel and Rafael
 - Write short essay #2 and submit for blind review by Sunday Sept 22nd at 6pm on question to come*
 
@@ -91,12 +93,12 @@ Each student must bring a laptop to each class session for writing, editing, and
   - research design <http://bit.ly/cact-eval>
   - [essay](https://docs.google.com/document/d/1anjSyLBgM7wzy29_RvHMg9OdnqkLeZ7dotGRP1MyUrA/edit?usp=sharing)
   - [slides](https://docs.google.com/presentation/d/1XGErPFLWsvftLHhvQ0mv-1eU3Y7GxWLQcgLBO3r8Es8/edit?usp=sharing)
-- Discussion facilitators ______
-- Finalize our research design and practice interview guide
+- Discussion facilitators Alicia and Miley
+- Refine our research design and practice interview guide
 
 ### Thur Sept 26: How Does Trinity Respond to Anthony Jack's Research?
-- Q&A session in class with guest Anthony Jack, led by facilitators _______
-- Present our research design for his feedback, led by facilitators _______
+- Q&A session in class with guest Anthony Jack, by everyone
+- Describe our research design for his feedback, led by facilitator Caila
 - Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by Amber and Mabel
 - Write short essay #3 and submit for blind review by Sunday Sept 29th at 6pm on question to come*
 
