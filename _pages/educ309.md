@@ -86,7 +86,8 @@ Each student must bring a laptop to each class session for writing, editing, and
 ### Thur Sept 19: How Does *The Privileged Poor* Connect with Trinity
 - Read Anthony Jack, *The Privileged Poor*, Chapters 2-3 by facilitators Meghan and Clare
 - *The Privileged Poor*, Conclusion and Bettina Cecilia Gonzalez (Trinity '16), *(Un)Privileged: The Cost of Being Poor at An Elite Institution*, 2016, <https://www.youtube.com/watch?v=qZUsjhlRFnw>, by facilitators Mabel and Rafael
-- Write short essay #2 and submit for blind review by Sunday Sept 22nd at 6pm on question to come*
+- [Write short essay #2 and submit for blind review by Sunday Sept 22nd at 6pm](https://docs.google.com/document/d/1w18U657pSr6GqA1hUSq-FtGuqWLZLeU8fzHalFBJoIk)
+- [Our schedule for dinner & discussion at instructor's home](https://docs.google.com/spreadsheets/d/1xCcpnqUJYx07PNyJyZ8O_5d6k-Lts5Mo1vh6vp933QQ/edit#gid=0)
 
 ### Tues Sept 24: How Will We Research Trinity Students on Hartford?
 - Read Ardyn Allessie, Lucy Pereira, and John Anderson, "Differences Among First-Year Students’ Perceptions of Hartford," Anth 301 Methods, Trinity College, December 2017.
