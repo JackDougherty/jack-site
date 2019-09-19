@@ -91,15 +91,18 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Tues Sept 24: How Will We Research Trinity Students on Hartford?
 - Read Ardyn Allessie, Lucy Pereira, and John Anderson, "Differences Among First-Year Students’ Perceptions of Hartford," Anth 301 Methods, Trinity College, December 2017.
-  - research design <http://bit.ly/cact-eval>
   - [essay](https://docs.google.com/document/d/1anjSyLBgM7wzy29_RvHMg9OdnqkLeZ7dotGRP1MyUrA/edit?usp=sharing)
+  - [map and interview guide](https://docs.google.com/document/d/1ytuoor0eaUluUKVBvm47p-CxD0qP1BF1uURgvBMsAQM/edit)
+  - Additional resources for further reading:
+  - research design <http://bit.ly/cact-eval>
   - [slides](https://docs.google.com/presentation/d/1XGErPFLWsvftLHhvQ0mv-1eU3Y7GxWLQcgLBO3r8Es8/edit?usp=sharing)
 - Discussion facilitators Alicia and Miley
 - Refine our research design and practice interview guide
+- Prepare discussion questions for Anthony Jack's visit
 
 ### Thur Sept 26: How Does Trinity Respond to Anthony Jack's Research?
-- Q&A session in class with guest Anthony Jack, by everyone
-- Describe our research design for his feedback, led by facilitator Caila
+- Q&A session in class with guest Anthony Jack, by all
+- Describe our research design for his feedback, led by facilitator Caila and Eleanor and Amber
 - Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by Amber and Mabel
 - Write short essay #3 and submit for blind review by Sunday Sept 29th at 6pm on question to come*
 
