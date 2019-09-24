@@ -97,8 +97,9 @@ Each student must bring a laptop to each class session for writing, editing, and
   - research design <http://bit.ly/cact-eval>
   - [slides](https://docs.google.com/presentation/d/1XGErPFLWsvftLHhvQ0mv-1eU3Y7GxWLQcgLBO3r8Es8/edit?usp=sharing)
 - Discussion facilitators Alicia and Miley
-- Refine our research design and practice interview guide
-- Prepare discussion questions for Anthony Jack's visit
+- [Discuss current research design and interview questions](https://docs.google.com/document/d/12huNZKCPV0RNAIIgCv94NhGIDbMJXJySTde9Q2ODW8g)
+- [Sample student response for essay 2](https://docs.google.com/document/d/1tv5WZM4kooQdttCg4OY-is60HnQFYBTC52ME0spw4EA)
+- [Narrow down and refine discussion questions for Anthony Jack's visit](https://docs.google.com/document/d/1Wlm_lmsRHgNbAldm8G--RmtPil3K7gxeeFRFws1g-Ic)
 
 ### Thur Sept 26: How Does Trinity Respond to Anthony Jack's Research?
 - Q&A session in class with guest Anthony Jack, by all
