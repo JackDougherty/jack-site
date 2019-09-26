@@ -106,7 +106,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - [Q&A with author on discussion questions from seminar](https://docs.google.com/document/d/1Wlm_lmsRHgNbAldm8G--RmtPil3K7gxeeFRFws1g-Ic)
 - [Describe our research design and request feedback, led by facilitators Caila and Eleanor and Amber](https://docs.google.com/document/d/12huNZKCPV0RNAIIgCv94NhGIDbMJXJySTde9Q2ODW8g)
 - Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by Amber and Mabel
-- Write short essay #3 and submit for blind review by Sunday Sept 29th at 6pm on question to come*
+- [Write short essay #3 and submit for blind review by Sunday Sept 29th at 6pm](https://docs.google.com/document/d/1K2edJYMUwfJ8PzWtxQfM3ZkNsmSUxHdEy60XrE1_cpQ/edit)
 
 ### Tues Oct 1: Finalizing and Launching our Interview Study
 - Finalize and practice our interview guide (https://docs.google.com/document/d/12huNZKCPV0RNAIIgCv94NhGIDbMJXJySTde9Q2ODW8g)
