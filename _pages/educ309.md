@@ -101,26 +101,31 @@ Each student must bring a laptop to each class session for writing, editing, and
 - [Sample student response for essay 2](https://docs.google.com/document/d/1tv5WZM4kooQdttCg4OY-is60HnQFYBTC52ME0spw4EA)
 - [Narrow down and refine discussion questions for Anthony Jack's visit](https://docs.google.com/document/d/1Wlm_lmsRHgNbAldm8G--RmtPil3K7gxeeFRFws1g-Ic)
 
-### Thur Sept 26: How Does Trinity Respond to Anthony Jack's Research?
-- Q&A session in class with guest Anthony Jack, by all
-- Describe our research design for his feedback, led by facilitator Caila and Eleanor and Amber
+### Thur Sept 26: How Does Trinity Respond to Anthony Jack and Bettina Gonzalez?
+- Guest: Professor Anthony Abraham Jack
+- [Q&A with author on discussion questions from seminar](https://docs.google.com/document/d/1Wlm_lmsRHgNbAldm8G--RmtPil3K7gxeeFRFws1g-Ic)
+- [Describe our research design and request feedback, led by facilitators Caila and Eleanor and Amber](https://docs.google.com/document/d/12huNZKCPV0RNAIIgCv94NhGIDbMJXJySTde9Q2ODW8g)
 - Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by Amber and Mabel
 - Write short essay #3 and submit for blind review by Sunday Sept 29th at 6pm on question to come*
 
-### Tues Oct 1: How Do Hartford Residents View Trinity?
+### Tues Oct 1: Finalizing and Launching our Interview Study
+- Finalize and practice our interview guide (https://docs.google.com/document/d/12huNZKCPV0RNAIIgCv94NhGIDbMJXJySTde9Q2ODW8g)
+- How to record audio interviews and maintain individual privacy
+- Begin interviews with your assigned students, and complete 4 transcripts by end of Trinity Days, Oct 15th.
+
+### Thur Oct 3: How Do Hartford Residents View Trinity?
 - Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," September 2019, to come*
 - Assign short essay #4, which requires participating in one of the following Neighborhood Revitalization Zone meetings to listen to feedback on the report above
   - Tues Oct 8th at 6pm, Maple Ave NRZ, St. Augustine Church, with students ______
   - Thurs Oct 10th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students _____
   - Tues Oct 15th at 5:30pm, Frog Hollow NRZ, 70 Vernon St, with students _______
   - one more TBA, with students ______
-- Begin interviews with your assigned students, and complete 4 transcripts by end of Trinity Days, Oct 15th.
 
-### Thur Oct 3: How to Transcribe and Mask Interviews
+
 - Read instructor's guide to transcribing and masking interviews*
 - Read sample interview transcripts from FYSM Color and Money
 
-### Tues Oct 8: How to Interpret One Interview
+### Tues Oct 8: How to Transcribe and Mask Interviews
 - Read FYSM Color & Money interview interpretations
 
 ### Thur Oct 10: How to Interpret Patterns Across Multiple Interviews
