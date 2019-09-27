@@ -115,10 +115,11 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Thur Oct 3: How Do Hartford Residents View Trinity?
 - Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," September 2019, to come*
-- Assign short essay #4, which requires participating in one of the following Neighborhood Revitalization Zone meetings to listen to feedback on the report above
-  - Tues Oct 8th at 6pm, Maple Ave NRZ, St. Augustine Church, with students ______
-  - Thurs Oct 10th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students _____
+- Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
+- Assign short essay #4, which requires attending one of the following NRZ meetings with me to listen and write down feedback on the report above:
   - Tues Oct 15th at 5:30pm, Frog Hollow NRZ, 70 Vernon St, with students _______
+  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students _____
+  - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
   - one more TBA, with students ______
 
 
