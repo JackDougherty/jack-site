@@ -108,22 +108,23 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Attend Anthony Jack's Common Hour lecture, 12:15-1:15pm, Washington Room, introduction by Amber and Mabel
 - [UPDATED: Write short essay #3 and submit for blind review by Sunday Sept 29th at 6pm](https://docs.google.com/document/d/1K2edJYMUwfJ8PzWtxQfM3ZkNsmSUxHdEy60XrE1_cpQ/edit)
 
-### Tues Oct 1: Finalizing and Launching our Interview Study
-- Finalize and practice our interview guide (https://docs.google.com/document/d/12huNZKCPV0RNAIIgCv94NhGIDbMJXJySTde9Q2ODW8g)
+### Tues Oct 1: Finalize and Launch our Interview Study
+- [Finalize our interview guide](https://docs.google.com/document/d/12huNZKCPV0RNAIIgCv94NhGIDbMJXJySTde9Q2ODW8g)
+- Practice consent script, asking questions, and recording audio with classmates
 - How to record audio interviews and maintain individual privacy
-- Begin interviews with your assigned students, and complete 4 transcripts by end of Trinity Days, Oct 15th.
+- Practice uploading audio to your computer AND to the instructor <https://form.jotform.com/62918457632161>
+- [How to Digitally Record and Transcribe Interviews](https://jackdougherty.org/2019/01/01/record-and-transcribe-interview/)
+- Begin to assign interviews, and complete 3 transcripts by end of Trinity Days, Oct 15th.
 
 ### Thur Oct 3: How Do Hartford Residents View Trinity?
-- Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," September 2019, to come*
+- Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," October 2019. Paper draft handed out in class, online version to come.
 - Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
-- Assign short essay #4, which requires attending one of the following NRZ meetings with me to listen and write down feedback on the report above:
+- Assign short essay #4, which requires attending one of the following NRZ meetings with me to listen to neighborhood residents and write down their feedback about the report above:
   - Tues Oct 15th at 5:30pm, Frog Hollow NRZ, 70 Vernon St, with students _______
   - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students _____
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
   - one more TBA, with students ______
 
-
-- Read instructor's guide to transcribing and masking interviews*
 - Read sample interview transcripts from FYSM Color and Money
 
 ### Tues Oct 8: How to Transcribe and Mask Interviews
@@ -197,7 +198,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 Students may access their individual scores on the password-protected Moodle site <http://moodle.trincoll.edu>. Your work will be evaluated based on:
 
 - Short essays on readings, no more than 500 words: 6 x 5 each = 30 points
-- Transcripts of assigned student interviews: 4 x 2.5 each = 10 points
+- Transcripts of assigned student interviews: 3 x 3.33 each = 10 points
 - Individual essay on interpreting patterns across interviews, no more than 2000 words = 20 points
 - Research team presentation, evaluated by guest (10) and instructor (10) = 20 points
 - Individual future research proposal or grad school statement, under 1500 words = 10 points
