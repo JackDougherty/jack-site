@@ -113,22 +113,26 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Practice consent script, asking questions, and recording audio with classmates
 - How to record audio interviews and maintain individual privacy
 - Practice uploading audio to your computer AND to the instructor <https://form.jotform.com/62918457632161>
-- [How to Digitally Record and Transcribe Interviews](https://jackdougherty.org/2019/01/01/record-and-transcribe-interview/)
-- Begin to assign interviews, and complete 3 transcripts by end of Trinity Days, Oct 15th.
+- Assign 3 interviews and completed transcripts by end of Trinity Days, Oct 15th.
 
-### Thur Oct 3: How Do Hartford Residents View Trinity?
+### Thur Oct 3: How to Transcribe Interviews; How Do Hartford Residents View Trinity?
+- Everyone: update on your progress in conducting your first interview
+- [How to Digitally Record and Transcribe Interviews](https://jackdougherty.org/2019/01/01/record-and-transcribe-interview/)
+- Sample masked interview transcripts, FYSM 2013 <http://moodle.trincoll.edu>
+- Upload each interview audio file using your name & number (e.g. Jack1.mp3) <https://form.jotform.com/62918457632161>
+- Upload each interview transcript *link to come*
+
 - Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," October 2019. Paper draft handed out in class, online version to come.
 - Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
-- Assign short essay #4, which requires attending one of the following NRZ meetings with me to listen to neighborhood residents and write down their feedback about the report above:
+- Assign short essay #4, which requires attending one of the following NRZ meetings with me to listen to neighborhood residents and write down their feedback about the report above, and submitting it 48 hours after the event:
   - Tues Oct 15th at 5:30pm, Frog Hollow NRZ, 70 Vernon St, with students _______
   - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students _____
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
   - one more TBA, with students ______
 
-- Read sample interview transcripts from FYSM Color and Money
-
 ### Tues Oct 8: How to Transcribe and Mask Interviews
-- Read FYSM Color & Money interview interpretations
+- Work on conducting your 3 interviews and writing transcripts before Oct 15th
+- Read sample interview transcripts from FYSM Color and Money
 
 ### Thur Oct 10: How to Interpret Patterns Across Multiple Interviews
 - Read FYSM Color & Money packets from past interviews
@@ -136,6 +140,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Tues Oct 15
 - No class: Trinity Day
+- Work on completing 3 interviews and writing transcripts before the end of the day
 
 ### Thur Oct 17: Finding Patterns Across Our Interviews
 - workshop in class
