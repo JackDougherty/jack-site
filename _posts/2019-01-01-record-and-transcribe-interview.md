@@ -7,7 +7,7 @@ categories:
   - technology
   - tutorial
 ---
-One of my most popular posts, originally published in November 2013, is updated below.
+One of my most popular posts, originally published in November 2013, and updated October 2019:
 
 Trinity College students: see the <a href="http://commons.trincoll.edu/irb">Trinity College Institutional Review Board (IRB) website</a> and check with your instructor before conducting any interviews
 
@@ -41,8 +41,7 @@ At the top of your transcript, provide this info:
 <p style="padding-left: 30px">Interview participant: [if research study promised confidentiality, use pseudonym]</p>
 <p style="padding-left: 30px">Interviewed by: [insert name of interviewer] at [general location] on [date]</p>
 <p style="padding-left: 30px">Transcribed by: [insert name of transcriber] on [date]</p>
-After each interview question, type the interview participant's spoken words INSIDE QUOTATION MARKS to designate direct quotes, like this:
-<p style="padding-left: 30px">"I remember everything that happened that day... &nbsp;it began with [unclear]."</p>
+
 Use an ellipses (...) to reflect a pause in the speaker's words.
 
 Use brackets to add any notes for readers, such as [unclear] for unintelligible words, or your best guess if unsure about the exact word or spelling, such as [Frog Hollow?], or descriptions to add context to spoken words, such as [signaled "zero" with fingers and laughed].
