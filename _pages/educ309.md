@@ -21,6 +21,8 @@ We will conduct interviews with a stratified random sample of Trinity students t
 
 2. How do perceptions and experiences of race and social class at Trinity vary among first-year students of different backgrounds?
 
+3. How do perceptions and experiences of the Community Action Gateway students (a non-random sample) compare to our stratified random sample of other first-year students?
+
 In addition, for the Community Learning component of this course, we will attend Hartford neighborhood group meetings to share the results of a recent door-to-door survey on how community residents perceive and experience Trinity College, and listen to how participants respond to this study.
 
 ### Requirements
@@ -121,13 +123,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Sample masked interview transcripts, FYSM 2013 <http://moodle.trincoll.edu>
 - Upload each interview audio file using your name & number (e.g. Jack1.mp3) <https://form.jotform.com/62918457632161>. The instructor will arrange for a first-pass transcription using automated Trint software, and will email the file back to the student to clean up.
 
-- Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," October 2019. Paper draft handed out in class, online version to come.
-- Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
-- Assign short essay #4, which requires attending one of the following NRZ and campus meetings with me to listen to neighborhood residents and members of the campus, write down their feedback about the report above, and submit it within 48 hours after the event:
-  - Tues Oct 15th at 5:30pm, Frog Hollow NRZ, 70 Vernon St, with students Eleanor, Elizabeth Densen, Rafael
-  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students ______
-  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly
-  - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
+- Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," October 2019. Paper draft handed out in class, now online <http://cher.trincoll.edu/resident-survey-2019>.
 
 ### Tues Oct 8: How to Transcribe, Mask, and Start Looking for Themes Across Interviews
 - See our [Educ 309 Interview Coding Sheet](https://docs.google.com/spreadsheets/d/1nE42wcfAcPPazK0Epk7SlfptrdgACKXk1luR4f8Giz0)
@@ -138,16 +134,24 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Instructor will email you the rough transcript for you to clean up and mask any individually-identifiable details, as described in [How to Digitally Record and Transcribe Interviews](https://jackdougherty.org/2019/01/01/record-and-transcribe-interview/)
   - Upload your clean & masked interviews, with name & number & pseudonym (e.g. Jack1-Tom.docx) to <https://form.jotform.com/63132823779159>
 
+### Thur Oct 10: Interview Coding Categories
+- Update on interviews, transcripts, and coding categories
+- See our [Educ 309 Interview Coding Sheet](https://docs.google.com/spreadsheets/d/1nE42wcfAcPPazK0Epk7SlfptrdgACKXk1luR4f8Giz0)
+- See 3rd research question about Community Action Gateway at top of syllabus
 
-### Thur Oct 10: How to Interpret Patterns Across Multiple Interviews
-- Read FYSM Color & Money packets from past interviews
-- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due ___
+- Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
+- Assign short essay #4: Attend one of the NRZ or campus meetings below, listen to me and/or Megan Brown present the [Community Resident Survey](http://cher.trincoll.edu/resident-survey-2019), and listen and write down how attendees responded, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event:
+  - Tues Oct 15th meeting begins at 5:30pm, our section begins at 6pm: Frog Hollow NRZ, 70 Vernon St, with students Eleanor, Elizabeth Densen, Rafael, and ______
+  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students ______
+  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, and _____
+  - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
 
 ### Tues Oct 15
 - No class: Trinity Day
 - Work on completing 3 interviews and writing transcripts before the end of the day
 
-### Thur Oct 17: Finding Patterns Across Our Interviews
+### Thur Oct 17: How to Interpret Patterns Across Multiple Interviews
+- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due ___
 - workshop in class
 
 ### Tues Oct 22: Making Persuasive Arguments with Supporting Evidence
