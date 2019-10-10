@@ -142,9 +142,9 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 - Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
 - Assign short essay #4: Attend one of the NRZ or campus meetings below, listen to me and/or Megan Brown present the [Community Resident Survey](http://cher.trincoll.edu/resident-survey-2019), and listen and write down how attendees responded, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event:
-  - Tues Oct 15th meeting begins at 5:30pm, our section begins at 6pm: Frog Hollow NRZ, 70 Vernon St, with students Eleanor, Elizabeth Densen, Rafael, and ______
-  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students ______
-  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, and _____
+  - Tues Oct 15th meeting begins at 5:30pm, our section begins at 6pm: Frog Hollow NRZ, 70 Vernon St, with students Eleanor, Elizabeth Densen, Rafael, and Alysia
+  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students Miley, Meghan, Caila
+  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, and Mabel
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
 
 ### Tues Oct 15
