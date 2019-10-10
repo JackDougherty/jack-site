@@ -137,6 +137,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 ### Thur Oct 10: Interview Coding Categories
 - Update on interviews, transcripts, and coding categories
 - See our [Educ 309 Interview Coding Sheet](https://docs.google.com/spreadsheets/d/1nE42wcfAcPPazK0Epk7SlfptrdgACKXk1luR4f8Giz0)
+- See our current set of clean & masked transcripts in Moodle <http://moodle.trincoll.edu>
 - See 3rd research question about Community Action Gateway at top of syllabus
 
 - Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
