@@ -152,8 +152,10 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Work on completing 3 interviews and writing transcripts before the end of the day
 
 ### Thur Oct 17: How to Interpret Patterns Across Multiple Interviews
+- Full set of clean & masked interview transcripts to come on <http://moodle.trincoll.edu>
+- [Interview Coding Sheet](https://docs.google.com/spreadsheets/d/1nE42wcfAcPPazK0Epk7SlfptrdgACKXk1luR4f8Giz0)
 - Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due ___
-- workshop in class
+- Thematic coding analysis workshop in class
 
 ### Tues Oct 22: Making Persuasive Arguments with Supporting Evidence
 - workshop in class
