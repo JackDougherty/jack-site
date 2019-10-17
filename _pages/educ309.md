@@ -152,13 +152,16 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Work on completing 3 interviews and writing transcripts before the end of the day
 
 ### Thur Oct 17: How to Interpret Patterns Across Multiple Interviews
-- Full set of clean & masked interview transcripts to come on <http://moodle.trincoll.edu>
+- All 30 masked interview transcripts at <http://moodle.trincoll.edu>
+- Together: create a grid to organize our transcripts by category
 - [Interview Coding Sheet](https://docs.google.com/spreadsheets/d/1nE42wcfAcPPazK0Epk7SlfptrdgACKXk1luR4f8Giz0)
-- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due ___
 - Thematic coding analysis workshop in class
+- Assign short essay #6: Make two insightful evidence-based arguments (one long paragraph each) about our interview data, due MONDAY Oct 21st by 9pm via blind review
+- Feedback on the Frog Hollow NRZ meeting
 
 ### Tues Oct 22: Making Persuasive Arguments with Supporting Evidence
 - workshop in class
+- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due AFTER Oct 31st
 
 ### Thur Oct 24
 - Secondary source readings to compare with our findings, TBA
@@ -170,7 +173,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Public presentation of research findings for guest evaluators. Final preparations during class, and presentation during Common Hour 12:15-1:15pm.
 
 ### Tues Nov 5
-- Assign short essay #5: each student will identify a short reading on topic related to this seminar, and write essay about why it matters, with discussion questions, for Nov 19, Nov 21, Dec 3
+- Assign short essay #6: each student will identify a short reading on topic related to this seminar, and write essay about why it matters, with discussion questions, for Nov 19, Nov 21, Dec 3
 
 ### Thur Nov 7
 - No class: Instructor's conference in Washington DC
@@ -189,7 +192,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 ### Thur Nov 14: How have activists challenged metro Hartford housing and schooling barriers over time?
 - *On The Line*, Chapters 4-5
 - Discussion facilitators _________
-- Short essay #6 (anonymous) with constructive criticism about *On The Line*, due Sunday Nov 17th at 6pm.
+- Anonymous with constructive criticism about *On The Line*, due Sunday Nov 17th at 6pm.
 
 ### Tues Nov 19
 - Discuss readings recommended by students, with their short essays and discussion questions, by _______
