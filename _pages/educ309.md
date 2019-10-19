@@ -21,7 +21,7 @@ We will conduct interviews with a stratified random sample of Trinity students t
 
 2. How do perceptions and experiences of race and social class at Trinity vary among first-year students of different backgrounds?
 
-3. How do perceptions and experiences of the Community Action Gateway students (a non-random sample) compare to our stratified random sample of other first-year students?
+3. How do perceptions and experiences of the Community Action Gateway students (a non-random self-selected sample) compare to our stratified random sample of other first-year students?
 
 In addition, for the Community Learning component of this course, we will attend Hartford neighborhood group meetings to share the results of a recent door-to-door survey on how community residents perceive and experience Trinity College, and listen to how participants respond to this study.
 
@@ -156,15 +156,16 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Together: create a grid to organize our transcripts by category
 - [Interview Coding Sheet](https://docs.google.com/spreadsheets/d/1nE42wcfAcPPazK0Epk7SlfptrdgACKXk1luR4f8Giz0)
 - Thematic coding analysis workshop in class
-- Assign short essay #6: Make two insightful evidence-based arguments (one long paragraph each) about our interview data, due MONDAY Oct 21st by 9pm via blind review
-- Feedback on the Frog Hollow NRZ meeting
+- [Assign Short Essay #5 on interpreting interview data](https://docs.google.com/document/d/1FDw54klebou1kUV3KTAoLcK0_24Q3BG1alHxdmYj_gA/) due MONDAY Oct 21st by 9pm via blind review <https://form.jotform.com/70646100400136>
 
 ### Tues Oct 22: Making Persuasive Arguments with Supporting Evidence
 - workshop in class
 - Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due AFTER Oct 31st
+- Feedback on the Frog Hollow NRZ meeting
 
 ### Thur Oct 24
 - Secondary source readings to compare with our findings, TBA
+- construct our common methodology paragraph(s)
 
 ### Tues Oct 29
 - Secondary source readings to compare with our findings, TBA
