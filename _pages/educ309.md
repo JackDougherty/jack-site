@@ -159,19 +159,27 @@ Each student must bring a laptop to each class session for writing, editing, and
 - [Assign Short Essay #5 on interpreting interview data](https://docs.google.com/document/d/1FDw54klebou1kUV3KTAoLcK0_24Q3BG1alHxdmYj_gA/) due MONDAY Oct 21st by 9pm via blind review <https://form.jotform.com/70646100400136>
 
 ### Tues Oct 22: Making Persuasive Arguments with Supporting Evidence
+- [Evaluating Essay 5 paragraphs](https://docs.google.com/document/d/1IpNs2Woftysk4OU8do7WcBBQZWTTsiH_-9GO0DGAWfU)
+  - Which paragraphs are most insightful?
+  - Which paragraphs are most persuasive?
+- Preparing our [Ed 309 presentation slides](https://docs.google.com/presentation/d/1FtG8e_s5X48QCB4NA-mlmZr84W68RVn1znB3_LsxiXk)
+  - Goal: one insightful claim per slide
+  - Everyone will have a speaking role; work together if desired
+  - Which claims should we present in the slides?
+  - What additional claims do you want help from the class to investigate?
 - workshop in class
-- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due AFTER Oct 31st
 - Feedback on the Frog Hollow NRZ meeting
 
 ### Thur Oct 24
 - Secondary source readings to compare with our findings, TBA
 - construct our common methodology paragraph(s)
+- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due AFTER Oct 31st
 
 ### Tues Oct 29
 - Secondary source readings to compare with our findings, TBA
 
 ### Thur Oct 31: Presenting our findings
-- Public presentation of research findings for guest evaluators. Final preparations during class, and presentation during Common Hour 12:15-1:15pm.
+- Public presentation of research findings for guest evaluators. Final preparations during class, and presentation during Common Hour 12:15-1:15pm in McCook 200 conference room, with light lunch and homemade cookies.
 
 ### Tues Nov 5
 - Assign short essay #6: each student will identify a short reading on topic related to this seminar, and write essay about why it matters, with discussion questions, for Nov 19, Nov 21, Dec 3
