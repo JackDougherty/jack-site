@@ -177,13 +177,13 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Update on [Short Essay #4: Responses to the "Trinity's Relationship with the Neighborhood" Report](https://docs.google.com/document/d/1ViaGoj1ulf1euEqNE-NIyB9jC6xXIziejF6Xk6U9gqI/edit)
   - Feedback on the Frog Hollow NRZ meeting (Rafael, Eleanor, Elizabeth Densen attended)
   - Finalize assignments for upcoming NRZ or campus meetings below, where Megan Brown will present the [Community Resident Survey](http://cher.trincoll.edu/resident-survey-2019), and listen and write down how attendees respond, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event:
-  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students Miley, Meghan, Caila, others?
-  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, Mabel, others?
+  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students Miley, Meghan
+  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, Mabel, Alysia, Caila
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students TBA
 
 ### Tues Oct 29: Preparing our presentation
 - Finalize the text and order of slides, and practice our presentation.
-- Presenter(s) are responsible for double-checking coding of transcripts, even if they did not conduct the interview 
+- Presenter(s) are responsible for double-checking coding of transcripts, even if they did not conduct the interview
 - Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due Sunday Nov 3rd by 6pm on blind-review (*more to come*)
 
 ### Thur Oct 31: Presenting our findings
