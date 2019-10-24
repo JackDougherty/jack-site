@@ -183,6 +183,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Tues Oct 29: Preparing our presentation
 - Finalize the text and order of slides, and practice our presentation.
+- Presenter(s) are responsible for double-checking coding of transcripts, even if they did not conduct the interview 
 - Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due Sunday Nov 3rd by 6pm on blind-review (*more to come*)
 
 ### Thur Oct 31: Presenting our findings
