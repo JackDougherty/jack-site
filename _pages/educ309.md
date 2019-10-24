@@ -122,7 +122,6 @@ Each student must bring a laptop to each class session for writing, editing, and
 - [How to Digitally Record and Transcribe Interviews](https://jackdougherty.org/2019/01/01/record-and-transcribe-interview/)
 - Sample masked interview transcripts, FYSM 2013 <http://moodle.trincoll.edu>
 - Upload each interview audio file using your name & number (e.g. Jack1.mp3) <https://form.jotform.com/62918457632161>. The instructor will arrange for a first-pass transcription using automated Trint software, and will email the file back to the student to clean up.
-
 - Read Megan Brown and Mabel Silva, "Trinity's Relationship with the Neighborhood: Results from a Community Resident Survey," October 2019. Paper draft handed out in class, now online <http://cher.trincoll.edu/resident-survey-2019>.
 
 ### Tues Oct 8: How to Transcribe, Mask, and Start Looking for Themes Across Interviews
@@ -139,10 +138,9 @@ Each student must bring a laptop to each class session for writing, editing, and
 - See our [Educ 309 Interview Coding Sheet](https://docs.google.com/spreadsheets/d/1nE42wcfAcPPazK0Epk7SlfptrdgACKXk1luR4f8Giz0)
 - See our current set of clean & masked transcripts in Moodle <http://moodle.trincoll.edu>
 - See 3rd research question about Community Action Gateway at top of syllabus
-
 - Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
 - Assign short essay #4: Attend one of the NRZ or campus meetings below, listen to me and/or Megan Brown present the [Community Resident Survey](http://cher.trincoll.edu/resident-survey-2019), and listen and write down how attendees responded, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event:
-  - Tues Oct 15th meeting begins at 5:30pm, our section begins at 6pm: Frog Hollow NRZ, 70 Vernon St, with students Eleanor, Elizabeth Densen, Rafael, and Alysia
+  - Tues Oct 15th meeting begins at 5:30pm, our section begins at 6pm: Frog Hollow NRZ, 70 Vernon St, with students Eleanor, Elizabeth Densen, Rafael
   - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students Miley, Meghan, Caila
   - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, and Mabel
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
@@ -168,40 +166,51 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Which claims should we present in the slides?
   - What additional claims do you want help from the class to investigate?
 - workshop in class
-- Feedback on the Frog Hollow NRZ meeting
 
-### Thur Oct 24
-- Secondary source readings to compare with our findings, TBA
-- construct our common methodology paragraph(s)
-- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due AFTER Oct 31st
+### Thur Oct 24: Refining our claims and evidence
+- What additional themes do we wish to code as a group?
+  - [See notes in Evaluating Essay 5 paragraphs](https://docs.google.com/document/d/1IpNs2Woftysk4OU8do7WcBBQZWTTsiH_-9GO0DGAWfU)
+  - [Interview Coding Sheet](https://docs.google.com/spreadsheets/d/1nE42wcfAcPPazK0Epk7SlfptrdgACKXk1luR4f8Giz0)
+- What claims do we wish to present? Who wishes to present each of them?
+  - Assign [solo or pair of students to create each presentation slide](https://docs.google.com/presentation/d/1FtG8e_s5X48QCB4NA-mlmZr84W68RVn1znB3_LsxiXk)
+  - Instructor will create and present our RQ and methods slides
+- Feedback on the Frog Hollow NRZ meeting (Eleanor, Elizabeth Densen, Rafael did essay #4)
+- Finalize assignments for short essay #4: Attend one of the NRZ or campus meetings below, where Megan Brown will present the [Community Resident Survey](http://cher.trincoll.edu/resident-survey-2019), and listen and write down how attendees respond, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event:
+  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students Miley, Meghan, Caila, others?
+  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, and Mabel
+  - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
 
-### Tues Oct 29
-- Secondary source readings to compare with our findings, TBA
+### Tues Oct 29: Preparing our presentation
+- Finalize the text and order of slides, and practice our presentation.
+- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due Sunday Nov 3rd by 6pm on blind-review (*more to come*)
 
 ### Thur Oct 31: Presenting our findings
-- Public presentation of research findings for guest evaluators. Final preparations during class, and presentation during Common Hour 12:15-1:15pm in McCook 200 conference room, with light lunch and homemade cookies.
+- Public presentation of research findings for audience. Final preparations during class *if needed*, and presentation during Common Hour 12:15-1:15pm in McCook 200 conference room, with light lunch and homemade cookies.
+- Guest evaluators from Educational Studies will score your solo/duo presentations based on two criteria: How insightful is the claim and interpretation? How persuasive is the evidence?
 
 ### Tues Nov 5
-- Assign short essay #6: each student will identify a short reading on topic related to this seminar, and write essay about why it matters, with discussion questions, for Nov 19, Nov 21, Dec 3
+- Read: Paul Tough, “What College Admissions Offices Really Want,” *The New York Times*, September 10, 2019, sec. Magazine, <https://www.nytimes.com/interactive/2019/09/10/magazine/college-admissions-paul-tough.html>.
+- Assign short essay #6: Identify a new reading related to this seminar (with link to text or PDF attached), describe how it connects and why it matters, and pose at least three discussion questions. Upload by Sunday Nov 10th at 6pm for blind-review at <https://form.jotform.com/70646100400136>. Instructor will use these to assign to class for Nov 19, Nov 21, Dec 3rd.
+- Assign discussion facilitators for Nov 12 & 14
+- [Common Hour event in Washington Room](https://events.trincoll.edu/#!view/event/date/20191105/event_id/74907): "Social Mobility Through Education: A Conversation with Paul Tough, Author of *The Years that Matter Most*”
 
 ### Thur Nov 7
-- No class: Instructor's conference in Washington DC
-- Instead, class will meet for dinner at instructor's home in September, and attend October NRZ meeting
+- No class: Instructor at conference in Washington DC. (In place of this class, students meet for dinner at instructor's home in September, and attend NRZ or campus meeting in Oct/Nov.)
 - Begin reading Jack Dougherty and contributors, *On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs* (Book-in-progress, under contract with Amherst College Press), <http://ontheline.trincoll.edu>
 
 ### Tues Nov 12: How have race and class barriers evolved in metropolitan Hartford over time?
 - *On The Line*, Preface and Chapters 1-3
 - Discussion facilitators _________
-- Assign individual writing you can use, due before our last class on Dec 5th. Prepare a research proposal for your senior thesis or a Community Learning Research Fellows project application, or a personal statement for your application to graduate school, actual or aspirational. Your writing must build on research experiences and insights from Educ 309 in some way. No more than 1500 words. See these resources:
-  - Ed Studies Junior Plan for Senior Thesis, with samples <https://commons.trincoll.edu/educ/junior-plan/>
-  - Community Learning Research Fellows application, *need to add samples* <https://cher.trincoll.edu/fellows>
-  - Advice on Applying to Grad School, with sample student essays: https://jackdougherty.org/grad-school/
-  -
+- Assign short essay #7: anonymous constructive criticism on *On The Line* book-in-progress
 
 ### Thur Nov 14: How have activists challenged metro Hartford housing and schooling barriers over time?
 - *On The Line*, Chapters 4-5
 - Discussion facilitators _________
-- Anonymous with constructive criticism about *On The Line*, due Sunday Nov 17th at 6pm.
+- Assign "Writing You Can Use," which builds on your research experiences and insights from Educ 309 in some way. No more than 1500 words. Due before our last class on Dec 5th.
+  - Write a research proposal for [Ed Studies Junior Plan](https://commons.trincoll.edu/educ/junior-plan/) or Senior Thesis, or
+  - Write a [Community Learning Research Fellows project application](https://cher.trincoll.edu/fellows), or
+  - Write a [personal statement for an application to graduate school](https://jackdougherty.org/grad-school/), or
+  - Propose a relevant new piece of writing to your instructor.
 
 ### Tues Nov 19
 - Discuss readings recommended by students, with their short essays and discussion questions, by _______
@@ -209,7 +218,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Discuss readings recommended by students, with their short essays and discussion questions, by _______
 
 ### Tues Nov 26
-- No class. Instead, schedule individual or small-group meetings with instructor to plan your future research proposal or graduate school statement, due at last class
+- No class. Instead, schedule individual or small-group meetings with instructor to discuss your "Writing You Can Use" assignment, due before our last class.
 
 ### Thur Nov 28
 - No class: Thanksgiving
@@ -226,11 +235,11 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 Students may access their individual scores on the password-protected Moodle site <http://moodle.trincoll.edu>. Your work will be evaluated based on:
 
-- Short essays on readings, no more than 500 words: 6 x 5 each = 30 points
+- Short essays on readings, no more than 500 words: 7 x 5 each = 35 points
 - Transcripts of assigned student interviews: 3 x 3.33 each = 10 points
+- Role in research presentation, evaluated by guest = 10 points
 - Individual essay on interpreting patterns across interviews, no more than 2000 words = 20 points
-- Research team presentation, evaluated by guest (10) and instructor (10) = 20 points
-- Individual future research proposal or grad school statement, under 1500 words = 10 points
+- Individual future research proposal or grad school statement, under 1500 words = 15 points
 - Peer evaluation of overall contribution to learning = 10 points
 
 Total = 100 points
