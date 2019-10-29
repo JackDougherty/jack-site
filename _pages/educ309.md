@@ -182,7 +182,7 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students TBA
 
 ### Tues Oct 29: Preparing our presentation
-- Finalize the text and order, and practice our presentation slides (https://docs.google.com/presentation/d/1FtG8e_s5X48QCB4NA-mlmZr84W68RVn1znB3_LsxiXk)
+- Finalize the text and order, and practice our [presentation slides](https://docs.google.com/presentation/d/1FtG8e_s5X48QCB4NA-mlmZr84W68RVn1znB3_LsxiXk)
 - Presenter(s) are responsible for double-checking coding of transcripts, even if they did not conduct the interview
 - [Assign Interpreting Interviews Essay](https://docs.google.com/document/d/1pmvHm8l19x2rXdSYCLLfVb6Jrp5Xjgk1M0ykC1JxAwA/edit), no more than 2000 words, due Sunday Nov 3rd by 6pm and submit on blind-review upload <https://form.jotform.com/70646100400136>
 
