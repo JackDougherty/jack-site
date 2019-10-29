@@ -141,8 +141,8 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Learn about Hartford Neighborhood Revitalization Zones (NRZs) <https://www.hartford2000.org/find-your-nrz/>
 - Assign short essay #4: Attend one of the NRZ or campus meetings below, listen to me and/or Megan Brown present the [Community Resident Survey](http://cher.trincoll.edu/resident-survey-2019), and listen and write down how attendees responded, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event:
   - Tues Oct 15th meeting begins at 5:30pm, our section begins at 6pm: Frog Hollow NRZ, 70 Vernon St, with students Eleanor, Elizabeth Densen, Rafael
-  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students Miley, Meghan, Caila
-  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, and Mabel
+  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students Miley
+  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, Mabel, Caila, Meghan
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students ______
 
 ### Tues Oct 15
@@ -182,13 +182,13 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students TBA
 
 ### Tues Oct 29: Preparing our presentation
-- Finalize the text and order of slides, and practice our presentation.
+- Finalize the text and order, and practice our presentation slides (https://docs.google.com/presentation/d/1FtG8e_s5X48QCB4NA-mlmZr84W68RVn1znB3_LsxiXk)
 - Presenter(s) are responsible for double-checking coding of transcripts, even if they did not conduct the interview
-- Assign Individual essay on interpreting patterns across our interviews, no more than 2000 words, due Sunday Nov 3rd by 6pm on blind-review (*more to come*)
+- [Assign Interpreting Interviews Essay](https://docs.google.com/document/d/1pmvHm8l19x2rXdSYCLLfVb6Jrp5Xjgk1M0ykC1JxAwA/edit), no more than 2000 words, due Sunday Nov 3rd by 6pm and submit on blind-review upload <https://form.jotform.com/70646100400136>
 
 ### Thur Oct 31: Presenting our findings
 - Public presentation of research findings for audience. Final preparations during class *if needed*, and presentation during Common Hour 12:15-1:15pm in McCook 200 conference room, with light lunch and homemade cookies.
-- Guest evaluators from Educational Studies will score your solo/duo presentations based on two criteria: How insightful is the claim and interpretation? How persuasive is the evidence?
+- Guest evaluators from Educational Studies will score your solo/duo presentations based on two criteria: How insightful is the claim and interpretation? How persuasive is the evidence? Worth 10 points.
 
 ### Tues Nov 5
 - Read: Paul Tough, “What College Admissions Offices Really Want,” *The New York Times*, September 10, 2019, sec. Magazine, <https://www.nytimes.com/interactive/2019/09/10/magazine/college-admissions-paul-tough.html>.
