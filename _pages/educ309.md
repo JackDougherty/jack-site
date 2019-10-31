@@ -187,8 +187,11 @@ Each student must bring a laptop to each class session for writing, editing, and
 - [Assign Interpreting Interviews Essay](https://docs.google.com/document/d/1pmvHm8l19x2rXdSYCLLfVb6Jrp5Xjgk1M0ykC1JxAwA/edit), no more than 2000 words, due Monday Nov 4th by 12 noon and submit on blind-review upload <https://form.jotform.com/70646100400136>
 
 ### Thur Oct 31: Presenting our findings
-- Public presentation of research findings for audience. Final preparations during class *if needed*, and presentation during Common Hour 12:15-1:15pm in McCook 200 conference room, with light lunch and homemade cookies.
-- Guest evaluators from Educational Studies will score your solo/duo presentations based on two criteria: How insightful is the claim and interpretation? How persuasive is the evidence? Worth 10 points.
+- Public presentation of research findings for audience in McCook 200 conference room.
+  - Instructor available at 11am for any last-minute discussions
+  - Group practice at 11:30am
+  - Presentation during Common Hour 12:15-1:15pm in McCook 200 conference room, with light lunch and homemade cookies.
+- Guest evaluators from Educational Studies will score your solo/duo presentations based on two criteria: How insightful is the claim and interpretation? How persuasive is the evidence? See [presentation evaluation form](https://docs.google.com/document/d/19hwwQNI05ynziM0DOAiiBqIzjEIOzM-U37Cq6m062tw/). Worth 10 points.
 
 ### Tues Nov 5
 - Read: Paul Tough, “What College Admissions Offices Really Want,” *The New York Times*, September 10, 2019, sec. Magazine, <https://www.nytimes.com/interactive/2019/09/10/magazine/college-admissions-paul-tough.html>.
