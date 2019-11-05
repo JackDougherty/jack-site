@@ -177,9 +177,10 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Update on [Short Essay #4: Responses to the "Trinity's Relationship with the Neighborhood" Report](https://docs.google.com/document/d/1ViaGoj1ulf1euEqNE-NIyB9jC6xXIziejF6Xk6U9gqI/edit)
   - Feedback on the Frog Hollow NRZ meeting (Rafael, Eleanor, Elizabeth Densen attended)
   - Finalize assignments for upcoming NRZ or campus meetings below, where Megan Brown will present the [Community Resident Survey](http://cher.trincoll.edu/resident-survey-2019), and listen and write down how attendees respond, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event:
-  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with students Miley, Meghan
+  - Friday Oct 25th at 12-1pm, McCook 201 conference room, with student Miley
   - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students Clare, Elizabeth Daly, Mabel, Alysia, Caila
   - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students TBA
+  - choose a date above: Meghan,
 
 ### Tues Oct 29: Preparing our presentation
 - Finalize the text and order of our [presentation slides](https://docs.google.com/presentation/d/1FtG8e_s5X48QCB4NA-mlmZr84W68RVn1znB3_LsxiXk)
@@ -195,22 +196,35 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Tues Nov 5
 - Read: Paul Tough, “What College Admissions Offices Really Want,” *The New York Times*, September 10, 2019, sec. Magazine, <https://www.nytimes.com/interactive/2019/09/10/magazine/college-admissions-paul-tough.html>.
-- Assign short essay #6: Identify a new reading related to this seminar (with link to text or PDF attached), describe how it connects and why it matters, and pose at least three discussion questions. Upload by Sunday Nov 10th at 6pm for blind-review at <https://form.jotform.com/70646100400136>. Instructor will use these to assign to class for Nov 19, Nov 21, Dec 3rd.
-- Assign discussion facilitators for Nov 12 & 14
+- [Assign short essay #6](https://docs.google.com/document/d/1-LW0sM9tisMPGvbeNIlfgZqksHec-6-z0XVP-MkU_Lk) to nominate new readings and discussion questions for late Nov/early Dec. Due via email by Sun Nov 10th at 6pm.
+- Assign reading and discussion facilitators for Nov 12 & 14
+- Update on [Short Essay #4: Responses to the "Trinity's Relationship with the Neighborhood" Report](https://docs.google.com/document/d/1ViaGoj1ulf1euEqNE-NIyB9jC6xXIziejF6Xk6U9gqI/edit). Attend public event where Megan Brown presents the [Report](http://cher.trincoll.edu/resident-survey-2019), and listen and write down how attendees respond, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event:
+  - Tues Oct 15th Frog Hollow NRZ meeting (attended by Rafael, Eleanor, Elizabeth Densen)
+  - Finalize assignments for upcoming NRZ or campus meetings below,
+  - Friday Oct 25th McCook 201 conference room (attended by Miley
+  - Tues Nov 12th at 6pm, Southwest/Behind the Rocks NRZ, Free Center, 460 New Britain Ave, with students: Clare, Elizabeth Daly, Mabel, Alysia, Caila; Jack will provide transportation if needed
+  - Thur Nov 14th at 6pm, Maple Ave NRZ, St. Augustine Church, 10 Campfield Ave, with students TBA; Jack will provide transportation if needed
+  - choose a date above: Meghan, Amber
 - [Common Hour event in Washington Room](https://events.trincoll.edu/#!view/event/date/20191105/event_id/74907): "Social Mobility Through Education: A Conversation with Paul Tough, Author of *The Years that Matter Most*”
 
 ### Thur Nov 7
 - No class: Instructor at conference in Washington DC. (In place of this class, students meet for dinner at instructor's home in September, and attend NRZ or campus meeting in Oct/Nov.)
 - Begin reading Jack Dougherty and contributors, *On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs* (Book-in-progress, under contract with Amherst College Press), <http://ontheline.trincoll.edu>
 
-### Tues Nov 12: How have race and class barriers evolved in metropolitan Hartford over time?
-- *On The Line*, Preface and Chapters 1-3
-- Discussion facilitators _________
-- Assign short essay #7: anonymous constructive criticism on *On The Line* book-in-progress
+### Tues Nov 12: How have race and wealth barriers evolved in metropolitan Hartford over time?
+- *On The Line* <http://ontheline.trincoll.edu> discussion facilitators
+- Preface and Chapter 1 intro ______
+- Chapter 2.1 on richest city ___________
+- Chapter 3.1 on federal lending ____________
+- Chapter 3.2 on restrictive covenants ____________
+- Chapter 3.3 on public housing ____________
+- Assign short essay #7: anonymous constructive criticism on *On The Line* book-in-progress. What is working well so far? What areas should be improved?
 
 ### Thur Nov 14: How have activists challenged metro Hartford housing and schooling barriers over time?
-- *On The Line*, Chapters 4-5
-- Discussion facilitators _________
+- *On The Line* <http://ontheline.trincoll.edu> discussion facilitators
+- Chapter 5.1 on mobilizing against racial steering ___________
+- Chapter 5.2 on jumping the line ___________
+- Chapter 8 on teaching and researching __________
 - Assign "Writing You Can Use," which builds on your research experiences and insights from Educ 309 in some way. No more than 1500 words. Due before our last class on Dec 5th.
   - Write a research proposal for [Ed Studies Junior Plan](https://commons.trincoll.edu/educ/junior-plan/) or Senior Thesis, or
   - Write a [Community Learning Research Fellows project application](https://cher.trincoll.edu/fellows), or
