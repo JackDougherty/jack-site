@@ -218,14 +218,15 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Chapter 3.1 on federal lending by Rafael
 - Chapter 3.2 on restrictive covenants by Amber
 - Chapter 3.3 on public housing by Miley, Mabel
-- Assign short essay #7: anonymous constructive criticism on *On The Line* book-in-progress. What is working well so far? What areas should be improved?
+- Assign short essay #7: Submit your anonymous constructive criticism on *On The Line* book-in-progress. What is working well so far? What areas should be improved? About 300 words. Upload with NO NAME OR ID to remain anonymous <https://form.jotform.com/70646100400136>
 - TONIGHT, if you want a ride, meet at Mather Circle at 5:50pm. [Southwest/Behind the Rocks NRZ meeting](https://drive.google.com/open?id=1MGTU1-xdvYx7P5g-Tyir_kG9b-LYzcDX) begins at 6pm, at the Free Center (former Goodwin Library), 460 New Britain Ave, with students: Clare, Elizabeth Daly, Mabel, Alysia, Caila, Amber. Listen and write down how attendees respond to report, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event.
 
 ### Thur Nov 14: How have activists challenged metro Hartford housing and schooling barriers over time?
 - *On The Line* <http://ontheline.trincoll.edu> discussion facilitators
 - Chapter 5.1 on mobilizing against racial steering by Eleanor
 - Chapter 5.2 on jumping the line by Alysia
-- Chapter 8 on teaching and researching __________
+- Chapter 8.4 on writing by Meghan
+- chapter 8.2 or 8.6 on teaching/research by Caila
 - Assign "Writing You Can Use," which builds on your research experiences and insights from Educ 309 in some way. No more than 1500 words. Due before our last class on Dec 5th.
   - Write a research proposal for [Ed Studies Junior Plan](https://commons.trincoll.edu/educ/junior-plan/) or Senior Thesis, or
   - Write a [Community Learning Research Fellows project application](https://cher.trincoll.edu/fellows), or
