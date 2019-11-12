@@ -219,6 +219,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Chapter 3.2 on restrictive covenants by Amber
 - Chapter 3.3 on public housing by Miley, Mabel
 - Assign short essay #7: anonymous constructive criticism on *On The Line* book-in-progress. What is working well so far? What areas should be improved?
+- TONIGHT, if you want a ride, meet at Mather Circle at 5:50pm. [Southwest/Behind the Rocks NRZ meeting](https://drive.google.com/open?id=1MGTU1-xdvYx7P5g-Tyir_kG9b-LYzcDX) begins at 6pm, at the Free Center (former Goodwin Library), 460 New Britain Ave, with students: Clare, Elizabeth Daly, Mabel, Alysia, Caila, Amber. Listen and write down how attendees respond to report, without using their names unless they request it. About 300 words. Email to me with your name within 48 hours after the event.
 
 ### Thur Nov 14: How have activists challenged metro Hartford housing and schooling barriers over time?
 - *On The Line* <http://ontheline.trincoll.edu> discussion facilitators
