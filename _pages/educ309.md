@@ -229,21 +229,26 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Write a research proposal for [Ed Studies Junior Plan](https://commons.trincoll.edu/educ/junior-plan/) or Senior Thesis, or
   - Write a [Community Learning Research Fellows project application](https://cher.trincoll.edu/fellows), or
   - Write a [personal statement for an application to graduate school](https://jackdougherty.org/grad-school/), or
+  - Write an op-ed essay on a key finding from our interview research, with policy recommendation, and submit to the [Trinity Tripod](http://tripod.domains.trincoll.edu/) or [CT Mirror Viewpoints](https://ctmirror.org/submit-to-viewpoints/) or Hartford Courant (see "Fresh Talk" instructions at bottom of Townsend's essay below). See other Trinity student op-ed essays by [Vianna Iorio on white privilege at Trinity](https://www.courant.com/opinion/op-ed/hc-op-fresh-talk-iorio-white-privilege-trinity-college-0719-20170718-story.html), [Amber Townsend on growing up on the 'other side' of town](https://www.courant.com/opinion/op-ed/hc-op-fresh-talk-townsend-ct-fair-housing-bills-0315-2-20170314-story.html).
   - Propose a relevant new piece of writing to your instructor.
 
 ### Tues Nov 19
-- Discuss readings recommended by students, with their short essays and discussion questions, by _______
+- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide)
+  - Elizabeth Densen will lead: Keith Meatto, “Still Separate, Still Unequal: Teaching about School Segregation and Educational Inequality,” The New York Times, May 2, 2019, <https://www.nytimes.com/2019/05/02/learning/lesson-plans/still-separate-still-unequal-teaching-about-school-segregation-and-educational-inequality.html>
+  - Amber will lead: Nadia Lopez, The Bridge to Brilliance: How One Principal in a Tough Community Is Inspiring the World (Viking Press, 2016), [excerpts in Moodle](http://moodle.trincoll.edu).
+  - Eleanor will lead: Alexandra Minna Stearn, “STERILIZED in the Name of Public Health: Race, Immigration, and Reproductive Control in Modern California.” American Journal of Public Health, vol. 95, no. 7, July 2005, pp. 1128–38. DOI.org (Crossref), doi:10.2105/AJPH.2004.041608. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449330/pdf/0951128.pdf>
+
 ### Thur Nov 21
-- Discuss readings recommended by students, with their short essays and discussion questions, by _______
+- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide)
 
 ### Tues Nov 26
-- No class. Instead, schedule individual or small-group meetings with instructor to discuss your "Writing You Can Use" assignment, due before our last class.
+- Instead our regular class, [schedule an solo or small-group meeting with instructor](http://jackdougherty.org) to discuss your "Writing You Can Use" assignment, due before our last class.
 
 ### Thur Nov 28
 - No class: Thanksgiving
 
 ### Tues Dec 3
-- Discuss readings recommended by students, with their short essays and discussion questions, by ________
+- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide)
 
 ### Thur Dec 5
 - Share and reflect on individual final essays
