@@ -238,10 +238,11 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Amber will lead: Nadia Lopez, The Bridge to Brilliance: How One Principal in a Tough Community Is Inspiring the World (Viking Press, 2016), [excerpts in Moodle](http://moodle.trincoll.edu).
   - Clare will lead: Cintli Sanchez, "Helpful or Harmful? Teach For America in a Hartford Elementary
  School". Senior Theses, Trinity College, Hartford, CT 2009. Trinity College Digital Repository, <https://digitalrepository.trincoll.edu/theses/226>.
-  - Eleanor will lead: Alexandra Minna Stearn, “STERILIZED in the Name of Public Health: Race, Immigration, and Reproductive Control in Modern California.” American Journal of Public Health, vol. 95, no. 7, July 2005, pp. 1128–38. DOI.org (Crossref), doi:10.2105/AJPH.2004.041608. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449330/pdf/0951128.pdf>
 
 ### Thur Nov 21
 - Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide)
+- Eleanor will lead: Alexandra Minna Stearn, “STERILIZED in the Name of Public Health: Race, Immigration, and Reproductive Control in Modern California.” American Journal of Public Health, vol. 95, no. 7, July 2005, pp. 1128–38. DOI.org (Crossref), doi:10.2105/AJPH.2004.041608. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449330/pdf/0951128.pdf>
+- more to come
 
 ### Tues Nov 26
 - Instead our regular class, [schedule an solo or small-group meeting with instructor](http://jackdougherty.org) to discuss your "Writing You Can Use" assignment, due before our last class.
