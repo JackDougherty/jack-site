@@ -236,6 +236,8 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide)
   - Elizabeth Densen will lead: Keith Meatto, “Still Separate, Still Unequal: Teaching about School Segregation and Educational Inequality,” The New York Times, May 2, 2019, <https://www.nytimes.com/2019/05/02/learning/lesson-plans/still-separate-still-unequal-teaching-about-school-segregation-and-educational-inequality.html>
   - Amber will lead: Nadia Lopez, The Bridge to Brilliance: How One Principal in a Tough Community Is Inspiring the World (Viking Press, 2016), [excerpts in Moodle](http://moodle.trincoll.edu).
+  - Clare will lead: Cintli Sanchez, "Helpful or Harmful? Teach For America in a Hartford Elementary
+ School". Senior Theses, Trinity College, Hartford, CT 2009. Trinity College Digital Repository, <https://digitalrepository.trincoll.edu/theses/226>.
   - Eleanor will lead: Alexandra Minna Stearn, “STERILIZED in the Name of Public Health: Race, Immigration, and Reproductive Control in Modern California.” American Journal of Public Health, vol. 95, no. 7, July 2005, pp. 1128–38. DOI.org (Crossref), doi:10.2105/AJPH.2004.041608. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449330/pdf/0951128.pdf>
 
 ### Thur Nov 21
