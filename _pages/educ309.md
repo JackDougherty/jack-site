@@ -233,16 +233,20 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Propose a relevant new piece of writing to your instructor.
 
 ### Tues Nov 19
-- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide)
+- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide). This is NOT a presentation. Instead, leaders should be prepared to guide an engaging discussion with the class for 12-15 minutes.
   - Elizabeth Densen will lead: Keith Meatto, “Still Separate, Still Unequal: Teaching about School Segregation and Educational Inequality,” The New York Times, May 2, 2019, <https://www.nytimes.com/2019/05/02/learning/lesson-plans/still-separate-still-unequal-teaching-about-school-segregation-and-educational-inequality.html>
   - Amber will lead: Nadia Lopez, The Bridge to Brilliance: How One Principal in a Tough Community Is Inspiring the World (Viking Press, 2016), [excerpts in Moodle](http://moodle.trincoll.edu).
-  - Clare will lead: Cintli Sanchez, "Helpful or Harmful? Teach For America in a Hartford Elementary
- School". Senior Theses, Trinity College, Hartford, CT 2009. Trinity College Digital Repository, <https://digitalrepository.trincoll.edu/theses/226>.
+  - Clare will lead: Cintli Sanchez, "Helpful or Harmful? Teach For America in a Hartford Elementary School". Senior Theses, Trinity College, Hartford, CT 2009. Trinity College Digital Repository, <https://digitalrepository.trincoll.edu/theses/226>.
+- Everyone: add your [anonymous constructive criticism for each discussion leader](https://forms.gle/H9z4jPe8GWiU88vX7)
+- [Sign up for an appointment](http://jackdougherty.org), solo or group (I'll buy beverages at Underground or Peter Bs) to discuss your plans for "Writing You Can Use" assignment, due in class on Dec 5th. If you want to meet somewhere other than my office, write the location in the "topic" line on the appointment and I'll meet you there.
 
 ### Thur Nov 21
-- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide)
-- Eleanor will lead: Alexandra Minna Stearn, “STERILIZED in the Name of Public Health: Race, Immigration, and Reproductive Control in Modern California.” American Journal of Public Health, vol. 95, no. 7, July 2005, pp. 1128–38. DOI.org (Crossref), doi:10.2105/AJPH.2004.041608. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449330/pdf/0951128.pdf>
-- more to come
+- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide). This is NOT a presentation. Instead, leaders should be prepared to guide an engaging discussion with the class for 12-15 minutes.
+  - Eleanor will lead: Alexandra Minna Stearn, “STERILIZED in the Name of Public Health: Race, Immigration, and Reproductive Control in Modern California.” American Journal of Public Health, vol. 95, no. 7, July 2005, pp. 1128–38. DOI.org (Crossref), doi:10.2105/AJPH.2004.041608. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449330/pdf/0951128.pdf>
+  - Elizabeth Daly will lead: Eric Jensen, Chapter 2: How Poverty Affects Behavior and Academic Performance, in *Teaching with Poverty in Mind* (ASCD Books, 2009). http://www.ascd.org/publications/books/109074/chapters/How-Poverty-Affects-Behavior-and-Academic-Performance.aspx
+  - Miley Liu will lead: Brian Rosenberg, "In the Admissions Game, the Rich Keep Getting Richer," The Chronicle of Higher Education, November 04, 2019,
+<https://www.chronicle.com/article/In-the-Admissions-Game-the/247483>
+- Everyone: add your [anonymous constructive criticism for each discussion leader](https://forms.gle/H9z4jPe8GWiU88vX7)
 
 ### Tues Nov 26
 - Instead our regular class, [schedule an solo or small-group meeting with instructor](http://jackdougherty.org) to discuss your "Writing You Can Use" assignment, due before our last class.
@@ -251,10 +255,14 @@ Each student must bring a laptop to each class session for writing, editing, and
 - No class: Thanksgiving
 
 ### Tues Dec 3
-- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide)
+- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide). This is NOT a presentation. Instead, leaders should be prepared to guide an engaging discussion with the class for 12-15 minutes.
+  - Mabel will lead: Valerie Strauss," Analysis | Elizabeth Warren made charter school supporters mighty angry. Now they are targeting her." Washington Post, October 30, 2019, <https://www.washingtonpost.com/education/2019/10/30/elizabeth-warren-made-charter-school-supporters-mighty-angry-now-they-are-targeting-her/>
+  - Meghan will lead: Perry Stein, “DC Charter Schools Experience First Enrollment Drop since 1996,” Washington Post, October 22, 2019, <https://www.washingtonpost.com/local/education/dc-charter-schools-experience-first-enrollment-decline-since-1996/2019/10/22/95d691f6-f4da-11e9-a285-882a8e386a96_story.html>
+  - Rafael will lead: Elizabeth Todd-Breland. *A Political Education: Black Politics and Education Reform in Chicago since the 1960s.* (University of North Carolina Press, 2018), excerpts from introduction (pp 7-12, 15) and chapter 4 (pp. 126-135), on [Moodle](http://moodle.trincoll.edu)
+- Everyone: add your [anonymous constructive criticism for each discussion leader](https://forms.gle/H9z4jPe8GWiU88vX7)
 
 ### Thur Dec 5
-- Share and reflect on individual final essays
+- Share and reflect on individual "Writing You Can Use" essays
 - Peer evaluation of overall contribution to learning
 
 --------
