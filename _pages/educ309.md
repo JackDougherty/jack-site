@@ -256,6 +256,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 
 ### Tues Dec 3
 - Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide). This is NOT a presentation. Instead, leaders should be prepared to guide an engaging discussion with the class for 12-15 minutes.
+- **Reminder:** Discussion leaders will start immediately at the beginning of class, with no prep time.
   - Mabel will lead: Valerie Strauss, "Analysis: Elizabeth Warren made charter school supporters mighty angry. Now they are targeting her." Washington Post, October 30, 2019, <https://www.washingtonpost.com/education/2019/10/30/elizabeth-warren-made-charter-school-supporters-mighty-angry-now-they-are-targeting-her/>
   - Meghan will lead: Perry Stein, “DC Charter Schools Experience First Enrollment Drop since 1996,” Washington Post, October 22, 2019, <https://www.washingtonpost.com/local/education/dc-charter-schools-experience-first-enrollment-decline-since-1996/2019/10/22/95d691f6-f4da-11e9-a285-882a8e386a96_story.html>
   - Rafael will lead: Elizabeth Todd-Breland. *A Political Education: Black Politics and Education Reform in Chicago since the 1960s.* (University of North Carolina Press, 2018), excerpts from introduction (pp 7-12, 15) and chapter 4 (pp. 126-135), on [Moodle](http://moodle.trincoll.edu)
