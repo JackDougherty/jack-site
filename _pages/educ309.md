@@ -255,7 +255,7 @@ Each student must bring a laptop to each class session for writing, editing, and
 - No class: Thanksgiving
 
 ### Tues Dec 3
-- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide). This is NOT a presentation. Instead, leaders should be prepared to guide an engaging discussion with the class for 12-15 minutes.
+- Discuss readings nominated by students, with their [short essays on why it matters and discussion question guide](http://bit.ly/educ309-discussion-guide). This is NOT a presentation. Instead, leaders should be prepared to guide an engaging discussion with the class for 12-15 minutes. Use discussion guide link above to refine your plans and strengthen peer engagement. Participants understand instructions and discussion questions best when we both *hear* you say them and *see* them written out.
 - **Reminder:** Discussion leaders will start immediately at the beginning of class, with no prep time.
   - Mabel will lead: Valerie Strauss, "Analysis: Elizabeth Warren made charter school supporters mighty angry. Now they are targeting her." Washington Post, October 30, 2019, <https://www.washingtonpost.com/education/2019/10/30/elizabeth-warren-made-charter-school-supporters-mighty-angry-now-they-are-targeting-her/>
   - Meghan will lead: Diane Ravitch, "The Charter School Mistake" LA Times, October 1, 2013 <https://www.latimes.com/opinion/op-ed/la-oe-ravitch-charters-school-reform-20131001-story.html>
