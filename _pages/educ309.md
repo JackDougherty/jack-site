@@ -266,8 +266,13 @@ Each student must bring a laptop to each class session for writing, editing, and
 - Everyone: add your [anonymous constructive criticism for each discussion leader](https://forms.gle/H9z4jPe8GWiU88vX7)
 
 ### Thur Dec 5
-- Share and reflect on individual "Writing You Can Use" essays
-- Peer evaluation of overall contribution to learning
+- Before class, [upload your individual "Writing You Can Use" essays](https://docs.google.com/document/d/1475eybH9eEYdoNiwQqe21dRZ2RFajo73yMSu8z5FQSw/edit), which build on your research experiences and insights from Educ 309 in some way. No more than 1500 words. Be prepared to share and reflect on what you wrote about with the class. Due before our last class on Dec 5th.
+  - Write a research proposal for [Ed Studies Junior Plan](https://commons.trincoll.edu/educ/junior-plan/) or Senior Thesis, or
+  - Write a [Community Learning Research Fellows project application](https://cher.trincoll.edu/fellows), or
+  - Write a [personal statement for an application to graduate school](https://jackdougherty.org/grad-school/), or
+  - Write an op-ed essay on a key finding from our interview research, with policy recommendation, and submit to the [Trinity Tripod](http://tripod.domains.trincoll.edu/) or [CT Mirror Viewpoints](https://ctmirror.org/submit-to-viewpoints/) or Hartford Courant (see "Fresh Talk" instructions at bottom of Townsend's essay below). See other Trinity student op-ed essays by [Vianna Iorio on white privilege at Trinity](https://www.courant.com/opinion/op-ed/hc-op-fresh-talk-iorio-white-privilege-trinity-college-0719-20170718-story.html), [Amber Townsend on growing up on the 'other side' of town](https://www.courant.com/opinion/op-ed/hc-op-fresh-talk-townsend-ct-fair-housing-bills-0315-2-20170314-story.html).
+  - Propose a relevant new piece of writing to your instructor.
+- In class: Peer evaluation of overall contribution to learning
 
 --------
 ## Assessment
