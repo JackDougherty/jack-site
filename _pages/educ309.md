@@ -272,7 +272,10 @@ Each student must bring a laptop to each class session for writing, editing, and
   - Write a [personal statement for an application to graduate school](https://jackdougherty.org/grad-school/), or
   - Write an op-ed essay on a key finding from our interview research, with policy recommendation, and submit to the [Trinity Tripod](http://tripod.domains.trincoll.edu/) or [CT Mirror Viewpoints](https://ctmirror.org/submit-to-viewpoints/) or Hartford Courant (see "Fresh Talk" instructions at bottom of Townsend's essay below). See other Trinity student op-ed essays by [Vianna Iorio on white privilege at Trinity](https://www.courant.com/opinion/op-ed/hc-op-fresh-talk-iorio-white-privilege-trinity-college-0719-20170718-story.html), [Amber Townsend on growing up on the 'other side' of town](https://www.courant.com/opinion/op-ed/hc-op-fresh-talk-townsend-ct-fair-housing-bills-0315-2-20170314-story.html).
   - Propose a relevant new piece of writing to your instructor.
-- In class: Peer evaluation of overall contribution to learning
+
+- In-class feedback form: [What aspects of the course helped you to learn?](https://forms.gle/HiSqFhbCPksQEyD87)
+- One-minute presentations: Show us your [Writing You Can Use submission](https://docs.google.com/document/d/1475eybH9eEYdoNiwQqe21dRZ2RFajo73yMSu8z5FQSw), and tell us how it expands on concepts or skills that you learned in this class.
+- In-class feedback by email: Peer evaluation of overall contribution to learning, due back to instructor by the end of class.
 
 --------
 ## Assessment
