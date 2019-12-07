@@ -11,13 +11,14 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.16.4"
+remote_theme             : "mmistakes/minimal-mistakes@4.17.2"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "JackDougherty.org"
 title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jack Dougherty"
 description              : "Teaching & Advising, Digital Scholarship, and Community Engagement with Professor Jack Dougherty at Trinity College, Hartford CT, USA"
 url                      : "https://jackdougherty.org" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-url
@@ -220,7 +221,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
   - jekyll-redirect-from  #customized
 
@@ -230,7 +230,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
   - jekyll-redirect-from  #customized
 
