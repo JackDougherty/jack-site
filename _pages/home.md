@@ -23,12 +23,12 @@ feature_row:
 feature_row2:
 - image_path: images/home/coverOTL-600x400.jpg
   alt: "On The Line book cover"
-  excerpt: "[On The Line](http://ontheline.trincoll.edu) historical book-in-progress with student contributors"
-  url: http://ontheline.trincoll.edu
-- image_path: images/home/coverDataVizForAll-600x400.jpg
-  alt: "Data Visualization For All book cover"
-  excerpt: "[Data Visualization for All](http://datavizforall.org) book-in-progress with Ilya Ilyankou"
-  url: http://datavizforall.org
+  excerpt: "[On The Line](https://ontheline.trincoll.edu) historical book-in-progress with student contributors"
+  url: https://ontheline.trincoll.edu
+- image_path: images/home/coverHandsOnDataViz-600x400.jpg
+  alt: "Hands-On Data Visualization book cover"
+  excerpt: "[Hands-On Data Visualization](https://handsondataviz.org) book-in-progress with Ilya Ilyankou"
+  url: https://handsondataviz.org
 - image_path: images/home/cover3Books-600x400.jpg
   alt: "additional books"
   excerpt: "[More books and essays](/scholarship/)"
