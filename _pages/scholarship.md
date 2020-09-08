@@ -1,16 +1,20 @@
 ---
 title: "Scholarship"
 permalink: /scholarship/
-date: 2019-02-01
+date: 2020-09-08
 ---
 
 ## Works in-progress
 
 Dougherty, Jack, and contributors. *On the Line: How Schooling, Housing, and Civil Rights Shaped Hartford and Its Suburbs*. Open-access book-in-progress, under contract with Amherst College Press. <http://OnTheLine.trincoll.edu>. Abstract: Draft edition of a digital-first, open-access, book-in-progress. A history of housing and schooling boundaries that have divided metropolitan Hartford, Connecticut, and the struggles of families and civil rights activists to cross over, redraw, or erase these lines.
 
-Dougherty, Jack, and Ilya Ilyankou. *Data Visualization for All*. Open-access textbook-in-progress, Trinity College. <http://datavizforall.org.> Abstract: Tell your data story with free and easy-to-learn tools. This open-access textbook shows how to design interactive charts and maps for your website. We begin with drag-and-drop tools and gradually work our way up to editing open-source code templates. This friendly introduction includes step-by-step tutorials, video screencasts, and real-world examples. Featured tools include Google Sheets, Tableau Public, Highcharts, Leaflet, GitHub, and more.
+Dougherty, Jack, and Ilya Ilyankou. *Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code*. Open-access book-in-progress, under contract with O'Reilly Media. <http://HandsOnDataViz.org.> Abstract: Tell your story and show it with data, using free and easy-to-learn tools on the web. This introductory book teaches you how to design interactive charts and customized maps for your website, beginning with easy drag-and-drop tools, such as Google Sheets, Datawrapper, and Tableau Public. You'll also gradually learn how to edit open-source code templates like Chart.js, Highcharts, and Leaflet on GitHub. Follow along with the step-by-step tutorials, real-world examples, and online resources. This book is ideal for students, non-profit organizations, small business owners, local governments, journalists, academics, or anyone who wants to tell their story and show the data. No coding experience is required.
+
+Brown, Megan, Jack Dougherty, and Jeff Partridge. “Flipping the Script: Community-Initiated Urban Research with the Liberal Arts Action Lab.” In *Handbook on Participatory Action Research and Community Development*, edited by Randy Stoecker and Adrienne Falcón. Elgar Publishing, under review.
 
 ## Publications (in descending chronological order)
+
+Dougherty, Jack. “The Federal Government and Redlining in Connecticut,” *Connecticut Explored* 17, no. 3 (Summer 2019): 48–49, https://www.ctexplored.org/summer-2019-a-jurassic-discovery/.
 
 Dougherty, Jack, and Megan Faver Hartline. “Op-Ed: Your Dean Favors Experiential Liberal Arts: Now What?” *Campus Compact of Southern New England (CCSNE)*, January 28, 2019. <https://ccsne.compact.org/resource-posts/your-dean-favors-experiential-liberal-arts/>. Abstract: We believe that experiential learning has a place when it serves the core mission of a liberal arts education: how to think from the perspective of other people, especially when their academic orientations or life backgrounds differ from your own. For newer faculty navigating the difficult waters of higher education — and for academic leaders seeking to offer them intellectual and institutional guidance — we offer these pieces of advice.
 

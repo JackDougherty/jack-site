@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /
-date: 2020-09-05
+date: 2020-09-08
 layout: single
 
 # Teaching and Advising
@@ -23,11 +23,11 @@ feature_row:
 feature_row2:
 - image_path: images/home/coverOTL-600x400.jpg
   alt: "On The Line book cover"
-  excerpt: "[On The Line](https://ontheline.trincoll.edu) historical book-in-progress with student contributors"
+  excerpt: "[On The Line](https://ontheline.trincoll.edu) with student contributors, book-in-progress under contract with Amherst College Press"
   url: https://ontheline.trincoll.edu
 - image_path: images/home/coverHandsOnDataViz-600x400.jpg
   alt: "Hands-On Data Visualization book cover"
-  excerpt: "[Hands-On Data Visualization](https://handsondataviz.org) book-in-progress with Ilya Ilyankou"
+  excerpt: "[Hands-On Data Visualization](https://handsondataviz.org) with Ilya Ilyankou, book-in-progress under contract with O'Reilly Media"
   url: https://handsondataviz.org
 - image_path: images/home/cover3Books-600x400.jpg
   alt: "additional books"
