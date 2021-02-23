@@ -1,10 +1,6 @@
 ---
-id: 756
-title: How (and why) to evaluate student writing as blind-review
+title: 'How (and why) to evaluate student writing as blind-review'
 date: 2012-10-11T16:30:33+00:00
-author: jdoughe2
-layout: post
-guid: http://commons.trincoll.edu/jackdougherty/?p=756
 permalink: /2012/10/11/blind-review/
 categories:
 - teaching
