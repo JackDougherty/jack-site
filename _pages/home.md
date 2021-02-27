@@ -8,11 +8,11 @@ layout: single
 feature_row:
 - image_path: images/home/teaching-600x400.jpg
   alt: "photo of students learning about inequality"
-  excerpt: "[Teaching](/teaching/) US education history, policy, and practice"
+  excerpt: "[Teaching courses](/teaching/) in US education history, policy, practice; data visualization"
   url: "/teaching/"
 - image_path: images/home/edstudies-600x400.jpg
   alt: "Ed Studies students in senior research seminar"
-  excerpt: "[Advising](/advising/) Trinity College students"
+  excerpt: "[Advising students](/advising/) at Trinity College, CT"
   url: "/advising/"
 - image_path: images/home/calendar-300x200.jpg
   alt: "sample appointment calendar"
@@ -23,7 +23,7 @@ feature_row:
 feature_row2:
 - image_path: images/home/coverOTL-600x400.jpg
   alt: "On The Line book cover"
-  excerpt: "[On The Line](https://ontheline.trincoll.edu) book-in-progress under contract with Amherst College Press"
+  excerpt: "[On The Line](https://ontheline.trincoll.edu) under contract with Amherst College Press"
   url: https://ontheline.trincoll.edu
 - image_path: images/home/coverHandsOnDataViz-600x400.jpg
   alt: "Hands-On Data Visualization book cover"
@@ -31,7 +31,7 @@ feature_row2:
   url: https://handsondataviz.org
 - image_path: images/home/cover3Books-600x400.jpg
   alt: "additional books"
-  excerpt: "[Additional books and essays](/scholarship/) on civil rights and digital history"
+  excerpt: "[Additional books and essays](/scholarship/) on US education history and digital humanities"
   url: "/scholarship/"
 
 # Community Engagement
