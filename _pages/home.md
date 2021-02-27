@@ -8,7 +8,7 @@ layout: single
 feature_row:
 - image_path: images/home/teaching-600x400.jpg
   alt: "photo of students learning about inequality"
-  excerpt: "[Teaching courses](/teaching/) in US education history, policy, practice; data visualization"
+  excerpt: "[Teaching courses](/teaching/) in US education history, policy, research, practice; and data visualization"
   url: "/teaching/"
 - image_path: images/home/edstudies-600x400.jpg
   alt: "Ed Studies students in senior research seminar"
@@ -27,11 +27,11 @@ feature_row2:
   url: https://ontheline.trincoll.edu
 - image_path: images/home/coverHandsOnDataViz-600x400.jpg
   alt: "Hands-On Data Visualization book cover"
-  excerpt: "[Hands-On Data Visualization](https://handsondataviz.org) with Ilya Ilyankou (2021)"
+  excerpt: "[Hands-On Data Visualization](https://handsondataviz.org) book with Ilya Ilyankou (2021)"
   url: https://handsondataviz.org
 - image_path: images/home/cover3Books-600x400.jpg
   alt: "additional books"
-  excerpt: "[More books and essays](/scholarship/) on US education history and digital humanities"
+  excerpt: "[More books and essays](/scholarship/) on history, policy, and digital humanities"
   url: "/scholarship/"
 
 # Community Engagement
