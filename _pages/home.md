@@ -1,18 +1,18 @@
 ---
 title: ""
 permalink: /
-date: 2020-09-08
+date: 2021-02-27
 layout: single
 
 # Teaching and Advising
 feature_row:
 - image_path: images/home/teaching-600x400.jpg
   alt: "photo of students learning about inequality"
-  excerpt: "[Teaching courses](/teaching/) in US education history, policy, and practice"
+  excerpt: "[Teaching](/teaching/) US education history, policy, and practice"
   url: "/teaching/"
 - image_path: images/home/edstudies-600x400.jpg
   alt: "Ed Studies students in senior research seminar"
-  excerpt: "[Advising students](/advising/) at Trinity College"
+  excerpt: "[Advising](/advising/) Trinity College students"
   url: "/advising/"
 - image_path: images/home/calendar-300x200.jpg
   alt: "sample appointment calendar"
@@ -23,15 +23,15 @@ feature_row:
 feature_row2:
 - image_path: images/home/coverOTL-600x400.jpg
   alt: "On The Line book cover"
-  excerpt: "[On The Line](https://ontheline.trincoll.edu) with student contributors, book-in-progress under contract with Amherst College Press"
+  excerpt: "[On The Line](https://ontheline.trincoll.edu) book-in-progress under contract with Amherst College Press"
   url: https://ontheline.trincoll.edu
 - image_path: images/home/coverHandsOnDataViz-600x400.jpg
   alt: "Hands-On Data Visualization book cover"
-  excerpt: "[Hands-On Data Visualization](https://handsondataviz.org) with Ilya Ilyankou, book-in-progress under contract with O'Reilly Media"
+  excerpt: "[Hands-On Data Visualization](https://handsondataviz.org) with Ilya Ilyankou (2021)"
   url: https://handsondataviz.org
 - image_path: images/home/cover3Books-600x400.jpg
   alt: "additional books"
-  excerpt: "[More books and essays](/scholarship/)"
+  excerpt: "[Additional books and essays](/scholarship/) on civil rights and digital history"
   url: "/scholarship/"
 
 # Community Engagement
