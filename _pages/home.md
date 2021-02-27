@@ -31,7 +31,7 @@ feature_row2:
   url: https://handsondataviz.org
 - image_path: images/home/cover3Books-600x400.jpg
   alt: "additional books"
-  excerpt: "[Additional books and essays](/scholarship/) on US education history and digital humanities"
+  excerpt: "[More books and essays](/scholarship/) on US education history and digital humanities"
   url: "/scholarship/"
 
 # Community Engagement
