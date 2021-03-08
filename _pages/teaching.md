@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-date: 2019-09-01
+date: 2021-03-08
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 
@@ -38,8 +38,8 @@ Who gains—and who loses—in the admissions process at Trinity College and oth
 {% include figure image_path="images/2015/Jasmine-FYSM-2015-09-04.jpg" alt="FY Mentor Jasmine Gentry, 2015" caption="First-Year Mentor Jasmine Gentry Leads Seminar, 2015" %}
 
 ### Data Visualization for All
-Tell your story and show it with data. In this introductory data visualization course, you will learn how to design interactive charts and maps on the web, using easy-to-learn free tools: Google Sheets, Tableau Public, Highcharts, Leaflet, and GitHub. We’ll begin with easy-to-learn tools, then gradually work our way up to editing open-source code templates with GitHub. Together, we’ll follow step-by-step tutorials with video screencasts, and share our work for feedback on the web. Real-world examples are drawn from Trinity College students working with community organizations in the City of Hartford, Connecticut. This course is ideal for non-profit organizations, small business owners, local governments, journalists, academics, or anyone who wants to tell their story and show the data.
-- *Data Visualization For All* open-access textbook <http://datavizforall.org>
+Tell your story and show it with data, using free and easy-to-learn tools on the web. This introductory book teaches you how to design interactive charts and customized maps for your website, beginning with easy drag-and-drop tools, such as Google Sheets, Datawrapper, and Tableau Public. You’ll also gradually learn how to edit open-source code templates built with Chart.js, Highcharts, and Leaflet on GitHub. This course is ideal for students, educators, community activists, non-profit organizations, small business owners, local governments, journalists, researchers, or anyone who wants to take data out of spreadsheets and turn it into lively interactive stories. No coding experience is required.
 - [Data Visualization internship seminar syllabus, Spring 2017 on WordPress](http://commons.trincoll.edu/dataviz).
-- edX free online course <https://www.edx.org/course/data-visualization-all-trinityx-t005x> and video trailer
+- [Trinity edX free online course](https://www.edx.org/course/data-visualization-all-trinityx-t005x)
+- [Hands-On Data Visualization open-access textbook](https://handsondataviz.org)
 {% include video id="M3_TWyva5yc" provider="youtube" %}
