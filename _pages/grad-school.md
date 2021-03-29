@@ -1,7 +1,7 @@
 ---
 title: "Advice on Applying to Graduate School"
 permalink: /grad-school/
-date: 2019-02-17
+date: 2021-03-29
 ---
 Trinity College seniors and recent alumni often ask me for advice on preparing applications to different types of graduate school programs. Here's my general advice to read online, and be sure to [book an appointment on my calendar](http://jackdougherty.org/advising) for us to discuss your plans. See also my advice on [How to request a reference or recommendation letter](http://jackdougherty.org/letter).
 
@@ -20,6 +20,8 @@ So if you're serious about applying to graduate school, let's work together to h
 4) Getting into graduate school is one thing; getting funding from the graduate school is another. Don't assume that what you learned about undergraduate financial aid policies at Trinity have any connection to graduate schools, because they operate on an entirely different system. One key difference is that large universities typically depend on graduate student labor to run grant-funded research projects and teach sections of undergraduate classes. Therefore, if you conducted a research project and/or served as teaching assistant at Trinity, highlight these experiences in your personal statement, since graduate schools often look for applicants who they can hire to work as Research Assistants and/or Teaching Assistants, and these jobs might provide tuition waivers and/or health insurance, in addition to wages or salary.
 
 ### Personal statements from former students
+
+[Sara Barrett '21 gave me permission to share her personal statement from 2021](http://jackdougherty.org/documents/barrett-sara-statement-2021.pdf) when applying to the Master's Degree program in Special Education at Peabody College, Vanderbilt University
 
 [Nicole George '18 gave me permission to share her personal statement from 2017](http://jackdougherty.org/documents/george-nicole-statement-2017.pdf) when applying to the Master's of Social Work program at Virginia Commonwealth University.
 
