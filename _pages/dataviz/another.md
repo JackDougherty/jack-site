@@ -2,6 +2,7 @@
 title: "Another page"
 permalink: /dataviz/another.html
 date: 2021-05-22
+author_profile: true
 sidebar:
   nav: "dataviz"
 ---
