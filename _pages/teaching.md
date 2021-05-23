@@ -39,8 +39,8 @@ Who gains—and who loses—in the admissions process at Trinity College and oth
 
 ### Data Visualization for All
 Tell your story and show it with data, using free and easy-to-learn tools on the web. This introductory book teaches you how to design interactive charts and customized maps for your website, beginning with easy drag-and-drop tools, such as Google Sheets, Datawrapper, and Tableau Public. You’ll also gradually learn how to edit open-source code templates built with Chart.js, Highcharts, and Leaflet on GitHub. This course is ideal for students, educators, community activists, non-profit organizations, small business owners, local governments, journalists, researchers, or anyone who wants to take data out of spreadsheets and turn it into lively interactive stories. No coding experience is required.
+- [test link](https://jackdougherty.org/dataviz)
 - [Data Visualization internship seminar syllabus, Spring 2017 on WordPress](http://commons.trincoll.edu/dataviz).
 - [Trinity edX free online course](https://www.edx.org/course/data-visualization-all-trinityx-t005x)
 - [Hands-On Data Visualization open-access textbook](https://handsondataviz.org)
-- [test link](https://jackdougherty.org/dataviz)
 {% include video id="M3_TWyva5yc" provider="youtube" %}

@@ -1,4 +1,4 @@
-# main links
+# main sidebar
 main:
 - title: "Home"
   url: /
@@ -14,3 +14,17 @@ main:
   url: /scholarship/
 - title: "Site Info"
   url: /site-info/
+
+# dataviz sidebar
+dataviz:
+  - title: "Syllabus"
+    children:
+      - title: "Level Three"
+        url: /dataviz/#level-three
+      - title: "Level Four"
+        url: /dataviz/#level-four/
+
+  - title: "Another"
+    children:
+      - title: "Another Page"
+        url: /dataviz/another/
