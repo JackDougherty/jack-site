@@ -42,4 +42,5 @@ Tell your story and show it with data, using free and easy-to-learn tools on the
 - [Data Visualization internship seminar syllabus, Spring 2017 on WordPress](http://commons.trincoll.edu/dataviz).
 - [Trinity edX free online course](https://www.edx.org/course/data-visualization-all-trinityx-t005x)
 - [Hands-On Data Visualization open-access textbook](https://handsondataviz.org)
+- [test link](https://jackdougherty.org/dataviz)
 {% include video id="M3_TWyva5yc" provider="youtube" %}
