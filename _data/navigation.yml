@@ -1,4 +1,4 @@
-# main sidebar
+# main header
 main:
 - title: "Home"
   url: /
@@ -15,16 +15,11 @@ main:
 - title: "Site Info"
   url: /site-info/
 
-# dataviz sidebar
+# dataviz supplemental sidebar
 dataviz:
-  - title: "Syllabus"
-    children:
-      - title: "Level Three"
-        url: /dataviz/#level-three
-      - title: "Level Four"
-        url: /dataviz/#level-four/
-
-  - title: "Another"
+  - title: "DataViz syllabus"
     children:
       - title: "Another Page"
-        url: /dataviz/another/
+        url: /dataviz/another
+      - title: "Schedule"
+        url: /dataviz/#schedule
