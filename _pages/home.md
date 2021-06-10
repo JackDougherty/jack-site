@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /
-date: 2021-02-27
+date: 2021-06-10
 layout: single
 
 # Teaching and Advising
@@ -16,7 +16,7 @@ feature_row:
   url: "/advising/"
 - image_path: images/home/calendar-300x200.jpg
   alt: "sample appointment calendar"
-  excerpt: "[Schedule a 20-minute Zoom or phone meeting](https://calendly.com/jackdougherty/meeting) on my calendar"
+  excerpt: "[After September 6th: Schedule a 20-minute Zoom or phone meeting](https://calendly.com/jackdougherty/meeting) on my calendar"
   url: https://calendly.com/jackdougherty/meeting
   # UPDATE when switching calendars
 
@@ -54,5 +54,5 @@ feature_row3:
 {% include feature_row %}
 ### Digital Scholarship
 {% include feature_row id="feature_row2" %}
-### Community Engagement
-{% include feature_row id="feature_row3" %}
+<!-- ### Community Engagement
+{% include feature_row id="feature_row3" %} -->
