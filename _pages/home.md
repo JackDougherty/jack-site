@@ -16,9 +16,8 @@ feature_row:
   url: "/advising/"
 - image_path: images/home/calendar-300x200.jpg
   alt: "sample appointment calendar"
-  excerpt: "[After September 6th: Schedule a 20-minute Zoom or phone meeting](https://calendly.com/jackdougherty/meeting) on my calendar"
-  url: https://calendly.com/jackdougherty/meeting
-  # UPDATE when switching calendars
+  excerpt: "Beginning Sept 7th: Schedule a meeting on my calendar"
+  # UPDATE when switching calendars https://calendly.com/jackdougherty/meeting
 
 # Digital Scholarship
 feature_row2:
