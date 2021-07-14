@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /
-date: 2021-06-10
+date: 2021-07-14
 layout: single
 
 # Teaching and Advising
@@ -14,10 +14,10 @@ feature_row:
   alt: "Ed Studies students in senior research seminar"
   excerpt: "[Advising students](/advising/) at Trinity College, Hartford, Connecticut"
   url: "/advising/"
-- image_path: images/home/calendar-300x200.jpg
+- image_path: images/home/calendar-300x200.png
   alt: "sample appointment calendar"
-  excerpt: "Beginning Sept 7th: Schedule a meeting on my calendar"
-  # UPDATE when switching calendars https://calendly.com/jackdougherty/meeting
+  excerpt: "[Schedule a 20-minute appointment](https://jackdougherty.youcanbook.me) on my calendar"
+  url: "https://jackdougherty.youcanbook.me"
 
 # Digital Scholarship
 feature_row2:
@@ -34,7 +34,7 @@ feature_row2:
   excerpt: "[More books and essays](/scholarship/) on education and digital history"
   url: "/scholarship/"
 
-# Community Engagement
+# Community Engagement (HIDDEN)
 feature_row3:
   - image_path: images/home/cher-team-caito-600x400.jpg
     alt: "CHER team members"

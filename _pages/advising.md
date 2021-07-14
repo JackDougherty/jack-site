@@ -1,7 +1,7 @@
 ---
 title: "Advising and Appointment Calendar"
 permalink: /advising/
-date: 2019-09-01
+date: 2021-07-14
 ---
 {% include figure image_path="images/2017/educ-dinner-small.jpg" alt="Educational Studies Majors Dinner 2017" caption="Educational Studies Majors Dinner, April 2017" %}
 
@@ -23,6 +23,6 @@ For quick questions, email me at [jack.dougherty@trincoll.edu](mailto:jack.dough
 
 To request feedback on a Google Document, set Share > Can Comment to my Google username: jackdrty@gmail.com.
 
-To schedule a 20-minute appointment to discuss whatever's on your mind, use my [online calendar](https://jackdougherty.youcanbook.me) below, or email me possible dates/times to talk by phone or video conference.
+To schedule a 20-minute appointment, see my [online calendar](https://jackdougherty.youcanbook.me) below.
 
 <iframe src="https://jackdougherty.youcanbook.me/" width="100%" height="1000px"></iframe>
