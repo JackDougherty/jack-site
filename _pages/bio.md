@@ -18,7 +18,7 @@ For more than two decades, Jack has taught and advised hundreds of undergraduate
 - [Educ 308: Cities, Suburbs, and Schools](https://jackdougherty.org/teaching/#educ-308-cities-suburbs-and-schools), a research seminar where students have investigated and published works on housing inequality, racial integration, and public school choice.
 - [Educ 350: Teaching and Learning](https://jackdougherty.org/teaching/#educ-350-teaching-and-learning), a seminar where students design and teach inquiry-based math or science lessons in Hartford elementary and middle schools
 - [Educ 400: Senior Research Seminar](https://jackdougherty.org/teaching/#educ-400-senior-research-seminar), a capstone experience where all majors design, conduct, and present their study using qualitative, quantitative, and/or historical methods.
-- [Data Visualization for All](https://jackdougherty.org/teaching/#data-visualization-for-all), a course for undergraduate students and Hartford community partners to partner on creating interactive charts and maps for the web, and also a free online course for learners around the globe.
+- [Data Visualization for All](https://jackdougherty.org/teaching/#data-visualization-for-all), a course for undergraduate students and Hartford community partners to collaborate on creating interactive charts and maps for the web, and also a free online course for learners around the globe.
 
 Learn more on his [Teaching page](https://jackdougherty.org/teaching/) and his [Advising page](https://jackdougherty.org/advising/).
 
