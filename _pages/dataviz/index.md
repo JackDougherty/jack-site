@@ -20,7 +20,9 @@ Candy canes cake cupcake gummies. Danish icing cookie cake. Muffin bonbon sugar 
 ### Community Partners
 [Center for Leadership and Justice](https://cljct.org)
 Staff: Cori Mackey, Tieasha Gayle, AJ Johnson  
-<iframe src='https://trincoll.mediaspace.kaltura.com/media/1_aq660eab' height='320px' width='640px'></iframe>
+[Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab)
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 
 ### Assessment
 See [link to Another Page](https://jackdougherty.org/dataviz/another.html) inside this folder for details about assignments, assessment, etc.
