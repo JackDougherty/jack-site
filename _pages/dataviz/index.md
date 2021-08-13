@@ -18,18 +18,13 @@ Text after header appears in new line.
 At the end of the line above, add two blank spaces to make next sentence appear on a new line.
 
 ### Hartford Partners for Community Learning
-This semester we will create data visualizations in partnership with two Hartford organizations that focus on housing.
+This semester we will create data stories in partnership with two Hartford organizations that focus on housing. Due to the pandemic, we will work virtually with our Hartford partners, but there may be optional opportunities for students to visit our partner's public events or sites in person.
 
-[Center for Leadership and Justice](https://cljct.org) partners: Cori Mackey, Tieasha Gayle, AJ Johnson. [Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab)
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab) with [Center for Leadership and Justice](https://cljct.org) partners: Cori Mackey, Tieasha Gayle, AJ Johnson.
 
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto" width="100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-
-
-[Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Suzanne Feola, Makenzie Bahr, Karraine Moody. [Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/). Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
-
-<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto" width="100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-
-prior iframe settings: width="560" height="395"
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Intro video, August 2021] with (https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/).[Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Suzanne Feola, Makenzie Bahr, Karraine Moody. Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
 
 ### Assessment
 See [link to Another Page](https://jackdougherty.org/dataviz/another.html) inside this folder for details about assignments, assessment, etc.
