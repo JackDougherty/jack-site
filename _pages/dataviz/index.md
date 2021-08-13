@@ -28,7 +28,7 @@ Partners: Cori Mackey, Tieasha Gayle, AJ Johnson
 
 [Hartford Area Habitat for Humanity](https://hartfordhabitat.org)  
 Partners: Suzanne Feola, Makenzie Rogers, Karraine Moody  
-[Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/)
+[Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/). Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 
