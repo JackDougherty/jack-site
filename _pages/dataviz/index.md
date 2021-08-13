@@ -10,12 +10,12 @@ toc_sticky: true
 Tuesdays & Thursdays 2:55-4:20pm in room TBA with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an appointment on my calendar](https://jackdougherty.org/).
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
-Fulfills requirement in Numerical and Symbolic Reasoning (NUM)  
-Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies
+Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
+Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 Enrollment limited to 19 students.  
 
 ### Community Learning Partners
-This semester we will create data stories in partnership with two Hartford organizations that focus on housing. While we will work virtually with our partners on their digital projects, there may be optional opportunities for students to visit their public events or building sites in person.
+This semester we will create data stories in partnership with two Hartford organizations that focus on housing. While we will work virtually with our partners on their digital projects, there may be optional opportunities for you to visit their public events or building sites in person.
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 [Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab) with [Center for Leadership and Justice](https://cljct.org) partners: Cori Mackey, Tieasha Gayle, AJ Johnson.
@@ -26,26 +26,69 @@ This semester we will create data stories in partnership with two Hartford organ
 ### Course Materials and Tools
 ![book covers](/images/2021/covers-hodv-datafeminism.png)
 - Two open-access books are freely available online (or you can purchase print editions).
-  - Jack Dougherty and Ilya Ilyankou, *Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code* (O’Reilly Media, Inc., 2021), http://HandsOnDataViz.org.
-  - Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020), https://data-feminism.mitpress.mit.edu/.
-- Bring a laptop computer (Mac, Windows, Linux, or Chromebook) to every class. Install more than one browser (such as Firefox, Safari, Chrome) for testing purposes. Feel free to ask me if you need a temporary laptop loaner.
+  - Jack Dougherty and Ilya Ilyankou, *Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code* (O’Reilly Media, Inc., 2021), <https://HandsOnDataViz.org>.
+  - Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020), <https://data-feminism.mitpress.mit.edu>.
+- Bring a working laptop computer (Mac, Windows, Linux, or Chromebook) to every class. Install more than one browser (such as Firefox, Safari, Chrome) for testing purposes. Tell me if you need a temporary laptop loaner.
 - You will need to sign up for several free web services (such as Google Drive, Datawrapper, GitHub). See my list of [recommended free digital tools in this course](https://handsondataviz.org/recommended-tools.html).
 - Use a password manager to keep track of your digital accounts. See my [introduction to Bitwarden](https://handsondataviz.org/password-manager.html), an open-source password manager with free core features for Windows/Mac/Linux computers, all major web browsers, and iOS and Android mobile devices.
 
 ### Learning Goals and Assessments
+This course is designed to demonstrate the knowledge and skills you have developed to meet 12 broad learning goals. See list of more specific sub-goals and links to our readings. TODO LINK
+
+1. Strengthen Your Spreadsheet Skills
+2. Find and Question Your Data
+3. Clean Up Messy Data
+4. Make Meaningful Comparisons
+5. Chart Your Data
+6. Map Your Data
+7. Embed on the Web
+8. Edit and Host Code with GitHub
+9. Build with Leaflet Map Code Templates
+10. Transform Your Map Data
+11. Detect Lies and Reduce Bias
+12. Listen, Tell, and Show Your Community Partner's Data Story
+
+Your knowledge and skills will be assessed in three ways:
+
+### Open-Book Quizzes
+- To demonstrate your understanding of key concepts and how to apply them in new contexts.
+
+- Auto-graded multi-choice questions on Moodle for quick feedback on learning key concepts.
+- Students have 1 hour to complete each quiz during a 36-hour period (Sun 9am - Mon 9pm).
+- Open-book format because questions apply concepts in new contexts. No memorization.
+- Instructor creates multiple versions of a question for each concept, using different details.
+- Question bank displays different versions of each question so students see different details.
+- Incorrect response does not show the correct answer, but may hint at a problem or reading.
+- When incorrect, student is allowed a second attempt on a different version of the question.
+- If student does not satisfactorily complete second attempt, must see instructor to retake.
+- Students must work independently and not communicate with each other during quiz time.
+- If doubts arise about academic honesty, the instructor may require you to retake a quiz in-person.
+- For specific concepts not suitable for Moodle auto-grading, students complete a task by inserting a short answer (such as link to their work) for quick check by the instructor.
+- Process is not totally cheat-proof, but questions designed to avoid easy screenshot sharing.
+- Roughly one per week, with 5-10 quiz questions, for 12 x 5 = 60 points.
+
+### Building Data Stories
+to show stages of building your visualizations, supplemented with a written narrative to explain why it matters to our community partners.
+- instructor or expert grades work with rubric
+- 6 parts worth 5-10 points each = 40 points
 
 
-Students will be randomly called on during class to share their screen with everyone to reinforce learning. If you are not present, a point will be deducted from your total score.
+### Class Participation
+To encourage active learning and group accountability, students will be randomly called upon during class to discuss a concept or share their screen for everyone to view. If you are not present or able to participate when called, a point will be deducted from your overall score.
 
-See [link to Another Page](https://jackdougherty.org/dataviz/another.html) inside this folder for details about assignments, assessment, etc.
+Total score =
+
+### Academic Policies
 
 
 
 ### How to Succeed in this Course
 
+- Find active ways, not passive ways, to take notes... rewrite in your own words...
+- Meet up with a classmate or small group to
 
 ## Schedule
-Always check for instructor's updates. Important changes will appear **in bold**.
+Always check for schedule updates from the instructor. Important changes will appear **in bold**.
 
 TODO: Send tentative meeting times to community partners
 
