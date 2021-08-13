@@ -14,6 +14,9 @@ Fulfills requirement in Numerical and Symbolic Reasoning (NUM)
 Cross-refs: Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies
 Enrollment limited to 19 students.  
 
+Text after header appears in new line.  
+At the end of the line above, add two blank spaces to make next sentence appear on a new line.
+
 ### Hartford Partners for Community Learning
 This semester we will create data visualizations in partnership with two Hartford organizations that focus on housing.
 

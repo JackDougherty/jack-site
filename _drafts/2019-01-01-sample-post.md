@@ -19,6 +19,10 @@ categories:
   - data visualization
   - web writing
 ---
+### Markdown formatting
+Text after header appears in new line.  
+At the end of the line above, add two blank spaces to make next sentence appear on a new line.
+
 ### Link types
 - Visible link uses angle brackets <http://google.com>
 - [Embedded link: place text in brackets, URL in parentheses](http://google.com)
@@ -39,7 +43,7 @@ Write the main text and insert a bracketed footnote symbol with a unique number 
 {% include figure image_path="images/sample-300x200.jpg" alt="sample image" caption="sample caption" %}{: .align-right}
 This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images.
 
-Read more about [Liquid templating](https://jekyllrb.com/docs/liquid/) 
+Read more about [Liquid templating](https://jekyllrb.com/docs/liquid/)
 
 ### HTML iframe, with quote marks around with and height, whether percentages or pixels
 <iframe src="https://jackdougherty.youcanbook.me/" width="100%" height="600px"></iframe>
