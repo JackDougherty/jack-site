@@ -15,11 +15,11 @@ main:
 - title: "Site Info"
   url: /site-info/
 
-# dataviz supplemental sidebar
-dataviz:
-  - title: "DataViz syllabus"
-    children:
-      - title: "Another Page"
-        url: /dataviz/another
-      - title: "Schedule"
-        url: /dataviz/#schedule
+# optional page sidebar (not needed when using Contents)
+# dataviz:
+#   - title: "DataViz syllabus"
+#     children:
+#       - title: "Another Page"
+#         url: /dataviz/another
+#       - title: "Schedule"
+#         url: /dataviz/#schedule
