@@ -50,22 +50,19 @@ This course is designed to demonstrate the knowledge and skills you have develop
 
 Your knowledge and skills will be assessed in three ways:
 
-### Open-Book Quizzes
-- To demonstrate your understanding of key concepts and how to apply them in new contexts.
+### Open-Book Weekly Quizzes
+- Demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts, using your course materials and notes.
+- Each week, select 1 hour during a 2-day period (typically Sunday 12 noon to Tuesday 2pm) to complete an online quiz of 5-10 questions on one of the broad learning goals above.
+- Short-answer questions will be scored automatically for quick feedback.
+- Longer task questions require you to show your work by pasting a link or explanation, to be scored manually by the instructor.
+- You may see different versions of questions than other students, but all address the same learning goals.
+- If you respond incorrectly to an auto-graded question, the quiz will offer advice, but not the correct answer. Fortunately, the quiz will give you a second chance to answer a different version of the same question. Furthermore, if you incorrectly answer a manually-scored question, the instructor may re-open that portion of your quiz with additional time for a second attempt.
+- After the quiz closes (typically on Tuesday 2pm), you can still meet with the instructor and request to retake the quiz before the next quiz opens (typically Sunday 12 noon).
+- Before you start the quiz, prepare ahead by reading assigned chapters, doing practice exercises, and discussing with classmates who have not yet started it.
+- When you start the 1-hour quiz, you must work independently and may not communicate about its content in any way until the instructor reviews results in class.
+- Follow....If doubts arise about academic honesty, the instructor may require you to retake a quiz while under direct supervision.... and/or forward to board...
 
-- Auto-graded multi-choice questions on Moodle for quick feedback on learning key concepts.
-- Students have 1 hour to complete each quiz during a 36-hour period (Sun 9am - Mon 9pm).
-- Open-book format because questions apply concepts in new contexts. No memorization.
-- Instructor creates multiple versions of a question for each concept, using different details.
-- Question bank displays different versions of each question so students see different details.
-- Incorrect response does not show the correct answer, but may hint at a problem or reading.
-- When incorrect, student is allowed a second attempt on a different version of the question.
-- If student does not satisfactorily complete second attempt, must see instructor to retake.
-- Students must work independently and not communicate with each other during quiz time.
-- If doubts arise about academic honesty, the instructor may require you to retake a quiz in-person.
-- For specific concepts not suitable for Moodle auto-grading, students complete a task by inserting a short answer (such as link to their work) for quick check by the instructor.
-- Process is not totally cheat-proof, but questions designed to avoid easy screenshot sharing.
-- Roughly one per week, with 5-10 quiz questions, for 12 x 5 = 60 points.
+- 60 points = 12 broad learning goals x 5 points (based on 5-10 questions)
 
 ### Building Data Stories
 to show stages of building your visualizations, supplemented with a written narrative to explain why it matters to our community partners.
@@ -76,7 +73,11 @@ to show stages of building your visualizations, supplemented with a written narr
 ### Class Participation
 To encourage active learning and group accountability, students will be randomly called upon during class to discuss a concept or share their screen for everyone to view. If you are not present or able to participate when called, a point will be deducted from your overall score.
 
-Total score =
+Total score  
+
+40 points
+
+You can access your individual scores on the password-protected Moodle site for this class. [TODO link]
 
 ### Academic Policies
 
@@ -95,6 +96,11 @@ TODO: Send tentative meeting times to community partners
 
 Cupcake ipsum dolor sit amet gummi bears powder. Jujubes pudding chocolate cake croissant brownie gummies chocolate sweet roll. Macaroon cake marzipan chocolate cake lemon drops gingerbread. Ice cream oat cake tart gingerbread chupa chups tiramisu macaroon cupcake pastry. Apple pie chocolate lemon drops marshmallow pudding sesame snaps jelly-o toffee caramels. Dessert bonbon lollipop cheesecake tootsie roll.
 Candy canes cake cupcake gummies. Danish icing cookie cake. Muffin bonbon sugar plum croissant dragée chocolate bar. Jelly tootsie roll chupa chups candy bear claw carrot cake. Powder soufflé tootsie roll chocolate cake candy canes caramels cupcake sweet roll. Cake cupcake dessert bonbon chupa chups croissant cake carrot cake jelly-o.
+
+### Week 0
+- Open-book quiz about this syllabus: 4 questions x 0.25 points = 1 bonus point for total score
+- When taking a Moodle quiz, be sure to “check” each answer, and also click “submit and finish” at the end.
+
 
 ### Week 1
 Cupcake ipsum dolor sit amet gummi bears powder. Jujubes pudding chocolate cake croissant brownie gummies chocolate sweet roll. Macaroon cake marzipan chocolate cake lemon drops gingerbread. Ice cream oat cake tart gingerbread chupa chups tiramisu macaroon cupcake pastry. Apple pie chocolate lemon drops marshmallow pudding sesame snaps jelly-o toffee caramels. Dessert bonbon lollipop cheesecake tootsie roll.
