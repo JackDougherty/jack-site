@@ -20,15 +20,11 @@ Enrollment limited to 19 students.
 ### Hartford Partners for Community Learning
 This semester we will create data visualizations in partnership with two Hartford organizations that focus on housing.
 
-[Center for Leadership and Justice](https://cljct.org)  
-Partners: Cori Mackey, Tieasha Gayle, AJ Johnson   
-[Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab)
+[Center for Leadership and Justice](https://cljct.org) partners: Cori Mackey, Tieasha Gayle, AJ Johnson. [Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab)
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 
-[Hartford Area Habitat for Humanity](https://hartfordhabitat.org)  
-Partners: Suzanne Feola, Makenzie Rogers, Karraine Moody  
-[Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/). Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
+[Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Suzanne Feola, Makenzie Bahr, Karraine Moody. [Intro video, August 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/). Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 
