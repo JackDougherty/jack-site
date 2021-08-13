@@ -29,18 +29,23 @@ Write the main text and insert a bracketed footnote symbol with a unique number 
 
 [^keyword]: Here's the footnote text.
 
-### Markdown image with pre-slash pathname (no baseurl because custom domain), actual size, but no caption
+### Markdown image: actual-size, no-caption, pre-slash pathname (no baseurl because custom domain)
 ![Jack Dougherty](/images/2019/dougherty-jack-150x150.jpg)
 
-### [Liquid templating](https://jekyllrb.com/docs/liquid/) image in root no-slash images  
+### Liquid image: actual size, caption, no slash  
 {% include figure image_path="images/sample-300x200.jpg" alt="sample image" caption="here's the sample image" %}
 
-### Liquid image in root no-slash aligned with caption
+### Liquid image aligned with caption, actual size, no slash
 {% include figure image_path="images/sample-300x200.jpg" alt="sample image" caption="sample caption" %}{: .align-right}
 This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images.
+
+Read more about [Liquid templating](https://jekyllrb.com/docs/liquid/) 
 
 ### HTML iframe, with quote marks around with and height, whether percentages or pixels
 <iframe src="https://jackdougherty.youcanbook.me/" width="100%" height="600px"></iframe>
 
 ### Sample YouTube
 {% include video id="3sK7-g0otGM" provider="youtube" %}
+
+### Kaltura video special embed code for iframe
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_aq660eab&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
