@@ -7,7 +7,7 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2021 Syllabus
-Tuesdays & Thursdays 2:55-4:20pm face-to-face course in room TBA with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an appointment on my calendar](https://jackdougherty.org/).
+Tuesdays & Thursdays 2:55-4:20pm in-person course in room TBA with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an appointment on my calendar](https://jackdougherty.org/).
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
