@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /dataviz/
-date: 2021-08-20
+date: 2021-08-21
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -62,12 +62,12 @@ Your knowledge and skills will be assessed in three ways:
 ### B. Building Data Stories
 - The purpose is to show your work in building different stages of data visualizations and written narratives that explain why and how it matters to our community partners.
 - The instructor and experts in the field will score stages of your data stories, based on a rubric.
-- 6 parts worth 5-10 points each = 40 points
+- 6 parts worth 5 points each = 30 points
 
 ### C. Class Participation
 - The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. You will be randomly called upon during various classes to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not need to know the correct answer. But for each time you are not present or not able to participate when called at random, a point will be deducted from your participation score.
 
-Total = 60 points quizzes + 40 points data stories + 10 class participation = 100 points
+Total = 60 points quizzes + 30 points data stories + 10 class participation = 100 points
 
 <!-- You can access your individual scores on the password-protected Moodle site for this class. [TODO link]
 
