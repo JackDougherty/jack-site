@@ -1,6 +1,6 @@
 ---
 id: 2167
-title: 'Color and Money First-Year Seminar with Jasmine Gentry &#8217;17'
+title: 'Color and Money First-Year Seminar with Jasmine Gentry'
 date: 2015-09-04T17:01:00+00:00
 author: jdoughe2
 layout: post

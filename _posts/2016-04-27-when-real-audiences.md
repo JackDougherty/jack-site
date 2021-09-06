@@ -1,10 +1,6 @@
 ---
-id: 2491
 title: When Real Audiences (Not Just Your Professor) Read Your Writing
 date: 2016-04-27T11:19:33+00:00
-author: jdoughe2
-layout: post
-guid: http://commons.trincoll.edu/jackdougherty/?p=2491
 permalink: /2016/04/27/when-real-audiences/
 - teaching
 - history

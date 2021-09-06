@@ -12,8 +12,6 @@ categories:
 - history
 - web writing
 ---
-<figure id="attachment_864" style="width: 150px" class="wp-caption alignright">[<img class="size-full wp-image-864" src="http://localhost/wordpress/wp-content/uploads/2012/10/UPennHistoryDept.jpg" alt="" width="150" height="133" />](http://localhost/wordpress/wp-content/uploads/2012/10/UPennHistoryDept.jpg)<figcaption class="wp-caption-text">College Hall at UPenn</figcaption></figure>
-
 Sarah Manekin invited me and others to contribute to a workshop on &#8220;Researching, Writing and Publishing History in the Digital Age&#8221; for graduate students in the Department of History, University of Pennsylvania, Philadelphia on Friday, November 16th, 2012. This workshop builds on a prior discussion we organized at the History of Education Society meeting in 2010, which served as a pilot for _<a title="whda" href="http://writinghistory.trincoll.edu" target="_blank">Writing History in the Digital Age</a>_ (co-edited with Kristen Nawrotzki), our open peer reviewed volume that is freely available online and forthcoming from the University of Michigan Press.
 
 My primary task at the UPenn workshop is to explain the rapidly-changing world of digital book publishing for scholars in six minutes. Given that time constraint, here&#8217;s the simplest way that I can think of presenting some key concepts with examples. If you have any better ideas or suggested revisions, post them in a comment below.

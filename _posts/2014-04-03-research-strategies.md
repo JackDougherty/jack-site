@@ -16,9 +16,7 @@ categories:
 ---
 prepared for American Educational Research Association Division F (History)
 
-by <a href="http://bit.ly/jackdougherty" target="_blank">Jack Dougherty</a>, Trinity College, Hartford CT, follow <a href="https://twitter.com/DoughertyJack" target="_blank">@DoughertyJack</a>, and share comments & links below
-
-<img class="size-full wp-image-1628 alignright" alt="WHDA2013cover" src="http://localhost/wordpress/wp-content/uploads/2013/10/WHDA2013cover.jpg" width="165" height="250" />Carter Savage asked me to lead a mentoring session on digital research strategies for graduate students and new faculty members in the field of educational history. Most of what I&#8217;ve learned came from reading posts by contributors to <a href="http://chronicle.com/blogs/profhacker/" target="_blank">ProfHacker</a> in the Chronicle of Higher Education, attending <a href="http://thatcamp.org/" target="_blank">THATCamp</a> unconferences, and working with wonderful colleagues on two freely-accessible edited volumes: <a href="http://writinghistory.trincoll.edu/" target="_blank">Writing History in the Digital Age</a> (with Kristen Nawrotzki, University of Michigan Press, 2013) and <a href="http://webwriting.trincoll.edu" target="_blank">Web Writing: Why and How for Liberal Arts Teaching and Learning</a> (in-progress).
+Carter Savage asked me to lead a mentoring session on digital research strategies for graduate students and new faculty members in the field of educational history. Most of what I&#8217;ve learned came from reading posts by contributors to <a href="http://chronicle.com/blogs/profhacker/" target="_blank">ProfHacker</a> in the Chronicle of Higher Education, attending <a href="http://thatcamp.org/" target="_blank">THATCamp</a> unconferences, and working with wonderful colleagues on two freely-accessible edited volumes: <a href="http://writinghistory.trincoll.edu/" target="_blank">Writing History in the Digital Age</a> (with Kristen Nawrotzki, University of Michigan Press, 2013) and <a href="http://webwriting.trincoll.edu" target="_blank">Web Writing: Why and How for Liberal Arts Teaching and Learning</a> (in-progress).
 
 Before digging into specific tools, consider some guiding principles:
 
@@ -126,14 +124,5 @@ How do I make sure that I won&#8217;t lose my valuable sources and writing?
 
 **Postscript:** Several workshop participants told me that they found this session to be valuable, and some spread the word on Twitter. My favorite tweet:
 
-<img class="aligncenter size-full wp-image-1883" alt="Linds_E_Jones_Tweet2014-04-03" src="http://localhost/wordpress/wp-content/uploads/2014/04/Linds_E_Jones_Tweet2014-04-03.jpg" width="576" height="94" srcset="http://localhost/wordpress/wp-content/uploads/2014/04/Linds_E_Jones_Tweet2014-04-03.jpg 576w, http://localhost/wordpress/wp-content/uploads/2014/04/Linds_E_Jones_Tweet2014-04-03-300x49.jpg 300w" sizes="(max-width: 576px) 100vw, 576px" />
-
-<blockquote class="twitter-tweet" lang="en">
-  <p>
-    <a href="https://twitter.com/DoughertyJack">@DoughertyJack</a> is blowing minds at the <a href="https://twitter.com/search?q=%23AERA2014&src=hash">#AERA2014</a> <a href="https://twitter.com/search?q=%23DivisionF&src=hash">#DivisionF</a> mentoring seminar! I never knew so many tools existed for doing history!
-  </p>
-
-  <p>
-    — Lindsey E. Jones (@Linds_E_Jones) <a href="https://twitter.com/Linds_E_Jones/statuses/451723840276938752">April 3, 2014</a>
-  </p>
-</blockquote>
+> @DoughertyJack is blowing minds at the <a href="https://twitter.com/search?q=%23AERA2014&src=hash">#AERA2014</a> <a href="https://twitter.com/search?q=%23DivisionF&src=hash">#DivisionF</a> mentoring seminar! I never knew so many tools existed for doing history!  
+— Lindsey E. Jones (@Linds_E_Jones) <a href="https://twitter.com/Linds_E_Jones/statuses/451723840276938752">April 3, 2014</a>

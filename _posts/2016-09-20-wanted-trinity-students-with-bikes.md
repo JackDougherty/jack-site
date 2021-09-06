@@ -1,10 +1,6 @@
 ---
-id: 2601
 title: 'Wanted: Trinity students with bikes for short video, Sept 24th'
 date: 2016-09-20T20:31:22+00:00
-author: jdoughe2
-layout: post
-guid: http://commons.trincoll.edu/jackdougherty/?p=2601
 permalink: /2016/09/20/wanted-trinity-students-with-bikes/
 categories:
   - teaching

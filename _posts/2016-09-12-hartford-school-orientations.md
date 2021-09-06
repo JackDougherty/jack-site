@@ -1,10 +1,6 @@
 ---
-id: 2575
 title: Hartford school orientations with Trinity Educ 200 students
 date: 2016-09-12T18:18:55+00:00
-author: jdoughe2
-layout: post
-guid: http://commons.trincoll.edu/jackdougherty/?p=2575
 permalink: /2016/09/12/hartford-school-orientations/
 categories:
   - teaching
@@ -20,7 +16,6 @@ When I teach the introductory [Educ 200: Analyzing Schools course](http://jackdo
 
 ![Burns](/images/2016/2016-orientation-Burns.jpg)
 *Orientation with Enid Camacho-Cruz (4th from left) at Burns Latino Studies Academy.*
-
 
 ![Brigit](/images/2016/brigit-rioual-montessori.jpg)
 *Pleasantly surprised to run into Brigit Rioual '14, a new staff member at Montessori Magnet, who took Educ 200 with me in Fall 2011.*

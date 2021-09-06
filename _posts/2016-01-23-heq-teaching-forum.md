@@ -1,10 +1,6 @@
 ---
-id: 2423
 title: 'Behind the Scenes: Historians of Education Write (and Comment) on our Teaching'
 date: 2016-01-23T14:43:13+00:00
-author: jdoughe2
-layout: post
-guid: http://commons.trincoll.edu/jackdougherty/?p=2423
 permalink: /2016/01/23/heq-teaching-forum/
 - teaching
 - scholarship

@@ -1,10 +1,6 @@
 ---
-id: 2496
 title: Collaborative Annotation webinar with Michelle Herbert and Hypothes.is
 date: 2016-05-31T18:15:22+00:00
-author: jdoughe2
-layout: post
-guid: http://commons.trincoll.edu/jackdougherty/?p=2496
 permalink: /2016/05/31/collaborative-annotation-webinar-with-michelle-herbert/
 categories:
 - teaching
