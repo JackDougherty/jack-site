@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /
-date: 2021-07-14
+date: 2021-09-07
 layout: single
 
 # Teaching and Advising
@@ -16,7 +16,7 @@ feature_row:
   url: "/advising/"
 - image_path: images/home/calendar-300x200.png
   alt: "sample appointment calendar"
-  excerpt: "[Schedule a 20-minute appointment](https://jackdougherty.youcanbook.me) on my calendar"
+  excerpt: "Schedule an in-person or Zoom appointment [on my calendar](https://jackdougherty.youcanbook.me)"
   url: "https://jackdougherty.youcanbook.me"
 
 # Digital Scholarship

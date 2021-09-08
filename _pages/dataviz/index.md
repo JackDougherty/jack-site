@@ -1,13 +1,13 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /dataviz/
-date: 2021-08-21
+date: 2021-09-08
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2021 Syllabus
-Tuesdays & Thursdays 2:55-4:10pm in-person course in room TBA with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an appointment on my calendar](https://jackdougherty.org/).
+Tuesdays & Thursdays 2:55-4:10pm in-person course in Seabury S201 with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an appointment on my calendar](https://jackdougherty.org/).
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
@@ -54,20 +54,21 @@ Your knowledge and skills will be assessed in three ways:
 - The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts, using your course materials and notes. You will have more than one opportunity to successfully complete each quiz.
 - Each week, select 1 hour during a 2-day period (typically Sunday 12 noon to Tuesday 2pm) to complete an online quiz of 5-10 questions on one of the broad learning goals above. You may see different versions of questions than other students, but all address the same learning goals.
 - Short-answer questions will be scored automatically for quick feedback. Longer-task questions require you to show your work by pasting a link or explanation, and these will be scored manually by the instructor on a completed/non-completed basis.
-- If you respond incorrectly to an auto-scored question, the quiz will show advice, but not the correct answer. Instead, the quiz will give you a second chance to answer a different version of the same question. Furthermore, if you incorrectly answer a manually-scored question, the instructor may re-open that portion of your quiz for a second attempt with additional time.
+- If you respond incorrectly to an auto-scored question, the quiz will show advice, but not the correct answer. Instead, the quiz will give you a second chance to answer the same question, or a different version of the question. Furthermore, if you incorrectly answer a manually-scored question, the instructor may re-open that portion of your quiz for a second attempt with additional time.
 - After the quiz closes (typically on Tuesday 2pm), if you still have not successfully completed it, you can meet with the instructor to discuss your learning and request another opportunity to retake the quiz before the next quiz opens (typically Sunday 12 noon).
-- Before you start the quiz, prepare ahead by reading assigned chapters, doing practice exercises, and discussing with classmates who have not yet started it. When you start the 1-hour quiz, you must work independently and may not communicate about its content in any way until the instructor reviews results in class. You are responsible for intellectual honesty. If doubts arise, the instructor may require you to retake a quiz under direct supervison, and/or refer the issue to the Honor Council.
+- Before you start the quiz, prepare ahead by reading assigned chapters, doing practice exercises, and discussing with classmates who have not yet started it.
+- When you start the 1-hour quiz, you may use your materials (including your notes, our online book, and reading the Internet), but you must work independently and you may not communicate about its content in any way until the instructor reviews results in class. You are responsible for intellectual honesty. If doubts arise, the instructor may require you to retake a quiz under direct supervison, and/or refer the issue to the Honor Council.
 - 12 broad learning goals x 5 points (based on 5-10 questions) = 60 points
 
 ### B. Building Data Stories
 - The purpose is to show your work in building different stages of data visualizations and written narratives that explain why and how it matters to our community partners.
-- The instructor and experts in the field will score stages of your data stories, based on a rubric.
+- The instructor, your peers, and data visualization guest experts will evaluate stages of your data stories, based on a rubric.
 - 6 parts worth 5 points each = 30 points
 
 ### C. Class Participation
-- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. You will be randomly called upon during various classes to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not need to know the correct answer. But for each time you are not present or not able to participate when called at random, a point will be deducted from your participation score.
+- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or are not able to participate when called, a point will be deducted from your participation score. See details below about health and family emergencies, and also how to participate remotely if you are quarantined.
 
-Total = 60 points quizzes + 30 points data stories + 10 class participation = 100 points
+Total = 60 points quizzes + 30 points data stories + 10 class participation = 100 points.
 
 <!-- You can access your individual scores on the password-protected Moodle site for this class. [TODO link]
 
