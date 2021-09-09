@@ -96,7 +96,7 @@ Always look for important updates from the instructor, which will appear **in bo
 - Tell us about yourself and what sparks your interest in this course in this [Google Form](https://forms.gle/bA4aBxvcVZ7BsFW89)
 - Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills
-  - Share and Convert Data in Google Sheets
+  - Copy, Share, and Convert Google Sheets
   - Geocode locations
   - Sort and filter data
   - Calculate with formulas
