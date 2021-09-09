@@ -94,7 +94,6 @@ Always look for important updates from the instructor, which will appear **in bo
 - 1-point bonus sample quiz about syllabus, due in class on [Moodle](https://moodle.trincoll.edu)
 - Presentation: Why data visualization matters in the "disinformation age"--see HODV Chapter 1 <https://handsondataviz.org/introduction.html>
 - Tell us about yourself and what sparks your interest in this course in this [Google Form](https://forms.gle/bA4aBxvcVZ7BsFW89)
-- Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
 - Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills
   - Copy, Share, and Convert Google Sheets
   - Geocode locations
@@ -102,6 +101,7 @@ Always look for important updates from the instructor, which will appear **in bo
   - Calculate with formulas
   - Summarize with pivot tables
   - Match columns with VLookup
+- Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period from Sun 12 Sept at 12 noon to Tues Sept 14 at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 14 Sept
