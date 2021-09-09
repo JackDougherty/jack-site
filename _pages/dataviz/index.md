@@ -7,7 +7,7 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2021 Syllabus
-Tuesdays & Thursdays 2:55-4:10pm in-person course in Seabury S201 with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an appointment on my calendar](https://jackdougherty.org/).
+Our course meets in-person, wearing face masks in compliance with the [campus Covid policy](https://www.trincoll.edu/reopening/), on Tuesdays & Thursdays 2:55-4:10pm in Seabury S201 with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an in-person or Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
@@ -28,12 +28,12 @@ This semester we will create data stories in partnership with two Hartford organ
 - Two open-access books are freely available online (or you can purchase print editions).
   - Jack Dougherty and Ilya Ilyankou, *Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code* (O’Reilly Media, Inc., 2021), <https://HandsOnDataViz.org>.
   - Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020), <https://data-feminism.mitpress.mit.edu>.
-- Bring a working laptop computer (Mac, Windows, Linux, or Chromebook) to every class. Install more than one browser (such as Firefox, Safari, Chrome) for testing purposes. Tell me if you need a temporary laptop loaner.
+- Bring a laptop computer (Mac, Windows, or Chromebook) to every class. Install more than one browser (such as Firefox, Safari, Chrome) for testing purposes. Tell me if you need a temporary laptop loaner.
 - You will need to sign up for several free web services (such as Google Drive, Datawrapper, GitHub). See my list of [recommended free digital tools in this course](https://handsondataviz.org/recommended-tools.html).
 - Use a password manager to keep track of your digital accounts. See my [introduction to Bitwarden](https://handsondataviz.org/password-manager.html), an open-source password manager with free core features for Windows/Mac/Linux computers, all major web browsers, and iOS and Android mobile devices.
 
 ### Learning Goals and Assessments
-This course is designed to demonstrate the knowledge and skills you have developed to meet 12 broad learning goals:
+In this course you will demonstrate the knowledge and skills you have developed to meet 12 broad learning goals (with more specific sub-goals listed in the schedule further below):
 
 1. Strengthen Your Spreadsheet Skills
 2. Find and Question Your Data
@@ -48,39 +48,38 @@ This course is designed to demonstrate the knowledge and skills you have develop
 11. Detect Lies and Reduce Bias
 12. Listen, Tell, and Show Your Community Partner's Data Story
 
-For each broad learning goal, see specific sub-goals listed in the syllabus schedule further below.
+Your progress toward these learning goals will be assessed in three ways:
 
-Your knowledge and skills will be assessed in three ways:
-
-### A. Open-Book Weekly Quizzes
-- The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts, using your course materials and notes. You will have more than one opportunity to successfully complete each quiz.
-- Each week, select any 2-hour period during the 2-day window (typically from Sunday 12 noon to Tuesday 2pm) to complete an online quiz of 5-10 questions on one of the broad learning goals above. You may see different versions of questions than other students, but all address the same learning goals.
-- Short-answer questions will be scored automatically for quick feedback. Longer-task questions require you to show your work by pasting a link or explanation, and these will be scored manually by the instructor on a completed/non-completed basis.
-- If you respond incorrectly to an auto-scored question, the quiz will show advice, but not the correct answer. Instead, the quiz will give you a second chance to answer the same question, or a different version of the question. Furthermore, if you incorrectly answer a manually-scored question, the instructor may re-open that portion of your quiz for a second attempt with additional time.
-- After the quiz closes (typically on Tuesday 2pm), if you still have not successfully completed it, you can meet with the instructor to discuss your learning and request another opportunity to retake the quiz before the next quiz opens (typically Sunday 12 noon).
-- Before you start the quiz, prepare ahead by reading assigned chapters, doing practice exercises, and discussing the material with classmates who have not yet started it.
-- When you start the 2-hour quiz period, you may use your materials (including your notes, the online book, and the entire Internet), but you must work independently and you may not communicate about its content in any way (except with the instructor) until the quiz is closed (typically Tuesday 2pm). You are responsible for intellectual honesty. If doubts arise, the instructor may require you to retake a quiz under direct supervision, and/or refer the issue to the Honor Council.
+#### A. Open-Book Weekly Quizzes
+- The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts. You will have more than one opportunity to successfully complete each quiz while working independently with your notes, readings, and any web resources.
+- Each week, select any 2-hour period during the 2-day window (typically from Sunday 12 noon to Tuesday 2pm) to complete a Moodle quiz of 5-10 questions on the designated learning goal. You may see different versions of questions than other students, but all address the same goal.
+- Short-answer questions will be scored automatically for quick feedback. Longer-task questions require you to show your work by pasting a link and/or explanation, and these will be scored manually by the instructor on a completed/non-completed basis.
+- If you respond incorrectly to an auto-scored question, the quiz will offer advice, but not the correct answer. Instead, the quiz will give you a second chance to answer the same question, or a different version of the question. Furthermore, if you incorrectly answer a manually-scored question, the instructor may re-open that portion of your quiz for a second attempt with additional time.
+- After the quiz closes (typically on Tuesday 2pm), if you still have not successfully completed it, you can meet with the instructor to discuss your learning and request another opportunity to retake the quiz before the next window opens (typically Sunday 12 noon).
+- Before you start the quiz, prepare by reading assigned chapters, doing practice exercises, and discussing the material with classmates who have not yet started it.
+- When you start the 2-hour quiz period, you may use your materials (including your notes, the online book, and the entire Internet), but you must work independently and you may not communicate about the quiz content in any way (except with the instructor) until it has closed (typically Tuesday 2pm). You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/). If doubts arise, the instructor may require you to retake a quiz under direct supervision and/or refer the issue to the Honor Council.
 - 12 broad learning goals x 5 points (based on 5-10 questions) = 60 points
 
-### B. Building Data Stories
+#### B. Building Data Stories
 - The purpose is to show your work in building different stages of data visualizations and written narratives that explain why and how it matters to our community partners.
 - The instructor, your peers, and data visualization guest experts will evaluate stages of your data stories, based on a rubric.
-- 6 parts worth 5 points each = 30 points
+- 6 parts worth 5 points each = 30 points. For any overdue assignments in this section, a 10 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 
-### C. Class Participation
-- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or are not able to participate when called, a point will be deducted from your participation score. See details below about health and family emergencies, and also how to participate remotely if you are quarantined.
+#### C. Class Participation
+- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me at the beginning of the semester (such as religious observances, etc.)
 
-Total = 60 points quizzes + 30 points data stories + 10 class participation = 100 points.
+**If you feel sick**, or are isolated or quarantined due to Covid, do not come to class. Instead, contact me in advance to request permission to participate remotely during a specific class session via Zoom.
 
-<!-- You can access your individual scores on the password-protected Moodle site for this class. [TODO link]
+#### Summary  
+60 points quizzes + 30 points data stories + 10 class participation = 100 possible points, plus any bonus points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
-### Academic Policies TODO
+Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. For Student Accessibility Resources, contact <mailto:Lori.Clapis@trincoll.edu> or <mailto:SARC@trincoll.edu>.
 
+Religious observances: please notify me before our third class session regarding any scheduling accommodations.
 
+### How to Succeed in this Course (To come)
 
-### How to Succeed in this Course TODO
-
-- Find active ways, not passive ways, to take notes... rewrite in your own words...
+<!-- - Find active ways, not passive ways, to take notes... rewrite in your own words...
 - Meet up with a classmate or small group to -->
 
 ## Schedule (To come)
@@ -90,10 +89,16 @@ TODO: Send tentative meeting times to community partners
 
 
 ### Week 0
-- Open-book quiz about this syllabus: 4 questions x 0.25 points = 1 bonus point for total score
+- 0 Syllabus quiz due Thurs Sept 9th in class. 4 questions x 0.25 points = 1 bonus point for total score
 - When taking a Moodle quiz, be sure to “check” each answer, and also click “submit and finish” at the end.
 
 ### Week 1
+
+Geocode locations
+Sort and filter data
+Calculate with formulas
+Summarize with pivot tables
+Match columns with VLookup
 
 ### Week 2
 
