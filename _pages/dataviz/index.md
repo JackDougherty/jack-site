@@ -77,33 +77,91 @@ Academic accommodations: please notify me before our third class session, and [s
 
 Religious observances: please notify me before our third class session regarding any scheduling accommodations.
 
-### How to Succeed in this Course (To come)
+### How to Succeed in this Course
+- Bookmark this online syllabus and check it often for updates, which will appear **in bold**.
+- Keep a calendar (paper or digital) to manage your time and meet deadlines.
+- Bring a laptop (with a fully-charged battery) to every class, and turn off distractions to help you (and others) focus on learning. On a Mac, set Notifications to "Do Not Disturb."
+- Take initiative and ask questions: during or after class, via email, or by appointment [on my calendar](https://jackdougherty.youcanbook.me). If you don't understand something, other students probably are puzzled, too. Go ahead and ask.
+- Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
+- If anything is interfering with your learning, email or talk with me about it. I care about how you're doing in life, not just in our classroom.
 
-<!-- - Find active ways, not passive ways, to take notes... rewrite in your own words...
-- Meet up with a classmate or small group to -->
+## Schedule
+Always look for important updates from the instructor, which will appear **in bold**.
 
-## Schedule (To come)
-<!-- Always check for schedule updates from the instructor. Important changes will appear **in bold**.
+### Thur 9 Sept
+- Welcome to class: Create name cards and tell me how to remember you
+- Syllabus overview and how to succeed in this course
+- 1-point bonus sample quiz about syllabus, due in class on [Moodle](https://moodle.trincoll.edu)
+- Presentation: Why data visualization matters in the "disinformation age"--see HODV Chapter 1 <https://handsondataviz.org/introduction.html>
+- Tell us about yourself and what sparks your interest in this course in this [Google Form](https://forms.gle/bA4aBxvcVZ7BsFW89)
+- Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
+- Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills
+  - Share and Convert Data in Google Sheets
+  - Geocode locations
+  - Sort and filter data
+  - Calculate with formulas
+  - Summarize with pivot tables
+  - Match columns with VLookup
+- Prep for Spreadsheet quiz, to be taken during any 2-hour period from Sun 12 Sept at 12 noon to Tues Sept 14 at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
-TODO: Send tentative meeting times to community partners
+### Tues 14 Sept
 
+### Thur 16 Sept
 
-### Week 0
-- 0 Syllabus quiz due Thurs Sept 9th in class. 4 questions x 0.25 points = 1 bonus point for total score
-- When taking a Moodle quiz, be sure to “check” each answer, and also click “submit and finish” at the end.
+### Tues 21 Sept
 
-### Week 1
+### Thur 23 Sept
 
-Geocode locations
-Sort and filter data
-Calculate with formulas
-Summarize with pivot tables
-Match columns with VLookup
+### Tues 28 Sept
 
-### Week 2
+### Thur 30 Sept
 
-### Week 3
+### Tues 5 Oct
 
-#### Subheader
+### Thur 7 Oct
 
-### Week 4 -->
+### Tues 12 Oct
+No class (Trinity Day)
+
+### Thur 14 Oct
+
+### Tues 19 Oct
+
+### Thur 21 Oct
+
+### Tues 26 Oct
+
+### Thur 28 Oct
+
+### Tues 2 Nov
+
+### Thur 4 Nov
+
+### Tues 9 Nov
+
+### Thur 11 Nov
+
+### Tues 16 Nov
+
+### Thur 18 Nov
+
+### Substitute class meeting day/time TBA
+
+### Tues 23 Nov
+No class session (see substitute class meeting above)
+
+### Thur 25 Nov
+No class (Thanksgiving break)
+
+### Tues 30 Nov
+
+### Thur 2 Dec
+
+### Tues 7 Dec
+
+### Thur 9 Dec
+
+### Tues 14 Dec
+
+### Mon 20 Dec
+- Final presentations with guest experts to be assigned during 9am-12pm exam slot, or individual students may voluntarily agree to earlier time slots.
