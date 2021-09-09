@@ -33,7 +33,7 @@ This semester we will create data stories in partnership with two Hartford organ
 - Use a password manager to keep track of your digital accounts. See my [introduction to Bitwarden](https://handsondataviz.org/password-manager.html), an open-source password manager with free core features for Windows/Mac/Linux computers, all major web browsers, and iOS and Android mobile devices.
 
 ### Learning Goals and Assessments
-This course is designed to demonstrate the knowledge and skills you have developed to meet 12 broad learning goals. [TODO: point to link with more specific sub-goals and book chapters]
+This course is designed to demonstrate the knowledge and skills you have developed to meet 12 broad learning goals:
 
 1. Strengthen Your Spreadsheet Skills
 2. Find and Question Your Data
@@ -48,16 +48,18 @@ This course is designed to demonstrate the knowledge and skills you have develop
 11. Detect Lies and Reduce Bias
 12. Listen, Tell, and Show Your Community Partner's Data Story
 
+For each broad learning goal, see specific sub-goals listed in the syllabus schedule further below.
+
 Your knowledge and skills will be assessed in three ways:
 
 ### A. Open-Book Weekly Quizzes
 - The purpose is to demonstrate your knowledge and skills through questions that emphasize conceptual understanding and how to apply it in new contexts, using your course materials and notes. You will have more than one opportunity to successfully complete each quiz.
-- Each week, select 1 hour during a 2-day period (typically Sunday 12 noon to Tuesday 2pm) to complete an online quiz of 5-10 questions on one of the broad learning goals above. You may see different versions of questions than other students, but all address the same learning goals.
+- Each week, select any 2-hour period during the 2-day window (typically from Sunday 12 noon to Tuesday 2pm) to complete an online quiz of 5-10 questions on one of the broad learning goals above. You may see different versions of questions than other students, but all address the same learning goals.
 - Short-answer questions will be scored automatically for quick feedback. Longer-task questions require you to show your work by pasting a link or explanation, and these will be scored manually by the instructor on a completed/non-completed basis.
 - If you respond incorrectly to an auto-scored question, the quiz will show advice, but not the correct answer. Instead, the quiz will give you a second chance to answer the same question, or a different version of the question. Furthermore, if you incorrectly answer a manually-scored question, the instructor may re-open that portion of your quiz for a second attempt with additional time.
 - After the quiz closes (typically on Tuesday 2pm), if you still have not successfully completed it, you can meet with the instructor to discuss your learning and request another opportunity to retake the quiz before the next quiz opens (typically Sunday 12 noon).
-- Before you start the quiz, prepare ahead by reading assigned chapters, doing practice exercises, and discussing with classmates who have not yet started it.
-- When you start the 1-hour quiz, you may use your materials (including your notes, our online book, and reading the Internet), but you must work independently and you may not communicate about its content in any way until the instructor reviews results in class. You are responsible for intellectual honesty. If doubts arise, the instructor may require you to retake a quiz under direct supervison, and/or refer the issue to the Honor Council.
+- Before you start the quiz, prepare ahead by reading assigned chapters, doing practice exercises, and discussing the material with classmates who have not yet started it.
+- When you start the 2-hour quiz period, you may use your materials (including your notes, the online book, and the entire Internet), but you must work independently and you may not communicate about its content in any way (except with the instructor) until the quiz is closed (typically Tuesday 2pm). You are responsible for intellectual honesty. If doubts arise, the instructor may require you to retake a quiz under direct supervision, and/or refer the issue to the Honor Council.
 - 12 broad learning goals x 5 points (based on 5-10 questions) = 60 points
 
 ### B. Building Data Stories
