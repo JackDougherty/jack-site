@@ -30,7 +30,6 @@ This semester we will create data stories in partnership with two Hartford organ
   - Catherine D’Ignazio and Lauren F. Klein, *Data Feminism* (MIT Press, 2020), <https://data-feminism.mitpress.mit.edu>.
 - Bring a laptop computer (Mac, Windows, or Chromebook) to every class. Install more than one browser (such as Firefox, Safari, Chrome) for testing purposes. Tell me if you need a temporary laptop loaner.
 - You will need to sign up for several free web services (such as Google Drive, Datawrapper, GitHub). See my list of [recommended free digital tools in this course](https://handsondataviz.org/recommended-tools.html).
-- Use a password manager to keep track of your digital accounts. See my [introduction to Bitwarden](https://handsondataviz.org/password-manager.html), an open-source password manager with free core features for Windows/Mac/Linux computers, all major web browsers, and iOS and Android mobile devices.
 
 ### Learning Goals and Assessments
 In this course you will demonstrate the knowledge and skills you have developed to meet 12 broad learning goals (with more specific sub-goals listed in the schedule further below):
@@ -81,6 +80,7 @@ Religious observances: please notify me before our third class session regarding
 - Bookmark this online syllabus and check it often for updates, which will appear **in bold**.
 - Keep a calendar (paper or digital) to manage your time and meet deadlines.
 - Bring a laptop (with a fully-charged battery) to every class, and turn off distractions to help you (and others) focus on learning. On a Mac, set Notifications to "Do Not Disturb."
+- Use a password manager to keep track of your digital accounts. See my [introduction to Bitwarden](https://handsondataviz.org/password-manager.html), an open-source password manager with free core features for Windows/Mac/Linux computers, all major web browsers, and iOS and Android mobile devices.
 - Take initiative and ask questions: during or after class, via email, or by appointment [on my calendar](https://jackdougherty.youcanbook.me). If you don't understand something, other students probably are puzzled, too. Go ahead and ask.
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with me about it. I care about how you're doing in life, not just in our classroom.
