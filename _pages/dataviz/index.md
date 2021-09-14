@@ -101,7 +101,7 @@ Always look for important updates from the instructor, which will appear **in bo
   - Calculate with formulas
   - Summarize with pivot tables
 - Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
-- Prep for Spreadsheet quiz, to be taken during any 2-hour period from Sun 12 Sept at 12 noon to Tues Sept 14 at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Prep for Spreadsheet quiz, to be taken during any 2-hour period from Sun 12 Sept at 12 noon to Tues Sept 14 at 2pm (**extended to Thurs Sept 16th at 2pm**), on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 14 Sept
 - Start reading Data Feminism, chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>
@@ -123,19 +123,19 @@ Always look for important updates from the instructor, which will appear **in bo
 
 ### Thur 16 Sept
 - Before class, read short background stories about our community partners and topics of interest:
-  - Rebecca Lurye, “Hartford Prepares for Start of Rental Licensing Program Aimed at Uncovering Negligent Landlords, Hires New Blight Director,” Hartford Courant, April 7, 2021, <https://www.courant.com/community/hartford/hc-news-hartford-blight-housing-changes-20210407-cnhdbpon4jfqxgri3jn53rroz4-story.html>.
+  - Rebecca Lurye, “New Housing Code in Hartford Would Keep Slumlords from Hiding Behind LLCs,” Hartford Courant, May 31, 2019, <https://www.courant.com/community/hartford/hc-news-hartford-housing-code-20190531-hcke2jo2x5fpdgz75xf4hlv2ki-story.html>.
   - Rebecca Lurye, “Hartford Prepares for Start of Rental Licensing Program Aimed at Uncovering Negligent Landlords, Hires New Blight Director,” Hartford Courant, April 7, 2021, <https://www.courant.com/community/hartford/hc-news-hartford-blight-housing-changes-20210407-cnhdbpon4jfqxgri3jn53rroz4-story.html>.
   - "Greater Hartford Interfaith Action Alliance" (web page and short video), Center for Leadership and Justice, <https://cljct.org>.
   - "Hartford Area Habitat for Humanity" (see Jan 2021 newsletter, especially "Tolland County Expansion" section), <https://hartfordhabitat.org>.
 - Zoom meeting in class with Hartford community partners on data stories we will build this semester. Be prepared to ask questions to clarify their ideas and take collaborative notes.
 - 3-3:20pm with Center for Leadership and Justice on their ideas:
-  - 1. Greater Hartford Interfaith Action Alliance (GHIAA) members map
-  - 2. Housing Code Accountability: Location and Ownership of 40+ Apartment Units Required to Apply for Hartford Rental License
-  - 3. Housing Code Cases: Location and Ownership of Apartments with Complaints or Violations in Hartford
+  - 1) Greater Hartford Interfaith Action Alliance (GHIAA) members map
+  - 2) Housing Code Accountability: Location and Ownership of 40+ Apartment Units Required to Apply for Hartford Rental License
+  - 3) Housing Code Cases: Location and Ownership of Apartments with Complaints or Violations in Hartford
 - 3:30-3:50pm with Hartford-Area Habitat for Humanity on their ideas:
-  - 1. Building Neighborhoods: Where has Habitat built homes in North Central Connecticut over time?
-  - 2. Increasing Home Ownership: In what kinds of neighborhoods is Habitat building?
-  - 3. Generating Tax Dollars: How much property tax revenue do Habitat neighborhoods produce for local governments?
+  - 1) Building Neighborhoods: Where has Habitat built homes in North Central Connecticut over time?
+  - 2) Increasing Home Ownership: In what kinds of neighborhoods is Habitat building?
+  - 3) Generating Tax Dollars: How much property tax revenue do Habitat neighborhoods produce for local governments?
 - Assign Build Stage 1: Find and Question Data for Community Partners; Geocode Data, due by Thurs 23 Sept at 2pm
 
 ### Tues 21 Sept
