@@ -100,12 +100,12 @@ Always look for important updates from the instructor, which will appear **in bo
   - Sort and filter data
   - Calculate with formulas
   - Summarize with pivot tables
-  - Match columns with VLookup
 - Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period from Sun 12 Sept at 12 noon to Tues Sept 14 at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 14 Sept
-- Review Spreadsheet quiz
+- Start reading Data Feminism, chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>
+- Start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
 - Overview of Learning Goal #2: Find and Question Your Data
   - Challenge power & privilege in data
   - Clarify levels of data
@@ -114,17 +114,24 @@ Always look for important updates from the instructor, which will appear **in bo
   - Explore open data repositories
   - Source your data
   - Recognize bad data
-  - Question your data and consider context
-- Start reading Data Feminism, Introduction and chapters 1, 2, and 4 at <https://data-feminism.mitpress.mit.edu>
-- Start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
-- Prep for Find and Question Data quiz, to be taken during any 2-hour period from Sun 19 Sept at 12 noon to Tues 21 Sept at 2pm, on [Moodle](https://moodle.trincoll.edu)
+  - Question your data
+- Prepare for Find and Question Data quiz, to be taken during any 2-hour period from Sun 19 Sept at 12 noon to Tues 21 Sept at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Prepare for next class Zoom meeting with Hartford community partners (see below)
+- Review what you learned in Goal #1: Spreadsheet quiz. Which strategies helped you to learn? Which ones did not?
+- [Additional practice with spreadsheet skills](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
+- To share your screen in class, go to my Zoom Room <https://trincoll.zoom.us/my/jackdougherty> and mute your audio and video
 
 ### Thur 16 Sept
-- Zoom meeting in class with Hartford community partners on data stories we will build this semester. Be prepared to take notes and ask questions to clarify ideas.
+- Before class, read short background stories about our community partners and topics of interest:
+  - Rebecca Lurye, “Hartford Prepares for Start of Rental Licensing Program Aimed at Uncovering Negligent Landlords, Hires New Blight Director,” Hartford Courant, April 7, 2021, <https://www.courant.com/community/hartford/hc-news-hartford-blight-housing-changes-20210407-cnhdbpon4jfqxgri3jn53rroz4-story.html>.
+  - Rebecca Lurye, “Hartford Prepares for Start of Rental Licensing Program Aimed at Uncovering Negligent Landlords, Hires New Blight Director,” Hartford Courant, April 7, 2021, <https://www.courant.com/community/hartford/hc-news-hartford-blight-housing-changes-20210407-cnhdbpon4jfqxgri3jn53rroz4-story.html>.
+  - "Greater Hartford Interfaith Action Alliance" (web page and short video), Center for Leadership and Justice, <https://cljct.org>.
+  - "Hartford Area Habitat for Humanity" (see Jan 2021 newsletter, especially "Tolland County Expansion" section), <https://hartfordhabitat.org>.
+- Zoom meeting in class with Hartford community partners on data stories we will build this semester. Be prepared to ask questions to clarify their ideas and take collaborative notes.
 - 3-3:20pm with Center for Leadership and Justice on their ideas:
   - 1. Greater Hartford Interfaith Action Alliance (GHIAA) members map
-  - 2. Housing Code Accountability Map: Required to Apply for Rental License
-  - 3. Housing Code Accountability Map: Violations
+  - 2. Housing Code Accountability: Location and Ownership of 40+ Apartment Units Required to Apply for Hartford Rental License
+  - 3. Housing Code Cases: Location and Ownership of Apartments with Complaints or Violations in Hartford
 - 3:30-3:50pm with Hartford-Area Habitat for Humanity on their ideas:
   - 1. Building Neighborhoods: Where has Habitat built homes in North Central Connecticut over time?
   - 2. Increasing Home Ownership: In what kinds of neighborhoods is Habitat building?
