@@ -1,13 +1,13 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /dataviz/
-date: 2021-09-08
+date: 2021-09-13
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
 ## Fall 2021 Syllabus
-Our course meets in-person, wearing face masks in compliance with the [campus Covid policy](https://www.trincoll.edu/reopening/), on Tuesdays & Thursdays 2:55-4:10pm in Seabury S201 with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an in-person or Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
+Our course meets in-person, wearing face masks in compliance with the [campus Covid policy](https://www.trincoll.edu/reopening/), on Tuesdays & Thursdays 2:55-4:10pm in **Seabury S205** with Professor Jack Dougherty at Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule an in-person or Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
 Course description: How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
