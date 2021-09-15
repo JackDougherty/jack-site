@@ -21,7 +21,7 @@ This semester we will create data stories in partnership with two Hartford organ
 [Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab) with [Center for Leadership and Justice](https://cljct.org) partners: Cori Mackey, Tieasha Gayle, AJ Johnson.
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/) with [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Makenzie Bahr, Suzanne Feola, Karraine Moody. Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
+[Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/) with [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Makenzie Bahr, Suzanne Feola, Tracy Thomas, Karraine Moody. Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
 
 ### Course Materials and Tools
 ![book covers](/images/2021/covers-hodv-datafeminism.png)
@@ -104,8 +104,8 @@ Always look for important updates from the instructor, which will appear **in bo
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period from Sun 12 Sept at 12 noon to Tues Sept 14 at 2pm (**extended to Thurs Sept 16th at 2pm**), on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 14 Sept
-- Start reading Data Feminism, chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>
-- Start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
+- Start reading Data Feminism, chapters 1 and 2 <https://data-feminism.mitpress.mit.edu> and finish prior to the quiz
+- Start reading HODV Chapter 3 at <https://handsondataviz.org/find.html> and finish prior to the quiz
 - Overview of Learning Goal #2: Find and Question Your Data
   - Challenge power & privilege in data
   - Clarify levels of data
