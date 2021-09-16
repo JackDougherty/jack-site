@@ -21,7 +21,7 @@ This semester we will create data stories in partnership with two Hartford organ
 [Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_aq660eab) with [Center for Leadership and Justice](https://cljct.org) partners: Cori Mackey, Tieasha Gayle, AJ Johnson.
 
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/42684261/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_ygdoh4la&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
-[Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/) with [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Makenzie Bahr, Suzanne Feola, Tracy Thomas, Karraine Moody. Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
+[Intro video, Fall 2021](https://trincoll.mediaspace.kaltura.com/media/1_ygdoh4la/) with [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) partners: Suzanne Feola, Makenzie Bahr, Tracy Thomas, Karraine Moody. Learn more [about Karraine Moody, Trinity '01](https://www.trincoll.edu/close-up-karraine-moody-of-hartford-habitat-for-humanity/).
 
 ### Course Materials and Tools
 ![book covers](/images/2021/covers-hodv-datafeminism.png)
@@ -117,9 +117,9 @@ Always look for important updates from the instructor, which will appear **in bo
   - Question your data
 - Prepare for Find and Question Data quiz, to be taken during any 2-hour period from Sun 19 Sept at 12 noon to Tues 21 Sept at 2pm, on [Moodle](https://moodle.trincoll.edu)
 - Prepare for next class Zoom meeting with Hartford community partners (see below)
-- Review what you learned in Goal #1: Spreadsheet quiz. Which strategies helped you to learn? Which ones did not?
+- Review your progress toward Goal #1: Spreadsheet quiz. What strategies helped you to learn?
 - [Additional practice with spreadsheet skills](https://docs.google.com/spreadsheets/d/1oxbu-wnZ_BXFaoDeKsqRMVpJu8-7d5XBkrhCRpVdLJU/edit#gid=0)
-- To share your screen in class, go to my Zoom Room <https://trincoll.zoom.us/my/jackdougherty> and mute your audio and video
+- To share your screen in our classroom, go to my Zoom Room <https://trincoll.zoom.us/my/jackdougherty> and mute your audio and video
 
 ### Thur 16 Sept
 - Before class, read short background stories about our community partners and topics of interest:
@@ -127,7 +127,7 @@ Always look for important updates from the instructor, which will appear **in bo
   - Rebecca Lurye, “Hartford Prepares for Start of Rental Licensing Program Aimed at Uncovering Negligent Landlords, Hires New Blight Director,” Hartford Courant, April 7, 2021, <https://www.courant.com/community/hartford/hc-news-hartford-blight-housing-changes-20210407-cnhdbpon4jfqxgri3jn53rroz4-story.html>.
   - "Greater Hartford Interfaith Action Alliance" (web page and short video), Center for Leadership and Justice, <https://cljct.org>.
   - "Hartford Area Habitat for Humanity" (see Jan 2021 newsletter, especially "Tolland County Expansion" section), <https://hartfordhabitat.org>.
-- Zoom meeting in class with Hartford community partners on data stories we will build this semester. Be prepared to ask questions to clarify their ideas and take collaborative notes.
+- Zoom meeting in class with Hartford community partners on data stories we will build this semester, which will be video-recorded. Be prepared to ask questions to clarify their ideas and write up [Collaborative Notes in this Google Doc](https://docs.google.com/document/d/1DGj8WfprW6BqMege4gQeEoiBtZ6eh6Xnr2VkWbNwE_Y/edit).
 - 3-3:20pm with Center for Leadership and Justice on their ideas:
   - 1) Greater Hartford Interfaith Action Alliance (GHIAA) members map
   - 2) Housing Code Accountability: Location and Ownership of 40+ Apartment Units Required to Apply for Hartford Rental License
@@ -136,7 +136,7 @@ Always look for important updates from the instructor, which will appear **in bo
   - 1) Building Neighborhoods: Where has Habitat built homes in North Central Connecticut over time?
   - 2) Increasing Home Ownership: In what kinds of neighborhoods is Habitat building?
   - 3) Generating Tax Dollars: How much property tax revenue do Habitat neighborhoods produce for local governments?
-- Assign Build Stage 1: Find and Question Data for Community Partners; Geocode Data, due by Thurs 23 Sept at 2pm
+- Assign [Build Stage 1](https://docs.google.com/document/d/1oWmRmpprya401MwE_18Stt8QizjFEbe-wfWkAYQTXEs/edit): Find and Question Data, with Spreadsheet Skills, for Hartford Community Partners, due by Thurs 23 Sept at 2pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 21 Sept
 - Discuss key concepts and passages from Data Feminism
