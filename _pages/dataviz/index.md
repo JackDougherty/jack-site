@@ -139,7 +139,9 @@ Always look for important updates from the instructor, which will appear **in bo
 - Assign [Build Stage 1](https://docs.google.com/document/d/1oWmRmpprya401MwE_18Stt8QizjFEbe-wfWkAYQTXEs/edit): Find and Question Data, with Spreadsheet Skills, for Hartford Community Partners, due by Thurs 23 Sept at 2pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 21 Sept
-- Discuss key concepts and passages from Data Feminism
+- Discuss key passages from *Data Feminism*:
+  - In Ch1 ["What we choose to measure is a statement of what we value...and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
+  - In Ch 2, ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
 - Review Find and Question Data quiz
 - Overview of Learning Goal #3: Clean Up Messy Data
   - Smart Cleanup in Google Sheets
