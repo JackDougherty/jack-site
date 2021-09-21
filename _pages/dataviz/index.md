@@ -151,6 +151,7 @@ Always look for important updates from the instructor, which will appear **in bo
   - Combine Data into One Column
 - Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
 - Prepare for Clean Up quiz, to be taken during any 2-hour period from Sun 26 Sept at 12 noon to Tues 28 Sept at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Continue working with groups on [Build Stage 1](https://docs.google.com/document/d/1oWmRmpprya401MwE_18Stt8QizjFEbe-wfWkAYQTXEs/edit), due by Thurs 23 Sept at 2pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Thur 23 Sept
 - Overview of Learning Goal #4: Make Meaningful Comparisons
