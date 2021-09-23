@@ -155,7 +155,7 @@ Always look for important updates from the instructor, which will appear **in bo
 
 ### Thur 23 Sept
 - Overview of Learning Goal #4: Make Meaningful Comparisons
-  - Precisely describe comparisons
+  - Precisely describe comparisons -- practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
   - Beware of biased comparisons
 - Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
