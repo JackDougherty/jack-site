@@ -165,6 +165,7 @@ Always look for important updates from the instructor, which will appear **in bo
 
 ### Tues 28 Sept
 - Review Clean Up Data quiz and Meaningful Comparisons quiz
+- Different approaches to the [Covid case normalization question](https://docs.google.com/spreadsheets/d/1ZzvrYSgOlrVCoLrF2y4GHhMj70YPxhqEYg-nOiVpOXs/edit#gid=0)
 - If asked to share your screen in class, go to my Zoom room <https://trincoll.zoom.us/my/jackdougherty>, mute your video and audio, and wait for me to admit you to share your screen  
 - Overview of Learning Goal #5: Chart Your Data
   - Chart types
