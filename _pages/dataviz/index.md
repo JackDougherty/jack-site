@@ -166,7 +166,7 @@ Always look for important updates from the instructor, which will appear **in bo
 ### Tues 28 Sept
 - Review Clean Up Data quiz and Meaningful Comparisons quiz
 - Different approaches to the [Covid case normalization question](https://docs.google.com/spreadsheets/d/1ZzvrYSgOlrVCoLrF2y4GHhMj70YPxhqEYg-nOiVpOXs/edit#gid=0)
-- If asked to share your screen in class, go to my Zoom room <https://trincoll.zoom.us/my/jackdougherty>, mute your video and audio, and wait for me to admit you to share your screen  
+- If invited to share your screen with the class, go to my Zoom room <https://trincoll.zoom.us/my/jackdougherty>, mute your video and audio, and wait for me to admit you and share your screen  
 - Overview of Learning Goal #5: Chart Your Data
   - Chart types
   - Chart design principles and rules
@@ -176,7 +176,14 @@ Always look for important updates from the instructor, which will appear **in bo
 - Prepare for Chart Your Data quiz, to be taken during any 2-hour period from Sun 3 Oct at 12 noon to Tues 5 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Thur 30 Sept
-- Assign Build Stage 2: Make Meaningful Comparisons, Chart and Map Your Data, due by end of Thursday 7 Oct
+- Work in pairs to create point maps with Hartford partner data. Use only the most relevant columns.
+  - [GHIAA members Google Sheet](https://docs.google.com/spreadsheets/d/1FFMkOr4pug-fI4sRObyUQfRLXAcFrZ8B6oMM6NzolfY/edit#gid=1372468455)
+  - [Habitat homes Google Sheet](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0)
+- [Point map with Google My Maps tutorial](https://handsondataviz.org/mymaps.html)
+- [Symbol point map with Datawrapper tutorial](https://handsondataviz.org/symbolmap-datawrapper.html)
+  - Hints: Select USA > Connecticut > Towns as background map. Also, set all symbol points to same size.
+- If invited to share your screen with the class, go to my Zoom room <https://trincoll.zoom.us/my/jackdougherty>, mute your video and audio, and wait for me to admit you and share your screen  
+- Assign Build Stage 2: Make Meaningful Comparisons, Chart and Map Your Data, due by Thu 7 Oct at 2pm on Moodle
 
 ### Tues 5 Oct
 - Review Chart Your Data quiz
@@ -185,15 +192,15 @@ Always look for important updates from the instructor, which will appear **in bo
   - Map design principles and rules
   - Choropleth colors and intervals
   - Normalize choropleth map data
-  - Create point maps
-  - Create symbol point maps
+  - Create point maps (introduced in prior class)
+  - Create symbol point maps (introduced in prior class)
   - Create choropleth maps
   - Create maps with current data
 - Start reading HODV Chapter 7 at <https://handsondataviz.org/map.html>
 
-
 ### Thur 7 Oct
-- Work on Build Stage 2, due by end of day
+- Review Build Stage 2
+- In class, we will create more advanced point maps for our Hartford partners
 - Prep for Map Your Data quiz, to be taken during any 2-hour period **after Trinity Days** from Sun 17 Oct at 12 noon to Tues 19 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 12 Oct
