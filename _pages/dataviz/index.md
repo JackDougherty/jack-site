@@ -184,7 +184,7 @@ Always look for important updates from the instructor, which will appear **in bo
 - [Symbol point map with Datawrapper tutorial](https://handsondataviz.org/symbolmap-datawrapper.html)
   - Hints: Select USA > Connecticut > Towns as background map. Also, set all symbol points to same size.
 - If invited to share your screen with the class, go to my Zoom room <https://trincoll.zoom.us/my/jackdougherty>, mute your video and audio, and wait for me to admit you and share your screen  
-- Assign Build Stage 2: Make Meaningful Comparisons, Chart and Map Your Data, due by Thu 7 Oct at 2pm on Moodle
+- Assign [Build Stage 2: Make Meaningful Comparisons and Charts](https://docs.google.com/document/d/1wFkllXb4IymyL96wrAqHZ6eG05lhN3q-CPM0aYmJhAY/edit#), due by Thu 7 Oct at 2pm on Moodle
 
 ### Tues 5 Oct
 - Review Chart Your Data quiz
