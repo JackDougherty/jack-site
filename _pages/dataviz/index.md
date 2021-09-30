@@ -180,6 +180,7 @@ Always look for important updates from the instructor, which will appear **in bo
   - [GHIAA members Google Sheet](https://docs.google.com/spreadsheets/d/1FFMkOr4pug-fI4sRObyUQfRLXAcFrZ8B6oMM6NzolfY/edit#gid=1372468455)
   - [Habitat homes Google Sheet](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0)
 - [Point map with Google My Maps tutorial](https://handsondataviz.org/mymaps.html)
+  - Beware: If you Import directly from a Google Sheet, My Maps automatically uploads the **first** tab.
 - [Symbol point map with Datawrapper tutorial](https://handsondataviz.org/symbolmap-datawrapper.html)
   - Hints: Select USA > Connecticut > Towns as background map. Also, set all symbol points to same size.
 - If invited to share your screen with the class, go to my Zoom room <https://trincoll.zoom.us/my/jackdougherty>, mute your video and audio, and wait for me to admit you and share your screen  
