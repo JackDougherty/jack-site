@@ -187,7 +187,7 @@ Always look for important updates from the instructor, which will appear **in bo
 - Assign [Build Stage 2: Make Meaningful Comparisons and Charts](https://docs.google.com/document/d/1wFkllXb4IymyL96wrAqHZ6eG05lhN3q-CPM0aYmJhAY/edit#), due by Thu 7 Oct at 2pm on Moodle
 
 ### Tues 5 Oct
-- Review Chart Your Data quiz
+- [How would you evaluate these charts by classmates?](https://docs.google.com/presentation/d/1G1dvpldGs-Fh7werngV8pOUDGvRrLVoRUTKp-gLbtLQ/edit#slide=id.p)
 - Overview of Learning Goal #6: Map Your Data
   - Map types
   - Map design principles and rules
