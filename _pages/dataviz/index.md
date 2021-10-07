@@ -188,27 +188,26 @@ Always look for important updates from the instructor, which will appear **in bo
 
 ### Tues 5 Oct
 - [How would you evaluate these charts by classmates?](https://docs.google.com/presentation/d/1G1dvpldGs-Fh7werngV8pOUDGvRrLVoRUTKp-gLbtLQ/edit#slide=id.p)
-- Overview of Learning Goal #6: Map Your Data
-  - Map types
-  - Map design principles and rules
-  - Choropleth colors and intervals
-  - Normalize choropleth map data
-  - Create point maps (introduced in prior class)
-  - Create symbol point maps (introduced in prior class)
-  - Create choropleth maps
-  - Create maps with current data
-- Start reading HODV Chapter 7 at <https://handsondataviz.org/map.html>
+- Create more meaningful chart designs
 
 ### Thur 7 Oct
-- Review Build Stage 2
-- In class, we will create more advanced point maps for our Hartford partners
-- Prep for Map Your Data quiz, to be taken during any 2-hour period **after Trinity Days** from Sun 17 Oct at 12 noon to Tues 19 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Review Build Stage 2 findings, so that I can send our work to Hartford partners prior to our next Zoom meeting.
+- Advanced spreadsheet skill: [Match Columns with VLookup](https://handsondataviz.org/vlookup.html). Demo with [Habitat Homes data](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0)
+- Overview of Learning Goal #6: Map Your Data. Start reading HODV chapter <https://handsondataviz.org/map.html>
+  - Map types (focus primarily on point maps and choropleth maps)
+  - Map design principles and rules
+  - Choropleth colors and intervals (focus on basic concepts for now)
+  - Normalize choropleth map data
+  - Create point maps with Google My Maps and Datawrapper. In prior class we used [CLJ data](https://docs.google.com/spreadsheets/d/1FFMkOr4pug-fI4sRObyUQfRLXAcFrZ8B6oMM6NzolfY/edit#gid=1372468455) and [Habitat data](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0). Also, we used Datawrapper Symbol Point tool to create simple point maps, without adding data values to Symbols.
+  - Create choropleth map with Datawrapper (which recently simplified steps to input data, and I have not yet updated the HODV chapter, but it's easier now).
+  - Challenge: create a meaningful choropleth map of CT census tracts using this [American Community Survey 2015-19 data sample](https://www.socialexplorer.com/tables/ACS2019_5yr/R12920651). Hint: One of the first steps is to match the spreadsheet data to the Connecticut > Census Tracts geography codes in Datawrapper, which requires a bit of cleanup.
 
 ### Tues 12 Oct
-No class (Trinity Day)
+- No class (Trinity Day) and no quiz this week.
 
 ### Thur 14 Oct
-- Zoom meeting with Hartford community partners on Build Stages 1 and 2
+- Zoom meeting on Build Stage 2 with Hartford community partners. Be prepared to ask questions and receive feedback based on our work, which I will send them to review.
+- Prep for Map Your Data quiz, to be taken during any 2-hour period from Sun 17 Oct at 12 noon to Tues 19 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 19 Oct
 - Review Map Your Data quiz
