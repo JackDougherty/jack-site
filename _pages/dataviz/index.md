@@ -200,7 +200,7 @@ Always look for important updates from the instructor, which will appear **in bo
   - Normalize choropleth map data
   - Create point maps with Google My Maps and Datawrapper. In prior class we used [CLJ data](https://docs.google.com/spreadsheets/d/1FFMkOr4pug-fI4sRObyUQfRLXAcFrZ8B6oMM6NzolfY/edit#gid=1372468455) and [Habitat data](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0). Also, we used Datawrapper Symbol Point tool to create simple point maps, without adding data values to Symbols.
   - Create choropleth map with Datawrapper (which recently simplified steps to input data, and I have not yet updated the HODV chapter, but it's easier now).
-  - Challenge: create a meaningful choropleth map of CT census tracts using this [American Community Survey 2015-19 data sample](https://www.socialexplorer.com/tables/ACS2019_5yr/R12920651). Hint: One of the first steps is to match the spreadsheet data to the Connecticut > Census Tracts geography codes in Datawrapper, which requires a bit of cleanup.
+  - Challenge (updated): create a meaningful choropleth map of any data column in this [CT census tracts Google Sheet](https://docs.google.com/spreadsheets/d/15pVeZE3ZJwctkFapPH34SBb5d4Ry_ji4QWWow9eOxt8/edit#gid=874524571) that I downloaded from [American Community Survey 2015-19 in Social Explorer](https://www.socialexplorer.com/tables/ACS2019_5yr/R12920651). Hint: One of the first steps is to match the spreadsheet data to the Connecticut > Census Tracts geography codes in Datawrapper, which requires a bit of cleanup.
 
 ### Tues 12 Oct
 - No class (Trinity Day) and no quiz this week.
