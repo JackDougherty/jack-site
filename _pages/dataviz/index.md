@@ -206,7 +206,11 @@ Always look for important updates from the instructor, which will appear **in bo
 - No class (Trinity Day) and no quiz this week.
 
 ### Thur 14 Oct
-- Zoom meeting on Build Stage 2 with Hartford community partners. Be prepared to ask questions and receive feedback based on our work, which I will send them to review.
+- Zoom meeting on Build Stage 2 with Hartford community partners, who have received progress reports. This session will be video recorded and portions may appear in a Trinity web post to describe our community learning process.
+- Read [CLJ Progress Report](https://bit.ly/2021-10-14-CLJ) and look for sections assigned to Nolan, Dom, Bonnie, Myri, TeddyW, Deric, TeddyK, Riley, Ifham, Greg
+- Read [Habitat Progress Report](https://bit.ly/2021-10-14-habitat) and look for sections assigned to Emma, Victoria, Nassar, Steven
+- Be prepared to give 30-second demos or summaries of your assigned sections, then pose questions and write notes directly on the page as Google Doc suggestions or comments.
+- If my name is listed *after* yours in a section, you take the lead and I will assist as needed. If my name is listed *before* yours, I will take the lead in explaining and you will pose questions and take notes.
 - Prep for Map Your Data quiz, to be taken during any 2-hour period from Sun 17 Oct at 12 noon to Tues 19 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 19 Oct
