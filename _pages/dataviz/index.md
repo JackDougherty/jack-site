@@ -206,7 +206,7 @@ Always look for important updates from the instructor, which will appear **in bo
 - No class (Trinity Day) and no quiz this week.
 
 ### Thur 14 Oct
-- Zoom meeting on Build Stage 2 with Hartford community partners, who have received progress reports. This session will be video recorded and portions may appear in a Trinity web post to describe our community learning process.
+- Zoom meeting on Build Stage 2 with Hartford community partners, who have received progress reports. Erica Crowley, Director of Community Learning at Trinity, will video record our session from different camera angles, and edited portions may appear in a Trinity web post to describe our process.
 - Read [CLJ Progress Report](https://bit.ly/2021-10-14-CLJ) and look for sections assigned to Nolan, Dom, Bonnie, Myri, TeddyW, Deric, TeddyK, Riley, Ifham, Greg
 - Read [Habitat Progress Report](https://bit.ly/2021-10-14-habitat) and look for sections assigned to Emma, Victoria, Nassar, Steven
 - Be prepared to give 30-second demos or summaries of your assigned sections, then pose questions and write notes directly on the page as Google Doc suggestions or comments.
