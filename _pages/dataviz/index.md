@@ -201,7 +201,7 @@ Always look for important updates from the instructor, which will appear **in bo
   - Create choropleth map with Datawrapper (which recently simplified steps to input data, and I have not yet updated the HODV chapter, but it's easier now).
   - Challenge (updated): create a meaningful choropleth map of any data column in this [CT census tracts Google Sheet](https://docs.google.com/spreadsheets/d/15pVeZE3ZJwctkFapPH34SBb5d4Ry_ji4QWWow9eOxt8/edit#gid=874524571) that I downloaded from [American Community Survey 2015-19 in Social Explorer](https://www.socialexplorer.com/tables/ACS2019_5yr/R12920651).
     - Hint 1: [CT census tract boundaries for 2010 and 2020 are different](https://www.ctdata.org/blog/2020-census-geography-connecticut). If using 2010s data (such as ACS 2015-19), in Datawrapper choropleth map, select USA > Connecticut > Census Tracts (2010).
-    - Hint 2: In Datawrapper, the TRACTCODE column does not match the GeoFIPS column in the Google Sheet, so you need to convert the latter with a spreadsheet function.
+    - Hint 2: In Datawrapper, the TRACTCODE column does not match the GeoFIPS column in the Google Sheet, so you need to convert the latter with a spreadsheet function, and remove the first character. See how in new HODV chapter <https://handsondataviz.org/numbers-to-text.html>
 
 ### Tues 12 Oct
 - No class (Trinity Day) and no quiz this week.
@@ -213,6 +213,7 @@ Always look for important updates from the instructor, which will appear **in bo
 - Be prepared to give 30-second demos or summaries of your assigned sections, then pose questions and write notes directly on the page as Google Doc suggestions or comments.
 - If my name is listed *after* yours in a section, you take the lead and I will assist as needed. If my name is listed *before* yours, I will take the lead in explaining and you will pose questions and take notes.
 - Prep for Map Your Data quiz, to be taken during any 2-hour period from Sun 17 Oct at 12 noon to Tues 19 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Be sure to look at the updated challenge problem (with new hints) in the 7 October section of the syllabus.
 
 ### Tues 19 Oct
 - Review Map Your Data quiz
