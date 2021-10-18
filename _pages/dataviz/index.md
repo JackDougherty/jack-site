@@ -1,7 +1,7 @@
 ---
 title: "Educ 206: Data Visualization For All"
 permalink: /dataviz/
-date: 2021-09-13
+date: 2021-10-18
 toc: true
 toc_label: "Contents"
 toc_sticky: true
@@ -40,11 +40,11 @@ In this course you will demonstrate the knowledge and skills you have developed 
 4. Make Meaningful Comparisons
 5. Chart Your Data
 6. Map Your Data
-7. Embed on the Web
-8. Edit and Host Code with GitHub
-9. Build with Leaflet Map Code Templates
-10. Listen, Tell, and Show Your Community Partner's Data Story
-11. Transform Your Map Data
+7. Edit and Host Code with GitHub
+8. Build with Leaflet Map Code Templates
+9. Transform Your Map Data
+10. Listen, Tell, and Show Your Community Partner's Data Stories
+11. Embed on the Web
 12. Detect Lies and Reduce Bias
 
 Your progress toward these learning goals will be assessed in three ways:
@@ -93,19 +93,16 @@ Always look for important updates from the instructor, which will appear **in bo
 - 1-point bonus sample quiz about syllabus, due in class on [Moodle](https://moodle.trincoll.edu)
 - Presentation: Why data visualization matters in the "disinformation age"--see HODV Chapter 1 <https://handsondataviz.org/introduction.html>
 - Tell us about yourself and what sparks your interest in this course in this [Google Form](https://forms.gle/bA4aBxvcVZ7BsFW89)
-- Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills
+- Overview of Learning Goal #1: Strengthen Your Spreadsheet Skills. Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
   - Copy, Share, and Convert Google Sheets
   - Geocode locations
   - Sort and filter data
   - Calculate with formulas
   - Summarize with pivot tables
-- Start reading and doing sample exercises in HODV Chapter 2 <https://handsondataviz.org/spreadsheet.html>
 - Prep for Spreadsheet quiz, to be taken during any 2-hour period from Sun 12 Sept at 12 noon to Tues Sept 14 at 2pm (**extended to Thurs Sept 16th at 2pm**), on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 14 Sept
-- Start reading Data Feminism, chapters 1 and 2 <https://data-feminism.mitpress.mit.edu> and finish prior to the quiz
-- Start reading HODV Chapter 3 at <https://handsondataviz.org/find.html> and finish prior to the quiz
-- Overview of Learning Goal #2: Find and Question Your Data
+- Overview of Learning Goal #2: Find and Question Your Data. Start reading Data Feminism, chapters 1 and 2 <https://data-feminism.mitpress.mit.edu>, and start reading HODV Chapter 3 at <https://handsondataviz.org/find.html>
   - Challenge power & privilege in data
   - Clarify levels of data
   - Recognize public vs private data
@@ -142,22 +139,20 @@ Always look for important updates from the instructor, which will appear **in bo
   - In Ch1 ["What we choose to measure is a statement of what we value...and who we value"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4#nxk87mil5kj)
   - In Ch 2, ["Who makes maps and who gets mapped?"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4#nl1iq5r2p9p)
 - Review Find and Question Data quiz
-- Overview of Learning Goal #3: Clean Up Messy Data
+- Overview of Learning Goal #3: Clean Up Messy Data. Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
   - Smart Cleanup in Google Sheets
   - Find and Replace with Blank
   - Transpose Rows and Columns
   - Split Data into Separate Columns
   - Combine Data into One Column
-- Start reading HODV Chapter 4 at <https://handsondataviz.org/clean.html>
 - Prepare for Clean Up quiz, to be taken during any 2-hour period from Sun 26 Sept at 12 noon to Tues 28 Sept at 2pm, on [Moodle](https://moodle.trincoll.edu)
 - Continue working with groups on [Build Stage 1](https://docs.google.com/document/d/1oWmRmpprya401MwE_18Stt8QizjFEbe-wfWkAYQTXEs/edit), due by Thurs 23 Sept at 2pm on [Moodle](https://moodle.trincoll.edu)
 
 ### Thur 23 Sept
-- Overview of Learning Goal #4: Make Meaningful Comparisons
+- Overview of Learning Goal #4: Make Meaningful Comparisons. Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
   - Precisely describe comparisons -- practice [in this Google Sheet](https://docs.google.com/spreadsheets/d/1aLrw8dJamBnV_c-c9mXd1moTe5mXg_bTJjJK2KHUWfQ/edit#gid=0)
   - Normalize your data
   - Beware of biased comparisons
-- Start reading HODV Chapter 5 at <https://handsondataviz.org/comparisons.html>
 - Prepare for Meaningful Comparisons quiz, to be taken during any 2-hour period from Sun 26 Sept at 12 noon to Tues 28 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu).
 - **Two quizzes** are assigned this weekend in order to avoid scheduling a quiz during Trinity Days.
 - Review work from Build Stage 1: Find and Question Data for Community Partners; Geocode Data
@@ -166,12 +161,11 @@ Always look for important updates from the instructor, which will appear **in bo
 - Review Clean Up Data quiz and Meaningful Comparisons quiz
 - Different approaches to the [Covid case normalization question](https://docs.google.com/spreadsheets/d/1ZzvrYSgOlrVCoLrF2y4GHhMj70YPxhqEYg-nOiVpOXs/edit#gid=0)
 - If invited to share your screen with the class, go to my Zoom room <https://trincoll.zoom.us/my/jackdougherty>, mute your video and audio, and wait for me to admit you and share your screen  
-- Overview of Learning Goal #5: Chart Your Data
+- Overview of Learning Goal #5: Chart Your Data. Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
   - Chart types
   - Chart design principles and rules
   - Create bar/column, histogram, line, area charts
   - Create annotated, range, scatter charts
-- Start reading HODV Chapter 6 at <https://handsondataviz.org/chart.html>
 - Prepare for Chart Your Data quiz, to be taken during any 2-hour period from Sun 3 Oct at 12 noon to Tues 5 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Thur 30 Sept
@@ -216,51 +210,49 @@ Always look for important updates from the instructor, which will appear **in bo
 - Be sure to look at the updated challenge problem (with new hints) in the 7 October section of the syllabus.
 
 ### Tues 19 Oct
+- Before class, create a free GitHub account at <https://github.com>. Choose a username that’s relatively short and proudly represents your work in public, especially when sharing with community partners and guest experts. For example, my personal work appears under my name (<https://github.com/jackdougherty>), but I also have project-based accounts (such as <https://github.com/HandsOnDataViz> and <https://github.com/OnTheLine>).
 - Review Map Your Data quiz
-- Overview of Learning Goal #7: Embed on the Web
-  - Static images versus interactive iframes
-  - Embed on the web
-- Overview of Learning Goal #8: Edit and Host Code with GitHub
-  - Copy Edit and Host a Simple Leaflet Map
-- Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html> and Chapter 10 <https://handsondataviz.org/github.html>
-- Prep for Embed and GitHub quiz, to be taken during any 2-hour period from Sun 24 Oct at 12 noon to Tues 26 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Overview of Learning Goal #7: Edit and Host Code with GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
+  - Copy, Edit, and Host a Simple Leaflet Map
+- Overview of Learning Goal #8: Build with Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
+	- Leaflet Maps with Google Sheets
+  - Leaflet Storymaps with Google Sheets
+	- Leaflet Maps with Open Data APIs
+- In place of our cancelled class session on Tues 23 Nov, choose one of these [community engagement options](https://jackdougherty.org/dataviz#community-engagement-options)
 
 ### Thur 21 Oct
-- Assign Build Stage 3: Advanced Maps, due TBA
+- Practice building different types of Leaflet map templates
+- Prep for two quizzes, GitHub and Leaflet, to be taken during any 2-hour period from Sun 24 Oct at 12 noon to Tues 26 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 26 Oct
-- Overview of Learning Goal #9: Build with Leaflet Map Code Templates
-	- Leaflet Maps with Google Sheets
-	- Leaflet Storymaps with Google Sheets
-	- Leaflet Maps with Open Data APIs
-- Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
+- Overview of Learning Goal #11: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
+	- Find and edit GeoJSON boundary data
+	- Join CSV tables and GeoJSON boundary data
 - Prep for Leaflet Maps quiz, to be taken during any 2-hour period from Sun 31 Oct at 12 noon to Tues 2 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Thur 28 Oct
- - Work on Build Stage 3: Advanced Maps, due TBA
+- Assign Build Stage 3: Advanced Visualizations, due Thu 4 November at 2pm
 
 ### Tues 2 Nov
-- Overview of Learning Goal #10: Listen, Tell, and Show Your Community Partner's Data Story
-	- Listening to community partners' data needs
+- Overview of Learning Goal 10: Listen, Tell, and Show Your Community Partner's Data Stories. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
 	- Build Narrative on Storyboard
 	- Draw Attention to Meaning
 	- Acknowledge Sources and Uncertainty
 	- Make Labor Visible
-- Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
 - Prep for Data Story quiz, to be taken during any 2-hour period from Sun 7 Nov at 12 noon to Tues 9 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Thur 4 Nov
-- Assign Build Stage 4: Story, due TBA
+- Peer review and instructor review of Build Stage 3: Advanced Visualizations
+- Assign Build Stage 4: Data Stories, due Thu 11 Nov at 2pm
 
 ### Tues 9 Nov
-- Overview of Learning Goal #11: Transform Your Map Data
-	- Identify and find GeoJSON boundary data
-	- Edit GeoJSON data
-	- Join CSV and GeoJSON data
-- Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
+- Overview of Learning Goal 11: Embed on the Web. Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
+  - Static images versus interactive iframes
+  - Embed on the web
+- Prep for Embed quiz, to be taken during any 2-hour period from Sun 14 Nov at 12 noon to Tues 16 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Thur 11 Nov
-- Prep for Transform Data quiz, to be taken during any 2-hour period from Sun 14 Nov at 12 noon to Tues 16 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Peer review and instructor review of Build Stage 4: Data Stories
 
 ### Tues 16 Nov
 - Prep for final meetings with Hartford community partners
@@ -268,29 +260,24 @@ Always look for important updates from the instructor, which will appear **in bo
 ### Thur 18 Nov
 - Zoom meeting with Hartford Community Partners on Build Stages 3 and 4
 
-### Substitute class meeting day/time TBA
-- Additional time with Hartford Community Partners on Build Stages 3 and 4
-
 ### Tues 23 Nov
-No class session (see substitute class meeting above)
+- No class. Instead, choose one of these [community engagement options](https://jackdougherty.org/dataviz#community-engagement-options)
 
 ### Thur 25 Nov
 No class (Thanksgiving break)
 
 ### Tues 30 Nov
-- Overview of Learning Goal #12: Detect Lies and Reduce Bias
+- Overview of Learning Goal #12: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
 	- How to Lie with Charts
 	- How to Lie with Maps
 	- Recognize and Reduce Data Bias
 	- Recognize and Reduce Spatial Bias
-- Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
-- Assign Build Stages 5 and 6 for expert review, due TBA
 
 ### Thur 2 Dec
 - Prep for Detect Lies and Bias quiz, to be taken during any 2-hour period from Sun 5 Dec at 12 noon to Tues 7 Dec at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 7 Dec
-- Prep for final presentations with expert reviewers
+- Assign Build Stages 5 and 6 (combined) for two expert reviewers, due TBA
 
 ### Thur 9 Dec
 - Prep for final presentations with expert reviewers
@@ -300,3 +287,11 @@ No class (Thanksgiving break)
 
 ### Mon 20 Dec
 - Final presentations with guest experts to be assigned during 9am-12pm exam slot, or individual students may voluntarily agree to earlier time slots.
+
+### Community Engagement Options
+- Choose one of these options to learn more about our Hartford community partners and to replace our cancelled class session on Tues 23 Nov. Email me a paragraph about what you learned, and include a selfie photo to prove you participated, before the last day of class. Failure to fulfill this requirement will result in a 1-point deduction from your class participation score.
+  - Sun Oct 24 2-4pm CLJ GHIAA Assembly on Zoom. Register in advance at <https://cljct.org>.
+  - Sat Oct 23 7am-3pm Trinity Habitat chapter build day. Limit 5 volunteers. You **must request permission to participate ahead of time** by contacting Trinity Co-Presidents Brooke Samaratunga or Archana Adhikari, or Trinity Director of Community Service Joseph Barber.
+  - Sat Nov 13 Trinity Habitat chapter build day. Limit 5 volunteers--see above to participate.
+  - Sat Dec 11 Trinity Habitat chapter build day. Limit 12 volunteers--see above to participate.
+  - Dataviz training sessions with Hartford partners on Zoom, days/times TBA by instructor.
