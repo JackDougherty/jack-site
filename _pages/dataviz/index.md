@@ -291,7 +291,7 @@ No class (Thanksgiving break)
 ### Community Engagement Options
 - Choose one of these options to learn more about our Hartford community partners and to replace our cancelled class session on Tues 23 Nov. Email me a paragraph about what you learned, and include a selfie photo to prove you participated, before the last day of class. Failure to fulfill this requirement will result in a 1-point deduction from your class participation score.
   - Sun 24 Oct 2-4pm CLJ GHIAA Assembly on Zoom. Register in advance at <https://cljct.org>.
-  - Sat 23 Oct **7:45am-3pm** Trinity Habitat chapter build day. Limit 5 volunteers. You **must request permission to participate ahead of time** by contacting Trinity Co-Presidents Brooke Samaratunga or Archana Adhikari, or Trinity Director of Community Service Joseph Barber.
-  - Sat 13 Nov **9am-3pm** Trinity Habitat chapter build day. Limit 5 volunteers--see above to participate.
-  - Sat 11 Dec **9am-3pm** Trinity Habitat chapter build day. Limit 12 volunteers--see above to participate.
+  - Sat 23 Oct 7:45am-3pm Trinity Habitat chapter build day. Limit 5 volunteers. You **must request permission to participate ahead of time** by contacting Trinity Co-Presidents Brooke Samaratunga or Archana Adhikari, or Trinity Director of Community Service Joseph Barber.
+  - Sat 13 Nov 7:45am-3pm Trinity Habitat chapter build day. Limit 5 volunteers--see above to participate.
+  - Sat 11 Dec 7:45am-3pm Trinity Habitat chapter build day. Limit 12 volunteers--see above to participate.
   - Dataviz training sessions with Hartford partners on Zoom, days/times TBA by instructor.
