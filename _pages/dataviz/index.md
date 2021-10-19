@@ -212,6 +212,8 @@ Always look for important updates from the instructor, which will appear **in bo
 ### Tues 19 Oct
 - Before class, create a free GitHub account at <https://github.com>. Choose a username that’s relatively short and proudly represents your work in public, especially when sharing with community partners and guest experts. For example, my personal work appears under my name (<https://github.com/jackdougherty>), but I also have project-based accounts (such as <https://github.com/HandsOnDataViz> and <https://github.com/OnTheLine>).
 - Review Map Your Data quiz
+  - the difference between [CT census tracts 2010 versus 2020](https://www.ctdata.org/blog/2020-census-geography-connecticut)
+  - the issue of [missing values in CT census tract data](https://docs.google.com/spreadsheets/d/15pVeZE3ZJwctkFapPH34SBb5d4Ry_ji4QWWow9eOxt8/edit#gid=874524571)
 - Overview of Learning Goal #7: Edit and Host Code with GitHub. Start reading HODV Chapter 10 <https://handsondataviz.org/github.html>
   - Copy, Edit, and Host a Simple Leaflet Map
 - Overview of Learning Goal #8: Build with Leaflet Map Code Templates. Start reading HODV Chapter 12 <https://handsondataviz.org/leaflet.html>
