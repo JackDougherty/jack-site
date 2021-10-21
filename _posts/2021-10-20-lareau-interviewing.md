@@ -1,0 +1,21 @@
+---
+title: 'Teaching Interviewing with Annette Lareau, *Listening to People*'
+date: 2019-01-01
+permalink: /2021/10/20/lareau-interviewing/
+categories:
+  - teaching
+  - scholarship
+  - Educational Studies
+  - community engagement
+---
+While teaching undergraduates over the past twenty years, I've relied heavily on the work of sociologist Annette Lareau, author of *Unequal Childhoods*, to help my students how schools draw unevenly on the cultural practices of middle-class families more than working-class families. Through insightful observations and interviews, such as the middle-class school Open House for parents that resembled "a cocktail party without the cocktails," made abstract concepts such as *cultural capital* much more tangible and meaningful to my students. So I became excited when I heard that Lareau was writing a new book based on her extensive experience in guiding students in qualitative research projects, titled *Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up*, [now available from the University of Chicago Press](https://press.uchicago.edu/ucp/books/book/chicago/L/bo114845989.html).
+
+One chapter that immediately grabbed my attention is "How to Conduct a Good Interview." For years I've grown frustrated with traditional how-to methods books that simply "tell" students about this complex skill, but Lareau goes several steps further by "showing" the interview process, as best as one can in a print book. After offering general guidelines, the chapter contrasts two interview transcripts: one conducted by a novice graduate student, and another she conducted as an expert interviewer. Furthermore, Lareau's commentary is interspersed in shaded boxes in the transcripts to highlight differences and reinforce principles. For example, her commentary points to specific moments when the novice interview could have done a better job by using the participant's own wording, or by probing further with a follow-up question that digs deeper into the core research question.
+
+{% include figure image_path="images/2021/lareau-listening-p104.png" alt="book excerpt" caption="In this excerpt from Lareau's book, Ms. Silverman is interviewed by a novice graduate student, and the author's commentary appears interspersed in shaded boxes." %}
+
+Has anyone else ever written a how-to qualitative methods book in this creative format, with rich comparisons of interview transcripts and meta-level commentary? If so, why didn't someone tell me? For researchers and educators who are frustrated with traditional how-to methods books, Lareau's approach is both intellectually and pedagogically refreshing.
+
+To be clear, I still don't believe that good interviewing skills can be acquired solely from reading a book, even one as good as *Listening To People*. Experiential learning still matters. In my classroom I've experimented with inviting community partners to participate as a dual-role narrator for group interview practice sessions. During the first half, our guest responds to practice interview questions posed by individual students as we rotate around the room. In the second half, our guest reflects with us on what they believe worked well during the interview, and what could have been improved in the way we asked questions or followed up on relevant themes. Learn more [in this chapter of the *On The Line* book-in-progress](https://ontheline.trincoll.edu/teaching-oral-history.html).
+
+Thanks to Lareau's new book, now my students can read a book that beautifuly illustrates this learning process to improve our interviewing skills. While experiential education still matters, we can also study a text that exemplifies what good interviewing looks like, and how novices can get better, with greater depth and comprehensiveness than I can provide in a one-shot classroom exercise. Looking forward, perhaps Lareau might consider taking one more step: will she someday exercise her copyright option to transform her book into a movie---or at least a short series of streaming videos---to educate the next generation of interviewers? My students and I will definitely be watching.
