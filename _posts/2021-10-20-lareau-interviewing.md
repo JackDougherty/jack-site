@@ -4,7 +4,6 @@ date: 2019-01-01
 permalink: /2021/10/20/lareau-interviewing/
 categories:
   - teaching
-  - scholarship
   - Educational Studies
   - community engagement
 ---
