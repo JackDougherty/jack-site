@@ -223,7 +223,15 @@ Always look for important updates from the instructor, which will appear **in bo
 - In place of our cancelled class session on Tues 23 Nov, choose one of these [community engagement options](https://jackdougherty.org/dataviz#community-engagement-options)
 
 ### Thur 21 Oct
-- Practice building different types of Leaflet map templates
+- Reminder: different links for GitHub code repo versus GitHub Pages hosted website - see [step 11 in this HODV chapter](https://handsondataviz.org/copy-leaflet.html)
+- Why and how to make your own customized copy of a Leaflet code template:
+  - [Leaflet Maps with Google Sheets template](https://handsondataviz.org/leaflet-maps-with-google-sheets.html)
+  - [Leaflet Maps with Open Data APIs](https://handsondataviz.org/leaflet-maps-open-data-apis.html)
+- Practice with a partner to *start* building one of these map ideas with a Leaflet code template. Discuss how to efficiently work together during class time.
+  - Idea 1: make a copy of my existing [ghiaa-congregations-map](https://github.com/JackDougherty/ghiaa-congregations-map), and modify it by uploading some images of congregations to the info windows, which you can find online
+  - Idea 2: use [this Google Sheet of Habitat homes](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0), place them on a map, and upload some images of homes to the info windows, which you can download from [Hartford Property Assessment](http://assessor1.hartford.gov/default.asp)
+  - Idea 3: use [this Google Sheet of buildings with 40+ units](https://docs.google.com/spreadsheets/d/1nqfNTgWieIC2rywank8gUSTbQi6pfpvMAIIjQmgcqHU/edit#gid=1501182278), geocode the addresses, and create a map with different icons for those owned by LLCs, and upload some images of buildings to the info windows, which you can download from [Hartford Property Assessment](http://assessor1.hartford.gov/default.asp)
+  - Idea 4: use this [Hartford Housing Code cases open-data repo](https://data.hartford.gov/Housing-Development/HousingCodeCases_01012011_Current/86ax-cfey), copy the Socrata API Endpoint, and modify to work with the [Leaflet Maps with Open Data APIs template](https://github.com/HandsOnDataViz/leaflet-maps-open-data-apis)
 - Prep for two quizzes, GitHub and Leaflet, to be taken during any 2-hour period from Sun 24 Oct at 12 noon to Tues 26 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 26 Oct
