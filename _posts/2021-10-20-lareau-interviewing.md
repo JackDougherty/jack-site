@@ -1,6 +1,6 @@
 ---
 title: 'Teaching Interviewing with Annette Lareau, *Listening to People*'
-date: 2019-01-01
+date: 2021-10-20
 permalink: /2021/10/20/lareau-interviewing/
 categories:
   - teaching
