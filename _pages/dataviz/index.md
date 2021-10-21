@@ -223,7 +223,10 @@ Always look for important updates from the instructor, which will appear **in bo
 - In place of our cancelled class session on Tues 23 Nov, choose one of these [community engagement options](https://jackdougherty.org/dataviz#community-engagement-options)
 
 ### Thur 21 Oct
-- Reminder: different links for GitHub code repo versus GitHub Pages hosted website - see [step 11 in this HODV chapter](https://handsondataviz.org/copy-leaflet.html)
+- Refresher from last class about GitHub and Leaflet
+  - Why and how to edit customized maps
+  - A better example that I should have shown in our last class: edit [leaflet-map-simple template](https://handsondataviz.github.io/leaflet-map-simple/) to display [Esri.WorldImagery background from Leaflet Providers](http://leaflet-extras.github.io/leaflet-providers/preview/)
+  - Note: different links for GitHub code repo versus GitHub Pages hosted website - see [step 11 in this HODV chapter](https://handsondataviz.org/copy-leaflet.html)
 - Why and how to make your own customized copy of a Leaflet code template:
   - [Leaflet Maps with Google Sheets template](https://handsondataviz.org/leaflet-maps-with-google-sheets.html)
   - [Leaflet Maps with Open Data APIs](https://handsondataviz.org/leaflet-maps-open-data-apis.html)
