@@ -239,8 +239,10 @@ Always look for important updates from the instructor, which will appear **in bo
 
 ### Tues 26 Oct
 - Review GitHub and Leaflet Quiz
+  - [Leaflet map providers demo](https://leaflet-extras.github.io/leaflet-providers/preview/) and [leaflet-map-simple](https://github.com/HandsOnDataViz/leaflet-map-simple)
+  - [Class Demo Fall 2021](https://jackdougherty.github.io/class-demo-fall-2021/)
 - Overview of Learning Goal #11: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
-	- What's a GeoJSON boundary file and why do they matter?
+	- What's a GeoJSON file and why does it matter?
   - Find and edit GeoJSON boundary data
   - [Common CT and Hartford GeoJSON files](https://github.com/HandsOnDataViz/ct-boundaries)
   - Find census tracts for batch of addresses
