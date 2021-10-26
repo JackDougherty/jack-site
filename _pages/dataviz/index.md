@@ -238,10 +238,13 @@ Always look for important updates from the instructor, which will appear **in bo
 - Prep for two quizzes, GitHub and Leaflet, to be taken during any 2-hour period from Sun 24 Oct at 12 noon to Tues 26 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 26 Oct
+- Review GitHub and Leaflet Quiz
 - Overview of Learning Goal #11: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
-	- Find and edit GeoJSON boundary data
-	- Join CSV tables and GeoJSON boundary data
+	- What's a GeoJSON boundary file and why do they matter?
+  - Find and edit GeoJSON boundary data
+  - Find census tracts for batch of addresses
 - Prep for Leaflet Maps quiz, to be taken during any 2-hour period from Sun 31 Oct at 12 noon to Tues 2 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
+
 
 ### Thur 28 Oct
 - Assign Build Stage 3: Advanced Visualizations, due Thu 4 November at 2pm
