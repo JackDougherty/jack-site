@@ -242,6 +242,7 @@ Always look for important updates from the instructor, which will appear **in bo
 - Overview of Learning Goal #11: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON boundary file and why do they matter?
   - Find and edit GeoJSON boundary data
+  - [Common CT and Hartford GeoJSON files](https://github.com/HandsOnDataViz/ct-boundaries)
   - Find census tracts for batch of addresses
 - Prep for Leaflet Maps quiz, to be taken during any 2-hour period from Sun 31 Oct at 12 noon to Tues 2 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
