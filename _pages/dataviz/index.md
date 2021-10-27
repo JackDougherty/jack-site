@@ -241,19 +241,17 @@ Always look for important updates from the instructor, which will appear **in bo
 - Review GitHub and Leaflet Quiz
   - [Leaflet map providers demo](https://leaflet-extras.github.io/leaflet-providers/preview/) and [leaflet-map-simple](https://github.com/HandsOnDataViz/leaflet-map-simple)
   - [Class Demo Fall 2021](https://jackdougherty.github.io/class-demo-fall-2021/)
-- Overview of Learning Goal #11: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
+- Overview of Learning Goal #9: Transform Your Map Data. Start reading HODV Chapter 13 <https://handsondataviz.org/transform.html>
 	- What's a GeoJSON file and why does it matter?
   - Find and edit GeoJSON boundary data
   - [Common CT and Hartford GeoJSON files](https://github.com/HandsOnDataViz/ct-boundaries)
-  - Find census tracts for batch of addresses
 - Prep for Leaflet Maps quiz, to be taken during any 2-hour period from Sun 31 Oct at 12 noon to Tues 2 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
-
 
 ### Thur 28 Oct
 - Assign Build Stage 3: Advanced Visualizations, due Thu 4 November at 2pm
 
 ### Tues 2 Nov
-- Overview of Learning Goal 10: Listen, Tell, and Show Your Community Partner's Data Stories. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
+- Overview of Learning Goal #10: Listen, Tell, and Show Your Community Partner's Data Stories. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
 	- Build Narrative on Storyboard
 	- Draw Attention to Meaning
 	- Acknowledge Sources and Uncertainty
@@ -265,7 +263,7 @@ Always look for important updates from the instructor, which will appear **in bo
 - Assign Build Stage 4: Data Stories, due Thu 11 Nov at 2pm
 
 ### Tues 9 Nov
-- Overview of Learning Goal 11: Embed on the Web. Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
+- Overview of Learning Goal #11: Embed on the Web. Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
   - Embed on the web
 - Prep for Embed quiz, to be taken during any 2-hour period from Sun 14 Nov at 12 noon to Tues 16 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
