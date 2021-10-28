@@ -245,10 +245,11 @@ Always look for important updates from the instructor, which will appear **in bo
 	- What's a GeoJSON file and why does it matter?
   - Find and edit GeoJSON boundary data
   - [Common CT and Hartford GeoJSON files](https://github.com/HandsOnDataViz/ct-boundaries)
-- Prep for Leaflet Maps quiz, to be taken during any 2-hour period from Sun 31 Oct at 12 noon to Tues 2 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Prep for Transform Your Map Data quiz, to be taken during any 2-hour period from Sun 31 Oct at 12 noon to Tues 2 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Thur 28 Oct
-- Assign Build Stage 3: Advanced Visualizations, due Thu 4 November at 2pm
+- Discuss and select [Build Stage 3 project ideas](https://docs.google.com/document/d/1QA6RUxRfDx4CNgx9hd_5FJmGKIgdC_a-sXGp3KUIX8A/edit#heading=h.t1v4hl803suz)
+- Prep for Transform your Map Data quiz
 
 ### Tues 2 Nov
 - Overview of Learning Goal #10: Listen, Tell, and Show Your Community Partner's Data Stories. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
@@ -257,6 +258,7 @@ Always look for important updates from the instructor, which will appear **in bo
 	- Acknowledge Sources and Uncertainty
 	- Make Labor Visible
 - Prep for Data Story quiz, to be taken during any 2-hour period from Sun 7 Nov at 12 noon to Tues 9 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Assign Build Stage 3: Advanced Visualizations, due TBA
 
 ### Thur 4 Nov
 - Peer review and instructor review of Build Stage 3: Advanced Visualizations
