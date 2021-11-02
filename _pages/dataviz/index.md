@@ -230,11 +230,8 @@ Always look for important updates from the instructor, which will appear **in bo
 - Why and how to make your own customized copy of a Leaflet code template:
   - [Leaflet Maps with Google Sheets template](https://handsondataviz.org/leaflet-maps-with-google-sheets.html)
   - [Leaflet Maps with Open Data APIs](https://handsondataviz.org/leaflet-maps-open-data-apis.html)
-- Practice with a partner to *start* building one of these map ideas with a Leaflet code template. Discuss how to efficiently work together during class time, and show your progress by the end of class by sharing your screen via [my Zoom room](https://trincoll.zoom.us/my/jackdougherty).
+- Practice with a partner to *start* building the map idea below with a Leaflet code template. Discuss how to efficiently work together during class time, and show your progress by the end of class by sharing your screen via [my Zoom room](https://trincoll.zoom.us/my/jackdougherty).
   - Idea 1: make a copy of my existing [ghiaa-congregations-map](https://github.com/JackDougherty/ghiaa-congregations-map), and modify it by uploading some images of congregations to the info windows, which you can find online
-  - Idea 2: use [this Google Sheet of Habitat homes](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0), place them on a map, and upload some images of homes to the info windows, which you can download from [Hartford Property Assessment](http://assessor1.hartford.gov/default.asp)
-  - Idea 3: use [this Google Sheet of buildings with 40+ units](https://docs.google.com/spreadsheets/d/1nqfNTgWieIC2rywank8gUSTbQi6pfpvMAIIjQmgcqHU/edit#gid=1501182278), geocode the addresses, and create a map with different icons for those owned by LLCs, and upload some images of buildings to the info windows, which you can download from [Hartford Property Assessment](http://assessor1.hartford.gov/default.asp)
-  - Idea 4: use this [Hartford Housing Code cases open-data repo](https://data.hartford.gov/Housing-Development/HousingCodeCases_01012011_Current/86ax-cfey), copy the Socrata API Endpoint, and modify to work with the [Leaflet Maps with Open Data APIs template](https://github.com/HandsOnDataViz/leaflet-maps-open-data-apis)
 - Prep for two quizzes, GitHub and Leaflet, to be taken during any 2-hour period from Sun 24 Oct at 12 noon to Tues 26 Oct at 2pm, on [Moodle](https://moodle.trincoll.edu)
 
 ### Tues 26 Oct
@@ -252,32 +249,37 @@ Always look for important updates from the instructor, which will appear **in bo
 - Prep for Transform your Map Data quiz
 
 ### Tues 2 Nov
+- Review Transform your Map Data quiz
+- Advanced skills you may need for your projects
+  - Join points to polygons (aka spatial join) using Mapshaper
+  - Pivot points into polygon data using spreadsheet <https://handsondataviz.org/pivot-point-to-polygon.html>
+  - Download census tract data in CSV format using Social Explorer <https://socialexplorer.com> (requires Trinity network access or other license)
+  - Join spreadsheet CSV data with polygons using Mapshaper <https://handsondataviz.org/mapshaper.html#join-spreadsheet-data-with-polygon-map>
+- Assign Build Stage 3: Organize Data and Build Visualizations, due Tues 9 Nov at 2pm
+- No Moodle quiz for next week
+
+### Thur 4 Nov
+- Peer review and instructor feedback on Build Stage 3 work-in-progress
+- No Moodle quiz for next week
+
+### Tues 9 Nov
 - Overview of Learning Goal #10: Listen, Tell, and Show Your Community Partner's Data Stories. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
 	- Build Narrative on Storyboard
 	- Draw Attention to Meaning
 	- Acknowledge Sources and Uncertainty
 	- Make Labor Visible
-- Prep for Data Story quiz, to be taken during any 2-hour period from Sun 7 Nov at 12 noon to Tues 9 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
-- Assign Build Stage 3: Advanced Visualizations, due TBA
-
-### Thur 4 Nov
-- Peer review and instructor review of Build Stage 3: Advanced Visualizations
-- Assign Build Stage 4: Data Stories, due Thu 11 Nov at 2pm
-
-### Tues 9 Nov
-- Overview of Learning Goal #11: Embed on the Web. Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
-  - Static images versus interactive iframes
-  - Embed on the web
-- Prep for Embed quiz, to be taken during any 2-hour period from Sun 14 Nov at 12 noon to Tues 16 Nov at 2pm, on [Moodle](https://moodle.trincoll.edu)
+- Instead of a Moodle Quiz, these elements will be evaluated in your Build Stage 4 (for 5 points)
+- Assign Build Stage 4: Data Stories (5 more points, total = 10) **due by end of Sun 14 Nov**
 
 ### Thur 11 Nov
-- Peer review and instructor review of Build Stage 4: Data Stories
+- Peer review on Build Stage 4 work-in-progress
 
 ### Tues 16 Nov
-- Prep for final meetings with Hartford community partners
+- Make revisions to Build Stage 4 based on instructor feedback
+- Prep for presentations with Hartford community partners
 
 ### Thur 18 Nov
-- Zoom meeting with Hartford Community Partners on Build Stages 3 and 4
+- Zoom meeting with Hartford Community Partners to present Build Stage 4
 
 ### Tues 23 Nov
 - No class. Instead, choose one of these [community engagement options](https://jackdougherty.org/dataviz#community-engagement-options)
@@ -286,26 +288,30 @@ Always look for important updates from the instructor, which will appear **in bo
 No class (Thanksgiving break)
 
 ### Tues 30 Nov
-- Overview of Learning Goal #12: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
+- Overview of Learning Goal #11: Embed on the Web. Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
+  - Static images versus interactive iframes
+  - Embed on the web
+- Prep for Embed quiz, to be taken during any 2-hour period from Sun 5 Dec at 12 noon to Tues 7 Dec at 2pm, on [Moodle](https://moodle.trincoll.edu)
+
+### Thur 2 Dec
+- Assign Build Stages 5 and 6 (combined) for two expert reviewers, due TBA
+
+### Tues 7 Dec
+- Overview of Learning Goal #11: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
 	- How to Lie with Charts
 	- How to Lie with Maps
 	- Recognize and Reduce Data Bias
 	- Recognize and Reduce Spatial Bias
 
-### Thur 2 Dec
-- Prep for Detect Lies and Bias quiz, to be taken during any 2-hour period from Sun 5 Dec at 12 noon to Tues 7 Dec at 2pm, on [Moodle](https://moodle.trincoll.edu)
-
-### Tues 7 Dec
-- Assign Build Stages 5 and 6 (combined) for two expert reviewers, due TBA
-
 ### Thur 9 Dec
+- Prep for Detect Lies and Bias quiz, to be taken during any 2-hour period from Sun 12 Dec at 12 noon to Tues 14 Dec at 2pm, on [Moodle](https://moodle.trincoll.edu)
 - Prep for final presentations with expert reviewers
 
 ### Tues 14 Dec
 - Course wrap-up
 
 ### Mon 20 Dec
-- Final presentations with guest experts to be assigned during 9am-12pm exam slot, or individual students may voluntarily agree to earlier time slots.
+- Final presentations by Zoom with guest experts to be assigned during 9am-11am exam slot. Since you will will present solo/duo for about 5-10 minutes by Zoom, you can participate from anywhere.
 
 ### Community Engagement Options
 - Choose one of these options to learn more about our Hartford community partners and to replace our cancelled class session on Tues 23 Nov. Email me a paragraph about what you learned, and include a selfie photo to prove you participated, before the last day of class. Failure to fulfill this requirement will result in a 1-point deduction from your class participation score.
