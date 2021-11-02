@@ -249,13 +249,13 @@ Always look for important updates from the instructor, which will appear **in bo
 - Prep for Transform your Map Data quiz
 
 ### Tues 2 Nov
-- Review Transform your Map Data quiz
+- Review [Build 3 Project Ideas Google Doc](https://docs.google.com/document/d/1QA6RUxRfDx4CNgx9hd_5FJmGKIgdC_a-sXGp3KUIX8A/edit#heading=h.do2q80x3zgtf)
+- Assign Build Stage 3: Organize Data and Build Visualizations, due Tues 9 Nov at 2pm
 - Advanced skills you may need for your projects
-  - Join points to polygons (aka spatial join) using Mapshaper
+  - Join points with polygons (aka spatial join) using Mapshaper <https://handsondataviz.org/mapshaper.html#join-points-with-polygon-map>
   - Pivot points into polygon data using spreadsheet <https://handsondataviz.org/pivot-point-to-polygon.html>
   - Download census tract data in CSV format using Social Explorer <https://socialexplorer.com> (requires Trinity network access or other license)
   - Join spreadsheet CSV data with polygons using Mapshaper <https://handsondataviz.org/mapshaper.html#join-spreadsheet-data-with-polygon-map>
-- Assign Build Stage 3: Organize Data and Build Visualizations, due Tues 9 Nov at 2pm
 - No Moodle quiz for next week
 
 ### Thur 4 Nov
