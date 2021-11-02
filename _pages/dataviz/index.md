@@ -249,8 +249,9 @@ Always look for important updates from the instructor, which will appear **in bo
 - Prep for Transform your Map Data quiz
 
 ### Tues 2 Nov
-- Review [Build 3 Project Ideas Google Doc](https://docs.google.com/document/d/1QA6RUxRfDx4CNgx9hd_5FJmGKIgdC_a-sXGp3KUIX8A/edit#heading=h.do2q80x3zgtf)
+- Review [Build 3 Projects Google Doc](https://docs.google.com/document/d/1QA6RUxRfDx4CNgx9hd_5FJmGKIgdC_a-sXGp3KUIX8A/edit#heading=h.do2q80x3zgtf)
 - Assign Build Stage 3: Organize Data and Build Visualizations, due Tues 9 Nov at 2pm
+  - Insert links to your spreadsheets, charts, visualizations in the Google Doc
 - Advanced skills you may need for your projects
   - Join points with polygons (aka spatial join) using Mapshaper <https://handsondataviz.org/mapshaper.html#join-points-with-polygon-map>
   - Pivot points into polygon data using spreadsheet <https://handsondataviz.org/pivot-point-to-polygon.html>
