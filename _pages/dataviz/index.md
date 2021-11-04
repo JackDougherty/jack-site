@@ -260,10 +260,18 @@ Always look for important updates from the instructor, which will appear **in bo
 - No Moodle quiz for next week
 
 ### Thur 4 Nov
-- Peer review and instructor feedback on Build Stage 3 work-in-progress
+- Insert links to spreadsheets and/or visualizations under "work-in-progress" in [Build 3 Google Doc](https://docs.google.com/document/d/1QA6RUxRfDx4CNgx9hd_5FJmGKIgdC_a-sXGp3KUIX8A/edit#)
+- Be prepared to discuss your work for 5-10 minutes with instructor
 - No Moodle quiz for next week
 
 ### Tues 9 Nov
+- By 2pm before class, insert links to your visualization(s), with supporting sheets, [Build 3 submission section of Google Doc](https://docs.google.com/document/d/1QA6RUxRfDx4CNgx9hd_5FJmGKIgdC_a-sXGp3KUIX8A/edit#)
+- Be prepared to be assigned to write peer reviews of work by other students, based on these criteria:
+	- a) How well do the visualization(s) answer one or more of your specified questions?
+	- b) How well does this type of visualization fit the data and the question(s)?
+	- c) How well does the visualization(s) follow good design principles?
+	- d) (By instructor only): How accurate are your data and visualization(s)?
+- Instructor’s scoring: up to 4 points for your Build 3; up to 1 point for quality of peer review.
 - Overview of Learning Goal #10: Listen, Tell, and Show Your Community Partner's Data Stories. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
 	- Build Narrative on Storyboard
 	- Draw Attention to Meaning
