@@ -317,10 +317,10 @@ No class (Thanksgiving break)
 - Prep for final presentations with expert reviewers
 
 ### Tues 14 Dec
-- Course wrap-up and/or final evaluation with guest experts (see below)
+- Course wrap-up and/or final evaluation with guest experts from 3-4pm (see below)
 
 ### Mon 20 Dec
-- 9-11am exam slot: alternate time for final evaluation with guest experts (see below)
+- 9-10am or 10-11am exam slot: alternate times for final evaluation with guest experts (see below)
 
 ### Final evaluation with guest experts
 Guest experts will review your final data stories and pose questions for about 5 minutes to each solo/duo student about decisions you made while creating them. Since the final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access.
