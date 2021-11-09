@@ -267,28 +267,29 @@ Always look for important updates from the instructor, which will appear **in bo
 ### Tues 9 Nov
 - By 2pm before class, insert links to your visualization(s), with supporting sheets, [Build 3 submission section of Google Doc](https://docs.google.com/document/d/1QA6RUxRfDx4CNgx9hd_5FJmGKIgdC_a-sXGp3KUIX8A/edit#)
 - Be prepared to be assigned to write peer reviews of work by other students, based on these criteria:
-	- a) How well do the visualization(s) answer one or more of your specified questions?
+	- a) How well do the visualization(s) answer one or more of the specified questions?
 	- b) How well does this type of visualization fit the data and the question(s)?
 	- c) How well does the visualization(s) follow good design principles?
-	- d) (By instructor only): How accurate are your data and visualization(s)?
+	- d) (By instructor only): How accurate are the data and visualization(s)?
 - Instructor’s scoring: up to 4 points for your Build 3; up to 1 point for quality of peer review.
 - Overview of Learning Goal #10: Listen, Tell, and Show Your Community Partner's Data Stories. Start reading HODV Chapter 15 <https://handsondataviz.org/story.html>
 	- Build Narrative on Storyboard
 	- Draw Attention to Meaning
 	- Acknowledge Sources and Uncertainty
 	- Make Labor Visible
-- Instead of a Moodle Quiz, these elements will be evaluated in your Build Stage 4 (for 5 points)
-- Assign Build Stage 4: Data Stories (5 more points, total = 10) **due by end of Sun 14 Nov**
+- Instead of a Moodle Quiz, your data story knowledge and skills will be evaluated as part of your Build Stage 4 (below)
+- Assign [Build Stage 4: Data Stories](https://docs.google.com/document/d/1C8YdDNTDqpv0uq6gWjAuFkJKpMjGMVTVQerzaL0D_LY/edit), worth 10 points, **due by end of Sun 14 Nov**
 
 ### Thur 11 Nov
-- Peer review on Build Stage 4 work-in-progress
+- Feedback from instructor on Build 3
+- Crafting your Build 4 Data Story
 
 ### Tues 16 Nov
 - Make revisions to Build Stage 4 based on instructor feedback
 - Prep for presentations with Hartford community partners
 
 ### Thur 18 Nov
-- Zoom meeting with Hartford Community Partners to present Build Stage 4
+- Zoom meetings with Hartford Community Partners to present Build Stage 4
 
 ### Tues 23 Nov
 - No class. Instead, choose one of these [community engagement options](https://jackdougherty.org/dataviz#community-engagement-options)
