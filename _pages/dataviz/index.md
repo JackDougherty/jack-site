@@ -317,10 +317,13 @@ No class (Thanksgiving break)
 - Prep for final presentations with expert reviewers
 
 ### Tues 14 Dec
-- Course wrap-up
+- Course wrap-up and/or final evaluation with guest experts (see below)
 
 ### Mon 20 Dec
-- Final presentations by Zoom with guest experts to be assigned during 9am-11am exam slot. Since you will will present solo/duo for about 5-10 minutes by Zoom, you can participate from anywhere.
+- 9-11am exam slot: alternate time for final evaluation with guest experts (see below)
+
+### Final evaluation with guest experts
+Guest experts will review your final data stories and pose questions for about 5 minutes to each solo/duo student about decisions you made while creating them. Since the final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access.
 
 ### Community Engagement Options
 - Choose one of these options to learn more about our Hartford community partners and to replace our cancelled class session on Tues 23 Nov. Email me a paragraph about what you learned, and include a selfie photo to prove you participated, before the last day of class. Failure to fulfill this requirement will result in a 1-point deduction from your class participation score.
