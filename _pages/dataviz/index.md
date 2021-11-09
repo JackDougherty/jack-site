@@ -323,7 +323,7 @@ No class (Thanksgiving break)
 - 9-10am or 10-11am exam slot: alternate times for final evaluation with guest experts (see below)
 
 ### Final evaluation with guest experts
-Guest experts will review your final data stories and pose questions for about 5 minutes to each solo/duo student about decisions you made while creating them. Since the final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access.
+Two guest experts will review your final data stories and pose questions for about 5 minutes to each solo/duo student about decisions you made while creating them. Since the final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and Build 6 combined, with scores from two guest evaluators.
 
 ### Community Engagement Options
 - Choose one of these options to learn more about our Hartford community partners and to replace our cancelled class session on Tues 23 Nov. Email me a paragraph about what you learned, and include a selfie photo to prove you participated, before the last day of class. Failure to fulfill this requirement will result in a 1-point deduction from your class participation score.
