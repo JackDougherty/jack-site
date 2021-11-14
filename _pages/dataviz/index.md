@@ -279,7 +279,7 @@ Always look for important updates from the instructor, which will appear **in bo
 	- Make Labor Visible
 - Try it in class: How would you redesign this chart to draw attention to meaning?
 - Instead of a Moodle Quiz, your data story knowledge and skills will be evaluated as part of your Build Stage 4 (below)
-- Assign [Build Stage 4: Data Stories](https://docs.google.com/document/d/1C8YdDNTDqpv0uq6gWjAuFkJKpMjGMVTVQerzaL0D_LY/edit), worth 10 points, **due by end of Sun 14 Nov**
+- Assign [Build Stage 4: Data Stories](https://docs.google.com/document/d/1C8YdDNTDqpv0uq6gWjAuFkJKpMjGMVTVQerzaL0D_LY/edit), worth 10 points, **due by Mon 15 Nov at 2pm**
 
 ### Thur 11 Nov
 - Feedback from instructor on Build 3
