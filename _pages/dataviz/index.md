@@ -287,7 +287,7 @@ Always look for important updates from the instructor, which will appear **in bo
 
 ### Tues 16 Nov
 - Make revisions to Build Stage 4 based on instructor feedback
-- Prep for 60-second presentations with Hartford community partners
+- Practice a 45-second presentation of your work in front of class, to prepare for Hartford community partners on Thursday
 
 ### Thur 18 Nov
 - Zoom meetings with Hartford Community Partners to present Build Stage 4
