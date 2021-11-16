@@ -287,7 +287,7 @@ Always look for important updates from the instructor, which will appear **in bo
 
 ### Tues 16 Nov
 - Make revisions to Build Stage 4 based on instructor feedback
-- Prep for presentations with Hartford community partners
+- Prep for 60-second presentations with Hartford community partners
 
 ### Thur 18 Nov
 - Zoom meetings with Hartford Community Partners to present Build Stage 4
@@ -319,13 +319,7 @@ No class (Thanksgiving break)
 - Prep for final presentations with expert reviewers
 
 ### Tues 14 Dec
-- Course wrap-up and/or final evaluation with guest experts from 3-4pm (see below)
-
-### Mon 20 Dec
-- 9-10am or 10-11am exam slot: alternate times for final evaluation with guest experts (see below)
-
-### Final evaluation with guest experts
-Two guest experts will review your final data stories and pose questions for about 5 minutes to each solo/duo student about decisions you made while creating them. Since the final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and Build 6 combined, with scores from two guest evaluators.
+- Final evaluation with guest experts: Rebecca Lurye (*Hartford Courant* journalist) and Ilya Ilyankou (civic technologist and book co-author). Guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Since this final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and Build 6 combined, for total of 10 points from guest evaluators.
 
 ### Community Engagement Options
 - Choose one of these options to learn more about our Hartford community partners and to replace our cancelled class session on Tues 23 Nov. Email me a paragraph about what you learned, and include a selfie photo to prove you participated, before the last day of class. Failure to fulfill this requirement will result in a 1-point deduction from your class participation score.
