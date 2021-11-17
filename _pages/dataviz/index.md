@@ -295,6 +295,8 @@ Always look for important updates from the instructor, which will appear **in bo
 ### Tues 23 Nov
 - No class. Instead, choose one of these [community engagement options](https://jackdougherty.org/dataviz#community-engagement-options)
 
+{% include figure image_path="images/2021/2021-11-13-habitat-victoria-nassar.png" alt="Habitat for Humanity worksite" caption="Thanks Victoria and Nassar for participating in the Trinity Habitat chapter workday on Saturday 13 November. See details elow for the next workday on Saturday 11 December!" %}
+
 ### Thur 25 Nov
 No class (Thanksgiving break)
 
