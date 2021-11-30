@@ -44,8 +44,8 @@ In this course you will demonstrate the knowledge and skills you have developed 
 8. Build with Leaflet Map Code Templates
 9. Transform Your Map Data
 10. Listen, Tell, and Show Your Community Partner's Data Stories
-11. Embed on the Web
-12. Detect Lies and Reduce Bias
+11. Detect Lies and Reduce Bias
+12. Embed on the Web
 
 Your progress toward these learning goals will be assessed in three ways:
 
@@ -301,27 +301,28 @@ Always look for important updates from the instructor, which will appear **in bo
 No class (Thanksgiving break)
 
 ### Tues 30 Nov
-- Overview of Learning Goal #11: Embed on the Web. Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
-  - Static images versus interactive iframes
-  - Embed on the web
-- Prep for Embed quiz, to be taken during any 2-hour period from Sun 5 Dec at 12 noon to Tues 7 Dec at 2pm, on [Moodle](https://moodle.trincoll.edu)
-
-### Thur 2 Dec
-- Assign Build Stages 5 and 6 (combined) for two expert reviewers, due TBA
-
-### Tues 7 Dec
 - Overview of Learning Goal #11: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
 	- How to Lie with Charts
 	- How to Lie with Maps
 	- Recognize and Reduce Data Bias
 	- Recognize and Reduce Spatial Bias
+- Prep for Detect Lies quiz, to be taken during any 2-hour period from **Fri 3 Dec at 12 noon to Sun 5 Dec at 9pm**, on [Moodle](https://moodle.trincoll.edu)
+
+### Thur 2 Dec
+- Overview of Learning Goal #12: Embed on the Web. Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
+  - Static images versus interactive iframes
+  - Embed on the web
+- Assign Embed Quiz to convert your data story from Google Doc to an HTML web page with embedded visualizations on GitHub, due **by end of Mon 6 Dec** on Moodle
+
+### Tues 7 Dec
+- Feedback from instructor on Build 5
+- Assign Build Stage 5 and 6 (combined) for two expert reviewers, due by **Thur 9 Dec at 2pm**
 
 ### Thur 9 Dec
-- Prep for Detect Lies and Bias quiz, to be taken during any 2-hour period from Sun 12 Dec at 12 noon to Tues 14 Dec at 2pm, on [Moodle](https://moodle.trincoll.edu)
-- Prep for final presentations with expert reviewers
+- Class wrap-up and feedback for future semesters
 
 ### Tues 14 Dec
-- Final evaluation with guest experts: Rebecca Lurye (*Hartford Courant* journalist) and Ilya Ilyankou (civic technologist and book co-author). Guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Since this final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and Build 6 combined, for total of 10 points from guest evaluators.
+- Final evaluation with guest experts: Rebecca Lurye (*Hartford Courant* journalist) and Ilya Ilyankou (civic technologist and book co-author). Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Since this final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and 6 combined, for total of 10 points from guest evaluators.
 
 ### Community Engagement Options
 - Choose one of these options to learn more about our Hartford community partners and to replace our cancelled class session on Tues 23 Nov. Email me a paragraph about what you learned, and include a selfie photo to prove you participated, before the last day of class. Failure to fulfill this requirement will result in a 1-point deduction from your class participation score.
