@@ -301,7 +301,7 @@ Always look for important updates from the instructor, which will appear **in bo
 No class (Thanksgiving break)
 
 ### Tues 30 Nov
-- Overview of Learning Goal #11: Detect Lies and Reduce Bias. Start reading HODV Chapter 14 <https://handsondataviz.org/detect.html>
+- Overview of Learning Goal #11: Detect Lies and Reduce Bias. Start reading HODV Introduction <https://handsondataviz.org/introduction.html> and Chapter 14 <https://handsondataviz.org/detect.html>
 	- How to Lie with Charts
 	- How to Lie with Maps
 	- Recognize and Reduce Data Bias
