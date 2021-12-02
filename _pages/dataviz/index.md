@@ -311,7 +311,8 @@ No class (Thanksgiving break)
 ### Thur 2 Dec
 - Overview of Learning Goal #12: Embed on the Web. Start reading HODV Chapter 9 <https://handsondataviz.org/embed.html>
   - Static images versus interactive iframes
-  - Embed on the web
+  - Get the iframe embed code for a published visualization
+  - Embed the iframe code in an HTML web page
 - In your GitHub account, make your own copy of the [dataviz-story-template](https://github.com/datavizforall/dataviz-story-template), publish it online using Settings > Pages, and open the HTML code to see how it works
 - Assign Embed Quiz to transfer your data story from Google Doc format to a published HTML web page with embedded visualizations on GitHub, due **by end of Mon 6 Dec** on Moodle
 
