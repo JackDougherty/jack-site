@@ -327,6 +327,13 @@ No class (Thanksgiving break)
 ### Tues 14 Dec
 - Final evaluation with guest experts: Rebecca Lurye (*Hartford Courant* journalist) and Ilya Ilyankou (civic technologist and book co-author). Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Since this final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and 6 combined, for total of 10 points from guest evaluators.
 
+### Reflections with Hartford Partners
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/41685872/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_v8gi2xto&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Reflection video, Dec 2021](https://trincoll.mediaspace.kaltura.com/media/1_v8gi2xto) with [Center for Leadership and Justice](https://cljct.org) partners: Cori Nicewander, Tieasha Gayle, AJ Johnson.
+
+<iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/41685872/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_gumjx6ze&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
+[Reflection video, Dec 2021](https://trincoll.mediaspace.kaltura.com/media/1_gumjx6ze/) with [Hartford Area Habitat for Humanity](https://hartfordhabitat.org) executive director: Karraine Moody.
+
 ### Community Engagement Options
 - Choose one of these options to learn more about our Hartford community partners and to replace our cancelled class session on Tues 23 Nov. Email me a paragraph about what you learned, and include a selfie photo to prove you participated, before the last day of class. Failure to fulfill this requirement will result in a 1-point deduction from your class participation score.
   - Sun 24 Oct 2-4pm CLJ GHIAA Assembly on Zoom. Register in advance at <https://cljct.org>.
