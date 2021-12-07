@@ -319,7 +319,7 @@ No class (Thanksgiving break)
 
 ### Tues 7 Dec
 - Feedback on your Embed Quiz (data story web page)
-- Assign Build Stage 5 and 6 (combined) for two expert reviewers, due by **Thur 9 Dec at 2pm**
+- Assign Build Stage 5 and 6 (combined) for two expert reviewers, due by **Thur 9 Dec at 2pm** at your [current published GitHub Pages links](https://docs.google.com/document/d/173JAHIKHut_7WGjiGol2aMlSqxNLb_9VFiCOV2r0j1M/edit). At this point your work will be frozen, forked into my GitHub account, and forwarded to the expert reviewers to give them time to read your work.
 
 ### Thur 9 Dec
 - Class wrap-up and feedback for future semesters
