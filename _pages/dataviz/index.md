@@ -315,7 +315,7 @@ No class (Thanksgiving break)
   - Embed the iframe code in an HTML web page
 - In your GitHub account, make your own copy of the [dataviz-story-template](https://github.com/datavizforall/dataviz-story-template), publish it online using Settings > Pages, and open the HTML code to see how it works
 - Assign Embed Quiz to transfer your data story from Google Doc format to a published HTML web page with embedded visualizations using the GitHub template above, due **by end of Mon 6 Dec** on [Moodle](https://moodle.trincoll.edu)
-- Use *updated* [Habitat Hartford Homes sheet](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0); still need to add Census tracts for each location
+- Use *updated* [Habitat Hartford Homes sheet](https://docs.google.com/spreadsheets/d/1OTTOG7m5I0Y0mk8qd3hcy9HGLjXy6cBYmJY-iDoKHxc/edit#gid=0)
 
 ### Tues 7 Dec
 - Feedback on your Embed Quiz (data story web page)
