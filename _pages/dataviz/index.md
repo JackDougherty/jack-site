@@ -323,7 +323,10 @@ No class (Thanksgiving break)
 - Assign Build Stage 5 and 6 (combined) for two expert reviewers, due by **Thur 9 Dec at 2pm** at your [current published GitHub Pages links](https://docs.google.com/document/d/173JAHIKHut_7WGjiGol2aMlSqxNLb_9VFiCOV2r0j1M/edit). At this point your work will be frozen, forked into my GitHub account, and forwarded to the expert reviewers to give them time to read your work.
 
 ### Thur 9 Dec
-- Class wrap-up and feedback for future semesters
+- Class wrap-up and why data visualization matters to me: <https://ontheline.trincoll.edu>
+- [Student course feedback on group Google Doc](https://docs.google.com/document/d/1E3a7Az2bzG1jfyiTBEGf6bgRGiEi3IxUMgPz4QAqizg/edit#heading=h.86x0dgn4c2e9)
+- Email me if you wish to participate in new community engagement option
+- I will email you lineup for Tuesday guest evaluator session and how to share Datawrapper work with me
 
 ### Tues 14 Dec
 - Final evaluation with guest experts: Rebecca Lurye (*Hartford Courant* journalist) and Ilya Ilyankou (civic technologist and book co-author). Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Since this final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and 6 combined, for total of 10 points from guest evaluators.
