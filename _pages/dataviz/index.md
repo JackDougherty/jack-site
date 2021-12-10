@@ -329,7 +329,7 @@ No class (Thanksgiving break)
 - I will email you lineup for Tuesday guest evaluator session and how to share Datawrapper work with me
 
 ### Tues 14 Dec
-- Final evaluation with guest experts: Rebecca Lurye (*Hartford Courant* journalist) and Ilya Ilyankou (civic technologist and book co-author). Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Since this final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and 6 combined, for total of 10 points from guest evaluators.
+- [Final evaluation with guest experts](https://docs.google.com/document/d/173JAHIKHut_7WGjiGol2aMlSqxNLb_9VFiCOV2r0j1M/edit): Rebecca Lurye (*Hartford Courant* journalist) and Ilya Ilyankou (civic technologist and book co-author). Instead of a final exam, guest experts will review your final data stories online and pose questions for up to 5 minutes to each solo/duo student about your data, storytelling, and design decisions. Since this final evaluation will be conducted on Zoom, you can participate from anywhere with good internet access. Counts as Build 5 and 6 combined, for total of 10 points from guest evaluators.
 
 ### Reflections with Hartford Partners
 <iframe src="https://cdnapisec.kaltura.com/p/2366381/sp/236638100/embedIframeJs/uiconf_id/41685872/partner_id/2366381?iframeembed=true&playerId=kplayer&entry_id=1_v8gi2xto&flashvars[streamerType]=auto"  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
@@ -344,4 +344,5 @@ No class (Thanksgiving break)
   - Sat 23 Oct 7:45am-3pm Trinity Habitat chapter build day. Limit 5 volunteers. You **must request permission to participate ahead of time** by contacting Trinity Co-Presidents Brooke Samaratunga or Archana Adhikari, or Trinity Director of Community Service Joseph Barber.
   - Sat 13 Nov 7:45am-3pm Trinity Habitat chapter build day. Limit 5 volunteers--see above to participate.
   - Sat 11 Dec 7:45am-3pm Trinity Habitat chapter build day. Limit 12 volunteers--see above to participate.
-  - Dataviz training sessions with Hartford partners on Zoom, days/times TBA by instructor.
+  - Thu 16 Dec 10-11am dataviz training session with Ryan Gorecki at Habitat in my Zoom room
+  - Also, anytime prior to Thu 16 Dec, email instructor to request instructions to download 20 photos of Habitat homes from property assessor databases (about one hour of labor)
