@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-date: 2021-03-08
+date: 2021-12-13
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 
@@ -17,7 +17,7 @@ This course introduces the study of schooling within an interdisciplinary framew
 How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
 Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
-[Educ 206 syllabus, Fall 2021](https://jackdougherty.org/dataviz)
+See syllabus, partners, and projects at [DataVizForAll.org](https://datavizforall.org)
 
 ### Educ 300: Education Reform, Past & Present
 How do we explain the rise and decline of education reform movements? How do we evaluate their level of “success” from different sources of evidence? Drawing upon primary source materials and historical interpretations, this course examines a broad array of elementary, secondary, and higher education reform movements from the mid-nineteenth century to the present, analyzing social, material, and ideological contexts. This intermediate-level seminar explores a topic common to all branches of educational studies from both theoretical and comparative perspectives. Prerequisite: Ed 200 or permission of instructor. Enrollment limited to 24. [See my Educ 300 syllabus on WordPress](http://commons.trincoll.edu/edreform) or a [backup on this site](http://jackdougherty.org/educ300/).
