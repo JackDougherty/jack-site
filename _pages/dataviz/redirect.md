@@ -2,7 +2,7 @@
 title: "Redirect"
 permalink: /dataviz/
 date: 2021-12-14
-target: https://datavizforall.org
+redirect_to:
+  - http://datavizforall.org
 ---
-Data Visualization for All has moved to <https://DataVizForAll.org>
-<!-- https://christianheilmann.com/2021/08/03/redirecting-github-pages/ -->
+Data Visualization for All is now at <https://DataVizForAll.org>
