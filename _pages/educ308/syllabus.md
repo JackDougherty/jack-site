@@ -1,30 +1,75 @@
 ---
 title: "Educ 308: Cities Suburbs and Schools"
 permalink: /educ308/
-date: 2016-01-01
+date: 2022-01-31
+toc: true
+toc_label: "Contents"
+toc_sticky: true
 ---
-**NOTE:** This is a backup copy of the syllabus. See the full course on this WordPress site <http://commons.trincoll.edu/cssp>
+## Spring 2022 Syllabus
+Tuesdays and Thursdays, 10:50am-12:05pm from Feb 1st to May 5th, 2022. Due to the pandemic, the first week of our course will meet in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty>. For subsequent weeks, we are scheduled to meet face-to-face with masks in Trinity Library Room 02 (basement). See [Trinity Covid information](https://www.trincoll.edu/reopening/).
 
-## Syllabus for Spring 2016
-**Educ 308: Cities, Suburbs and Schools** Spring 2016 seminar, Mondays 1:15-3:55pm from Jan 29-May 2, 2016 Austin Arts Center room 231, Trinity College, Hartford, CT [Map to our classroom](https://www.google.com/maps/dir//41.746499,-72.6906751/@41.746473,-72.6912491,19z) -- [visitor's map of Trinity campus](http://www.trincoll.edu/Admissions/campusvisit/Pages/map.aspx)
+Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
-**Instructor: **Jack Dougherty, Professor of Educational Studies [Personal website](http://commons.trincoll.edu/jackdougherty),  [email](mailto:jack.dougherty@trincoll.edu), and [online appointment calendar](http://commons.trincoll.edu/jackdougherty/advising/ "appointments")
+Course description: Our upper-level undergraduate seminar operates as a team research workshop on cities, suburbs, and schooling. To develop our skills with qualitative, quantitative, and historical methods, we closely read other studies and conduct our own small-scale research in metropolitan Hartford. As a community-learning seminar, we partner with local groups and share our findings and stories on the public web.  Prerequisite: Ed 200 or the Cities Program or permission of instructor. Cross-referenced with Community Learning. Enrollment limited to 19.
 
-Jump to: [Week 1](#week1): Jan 25 -- [Week 2](#week2): Feb 1 -- [Week 3](#week3): Feb 8 -- [Week 4](#week4): Feb 15 -- [Week 5](#week5): Feb 29 -- [Week 6](#week6): March 7 -- [Week 7](#week7): March 21 -- [Week 8](#week8): March 28 -- [Week 9](#week9): April 4 -- [Week 10](#week10): April 11 -- [Week 11](#week11): April 18 -- [Week 12](#week12): April 25 -- [Week 13](#week13): May 2 -- [Assessment](#assessment)
+## Team Research Projects
+This seminar fulfills the Research Project requirement for Educational Studies majors. This semester our theme is *Schooling and Housing*, and we will work together to design, conduct, and share our findings for two team research projects:
 
-**Description:** Our upper-level undergraduate seminar operates as a team research workshop on cities, suburbs, and schooling. To develop our skills with qualitative, quantitative, and historical methods, we closely read other studies and conduct our own small-scale research in metropolitan Hartford. As a community-learning seminar, we partner with local groups and share our findings and stories on the public web.  Prerequisite: Ed 200 or the Cities Program or permission of instructor. (Cross-listed with American Studies and Public Policy & Law.) Enrollment limited to 20. This semester our theme is _School Choice and Civil Rights_. We begin with present-day debates over public school choice as a reform strategy in the Hartford region, and go back in time to understand its historical roots in civil rights activism over discriminatory housing and schooling. Our seminar will work on three research projects:
+1. What are meaningful ways to present public data released under the Sheff v. O'Neill school integration settlement? How do different Hartford-area community members interpret these tables, charts, and maps?
+
+- Learn about Hartford-area magnet schools, the public school choice lottery, and political and policy implications of disaggregating student outcome data
+- Explore different ways to visualize disaggregated student data as described in [Data Transparency section (page 7)](https://s3.documentcloud.org/documents/6616396/Sheff-settlement.pdf) of the 2020 settlement
+- Conduct Zoom interviews with [Sheff Movement](https://www.sheffmovement.org/) members to listen to and compare their interpretations
+
+2. What are meaningful ways to draw on the TeachIt CT framework and design inquiry-based lesson plans on the history of housing segregation and school integration for middle and high-school students? How do experienced teachers evaluate our curricular contributions?
+
+- Learn about Hartford-area housing segregation and civil rights activism, past and present, and the TeachIt CT inquiry-oriented curricular framework
+- Working in teams to create lesson plans on three different topics:
+    - Federal redlining and mortgage lending in Hartford region, 1930s
+    - Race restrictive covenants in West Hartford and Manchester, 1940s
+    - Sheff v. O’Neill activism for integrated schools, 1989-present
+- Conduct Zoom interviews with experienced teachers and incorporate their feedback
+
+### TODO UPDATE ALL BELOW
 
 1.  How do school choice programs communicate with families in the Hartford area?
 2.  What does public school enrollment data reveal about choice in Connecticut?
 3.  How do housing mobility program advocates communicate their policy goals in the Connecticut legislative arena?
 4.  How have discriminatory barriers and civil rights activism evolved in the Hartford area, and how do we share meaningful histories and teaching ideas on the public web?
 
-This semester we will share our research drafts for feedback with our "Sister Seminar" at Yale University: [Cities, Suburbs, and School Choice](https://citiessuburbsschoolchoice.wordpress.com/syllabus/), taught by Professor Mira Debs. See our Trinity-Yale GDoc Organizer [http://bit.ly/TrinityYale2016](http://bit.ly/TrinityYale2016) Also, guest evaluators for our historical web essays are: Jasmin Agosto (Trinity '10 and [NYU Gallatin MA '15](http://gallatinartsfestival.squarespace.com/gaf-2015-team/single-gallery/20332124)), an artist/activist/historical researcher in Hartford; and [Glenn Mitoma](http://thedoddcenter.uconn.edu/about/glenn-mitoma/), a professor of human rights and education, and director of the Dodd Research Center at UConn. For each session, students must bring a laptop for in-class writing, peer editing, and data analysis. Contact me if you need to borrow my spare Chromebook. Most readings will be made available in digital and paper formats.
+For each session, students must bring a laptop for in-class writing, peer editing, and data analysis. Contact me if you need to borrow my spare Chromebook. Most readings will be made available in digital and paper formats.
 
-Schedule
---------
+## Assessment
 
-(Subject to change; asterisk\* = more to come; revisions marked in red.) **Week 1: Jan 25** _How do Hartford parents experience the public school choice application process? _
+#### A. blank
+
+#### B. blank
+
+#### C. Class Participation
+- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. You are expected to log into our Zoom class on time with your real screen name. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
+
+#### Summary  
+50 points quizzes + 40 points data stories + 10 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
+
+Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
+
+Religious observances: please notify me before our third class session regarding any scheduling accommodations.
+
+### How to Succeed in this Course
+- Bookmark this online syllabus and check it often for updates, which will appear **in bold**.
+- Keep a calendar (paper or digital) to manage your time and meet deadlines.
+- Bring a laptop (with a fully-charged battery) to every class, and turn off distractions to help you (and others) focus on learning. Set notifications on digital devices to "Do Not Disturb."
+- Take initiative and ask questions: during or after class, via email, or by appointment [on my calendar](https://jackdougherty.youcanbook.me). If you don't understand something, other students probably are puzzled, too. Go ahead and ask.
+- Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
+- If anything is interfering with your learning, email or talk with us about it. We care about how you're doing in life, not just in our classroom.
+
+## Schedule
+In general, be prepared to discuss longer reading assignments in class on Tuesdays, and engage in interactive learning projects on Thursdays. Always look for important updates from the instructor **in bold**.
+
+### Tues 1 Feb
+
+How do Hartford parents experience the public school choice application process?
 
 *   Before class, fill out [quick student info survey](http://goo.gl/forms/Yjh33Z5PX6)
 *   Introduction to the syllabus
