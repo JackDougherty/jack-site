@@ -7,68 +7,70 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 ## Spring 2022 Syllabus
-Tuesdays and Thursdays, 10:50am-12:05pm from Feb 1st to May 5th, 2022. Due to the pandemic, the first week of our course will meet in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty>. For subsequent weeks, we are scheduled to meet face-to-face with masks in Trinity Library Room 02 (basement). See [Trinity Covid information](https://www.trincoll.edu/reopening/).
+Tuesdays and Thursdays, 10:50am-12:05pm from Feb 1st to May 5th, 2022. Due to the pandemic, the first week of our course will meet in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty>. For subsequent weeks, we are scheduled to meet in-person with masks in Trinity Library Room 02 (basement). See [Trinity Covid information](https://www.trincoll.edu/reopening/).
 
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
 Course description: Our upper-level undergraduate seminar operates as a team research workshop on cities, suburbs, and schooling. To develop our skills with qualitative, quantitative, and historical methods, we closely read other studies and conduct our own small-scale research in metropolitan Hartford. As a community-learning seminar, we partner with local groups and share our findings and stories on the public web.  Prerequisite: Ed 200 or the Cities Program or permission of instructor. Cross-referenced with Community Learning. Enrollment limited to 19.
 
 ## Team Research Projects
-This seminar fulfills the Research Project requirement for Educational Studies majors. This semester our theme is *Schooling and Housing*, and we will work together to design, conduct, and share our findings for two team research projects:
+This seminar fulfills the Research Project requirement for Educational Studies majors. This semester our theme is *Connecting Schooling and Housing*, and we will work together to design, conduct, and publicly share our findings for two team research projects:
 
 1. What are meaningful ways to present public data released under the Sheff v. O'Neill school integration settlement? How do different Hartford-area community members interpret these tables, charts, and maps?
 
 - Learn about Hartford-area magnet schools, the public school choice lottery, and political and policy implications of disaggregating student outcome data
-- Explore different ways to visualize disaggregated student data as described in [Data Transparency section (page 7)](https://s3.documentcloud.org/documents/6616396/Sheff-settlement.pdf) of the 2020 settlement
-- Conduct Zoom interviews with [Sheff Movement](https://www.sheffmovement.org/) members to listen to and compare their interpretations
+- Explore different ways to visualize disaggregated student data as described in [the 2020  Sheff settlement Data Transparency section (page 7)](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368) and the [2022 Sheff settlement](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303)
+- Share our work with a guest expert evaluator and incorporate feedback
+- Conduct Zoom interviews with [Sheff Movement](https://www.sheffmovement.org/) members to listen to and compare their interpretations of our work
 
-2. What are meaningful ways to draw on the TeachIt CT framework and design inquiry-based lesson plans on the history of housing segregation and school integration for middle and high-school students? How do experienced teachers evaluate our curricular contributions?
+2. How can we use the TeachIt CT framework to design inquiry-based lesson plans on the history of housing segregation and school integration for middle and high school students? How do experienced teachers evaluate our curricular contributions?
 
-- Learn about Hartford-area housing segregation and civil rights activism, past and present, and the TeachIt CT inquiry-oriented curricular framework
+- Learn about Hartford-area housing segregation and civil rights activism, past and present, and the [TeachIt CT inquiry-based curriculum framework](https://teachitct.org)
 - Working in teams to create lesson plans on three different topics:
-    - Federal redlining and mortgage lending in Hartford region, 1930s
-    - Race restrictive covenants in West Hartford and Manchester, 1940s
-    - Sheff v. O’Neill activism for integrated schools, 1989-present
-- Conduct Zoom interviews with experienced teachers and incorporate their feedback
-
-### TODO UPDATE ALL BELOW
-
-1.  How do school choice programs communicate with families in the Hartford area?
-2.  What does public school enrollment data reveal about choice in Connecticut?
-3.  How do housing mobility program advocates communicate their policy goals in the Connecticut legislative arena?
-4.  How have discriminatory barriers and civil rights activism evolved in the Hartford area, and how do we share meaningful histories and teaching ideas on the public web?
-
-For each session, students must bring a laptop for in-class writing, peer editing, and data analysis. Contact me if you need to borrow my spare Chromebook. Most readings will be made available in digital and paper formats.
+    - [Federal lending and redlining in Hartford region, 1930s onward](https://ontheline.trincoll.edu/lending.html)
+    - [Race restrictive covenants in Hartford-area suburbs, 1940s](https://ontheline.trincoll.edu/restricting.html) and [today]
+    - [Sheff v. O’Neill activism for integrated schools, 1989-present](https://collections.ctdigitalarchive.org/islandora/object/120002:cssp)
+- Conduct Zoom interviews with experienced educators and incorporate their feedback
 
 ## Assessment
+Your academic progress will be evaluated in three ways:
 
-#### A. blank
+#### A. Open-book reading quizzes
+- The purpose is to improve your comprehension of key ideas in major readings and to demonstrate your knowledge prior to our class, so that we can delve deeper together during discussion.
+- By most Friday afternoons, I will post 1-3 open-ended and/or multiple-choice questions about selected major readings on Moodle. You may discuss readings with anyone who has not yet begun the quiz. Select any 3-hour period from Friday until Monday 11:59pm to complete the quiz, and during this time you may use your readings, notes, and the entire Internet, but you must work independently and you may not communicate about the quiz content in any way (except with the instructor) until the quiz has closed. You are responsible for following the Intellectual Honesty policy as described in the [Trinity Student Handbook](https://www.trincoll.edu/policies/). If doubts arise, the instructor may require you to retake a quiz under direct supervision and/or refer the issue to the Honor Council.
+- Each quiz may be taken only once, but only your 5 best scores of the semester (worth 5 points each) will be counted, for a total of 25 points.
 
-#### B. blank
+#### B. Research Project Stages
+- The purpose is to develop your skills in designing and conducting qualitative, quantitative, and historical research. Each of our research projects will be scaffolded into smaller stages, including guest evaluation by experts. Research Project 1 will be divided into 35 points, and Project 2 will be divided into 30 points, for a total of 65 points.
 
-#### C. Class Participation
-- The purpose is to encourage active learning and accountability. Each student begins the course with 10 participation points. You are expected to log into our Zoom class on time with your real screen name. During class, you may be randomly called on to discuss a concept in our reading, or to share your computer screen for everyone to view while we learn tools and build data stories. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
+#### C. Leadership and Participation
+- The purpose is to develop your discussion leadership skills and promote active learning with accountability.
+- Students will be invited to choose a major reading and prepare in advance to lead 10-15 minutes of engaging class discussion, using one of my recommended methods or your own. Afterwards, I will evaluate your discussion leadership skills, worth up to 5 points.
+- Also, each student begins the course with 5 participation points. During class, you may be randomly called on discuss our common topic. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
+- Total 10 points.
 
 #### Summary  
-50 points quizzes + 40 points data stories + 10 class participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
+25 points quizzes + 65 points project stages + 10 participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
 Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
 
 Religious observances: please notify me before our third class session regarding any scheduling accommodations.
 
 ### How to Succeed in this Course
-- Bookmark this online syllabus and check it often for updates, which will appear **in bold**.
+- Bookmark this online syllabus and check it before class for updates.
+- All readings will be freely provided to students in digital format. Let me know if you prefer paper printouts, and I will arrange photocopying for a modest fee.
 - Keep a calendar (paper or digital) to manage your time and meet deadlines.
-- Bring a laptop (with a fully-charged battery) to every class, and turn off distractions to help you (and others) focus on learning. Set notifications on digital devices to "Do Not Disturb."
+- Bring a laptop (with a fully-charged battery) to every session for in-class data analysis, writing exercises, and peer editing. Turn off distractions to help you (and others) focus on learning. Set notifications on digital devices to "Do Not Disturb."
 - Take initiative and ask questions: during or after class, via email, or by appointment [on my calendar](https://jackdougherty.youcanbook.me). If you don't understand something, other students probably are puzzled, too. Go ahead and ask.
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
-- If anything is interfering with your learning, email or talk with us about it. We care about how you're doing in life, not just in our classroom.
+- If anything is interfering with your learning, email or talk with us about it. I care about how you're doing in life, not just in our classroom.
 
 ## Schedule
-In general, be prepared to discuss longer reading assignments in class on Tuesdays, and engage in interactive learning projects on Thursdays. Always look for important updates from the instructor **in bold**.
+I may modify the schedule to match the pace of our research projects, but the amount of work required will remain the same. Major changes will be marked **in bold**. Watch for updates.
 
 ### Tues 1 Feb
 
+How do school choice programs communicate with families in the Hartford area?
 How do Hartford parents experience the public school choice application process?
 
 *   Before class, fill out [quick student info survey](http://goo.gl/forms/Yjh33Z5PX6)
@@ -162,6 +164,9 @@ How do Hartford parents experience the public school choice application process
 
 *   Read: Susan Eaton, _The Children in Room E4: American Education on Trial_ (Chapel Hill NC: Algonquin Books, 2007), in paper or digital format.
 *   Watch: T. J. Noel-Sullivan, _Separate But Unequal: Sheff v O’Neill_, Streaming video (Hartford, CT, 2014), [https://vimeo.com/92868548](https://vimeo.com/92868548).
+
+
+How have discriminatory barriers and civil rights activism evolved in the Hartford area
 
 **Week 7: Mon March 21** _How do we tell meaningful stories about civil rights, past and present, in the Hartford region?_
 
