@@ -13,7 +13,7 @@ Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick questi
 
 Course description: Our upper-level undergraduate seminar operates as a team research workshop on cities, suburbs, and schooling. To develop our skills with qualitative, quantitative, and historical methods, we closely read other studies and conduct our own small-scale research in metropolitan Hartford. As a community-learning seminar, we partner with local groups and share our findings and stories on the public web.  Prerequisite: Ed 200 or the Cities Program or permission of instructor. Cross-referenced with Community Learning. Enrollment limited to 19.
 
-## Research Projects
+<!-- ## Research Projects
 This seminar fulfills the Research Project requirement for Educational Studies majors. This semester our theme is *Connecting Schooling and Housing*, and we will work together to design, conduct, and publicly share our findings for two team research projects:
 
 1) What are meaningful ways to present public data released under the Sheff v. O'Neill school integration settlement? How do different Hartford-area community members interpret these tables, charts, and maps?
@@ -54,16 +54,16 @@ Your academic progress will be evaluated in three ways:
 
 Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
 
-Religious observances: please notify me before our third class session regarding any scheduling accommodations.
+Religious observances: please notify me before our third class session regarding any scheduling accommodations. -->
 
-<!-- ### How to Succeed in this Course
+### How to Succeed in this Course
 - Bookmark this online syllabus and check it before class for updates.
 - All readings will be freely provided to students in digital format. Let me know if you prefer paper printouts, and I will arrange photocopying for a modest fee.
 - Keep a calendar (paper or digital) to manage your time and meet deadlines.
 - Bring a laptop (with a fully-charged battery) to every session for in-class data analysis, writing exercises, and peer editing. Turn off distractions to help you (and others) focus on learning. Set notifications on digital devices to "Do Not Disturb."
 - Take initiative and ask questions: during or after class, via email, or by appointment [on my calendar](https://jackdougherty.youcanbook.me). If you don't understand something, other students probably are puzzled, too. Go ahead and ask.
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
-- If anything is interfering with your learning, email or talk with us about it. I care about how you're doing in life, not just in our classroom.   -->
+- If anything is interfering with your learning, email or talk with us about it. I care about how you're doing in life, not just in our classroom.  
 
 ## Schedule
 I may modify the schedule to match the pace of our research projects, but the amount of work required will remain the same. Major changes will be marked **in bold**. Watch for updates.
