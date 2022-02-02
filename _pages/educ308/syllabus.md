@@ -13,7 +13,7 @@ Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick questi
 
 Course description: Our upper-level undergraduate seminar operates as a team research workshop on cities, suburbs, and schooling. To develop our skills with qualitative, quantitative, and historical methods, we closely read other studies and conduct our own small-scale research in metropolitan Hartford. As a community-learning seminar, we partner with local groups and share our findings and stories on the public web.  Prerequisite: Ed 200 or the Cities Program or permission of instructor. Cross-referenced with Community Learning. Enrollment limited to 19.
 
-## Research Projects
+### Research Projects
 This seminar fulfills the Research Project requirement for Educational Studies majors. This semester our theme is *Connecting Schooling and Housing*, and we will work together to design, conduct, and publicly share our findings for two team research projects:
 
 1) What are meaningful ways to present public data released under the Sheff v. O'Neill school integration settlement? How do different Hartford-area community members interpret these tables, charts, and maps?
@@ -32,7 +32,7 @@ This seminar fulfills the Research Project requirement for Educational Studies m
     - [Sheff v. O’Neill activism for integrated schools, 1989-present](https://collections.ctdigitalarchive.org/islandora/object/120002:cssp)
 - Conduct Zoom interviews with experienced educators and incorporate their feedback
 
-<!-- ## Assessment
+### Assessment
 Your academic progress will be evaluated in three ways:
 
 #### A. Open-book reading quizzes
@@ -47,14 +47,14 @@ Your academic progress will be evaluated in three ways:
 - The purpose is to develop your discussion leadership skills and promote active learning with accountability.
 - Students will be invited to choose a major reading and prepare in advance to lead 10-15 minutes of engaging class discussion, using one of my recommended methods or your own. Afterwards, I will evaluate your discussion leadership skills, worth up to 5 points.
 - Also, each student begins the course with 5 participation points. During class, you may be randomly called on discuss our common topic. You do not necessarily need to know the correct answer. But if you are not present or not able to participate when called, a point will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance.
-- Total 10 points.
+- Total 10 points.  
 
 #### Summary  
 25 points quizzes + 65 points project stages + 10 participation = 100 total points. In this course, unsatisfactory work (below 70%) falls in the D or F range, adequate work (70-79%) in the C range, good work (80-89%) in the B range, and outstanding work (90 to 100%) in the A range. Each range is divided into equal thirds for minus (-), regular, and plus (+) letter grades. For example, 80 to 83.33% = B-, 83.34 to 86.67 = B, and 86.68 to 89.99 = B+. Access your individual assessments on the password-protected Moodle site for this course at <https://moodle.trincoll.edu>.
 
 Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
 
-Religious observances: please notify me before our third class session regarding any scheduling accommodations. --->
+Religious observances: please notify me before our third class session regarding any scheduling accommodations.
 
 ### How to Succeed in this Course
 - Bookmark this online syllabus and check it before class for updates.
