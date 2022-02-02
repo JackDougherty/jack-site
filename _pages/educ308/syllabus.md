@@ -65,7 +65,7 @@ Religious observances: please notify me before our third class session regarding
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with us about it. I care about how you're doing in life, not just in our classroom.  
 
-## Schedule  
+## Schedule
 I may modify the schedule to match the pace of our research projects, but the amount of work required will remain the same. Major changes will be marked **in bold**. Watch for updates.
 
 ### Tues 1 Feb
