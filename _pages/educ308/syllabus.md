@@ -30,7 +30,7 @@ This seminar fulfills the Research Project requirement for Educational Studies m
     - [Federal lending and redlining in Hartford region, 1930s onward](https://ontheline.trincoll.edu/lending.html)
     - [Race restrictive covenants in Hartford-area suburbs, 1940s](https://ontheline.trincoll.edu/restricting.html) and [today]
     - [Sheff v. O’Neill activism for integrated schools, 1989-present](https://collections.ctdigitalarchive.org/islandora/object/120002:cssp)
-- Conduct Zoom interviews with experienced educators and incorporate their feedback
+- Conduct Zoom interviews with experienced educators and incorporate their feedback -->
 
 ## Assessment
 Your academic progress will be evaluated in three ways:
@@ -54,7 +54,7 @@ Your academic progress will be evaluated in three ways:
 
 Academic accommodations: please notify me before our third class session, and [schedule an appointment on my calendar](https://jackdougherty.youcanbook.me) to discuss how we will implement your approved plan. For those students with accommodations approved after the start of the semester, a minimum of 10 days’ notice is required. Learn more at the [Student Accessibility Resource Center](https://www.trincoll.edu/sarc/).
 
-Religious observances: please notify me before our third class session regarding any scheduling accommodations. -->
+Religious observances: please notify me before our third class session regarding any scheduling accommodations.
 
 ### How to Succeed in this Course
 - Bookmark this online syllabus and check it before class for updates.
