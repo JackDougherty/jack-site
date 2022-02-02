@@ -56,21 +56,14 @@ Academic accommodations: please notify me before our third class session, and [s
 
 Religious observances: please notify me before our third class session regarding any scheduling accommodations.
 
-### How to Succeed in this Course
+<!-- ### How to Succeed in this Course
 - Bookmark this online syllabus and check it before class for updates.
 - All readings will be freely provided to students in digital format. Let me know if you prefer paper printouts, and I will arrange photocopying for a modest fee.
 - Keep a calendar (paper or digital) to manage your time and meet deadlines.
 - Bring a laptop (with a fully-charged battery) to every session for in-class data analysis, writing exercises, and peer editing. Turn off distractions to help you (and others) focus on learning. Set notifications on digital devices to "Do Not Disturb."
 - Take initiative and ask questions: during or after class, via email, or by appointment [on my calendar](https://jackdougherty.youcanbook.me). If you don't understand something, other students probably are puzzled, too. Go ahead and ask.
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
-- If anything is interfering with your learning, email or talk with us about it. I care about how you're doing in life, not just in our classroom.  
-
-## Schedule2
-Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET, with a 15-minute break around 10:30am. Always look for important updates from the instructor **in bold**.
-
-### Tues 4 Jan
-- Test
-- Test2
+- If anything is interfering with your learning, email or talk with us about it. I care about how you're doing in life, not just in our classroom.   -->
 
 ## Schedule
 I may modify the schedule to match the pace of our research projects, but the amount of work required will remain the same. Major changes will be marked **in bold**. Watch for updates.
