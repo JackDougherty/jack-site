@@ -13,7 +13,7 @@ Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick questi
 
 Course description: Our upper-level undergraduate seminar operates as a team research workshop on cities, suburbs, and schooling. To develop our skills with qualitative, quantitative, and historical methods, we closely read other studies and conduct our own small-scale research in metropolitan Hartford. As a community-learning seminar, we partner with local groups and share our findings and stories on the public web.  Prerequisite: Ed 200 or the Cities Program or permission of instructor. Cross-referenced with Community Learning. Enrollment limited to 19.
 
-## Team Research Projects
+## Research Projects
 This seminar fulfills the Research Project requirement for Educational Studies majors. This semester our theme is *Connecting Schooling and Housing*, and we will work together to design, conduct, and publicly share our findings for two team research projects:
 
 1) What are meaningful ways to present public data released under the Sheff v. O'Neill school integration settlement? How do different Hartford-area community members interpret these tables, charts, and maps?
@@ -21,7 +21,7 @@ This seminar fulfills the Research Project requirement for Educational Studies m
 - Learn about Hartford-area magnet schools, the public school choice lottery, and political and policy implications of disaggregating student outcome data
 - Explore different ways to visualize disaggregated student data as described in [the 2020  Sheff settlement Data Transparency section (page 7)](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368) and the [2022 Sheff settlement](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303)
 - Share our work with a guest expert evaluator and incorporate feedback
-- Conduct Zoom interviews with [Sheff Movement](https://www.sheffmovement.org/) members to listen to and compare their interpretations of our work
+- Conduct Zoom interviews with Sheff Movement members to listen to and compare their interpretations of our work
 
 2) How can we use the TeachIt CT framework to design inquiry-based lesson plans on the history of housing segregation and school integration for middle and high school students? How do experienced teachers evaluate our curricular contributions?
 
