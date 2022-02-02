@@ -65,6 +65,13 @@ Religious observances: please notify me before our third class session regarding
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
 - If anything is interfering with your learning, email or talk with us about it. I care about how you're doing in life, not just in our classroom.  
 
+## Schedule2
+Our course meets remotely in my Zoom room <https://trincoll.zoom.us/my/jackdougherty> on Tues-Wed-Thu-Fri from 9:15am to 12 noon ET, with a 15-minute break around 10:30am. Always look for important updates from the instructor **in bold**.
+
+### Tues 4 Jan
+- Test
+- Test2
+
 ## Schedule
 I may modify the schedule to match the pace of our research projects, but the amount of work required will remain the same. Major changes will be marked **in bold**. Watch for updates.
 
