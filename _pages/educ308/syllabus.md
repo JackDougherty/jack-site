@@ -16,14 +16,14 @@ Course description: Our upper-level undergraduate seminar operates as a team re
 ## Team Research Projects
 This seminar fulfills the Research Project requirement for Educational Studies majors. This semester our theme is *Connecting Schooling and Housing*, and we will work together to design, conduct, and publicly share our findings for two team research projects:
 
-1. What are meaningful ways to present public data released under the Sheff v. O'Neill school integration settlement? How do different Hartford-area community members interpret these tables, charts, and maps?
+1) What are meaningful ways to present public data released under the Sheff v. O'Neill school integration settlement? How do different Hartford-area community members interpret these tables, charts, and maps?
 
 - Learn about Hartford-area magnet schools, the public school choice lottery, and political and policy implications of disaggregating student outcome data
 - Explore different ways to visualize disaggregated student data as described in [the 2020  Sheff settlement Data Transparency section (page 7)](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368) and the [2022 Sheff settlement](http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303)
 - Share our work with a guest expert evaluator and incorporate feedback
 - Conduct Zoom interviews with [Sheff Movement](https://www.sheffmovement.org/) members to listen to and compare their interpretations of our work
 
-2. How can we use the TeachIt CT framework to design inquiry-based lesson plans on the history of housing segregation and school integration for middle and high school students? How do experienced teachers evaluate our curricular contributions?
+2) How can we use the TeachIt CT framework to design inquiry-based lesson plans on the history of housing segregation and school integration for middle and high school students? How do experienced teachers evaluate our curricular contributions?
 
 - Learn about Hartford-area housing segregation and civil rights activism, past and present, and the [TeachIt CT inquiry-based curriculum framework](https://teachitct.org)
 - Working in teams to create lesson plans on three different topics:
@@ -56,7 +56,7 @@ Academic accommodations: please notify me before our third class session, and [s
 
 Religious observances: please notify me before our third class session regarding any scheduling accommodations.
 
-### How to Succeed in this Course  
+### How to Succeed in this Course
 - Bookmark this online syllabus and check it before class for updates.
 - All readings will be freely provided to students in digital format. Let me know if you prefer paper printouts, and I will arrange photocopying for a modest fee.
 - Keep a calendar (paper or digital) to manage your time and meet deadlines.
