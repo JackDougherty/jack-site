@@ -63,7 +63,7 @@ Religious observances: please notify me before our third class session regarding
 - Bring a laptop (with a fully-charged battery) to every session for in-class data analysis, writing exercises, and peer editing. Turn off distractions to help you (and others) focus on learning. Set notifications on digital devices to "Do Not Disturb."
 - Take initiative and ask questions: during or after class, via email, or by appointment [on my calendar](https://jackdougherty.youcanbook.me). If you don't understand something, other students probably are puzzled, too. Go ahead and ask.
 - Meet up with other students outside of class. Create a small study group to review the course material and work together. The secret to success in college is teaching yourselves how to learn new material.
-- If anything is interfering with your learning, email or talk with us about it. I care about how you're doing in life, not just in our classroom.  
+- If anything is interfering with your learning, email or talk with me about it. I care about how you're doing in life, not just in our classroom.  
 
 ## Schedule
 I may modify the schedule to match the pace of our research projects, but the amount of work required will remain the same. Major changes will be marked **in bold**. Watch for updates.
@@ -89,12 +89,12 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Jacqueline Rabe Thomas, “Do Magnet Schools Need White Students to Be Great?,” The CT Mirror, October 15, 2018, <https://ctmirror.org/2018/10/15/magnet-schools-need-white-students-great/>.
 - Kathy Megan, “Sheff v. O’Neill: Striving toward Education Equity,” Connecticut Public, December 20, 2021, <https://www.ctpublic.org/news/2021-12-20/sheff-v-oneill-striving-toward-education-equity>.
 - Connecticut Public, “Video: Sheff v. O’Neill: Striving Toward Education Equity” (CT Public Cutline Series, November 2021), <https://cptv.org/programs/cutline-special-sheff-v-oneill-striving-toward-education-equity/>. Note: This video expands on topics and interviews in the Kathy Megan article above.
+- In class: Maps of segregation in metro Hartford; simulation of mandatory versus voluntary integration, and different types of lotteries and "controlled choice".
 
 ### Thur 10 Feb
 - Guiding question: What's a "good school"? What does school performance data reveal or obscure about educational quality and equity?
-- Douglas N Harris, Value-Added Measures in Education: What Every Educator Needs to Know (Cambridge, Mass.: Harvard Education Press, 2011), http://www.hepg.org/hep/book/132. TODO excerpts in Moodle.
-- Presentation on [School Test Data](https://docs.google.com/presentation/d/1A1Tug4Zy8Z_oPQ3cF4EXqtcZr3bfurYGWnn2d1umQ_Q/edit?usp=sharing)
-- Data exercise: [Which schools are best? Three ways to measure](https://docs.google.com/spreadsheets/d/1jUyPel3e1wnjtp3sg6GpCThiwMuEnQ8uFdg5yX5HE2U/edit#gid=153409930)
+- Presentation on [School Test Data](https://docs.google.com/presentation/d/1A1Tug4Zy8Z_oPQ3cF4EXqtcZr3bfurYGWnn2d1umQ_Q/edit?usp=sharing).
+- Data exercise: [Which schools are best? Three ways to measure](https://docs.google.com/spreadsheets/d/1jUyPel3e1wnjtp3sg6GpCThiwMuEnQ8uFdg5yX5HE2U/edit#gid=153409930), with concepts drawn from Douglas N. Harris, Value-Added Measures in Education: What Every Educator Needs to Know (Cambridge, Mass.: Harvard Education Press, 2011).
 
 ### Tues 15 Feb
 - Guiding question: How do school choice providers market magnet schools to different communities? How do parents navigate school choices?
