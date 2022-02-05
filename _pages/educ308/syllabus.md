@@ -89,7 +89,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Jacqueline Rabe Thomas, “Do Magnet Schools Need White Students to Be Great?,” The CT Mirror, October 15, 2018, <https://ctmirror.org/2018/10/15/magnet-schools-need-white-students-great/>.
 - Kathy Megan, “Sheff v. O’Neill: Striving toward Education Equity,” Connecticut Public, December 20, 2021, <https://www.ctpublic.org/news/2021-12-20/sheff-v-oneill-striving-toward-education-equity>.
 - Connecticut Public, “Video: Sheff v. O’Neill: Striving Toward Education Equity” (CT Public Cutline Series, November 2021), <https://cptv.org/programs/cutline-special-sheff-v-oneill-striving-toward-education-equity/>. Note: This video expands on topics and interviews in the Kathy Megan article above.
-- In class: Maps of segregation in metro Hartford; simulation of mandatory versus voluntary integration, and different types of lotteries and "controlled choice".
+- In class: Mapping segregation in metro Hartford; clearing up misunderstandings of mandatory versus voluntary integration and public school choice lottery.
 
 ### Thur 10 Feb
 - Guiding question: What's a "good school"? What does school performance data reveal or obscure about educational quality and equity?
