@@ -85,11 +85,11 @@ I may modify the schedule to match the pace of our research projects, but the am
 ### Tues 8 Feb
 - Guiding question: How and why was public school choice proposed as a solution to segregated schools in the Hartford region? What are different perspectives on the current implementation of public school choice?
 - Before class, read items below and complete open-book quiz on Moodle:
-- Jack Dougherty, Jesse Wanzer, and Christina Ramsay, “Sheff v. O’Neill: Weak Desegregation Remedies and Strong Disincentives in Connecticut, 1996-2008,” in From the Courtroom to the Classroom: The Shifting Landscape of School Desegregation, ed. Claire Smrekar and Ellen Goldring (Cambridge, MA: Harvard Education Press, 2009), 103–27, <http://digitalrepository.trincoll.edu/cssp_papers/3/>.
+- Jack Dougherty, Jesse Wanzer, and Christina Ramsay, “Sheff v. O’Neill: Weak Desegregation Remedies and Strong Disincentives in Connecticut, 1996-2008,” in From the Courtroom to the Classroom: The Shifting Landscape of School Desegregation, ed. Claire Smrekar and Ellen Goldring (Cambridge, MA: Harvard Education Press, 2009), 103–27, <http://digitalrepository.trincoll.edu/cssp_papers/3/> and *see cleaner version in Moodle*.
 - Jacqueline Rabe Thomas, “Do Magnet Schools Need White Students to Be Great?,” The CT Mirror, October 15, 2018, <https://ctmirror.org/2018/10/15/magnet-schools-need-white-students-great/>.
 - Kathy Megan, “Sheff v. O’Neill: Striving toward Education Equity,” Connecticut Public, December 20, 2021, <https://www.ctpublic.org/news/2021-12-20/sheff-v-oneill-striving-toward-education-equity>.
 - Connecticut Public, “Video: Sheff v. O’Neill: Striving Toward Education Equity” (CT Public Cutline Series, November 2021), <https://cptv.org/programs/cutline-special-sheff-v-oneill-striving-toward-education-equity/>. Note: This video expands on topics and interviews in the Kathy Megan article above.
-- In class: Mapping segregation in metro Hartford; clearing up misunderstandings of mandatory versus voluntary integration and public school choice lottery.
+- In class: Mapping segregation in metro Hartford; simulation to clear up misunderstandings of mandatory versus voluntary integration, and the public school choice lottery.
 
 ### Thur 10 Feb
 - Guiding question: What's a "good school"? What does school performance data reveal or obscure about educational quality and equity?
