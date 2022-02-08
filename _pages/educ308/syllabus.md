@@ -88,13 +88,17 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Jack Dougherty, Jesse Wanzer, and Christina Ramsay, “Sheff v. O’Neill: Weak Desegregation Remedies and Strong Disincentives in Connecticut, 1996-2008,” in From the Courtroom to the Classroom: The Shifting Landscape of School Desegregation, ed. Claire Smrekar and Ellen Goldring (Cambridge, MA: Harvard Education Press, 2009), 103–27, <http://digitalrepository.trincoll.edu/cssp_papers/3/> and *see cleaner version in Moodle*.
 - Jacqueline Rabe Thomas, “Do Magnet Schools Need White Students to Be Great?,” The CT Mirror, October 15, 2018, <https://ctmirror.org/2018/10/15/magnet-schools-need-white-students-great/>.
 - Kathy Megan, “Sheff v. O’Neill: Striving toward Education Equity,” Connecticut Public, December 20, 2021, <https://www.ctpublic.org/news/2021-12-20/sheff-v-oneill-striving-toward-education-equity>.
-- Connecticut Public, “Video: Sheff v. O’Neill: Striving Toward Education Equity” (CT Public Cutline Series, November 2021), <https://cptv.org/programs/cutline-special-sheff-v-oneill-striving-toward-education-equity/>. Note: This video expands on topics and interviews in the Kathy Megan article above.
-- In class: Mapping segregation in metro Hartford; simulation to clear up misunderstandings of mandatory versus voluntary integration, and the public school choice lottery.
+- In class: [Presentation on Sheff v O'Neill: mandatory ruling with voluntary remedy](https://docs.google.com/presentation/d/1TW1lYzBXdAL5xOy40pMsAAjBbN2HySGmLfWN9zvqWGM/edit#slide=id.gda15de95_1_0), with selected visualizations from Jack Dougherty, Jesse Wanzer, and Christina Ramsay, “Missing the Goal: A Visual Guide to Sheff v. O’Neill School Desegregation: June 2007” (Trinity College and others), http://digitalrepository.trincoll.edu/cssp_papers/6/.
+- In class: [Strategies to lead a substantive discussion](https://docs.google.com/document/d/17ZInYvJtnD418LyWXFLbQx1Y4gmasrLJjBwNkD8OWJE/edit), with Jack's sample
+- Identify next four discussion leaders
 
 ### Thur 10 Feb
-- Guiding question: What's a "good school"? What does school performance data reveal or obscure about educational quality and equity?
-- Presentation on [School Test Data](https://docs.google.com/presentation/d/1A1Tug4Zy8Z_oPQ3cF4EXqtcZr3bfurYGWnn2d1umQ_Q/edit?usp=sharing).
-- Data exercise: [Which schools are best? Three ways to measure](https://docs.google.com/spreadsheets/d/1jUyPel3e1wnjtp3sg6GpCThiwMuEnQ8uFdg5yX5HE2U/edit#gid=153409930), with concepts drawn from Douglas N. Harris, Value-Added Measures in Education: What Every Educator Needs to Know (Cambridge, Mass.: Harvard Education Press, 2011).
+- Guiding question: What's a "good school"? What does school performance data reveal or obscure about educational quality and equity? How does the public school choice lottery work?
+- Before class: [Nominate a key scene from video below in this public Google Document](https://docs.google.com/document/d/1D8RBLBnkCF-1OZTx8ONPfnUTgnz9tBT8sn7lmcEiT-w/edit)
+- Connecticut Public, “Video: Sheff v. O’Neill: Striving Toward Education Equity” (CT Public Cutline Series, November 2021), <https://cptv.org/programs/cutline-special-sheff-v-oneill-striving-toward-education-equity/>. Note: This video expands on topics and interviews in the Kathy Megan article above.
+- In class: Presentation on [School Test Data](https://docs.google.com/presentation/d/1A1Tug4Zy8Z_oPQ3cF4EXqtcZr3bfurYGWnn2d1umQ_Q/edit?usp=sharing).
+- In class: Data exercise: [Which schools are best? Three ways to measure](https://docs.google.com/spreadsheets/d/1jUyPel3e1wnjtp3sg6GpCThiwMuEnQ8uFdg5yX5HE2U/edit#gid=153409930), with concepts drawn from Douglas N. Harris, Value-Added Measures in Education: What Every Educator Needs to Know (Cambridge, Mass.: Harvard Education Press, 2011).
+- In class: simulation of the public school choice lottery and pressures of meeting magnet school funding goals.
 
 ### Tues 15 Feb
 - Guiding question: How do school choice providers market magnet schools to different communities? How do parents navigate school choices?
