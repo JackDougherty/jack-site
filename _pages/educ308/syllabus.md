@@ -88,7 +88,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Jack Dougherty, Jesse Wanzer, and Christina Ramsay, “Sheff v. O’Neill: Weak Desegregation Remedies and Strong Disincentives in Connecticut, 1996-2008,” in From the Courtroom to the Classroom: The Shifting Landscape of School Desegregation, ed. Claire Smrekar and Ellen Goldring (Cambridge, MA: Harvard Education Press, 2009), 103–27, <http://digitalrepository.trincoll.edu/cssp_papers/3/> and *see cleaner version in Moodle*.
 - Jacqueline Rabe Thomas, “Do Magnet Schools Need White Students to Be Great?,” The CT Mirror, October 15, 2018, <https://ctmirror.org/2018/10/15/magnet-schools-need-white-students-great/>.
 - Kathy Megan, “Sheff v. O’Neill: Striving toward Education Equity,” Connecticut Public, December 20, 2021, <https://www.ctpublic.org/news/2021-12-20/sheff-v-oneill-striving-toward-education-equity>.
-- In class: [Presentation on Sheff v O'Neill: mandatory ruling with voluntary remedy](https://docs.google.com/presentation/d/1TW1lYzBXdAL5xOy40pMsAAjBbN2HySGmLfWN9zvqWGM/edit#slide=id.gda15de95_1_0), with selected visualizations from Jack Dougherty, Jesse Wanzer, and Christina Ramsay, “Missing the Goal: A Visual Guide to Sheff v. O’Neill School Desegregation: June 2007” (Trinity College and others), http://digitalrepository.trincoll.edu/cssp_papers/6/.
+- In class: [Presentation on Sheff v O'Neill: mandatory ruling with voluntary remedy](https://docs.google.com/presentation/d/1TW1lYzBXdAL5xOy40pMsAAjBbN2HySGmLfWN9zvqWGM/edit#slide=id.gda15de95_1_0), with selected visualizations from Jack Dougherty, Jesse Wanzer, and Christina Ramsay, “Missing the Goal: A Visual Guide to Sheff v. O’Neill School Desegregation: June 2007” (Trinity College and others), <http://digitalrepository.trincoll.edu/cssp_papers/6/>.
 - In class: [Strategies to lead a substantive discussion](https://docs.google.com/document/d/17ZInYvJtnD418LyWXFLbQx1Y4gmasrLJjBwNkD8OWJE/edit), with Jack's sample
 - Identify next four discussion leaders
 
@@ -103,30 +103,31 @@ I may modify the schedule to match the pace of our research projects, but the am
 ### Tues 15 Feb
 - Guiding question: How do school choice providers market magnet schools to different communities? How do parents navigate school choices?
 - Before class, read items below and complete open-book quiz on Moodle:
-- Chana Joffe-Walt, “Act One: My Secret Public Plan" in "The Problem We All Live With - Part Two,” This American Life, August 7, 2015, listen to the audio https://www.thisamericanlife.org/563/the-problem-we-all-live-with-part-two and/or read the transcript https://www.thisamericanlife.org/563/transcript. Discussion leader 1: ______
-- Mira Debs, Diverse Families, Desirable Schools: Public Montessori in the Era of School Choice (Harvard Education Press, 2019), https://www.google.com/books/edition/Diverse_Families_Desirable_Schools/PJa4vwEACAAJ. Read preface and chapter 4, available in Moodle. Discussion leader 2: __________
-- Jack Dougherty et al., “School Information, Parental Decisions, and the Digital Divide: The SmartChoices Project in Hartford, Connecticut,” in Educational Delusions? Why Choice Can Deepen Inequality and How to Make Schools Fair, ed. Gary Orfield and Erica Frankenberg (Berkeley: University of California Press, 2013), 219–37, https://books.google.com/books?id=x9AlDQAAQBAJ&lpg=PR1&pg=PA219, TODO upload to Moodle.
+- Chana Joffe-Walt, “Act One: My Secret Public Plan" in "The Problem We All Live With - Part Two,” This American Life, August 7, 2015, listen to the audio <https://www.thisamericanlife.org/563/the-problem-we-all-live-with-part-two> and/or read the transcript <https://www.thisamericanlife.org/563/transcript>. Discussion leader 1: Sophia.
+- Mira Debs, *Diverse Families, Desirable Schools: Public Montessori in the Era of School Choice* (Harvard Education Press, 2019). Read preface and chapter 4 in Moodle. Discussion leader 2: Victoria.
+- Jack Dougherty and co-authors, “School Information, Parental Decisions, and the Digital Divide: The SmartChoices Project in Hartford, Connecticut,” in Educational Delusions? Why Choice Can Deepen Inequality and How to Make Schools Fair, ed. Gary Orfield and Erica Frankenberg (Berkeley: University of California Press, 2013), 219–37, in Moodle.
+- In class: Screencast of the SmartChoices search tool (2008-2014), <http://commons.trincoll.edu/cssp/smartchoices/>
 
 ### Thur 17 Feb
 - What does it mean to disaggregate data? Why is it controversial?
-- Jacqueline Rabe Thomas, “CT’s Report Card: Achievement Gap Shrinks but for Wrong Reason,” CT Mirror, October 28, 2015, http://ctmirror.org/2015/10/28/cts-report-card-achievement-gap-shrinks-but-for-wrong-reason/.
-- Jake Kara and Jacqueline Rabe Thomas, “A Debate over How Government Should Identify Our Ethnicity,” CT Mirror, March 14, 2018, http://ctmirror.org/2018/03/14/debate-government-identify-ethnicity/.
-- Monty Du, “Op-Ed: A Time to Unite, Not Divide,” CT Mirror, April 14, 2020, http://ctmirror.org/2020/04/14/a-time-to-unite-not-divide-monty-du/.
-- Jack Dougherty and Ilya Ilyankou, "[Beware of Biased Comparisons](https://handsondataviz.org/biased-comparisons.html)" and "[Recognize and Reduce Data Bias](https://handsondataviz.org/data-bias.html)" in Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code (O’Reilly Media, Inc., 2021), http://HandsOnDataViz.org.
+- Jacqueline Rabe Thomas, “CT’s Report Card: Achievement Gap Shrinks but for Wrong Reason,” CT Mirror, October 28, 2015, <http://ctmirror.org/2015/10/28/cts-report-card-achievement-gap-shrinks-but-for-wrong-reason/>.
+- Jake Kara and Jacqueline Rabe Thomas, “A Debate over How Government Should Identify Our Ethnicity,” CT Mirror, March 14, 2018, <http://ctmirror.org/2018/03/14/debate-government-identify-ethnicity/>.
+- Monty Du, “Op-Ed: A Time to Unite, Not Divide,” CT Mirror, April 14, 2020, <http://ctmirror.org/2020/04/14/a-time-to-unite-not-divide-monty-du/>.
+- Jack Dougherty and Ilya Ilyankou, "[Beware of Biased Comparisons](https://handsondataviz.org/biased-comparisons.html)" and "[Recognize and Reduce Data Bias](https://handsondataviz.org/data-bias.html)" in Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code (O’Reilly Media, Inc., 2021), <http://HandsOnDataViz.org>.
 
 ### Tues 22 Feb
 - Guiding question: How do recent Sheff v O'Neill settlements define the goals of socioeconomic integration and meeting Hartford demand? How will we know if those goals are met?
 - Before class, read items below and complete open-book quiz on Moodle:
-- Richard D. Kahlenberg, ed., The Future of School Integration: Socioeconomic Diversity as an Education Reform Strategy (New York: The Century Foundation, 2012), TODO upload excerpts. Discussion leader 3: __________
-- Jacqueline Rabe Thomas, “State Settles School Desegregation Case,” The CT Mirror, January 10, 2020, https://ctmirror.org/2020/01/10/state-settles-school-desegregation-case/.
-- Mark Pazniokas, “Sheff v. O’Neill Settlement Would Expand Magnet Schools, Open Choice,” CT Mirror, January 27, 2022, http://ctmirror.org/2022/01/27/sheff-v-oneill-settlement-would-expand-magnet-schools-suburban-open-choice/.
-- Seamus McAvoy, “Settlement That Would End 30-Year Sheff v. O’Neill Desegregation Case Promises to Create Space at Magnet and Suburban Schools for All Hartford Students,” Hartford Courant, January 27, 2022, sec. Education, https://www.courant.com/education/hc-news-connecticut-sheff-v-oneill-settlement-20220127-b5lbmyhydbh7tajzhwqarcj3oe-story.html.
-- Discussion leader 4 (on Rabe Thomas, Pazniokas, and McAvoy above): _____________
+- Richard D Kahlenberg, “From All Walks of Life: New Hope for School Integration,” American Educator, Winter 2012, 2–14, <https://www.aft.org/sites/default/files/periodicals/Kahlenberg.pdf>. Discussion leader 3: Azka.
+- Jacqueline Rabe Thomas, “State Settles School Desegregation Case,” The CT Mirror, January 10, 2020, <https://ctmirror.org/2020/01/10/state-settles-school-desegregation-case/>.
+- Mark Pazniokas, “Sheff v. O’Neill Settlement Would Expand Magnet Schools, Open Choice,” CT Mirror, January 27, 2022, <http://ctmirror.org/2022/01/27/sheff-v-oneill-settlement-would-expand-magnet-schools-suburban-open-choice/>.
+- Seamus McAvoy, “Settlement That Would End 30-Year Sheff v. O’Neill Desegregation Case Promises to Create Space at Magnet and Suburban Schools for All Hartford Students,” Hartford Courant, January 27, 2022, sec. Education, <https://www.courant.com/education/hc-news-connecticut-sheff-v-oneill-settlement-20220127-b5lbmyhydbh7tajzhwqarcj3oe-story.html>.
+- Discussion leader 4 (on Rabe Thomas, Pazniokas, and McAvoy above): Mike
 
 ### Thur 24 Feb
 - Guiding question: What do the Sheff legal settlements require the CT Dept of Education to do regarding data transparency?
-- Sheff v O’Neill, “Revised Stipulation and Order Correcting Typographical Errors” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 10, 2020), http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368.
-- Sheff v O’Neill, “Permanent Injunction and Comprehensive School Choice Plan” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 27, 2022), http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303.
+- Sheff v O’Neill, “Revised Stipulation and Order Correcting Typographical Errors” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 10, 2020), <http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368>.
+- Sheff v O’Neill, “Permanent Injunction and Comprehensive School Choice Plan” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 27, 2022), <http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303>.
 - Assign Project 1 stage 2, due by end of Wed 2 March, worth 3 points.
 
 ### Tues 1 March
