@@ -93,12 +93,12 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Identify next four discussion leaders
 
 ### Thur 10 Feb
-- Guiding question: What's a "good school"? What does school performance data reveal or obscure about educational quality and equity? How does the public school choice lottery work?
+- Guiding question: What's a "good school"? What does school performance data reveal or obscure about educational quality and equity?
 - Before class: [Nominate a key scene from video below in this public Google Document](https://docs.google.com/document/d/1D8RBLBnkCF-1OZTx8ONPfnUTgnz9tBT8sn7lmcEiT-w/edit)
 - Connecticut Public, “Video: Sheff v. O’Neill: Striving Toward Education Equity” (CT Public Cutline Series, November 2021), <https://cptv.org/programs/cutline-special-sheff-v-oneill-striving-toward-education-equity/>. Note: This video expands on topics and interviews in the Kathy Megan article above.
-- In class: Presentation on [School Test Data](https://docs.google.com/presentation/d/1A1Tug4Zy8Z_oPQ3cF4EXqtcZr3bfurYGWnn2d1umQ_Q/edit?usp=sharing).
-- In class: Data exercise: [Which schools are best? Three ways to measure](https://docs.google.com/spreadsheets/d/1jUyPel3e1wnjtp3sg6GpCThiwMuEnQ8uFdg5yX5HE2U/edit#gid=153409930), with concepts drawn from Douglas N. Harris, Value-Added Measures in Education: What Every Educator Needs to Know (Cambridge, Mass.: Harvard Education Press, 2011).
-- In class: simulation of the public school choice lottery and pressures of meeting magnet school funding goals.
+- In class: Presentation on [What's a "Good" School? Rethinking Test Data](https://docs.google.com/presentation/d/1qIzPTWuPPO2clpF9A5kjvahy7qBItm1yTsNHi8flO_M/edit#slide=id.gda15de95_1_0), with concepts drawn from Douglas N. Harris, Value-Added Measures in Education: What Every Educator Needs to Know (Cambridge, Mass.: Harvard Education Press, 2011).
+- In class: Data exercise: [Which schools score best? Three ways to measure](https://docs.google.com/spreadsheets/d/1jUyPel3e1wnjtp3sg6GpCThiwMuEnQ8uFdg5yX5HE2U/edit#gid=153409930).
+- In class: Screencast of the SmartChoices search tool (2008-2014), <http://commons.trincoll.edu/cssp/smartchoices/>
 
 ### Tues 15 Feb
 - Guiding question: How do school choice providers market magnet schools to different communities? How do parents navigate school choices?
@@ -106,7 +106,8 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Chana Joffe-Walt, “Act One: My Secret Public Plan" in "The Problem We All Live With - Part Two,” This American Life, August 7, 2015, listen to the audio <https://www.thisamericanlife.org/563/the-problem-we-all-live-with-part-two> and/or read the transcript <https://www.thisamericanlife.org/563/transcript>. Discussion leader 1: Sophia.
 - Mira Debs, *Diverse Families, Desirable Schools: Public Montessori in the Era of School Choice* (Harvard Education Press, 2019). Read preface and chapter 4 in Moodle. Discussion leader 2: Victoria.
 - Jack Dougherty and co-authors, “School Information, Parental Decisions, and the Digital Divide: The SmartChoices Project in Hartford, Connecticut,” in Educational Delusions? Why Choice Can Deepen Inequality and How to Make Schools Fair, ed. Gary Orfield and Erica Frankenberg (Berkeley: University of California Press, 2013), 219–37, in Moodle.
-- In class: Screencast of the SmartChoices search tool (2008-2014), <http://commons.trincoll.edu/cssp/smartchoices/>
+- In class: How does the public school choice lottery work? Simulation of the public school choice lottery and pressures of meeting magnet school funding goals.
+
 
 ### Thur 17 Feb
 - What does it mean to disaggregate data? Why is it controversial?
