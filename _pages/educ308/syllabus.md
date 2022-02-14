@@ -159,11 +159,12 @@ I may modify the schedule to match the pace of our research projects, but the am
 - No class on Tues 22 March or Thur 24 March.
 
 ### Tues 29 March
-- Introduction to Team Research Project 2
+- Introduction to Team Research Project 2: Creating lesson plans on selected events in housing segregation and school integration activism in CT
 - In-class: selections from Teach It CT inquiry-based history lessons <https://TeachItCT.org>
+- In-class: selected news stories on debates over teaching about racism in US K-12 schools
 
 ### Thu 31 March
-- Guest: Rebecca Furer, TeachIT CT program director at CT Humanities (pending)
+- Guest: Rebecca Furer, TeachIT CT program director at CT Humanities (pending 11:30am)
 - Designing inquiry-based lessons with [TeachIt CT template](https://docs.google.com/document/d/1_M7tpAolsTuXx0ar_2LvY7vdXuAZqGz9QutaibpXwe4/edit)
 - Assign project 2, stage 1: submit your lesson pitches during class on Thu April 14, worth 1 point
 
@@ -211,7 +212,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Assign Project 2 stage 5: Revised lesson plans for guest evaluator, worth 10 points, due by Wed 27 April at 3pm
 
 ### Thur 28 April
-- Guest: Expert evaluator Rebecca Furer (pending)
+- Guest: Expert evaluator Rebecca Furer (pending 11am)
 
 ### Tues 3 May
 - Topic: The Relationship between Schooling and Housing
