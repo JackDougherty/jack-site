@@ -109,8 +109,9 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Jack Dougherty and co-authors, “School Information, Parental Decisions, and the Digital Divide: The SmartChoices Project in Hartford, Connecticut,” in Educational Delusions? Why Choice Can Deepen Inequality and How to Make Schools Fair, ed. Gary Orfield and Erica Frankenberg (Berkeley: University of California Press, 2013), 219–37, in Moodle.
 
 ### Thur 17 Feb
-- Why are some proposals to disaggregate racial or ethnic data controversial?
+- Why do people disagree about disaggregating racial or ethnic data, or the best way to visually present it?
 - Jake Kara and Jacqueline Rabe Thomas, “A Debate over How Government Should Identify Our Ethnicity,” CT Mirror, March 14, 2018, <http://ctmirror.org/2018/03/14/debate-government-identify-ethnicity/>.
+- Elise Castillo, “Opinion: In Expanding School Choice, Let’s Not Lose Sight of Asian American Students,” CT Mirror, February 15, 2022, <http://ctmirror.org/2022/02/15/in-expanding-school-choice-lets-not-lose-sight-of-asian-american-students/>.
 - "Part 15: Case Study from the Urban Institute," in Jonathan Schwabish and Alice Feng, “Do No Harm Guide: Applying Equity Awareness in Data Visualization” (Urban Institute, June 2021), <https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf>.
 - Jack Dougherty and Ilya Ilyankou, "[Beware of Biased Comparisons](https://handsondataviz.org/biased-comparisons.html)" and "[Recognize and Reduce Data Bias](https://handsondataviz.org/data-bias.html)" in Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code (O’Reilly Media, Inc., 2021), <http://HandsOnDataViz.org>.
 
