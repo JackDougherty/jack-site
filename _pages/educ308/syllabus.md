@@ -2,12 +2,13 @@
 title: "Educ 308: Cities Suburbs and Schools"
 permalink: /educ308/
 date: 2022-02-14
+classes: wide
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 ---
 ## Spring 2022 Syllabus
-Tuesdays and Thursdays, 10:50am-12:05pm from Feb 1st to May 5th, 2022. Due to the pandemic, the first week of our course will meet in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty>. For subsequent weeks, we are scheduled to meet in-person with masks in Trinity Library Room 02 (basement). See [Trinity Covid information](https://www.trincoll.edu/reopening/).
+Tuesdays and Thursdays, 10:50am-12:05pm from Feb 1st to May 5th, 2022. Due to the pandemic, the first week of our course will meet in the instructor's Zoom room <https://trincoll.zoom.us/my/jackdougherty>. For subsequent weeks, we are scheduled to meet in-person with masks in Trinity Library Room 02 (basement). See [Trinity Covid policies](https://www.trincoll.edu/reopening/).
 
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me).
 
