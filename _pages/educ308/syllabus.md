@@ -2,7 +2,6 @@
 title: "Educ 308: Cities Suburbs and Schools"
 permalink: /educ308/
 date: 2022-02-14
-classes: wide
 toc: true
 toc_label: "Contents"
 toc_sticky: true
