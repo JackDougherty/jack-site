@@ -159,60 +159,58 @@ I may modify the schedule to match the pace of our research projects, but the am
 - No class on Tues 22 March or Thur 24 March.
 
 ### Tues 29 March
-- Introduction to Team Research Project 2: Creating lesson plans on selected events in housing segregation and school integration activism in CT
+- Introduction to Team Research Project 2: Creating lesson plans on CT housing segregation and school integration activism
 - In-class: selections from Teach It CT inquiry-based history lessons <https://TeachItCT.org>
-- In-class: selected news stories on debates over teaching about racism in US K-12 schools
+- Guest: Rebecca Furer, TeachIT CT program director at CT Humanities (11:30am)
+- Designing inquiry-based lessons with [TeachIt CT template](https://docs.google.com/document/d/1_M7tpAolsTuXx0ar_2LvY7vdXuAZqGz9QutaibpXwe4/edit)
 
 ### Thu 31 March
-- Guest: Rebecca Furer, TeachIT CT program director at CT Humanities (pending 11:30am)
-- Designing inquiry-based lessons with [TeachIt CT template](https://docs.google.com/document/d/1_M7tpAolsTuXx0ar_2LvY7vdXuAZqGz9QutaibpXwe4/edit)
-- Assign project 2, stage 1: submit your lesson pitches during class on Thu April 14, worth 1 point
-
-### Tues 5 April
 - Topic: Federal Lending and Redlining, 1930s and today
 - Before class, read items below and complete open-book quiz 4 on Moodle:
-- Jack Dougherty, [Preface](https://ontheline.trincoll.edu/index.html) and [My Introduction to the Lines](https://ontheline.trincoll.edu/introduction.html) and [The Richest City in the Nation](https://ontheline.trincoll.edu/richest.html) in On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs, book-in-progress, 2022.
+- Jack Dougherty, [Preface](https://ontheline.trincoll.edu/index.html) and [My Introduction to the Lines](https://ontheline.trincoll.edu/introduction.html) in On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs, book-in-progress, 2022.
 - Sean McGann and Jack Dougherty, [Federal Lending and Redlining](https://ontheline.trincoll.edu/lending.html) in On The Line. Discussion leader 5 ____
 - Jasmin Agosto, Vianna Iorio, and Jack Dougherty, [Mobilizing Against Racial Steering and Redlining](https://ontheline.trincoll.edu/mobilizing.html) in On The Line. Discussion leader 6 _____
-- John Oliver, “Housing Discrimination” (Last Week Tonight with John Oliver, Home Box Office, July 26, 2021), <https://www.youtube.com/watch?v=_-0J49_9lwc>.
 - Ryan Best and Elena Mejía, “The Lasting Legacy Of Redlining,” FiveThirtyEight, February 9, 2022, <https://projects.fivethirtyeight.com/redlining/>.
 
-### Thur 7 April
+### Tues 5 April
 - Topic: Race Restrictive Property Covenants
-- Before class, read items below and complete open-book quiz 5 on Moodle (2nd opportunity this week):
+- Before class, read items below and complete open-book quiz 5 on Moodle:
 - Tracey Wilson, Vianna Iorio, and Jack Dougherty, [Restricting with Property Covenants](https://ontheline.trincoll.edu/restricting.html) in On The Line. Discussion leader 7 ______
 - Jacalyn Severance, “Revelation of a Racist Property Restriction Leads to New State Law in Connecticut,” UConn Today, July 27, 2021, <https://today.uconn.edu/2021/07/revelation-of-a-racist-property-restriction-leads-to-new-state-law-in-connecticut/>.
 - “Racist Covenant Removed From Deed to Manchester Home,” NBC Connecticut, August 3, 2021, <https://www.nbcconnecticut.com/news/local/racist-covenant-removed-from-deed-to-manchester-home/2551049/>.
 
-### Tues 12 April
+### Thur 7 April
 - Topic: Exclusionary residential zoning
 - Before class, read items below and complete open-book quiz 6 on Moodle (if needed):
 - [Excluding Through Zoning Lines](https://ontheline.trincoll.edu/excluding.html), all parts in chapter, in On The Line. Discussion leader 8 _______
 - Christopher Booker and Sam Weber, “How Zoning Can Restrict, or Even Prevent, Affordable Housing,” PBS NewsHour broadcast video, January 30, 2021, <https://www.pbs.org/newshour/show/how-zoning-can-restrict-or-even-prevent-affordable-housing>.
 - Connecticut Zoning Atlas, Desegregate CT, 2021, <https://www.desegregatect.org/atlas>.
 
-### Thur 14 April
+### Tues 12 April
 - Topic: Activism for integrated schools, 1989-present
 - Sheff v O’Neill, “Complaint” (Connecticut Superior Court, April 26, 1989), <http://digitalrepository.trincoll.edu/cssp_archives/17/>.
 - Selected oral history interviews and transcripts with Sheff plaintiffs and attorneys in the Cities Suburbs & Schools Project in the [Trinity College Digital Repository](https://digitalrepository.trincoll.edu/cssp/) and [Connecticut Digital Archive](https://collections.ctdigitalarchive.org/islandora/object/120002:cssp)
-- In-class: submit your Project 2, stage 1: lesson pitches (to be assigned to topics)
-- Assign Project 2 stage 2: Draft Lesson Plan, due by end of Wed 20 April, worth 3 points.
+- Assign Project 2, stage 1: submit proposals for your preferred lesson plans, due before Thu 14 April, worth 1 point
 
-### Tues 19 April
+### Thur 14 April
 - Topic: Enriching Inquiry-based Historical Thinking
 - Before class, read items below and complete open-book quiz 7 on Moodle (if needed):
 - "Introduction" and "Chapter 1: Did Pocahontas Rescue John Smith?" in Sam Wineburg, Daisy Martin, and Chauncey Monte-Sano, Reading Like a Historian: Teaching Literacy in Middle and High School History Classrooms (Teachers College Press, 2011), in Moodle.
+- Assign Project 2 stage 2: Draft Lesson Plan, due by end of Mon 18 April, worth 3 points.
+
+### Tues 19 April
+- In-class: Project 2 stage 3 peer review on draft lesson plans, worth 3 points.
+- Assign Project 2 stage 4: Zoom feedback sessions with designated educators on your lesson plans, worth 3 points
 
 ### Thur 21 April
-- In-class: Project 2 stage 3 peer review on draft lesson plans, worth 3 points.
-- Assign Project 2 stage 4: Zoom feedback sessions on revised lesson plans with designated educators on Zoom.
-
-### Tues 26 April
 - Workshop: Refining lesson plans based on educator feedback.
 - Assign Project 2 stage 5: Revised lesson plans for guest evaluator, worth 10 points, due by Wed 27 April at 3pm
 
+### Tues 26 April
+- Workshop: Refining lesson plans based on educator feedback.
+
 ### Thur 28 April
-- Guest: Expert evaluator Rebecca Furer (pending 11am)
+- Guest: Expert evaluator Rebecca Furer (11am)
 
 ### Tues 3 May
 - Topic: The Relationship between Schooling and Housing
