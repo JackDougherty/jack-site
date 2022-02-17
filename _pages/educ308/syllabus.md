@@ -114,6 +114,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Elise Castillo, “Opinion: In Expanding School Choice, Let’s Not Lose Sight of Asian American Students,” CT Mirror, February 15, 2022, <http://ctmirror.org/2022/02/15/in-expanding-school-choice-lets-not-lose-sight-of-asian-american-students/>.
 - "Part 15: Case Study from the Urban Institute," in Jonathan Schwabish and Alice Feng, “Do No Harm Guide: Applying Equity Awareness in Data Visualization” (Urban Institute, June 2021), <https://www.urban.org/sites/default/files/publication/104296/do-no-harm-guide.pdf>.
 - Jack Dougherty and Ilya Ilyankou, "[Beware of Biased Comparisons](https://handsondataviz.org/biased-comparisons.html)" and "[Recognize and Reduce Data Bias](https://handsondataviz.org/data-bias.html)" in Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code (O’Reilly Media, Inc., 2021), <http://HandsOnDataViz.org>.
+- In class: [Debates over Disaggregating Data](https://docs.google.com/document/d/1qOqU2lsOh5_01KN-w-JRawNsFueTvsBt8egpT3sdZSU/edit)
 
 ### Tues 22 Feb
 - Guiding question: How do recent Sheff v O'Neill settlements define the goals of socioeconomic integration and meeting Hartford demand? How will we know if those goals are met?
