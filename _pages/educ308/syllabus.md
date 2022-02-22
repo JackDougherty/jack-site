@@ -124,6 +124,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Mark Pazniokas, “Sheff v. O’Neill Settlement Would Expand Magnet Schools, Open Choice,” CT Mirror, January 27, 2022, <http://ctmirror.org/2022/01/27/sheff-v-oneill-settlement-would-expand-magnet-schools-suburban-open-choice/>.
 - Seamus McAvoy, “Settlement That Would End 30-Year Sheff v. O’Neill Desegregation Case Promises to Create Space at Magnet and Suburban Schools for All Hartford Students,” Hartford Courant, January 27, 2022, sec. Education, <https://www.courant.com/education/hc-news-connecticut-sheff-v-oneill-settlement-20220127-b5lbmyhydbh7tajzhwqarcj3oe-story.html>.
 - Discussion leader 4 (on Rabe Thomas, Pazniokas, and McAvoy above): Mike
+- In-class: [Selected slides on Sheff 2022 Settlement](https://drive.google.com/file/d/1Bf8wB8VVRvzz63Z8rF_c_50LBFHfZLFw/view?usp=sharing)
 
 ### Thur 24 Feb
 - Guiding question: What do the Sheff legal settlements require the CT Dept of Education to do regarding data transparency?
