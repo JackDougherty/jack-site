@@ -124,17 +124,20 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Mark Pazniokas, “Sheff v. O’Neill Settlement Would Expand Magnet Schools, Open Choice,” CT Mirror, January 27, 2022, <http://ctmirror.org/2022/01/27/sheff-v-oneill-settlement-would-expand-magnet-schools-suburban-open-choice/>.
 - Seamus McAvoy, “Settlement That Would End 30-Year Sheff v. O’Neill Desegregation Case Promises to Create Space at Magnet and Suburban Schools for All Hartford Students,” Hartford Courant, January 27, 2022, sec. Education, <https://www.courant.com/education/hc-news-connecticut-sheff-v-oneill-settlement-20220127-b5lbmyhydbh7tajzhwqarcj3oe-story.html>.
 - Discussion leader 4 (on Rabe Thomas, Pazniokas, and McAvoy above): Mike
-- In-class: [Selected slides on Sheff 2022 Settlement](https://drive.google.com/file/d/1Bf8wB8VVRvzz63Z8rF_c_50LBFHfZLFw/view?usp=sharing)
+- In class: [Selected slides on Sheff 2022 Settlement](https://drive.google.com/file/d/1Bf8wB8VVRvzz63Z8rF_c_50LBFHfZLFw/view?usp=sharing)
 
 ### Thur 24 Feb
-- Guiding question: What do the Sheff legal settlements require the CT Dept of Education to do regarding data transparency?
+- Guiding questions: How are diversity goals for school integration defined in the 2022 Sheff integration legal settlement?  What data is the CT Department of Education required to make public or share with plaintiffs, and to what extent is it currently available or unavailable? What data is most meaningful to the public and why?
 - Sheff v O’Neill, “Revised Stipulation and Order Correcting Typographical Errors” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 10, 2020), <http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=18496368>.
 - Sheff v O’Neill, “Permanent Injunction and Comprehensive School Choice Plan” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 27, 2022), <http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303>.
-- In class: workshop on compiling data with Google Sheets
-- Assign Project 1 stage 2: Compile data, due by end of Monday 28 Feb, worth 3 points.
+- Recommended: [Strengthen your Spreadsheet Skills with Google Sheets](https://handsondataviz.org/spreadsheet.html)
+- In class: Discuss [Sheff 2022 School Integration Settlement Key Goals and Definitions](https://docs.google.com/document/d/16jnDRhlu5gNVDFLhu1N1PHIskBMzvJ1IRM7jPXbWzeE/edit)
+- In class: Is this [sample Sheff integration chart](https://datawrapper.dwcdn.net/fdcm0/9/) still meaningful?
+- Assign Project 1 Stage 2: [Find and Explain Public Data on Sheff School Integration](https://docs.google.com/document/d/1yDi2ikTyO1NmQoyTfx0ddxY-VQ_YaCALX0Atylc5NqI/edit), due by end of Monday 28 Feb, worth 3 points.
 
 ### Tues 1 March
-- Guiding question: What are meaningful ways to present disaggregated public school choice data released called for under the Data Transparency section of recent Sheff v. O'Neill school integration settlements?
+- Guiding question: What are meaningful ways to present disaggregated public school choice data released called for under the Data Transparency section of recent Sheff v. O'Neill school integration settlements? Also, what additional data should be made public to continually monitor the progress of meeting goals under the Sheff 2022 settlement?
+- Jacqueline Rabe Thomas and Jim Haddadin, “As Connecticut Seeks to Desegregate Schools, Suburban Districts Are Slow to Help,” Connecticut Public, February 17, 2022, https://www.ctpublic.org/news/investigative-news/2022-02-16/as-connecticut-seeks-to-desegregate-schools-suburban-districts-are-slow-to-help.
 - In class: Workshop on creating interactive charts and tables with Datawrapper
 - Assign Project 1 stage 3: Create interactive chart or table with real or fictitious data, due before class on Thur 3 March
 
