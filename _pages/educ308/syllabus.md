@@ -146,10 +146,10 @@ I may modify the schedule to match the pace of our research projects, but the am
 
 ### Thur 3 March
 - In class: peer review and instructor feedback on project 1 stage 3
-- Assign Project 1 stage 4: Revise interactive charts or tables, due by Sunday 6 March by 6pm
+- Assign Project 1 stage 4: Revise and expand on interactive charts and/or tables, due Sunday 6 March by 6pm
 
 ### Tues 8 March
-- Guest: Expert evaluator Ilya Ilyankou, project 1, stage 4, worth 10 points.
+- Guest expert evaluators: [Jacqueline Rabe Thomas](https://www.ctpublic.org/people/jacqueline-rabe-thomas), Investigative Reporter at CT Public, and [Ilya Ilyankou](https://www.ctdata.org/our-team), Civic Technologist at CT Data Collaborative, project 1, stage 4, worth 10 points.
 
 ### Thur 10 March
 - Guiding question: How do different people interpret our tables, charts, maps of public school choice data?
