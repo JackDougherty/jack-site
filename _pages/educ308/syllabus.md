@@ -132,17 +132,20 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Sheff v O’Neill, “Permanent Injunction and Comprehensive School Choice Plan” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 27, 2022), <http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303>.
 - Recommended: [Strengthen your Spreadsheet Skills with Google Sheets](https://handsondataviz.org/spreadsheet.html)
 - In class: Discuss [Sheff 2022 School Integration Settlement Key Goals and Definitions](https://docs.google.com/document/d/16jnDRhlu5gNVDFLhu1N1PHIskBMzvJ1IRM7jPXbWzeE/edit)
-- In class: Is this [sample Sheff integration chart](https://datawrapper.dwcdn.net/fdcm0/9/) still meaningful?
 - Assign Project 1 Stage 2: [Find and Explain Public Data on Sheff School Integration](https://docs.google.com/document/d/1yDi2ikTyO1NmQoyTfx0ddxY-VQ_YaCALX0Atylc5NqI/edit), due by end of Monday 28 Feb, worth 3 points.
 
 ### Tues 1 March
-- Guiding question: What are meaningful ways to present disaggregated public school choice data released called for under the Data Transparency section of recent Sheff v. O'Neill school integration settlements? Also, what additional data should be made public to continually monitor the progress of meeting goals under the Sheff 2022 settlement?
-- Jacqueline Rabe Thomas and Jim Haddadin, “As Connecticut Seeks to Desegregate Schools, Suburban Districts Are Slow to Help,” Connecticut Public, February 17, 2022, https://www.ctpublic.org/news/investigative-news/2022-02-16/as-connecticut-seeks-to-desegregate-schools-suburban-districts-are-slow-to-help.
-- In class: Workshop on creating interactive charts and tables with Datawrapper
-- Assign Project 1 stage 3: Create interactive chart or table with real or fictitious data, due before class on Thur 3 March
+- Guiding question: What are meaningful ways to visually present public data on quality integrated education and progress toward meeting Sheff 2022 settlement goals?
+- In class: Review public data we found, or did not find, and problems
+- In class: Review sample visualizations of Sheff school integration data
+  - OnTheLine, [CT created desegregated schools for only 41 percent of Hartford Black & Latino students in 2019-20](https://datawrapper.dwcdn.net/fdcm0/9/)
+  - Jacqueline Rabe Thomas and Jim Haddadin, “As Connecticut Seeks to Desegregate Schools, Suburban Districts Are Slow to Help,” Connecticut Public, February 17, 2022, <https://www.ctpublic.org/news/investigative-news/2022-02-16/as-connecticut-seeks-to-desegregate-schools-suburban-districts-are-slow-to-help>.
+- In class: [Datawrapper](https://datawrapper.de) workshop to transform Google Sheets data into interactive tables and interactive charts
+- Recommended reading: [Chart Your Data](https://handsondataviz.org/chart.html) and [Table Your Data](https://handsondataviz.org/table.html) in <https://HandsOnDataViz.org> book.
+- Assign [Project 1 Stage 3: Create Meaningful Tables and Charts](https://docs.google.com/document/d/158UssA9Rc3wjTz30ThOXoQRlRZzMIQnVqBeVSbHXvYQ/edit), with real or fake data, due by end of Wednesday 2 March, worth 3 points
 
 ### Thur 3 March
-- In class: peer review and instructor feedback, project 1 stage 3, worth 3 points.
+- In class: peer review and instructor feedback on project 1 stage 3
 - Assign Project 1 stage 4: Revise interactive charts or tables, due by Sunday 6 March by 6pm
 
 ### Tues 8 March
