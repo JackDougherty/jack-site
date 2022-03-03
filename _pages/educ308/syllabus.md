@@ -145,14 +145,16 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Assign [Project 1 Stage 3: Create Meaningful Tables and Charts](https://docs.google.com/document/d/158UssA9Rc3wjTz30ThOXoQRlRZzMIQnVqBeVSbHXvYQ/edit), with real or fake data, due by end of Wednesday 2 March, worth 3 points
 
 ### Thur 3 March
-- In class: peer review and instructor feedback on project 1 stage 3
-- Assign Project 1 stage 4: Revise and expand on interactive charts and/or tables, due Sunday 6 March by 6pm
+- In class: seminar and instructor feedback on [Stage 3](https://docs.google.com/document/d/158UssA9Rc3wjTz30ThOXoQRlRZzMIQnVqBeVSbHXvYQ/edit)
+- Assign [Stage 4](https://docs.google.com/document/d/158UssA9Rc3wjTz30ThOXoQRlRZzMIQnVqBeVSbHXvYQ/edit): Improve interactive charts and/or tables, based on NEW evaluation criteria, due Sunday 6 March by 6pm for me to forward to guest evaluators
+- Students offer [time windows for me to schedule Stage 5 Zoom interviews](https://docs.google.com/document/d/16fPyIGFtOZXoKnp_G9wq1kNbxyXu4SDb4pfztVPyLB8/edit) with selected Sheff Movement members about all of our data visualizations
+- Recommended: Watch or participate in [Fri March 4th Education Committee Public Hearing at CT General Assembly](https://cga.ct.gov/ed/) on Zoom and YouTubeLive about several bills under consideration (including Sheff 2022 settlement, school funding, data disaggregation, etc.) Scheduled to begin at 11am and expected to last for several hours. Testimony is recorded and archived.
 
 ### Tues 8 March
 - Guest expert evaluators: [Jacqueline Rabe Thomas](https://www.ctpublic.org/people/jacqueline-rabe-thomas), Investigative Reporter at CT Public, and [Ilya Ilyankou](https://www.ctdata.org/our-team), Civic Technologist at CT Data Collaborative, project 1, stage 4, worth 10 points.
 
 ### Thur 10 March
-- Guiding question: How do different people interpret our tables, charts, maps of public school choice data?
+- Guiding question: How do different people interpret our tables and charts of Sheff school integration data?
 - Annette Lareau, "Chapter 5: How to Conduct a Good Interview," Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up (University of Chicago Press, 2021), in Moodle.
 - Assign Zoom interviews with selected Sheff Movement members, conducted and recorded by student pairs and/or instructor, stage 5, worth 3 points.
 
