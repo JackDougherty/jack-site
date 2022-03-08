@@ -153,12 +153,14 @@ I may modify the schedule to match the pace of our research projects, but the am
 ### Tues 8 March
 - Coming up: [Sent invitations for Zoom interviews on Sheff data visualizations](http://bit.ly/sheff-interviews-2022)
 - [Sheff dataviz stories](https://docs.google.com/document/d/14cPhpdgncQFk7lbT30EiZAqdVSx4GGW6RrPt4QniYcg/edit#) evaluated by guest experts: [Jacqueline Rabe Thomas](https://www.ctpublic.org/people/jacqueline-rabe-thomas), Investigative Reporter at CT Public, and [Ilya Ilyankou](https://www.ctdata.org/our-team), Civic Technologist at CT Data Collaborative, project 1, stage 4, worth 10 points.
-- Read: Seamus McAvoy, “Sheff Settlement Made Without Hartford Residents, People of Color, Lawmakers Say,” Hartford Courant, March 5, 2022, <https://www.courant.com/news/connecticut/hc-news-education-committee-sheff-20220305-tdlrm4po4fa6tpdr3dvnjndw5y-story.html>.
-- Resource: 12-hour Education Committee public hearing on March 4, 2022 at CT General Assembly, on YouTube <https://www.youtube.com/watch?v=G-9rKx_lUz4> and see testimonies and transcript to come at <https://cga.ct.gov/ed/>
+- Seamus McAvoy, “Sheff Settlement Made Without Hartford Residents, People of Color, Lawmakers Say,” Hartford Courant, March 5, 2022, <https://www.courant.com/news/connecticut/hc-news-education-committee-sheff-20220305-tdlrm4po4fa6tpdr3dvnjndw5y-story.html>.
+- Future resource: 12-hour Education Committee public hearing on March 4, 2022 at CT General Assembly, on YouTube <https://www.youtube.com/watch?v=G-9rKx_lUz4> and see testimonies and transcript to come at <https://cga.ct.gov/ed/>
 
 ### Thur 10 March
 - Guiding question: How do different people interpret our tables and charts of Sheff school integration data?
 - Annette Lareau, "Chapter 5: How to Conduct a Good Interview," Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up (University of Chicago Press, 2021), in Moodle.
+- Interview guide
+- 11:30am: Seminar practice interview and feedback with Prof. Elise Castillo
 - [Assign Zoom interviews with selected Sheff Movement members on data visualizations](http://bit.ly/sheff-interviews-2022), stage 5, worth 3 points.
 
 ### Tues 15 March
