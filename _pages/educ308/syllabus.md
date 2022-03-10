@@ -158,11 +158,12 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Future resource: 12-hour Education Committee public hearing on March 4, 2022 at CT General Assembly, on YouTube <https://www.youtube.com/watch?v=G-9rKx_lUz4> and see testimonies and transcript to come at <https://cga.ct.gov/ed/>
 
 ### Thur 10 March
-- Guiding question: How do different people interpret our tables and charts of Sheff school integration data?
+- Guiding question: How do different people interpret our charts of Sheff school integration data? What do they see? What do they assume? How do the charts align with their beliefs and goals?
+- In-class: [Preparing students to interview and listen](https://ontheline.trincoll.edu/teaching-oral-history.html#preparing-students-to-interview-and-listen) from OnTheLine book-in-progress.
 - Annette Lareau, "Chapter 5: How to Conduct a Good Interview," Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up (University of Chicago Press, 2021), in Moodle.
-- In-class: create interview guide
+- In-class: Get prepared with our [updated online charts](https://datavizforall.org/sheff-2022/) and [interview guide with open-ended questions and follow-up prompts](https://docs.google.com/document/d/1y_52XHnzGb6t9amvjEAQIxG0bmv50h3J9Kp1PRl9Nfs/edit)
 - 11:30am: Seminar practice interview and feedback with Prof. Elise Castillo
-- [Assign Zoom interviews with selected Sheff Movement members on data visualizations](http://bit.ly/sheff-interviews-2022), stage 5, worth 3 points.
+- [Assign Zoom interviews with selected Sheff Movement members about charts](http://bit.ly/sheff-interviews-2022). After each interview, I will use subscriber-only Trint service to produce a raw transcript to upload to Google Drive, and I will assign student(s) to do clean-up editing and formatting before class on Tuesday 15 March. Stage 5, worth 3 points. 
 
 ### Tues 15 March
 - Annette Lareau, "Chapter 8: Data Analysis - Thinking as You Go," Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up (University of Chicago Press, 2021), in Moodle.
