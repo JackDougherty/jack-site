@@ -168,7 +168,9 @@ I may modify the schedule to match the pace of our research projects, but the am
 - [Assign Zoom interviews with selected Sheff Movement members about charts](http://bit.ly/sheff-interviews-2022). After each interview, I will use subscriber-only Trint service to produce a raw transcript to upload to Google Drive, and I will assign student(s) to do clean-up editing and formatting before class on Tuesday 15 March. Stage 5, worth 3 points.
 
 ### Tues 15 March
+- Guiding question: How do we thematically analyze our interview transcripts to answer our research question?
 - Annette Lareau, "Chapter 8: Data Analysis - Thinking as You Go," Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up (University of Chicago Press, 2021), in Moodle.
+- Maxwell Zeff, Jacqueline Rabe Thomas, and Walter Smith Randolph, “Despite Concerns from Lawmakers, Sheff v. O’Neill Agreement Poised to Go into Effect,” CT Public, March 9, 2022, <https://www.ctpublic.org/news/investigative-news/2022-03-09/despite-concerns-from-lawmakers-sheff-vs-oneill-agreement-poised-to-go-into-effect>.
 - In class: analyze interview data.
 - Assign: project 1, stage 6: essay on data and interviews, worth 15 points, due by end of Friday 18 March
 
