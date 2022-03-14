@@ -170,12 +170,13 @@ I may modify the schedule to match the pace of our research projects, but the am
 ### Tues 15 March
 - Guiding question: How do we thematically analyze our interview transcripts to answer our research question?
 - Annette Lareau, "Chapter 8: Data Analysis - Thinking as You Go," Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up (University of Chicago Press, 2021), in Moodle.
-- Maxwell Zeff, Jacqueline Rabe Thomas, and Walter Smith Randolph, “Despite Concerns from Lawmakers, Sheff v. O’Neill Agreement Poised to Go into Effect,” CT Public, March 9, 2022, <https://www.ctpublic.org/news/investigative-news/2022-03-09/despite-concerns-from-lawmakers-sheff-vs-oneill-agreement-poised-to-go-into-effect>.
-- In class: Ways to analyze our [Sheff interview transcripts](https://drive.google.com/drive/folders/1U_J2rvo2penhuuvdRITS5l8_NEdLrzA5) - *restricted to seminar*
+- In class: Ways to thematically analyze our [Sheff interview transcripts](https://drive.google.com/drive/folders/1U_J2rvo2penhuuvdRITS5l8_NEdLrzA5) - *restricted to seminar*
 - Assign: project 1, stage 6: essay on data and interviews, worth 15 points, due by end of Friday 18 March
 - Volunteer (or be assigned) to discussion leader roles after Spring Break
+- Update on Sheff 2022 settlement in the CT General Assembly: Maxwell Zeff, Jacqueline Rabe Thomas, and Walter Smith Randolph, “Despite Concerns from Lawmakers, Sheff v. O’Neill Agreement Poised to Go into Effect,” CT Public, March 9, 2022, <https://www.ctpublic.org/news/investigative-news/2022-03-09/despite-concerns-from-lawmakers-sheff-vs-oneill-agreement-poised-to-go-into-effect>.
 
 ### Thur 17 March
+- Review final revisions of Sheff charts for publication
 - Workshop: Refine essays with input from instructor
 - Prep for next readings and research project after Spring Break
 
