@@ -42,7 +42,7 @@ Your academic progress will be evaluated in three ways:
 - Each quiz may be taken only once, but only your 5 best scores of the semester (worth 5 points each) will be counted, for a total of 25 points.
 
 #### B. Research Project Stages
-- The purpose is to develop your skills in designing and conducting qualitative, quantitative, and historical research. Each of our research projects will be scaffolded into smaller stages, including guest evaluation by experts. Research Project 1 will be divided into 35 points, and Project 2 will be divided into 20 points, and a Final Reflective Essay on schooling-housing connections will be worth 10 points, for a total of 65 points.
+- The purpose is to develop your skills in designing and conducting qualitative, quantitative, and historical research. Each of our research projects will be scaffolded into smaller stages, including guest evaluation by experts. Research Project 1 will be divided into 35 points, and Project 2 will be divided into 20 points, and a Final Reflective Essay on schooling-housing connections will be worth 10 points, for a total of 65 points. A 20 percent late penalty will be deducted for every 12-hour period beyond the deadline. Exceptions are granted only for documented health or family emergencies.
 
 #### C. Leadership and Participation
 - The purpose is to develop your discussion leadership skills and promote active learning with accountability.
@@ -176,6 +176,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Update on Sheff 2022 settlement in the CT General Assembly: Maxwell Zeff, Jacqueline Rabe Thomas, and Walter Smith Randolph, “Despite Concerns from Lawmakers, Sheff v. O’Neill Agreement Poised to Go into Effect,” CT Public, March 9, 2022, <https://www.ctpublic.org/news/investigative-news/2022-03-09/despite-concerns-from-lawmakers-sheff-vs-oneill-agreement-poised-to-go-into-effect>.
 
 ### Thur 17 March
+- Jacqueline Rabe Thomas from CT Public will visit class to observe and record radio story
 - Review final revisions of Sheff charts for publication
 - Workshop: Refine essays with input from instructor
 - Prep for next readings and research project after Spring Break
@@ -193,21 +194,21 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Topic: Federal Lending and Redlining, 1930s and today
 - Before class, read items below and complete open-book quiz 4 on Moodle:
 - Jack Dougherty, [Preface](https://ontheline.trincoll.edu/index.html) and [My Introduction to the Lines](https://ontheline.trincoll.edu/introduction.html) in On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs, book-in-progress, 2022.
-- Sean McGann and Jack Dougherty, [Federal Lending and Redlining](https://ontheline.trincoll.edu/lending.html) in On The Line. Discussion leader 5 ____
-- Jasmin Agosto, Vianna Iorio, and Jack Dougherty, [Mobilizing Against Racial Steering and Redlining](https://ontheline.trincoll.edu/mobilizing.html) in On The Line. Discussion leader 6 _____
+- Sean McGann and Jack Dougherty, [Federal Lending and Redlining](https://ontheline.trincoll.edu/lending.html) in On The Line. Discussion leader 5 Teddy
+- Jasmin Agosto, Vianna Iorio, and Jack Dougherty, [Mobilizing Against Racial Steering and Redlining](https://ontheline.trincoll.edu/mobilizing.html) in On The Line. Discussion leader 6 Maria
 - Ryan Best and Elena Mejía, “The Lasting Legacy Of Redlining,” FiveThirtyEight, February 9, 2022, <https://projects.fivethirtyeight.com/redlining/>.
 
 ### Tues 5 April
 - Topic: Race Restrictive Property Covenants
 - Before class, read items below and complete open-book quiz 5 on Moodle:
-- Tracey Wilson, Vianna Iorio, and Jack Dougherty, [Restricting with Property Covenants](https://ontheline.trincoll.edu/restricting.html) in On The Line. Discussion leader 7 ______
+- Tracey Wilson, Vianna Iorio, and Jack Dougherty, [Restricting with Property Covenants](https://ontheline.trincoll.edu/restricting.html) in On The Line. Discussion leader 7 Daisy
 - Jacalyn Severance, “Revelation of a Racist Property Restriction Leads to New State Law in Connecticut,” UConn Today, July 27, 2021, <https://today.uconn.edu/2021/07/revelation-of-a-racist-property-restriction-leads-to-new-state-law-in-connecticut/>.
 - “Racist Covenant Removed From Deed to Manchester Home,” NBC Connecticut, August 3, 2021, <https://www.nbcconnecticut.com/news/local/racist-covenant-removed-from-deed-to-manchester-home/2551049/>.
 
 ### Thur 7 April
 - Topic: Exclusionary residential zoning
 - Before class, read items below and complete open-book quiz 6 on Moodle (if needed):
-- [Excluding Through Zoning Lines](https://ontheline.trincoll.edu/excluding.html), all parts in chapter, in On The Line. Discussion leader 8 _______
+- [Excluding Through Zoning Lines](https://ontheline.trincoll.edu/excluding.html), all parts in chapter, in On The Line. Discussion leader 8 Joe
 - Christopher Booker and Sam Weber, “How Zoning Can Restrict, or Even Prevent, Affordable Housing,” PBS NewsHour broadcast video, January 30, 2021, <https://www.pbs.org/newshour/show/how-zoning-can-restrict-or-even-prevent-affordable-housing>.
 - Connecticut Zoning Atlas, Desegregate CT, 2021, <https://www.desegregatect.org/atlas>.
 
