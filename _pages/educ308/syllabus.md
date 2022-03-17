@@ -177,7 +177,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 
 ### Thur 17 March
 - Jacqueline Rabe Thomas from CT Public will visit class to observe and record radio story
-- Compare [current Sheff charts](https://datavizforall.org/sheff-2022) versus [March 10th version](https://datavizforall.org/sheff-2022-03-10) and finalize for publication
+- Compare [current Sheff charts](https://datavizforall.org/sheff-2022) versus [March 10th version](https://datavizforall.org/sheff-2022-03-10) versus [March 7th version](https://docs.google.com/document/d/14cPhpdgncQFk7lbT30EiZAqdVSx4GGW6RrPt4QniYcg/edit#) and finalize for publication
 - Updates on Sheff settlement and student data
   - Seamus McAvoy, “With No Vote on Sheff Settlement, Legislature Clears Way for Final Court Approval of Racial Segregation Deal,” Hartford Courant, March 16, 2022, <https://www.courant.com/news/connecticut/hc-news-legislature-sheff-approval-20220316-q2gzrb2px5aq5ct5sexwiq7hoa-story.html>.
   - Seamus McAvoy, “State Data Compares Academic Success and Growth of Hartford Students in City, Open Choice and Charter Schools. See What It Shows,” Hartford Courant, March 16, 2022, <https://www.courant.com/news/connecticut/hc-news-choice-student-performance-data-sheff-20220316-6upbgeiisngz3ghtkkerfocque-story.html>.
