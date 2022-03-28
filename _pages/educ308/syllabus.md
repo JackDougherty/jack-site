@@ -189,9 +189,10 @@ I may modify the schedule to match the pace of our research projects, but the am
 
 ### Tues 29 March
 - Introduction to Team Research Project 2: Creating lesson plans on CT housing segregation and school integration activism
-- In-class: selections from Teach It CT inquiry-based history lessons <https://TeachItCT.org>
+- In-class: Designing inquiry-based history lessons for <https://TeachItCT.org> with [TeachIt CT template](https://docs.google.com/document/d/1_M7tpAolsTuXx0ar_2LvY7vdXuAZqGz9QutaibpXwe4/edit)
 - Guest: Rebecca Furer, TeachIT CT program director at CT Humanities (11:30am)
-- Designing inquiry-based lessons with [TeachIt CT template](https://docs.google.com/document/d/1_M7tpAolsTuXx0ar_2LvY7vdXuAZqGz9QutaibpXwe4/edit)
+- In-class: selected lessons from TeachIt CT <https://TeachItCT.org>
+
 
 ### Thu 31 March
 - Topic: Federal Lending and Redlining, 1930s and today
