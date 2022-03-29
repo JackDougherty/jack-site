@@ -193,7 +193,6 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Guest: Rebecca Furer, TeachIT CT program director at CT Humanities (11:30am)
 - In-class: selected lessons from TeachIt CT <https://TeachItCT.org>
 
-
 ### Thu 31 March
 - Topic: Federal Lending and Redlining, 1930s and today
 - Before class, read items below and complete open-book quiz 4 on Moodle:
