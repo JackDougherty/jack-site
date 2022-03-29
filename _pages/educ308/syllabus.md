@@ -188,10 +188,12 @@ I may modify the schedule to match the pace of our research projects, but the am
 - No class on Tues 22 March or Thur 24 March.
 
 ### Tues 29 March
+- Welcome back and general feedback on Sheff dataviz essays
 - Introduction to Team Research Project 2: Creating lesson plans on CT housing segregation and school integration activism
-- In-class: Designing inquiry-based history lessons for <https://TeachItCT.org> with [TeachIt CT template](https://docs.google.com/document/d/1_M7tpAolsTuXx0ar_2LvY7vdXuAZqGz9QutaibpXwe4/edit)
+- In-class: Designing inquiry-based history lessons for educators <https://TeachItCT.org> using the [TeachIt CT template](https://docs.google.com/document/d/1_M7tpAolsTuXx0ar_2LvY7vdXuAZqGz9QutaibpXwe4/edit), and preparing questions for our guest (who also serves as guest evaluator for this project in April)
 - Guest: Rebecca Furer, TeachIT CT program director at CT Humanities (11:30am)
 - In-class: selected lessons from TeachIt CT <https://TeachItCT.org>
+- Prep for next class (and Moodle quiz will open Tuesday evening)
 
 ### Thu 31 March
 - Topic: Federal Lending and Redlining, 1930s and today
