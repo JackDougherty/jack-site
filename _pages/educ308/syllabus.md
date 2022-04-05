@@ -206,7 +206,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 ### Tues 5 April
 - Topic: Race Restrictive Property Covenants
 - Before class, read items below and complete open-book quiz 5 on Moodle:
-- Tracey Wilson, Vianna Iorio, and Jack Dougherty, [Restricting with Property Covenants](https://ontheline.trincoll.edu/restricting.html) in On The Line. Discussion leader 7 Daisy
+- Tracey Wilson, Vianna Iorio, and Jack Dougherty, [Restricting with Property Covenants](https://ontheline.trincoll.edu/restricting.html) in On The Line. Discussion leader 7 Daisy - see [her Google Doc](https://docs.google.com/document/d/1fdJbJu5cw6sWzAeh610_GPtsjXCRlR4SpAGjzv4EM80/edit?usp=sharing)
 - Jacalyn Severance, “Revelation of a Racist Property Restriction Leads to New State Law in Connecticut,” UConn Today, July 27, 2021, <https://today.uconn.edu/2021/07/revelation-of-a-racist-property-restriction-leads-to-new-state-law-in-connecticut/>.
 - “Racist Covenant Removed From Deed to Manchester Home,” NBC Connecticut, August 3, 2021, <https://www.nbcconnecticut.com/news/local/racist-covenant-removed-from-deed-to-manchester-home/2551049/>.
 - Preparing for next class on exclusionary residential zoning
