@@ -209,11 +209,14 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Tracey Wilson, Vianna Iorio, and Jack Dougherty, [Restricting with Property Covenants](https://ontheline.trincoll.edu/restricting.html) in On The Line. Discussion leader 7 Daisy
 - Jacalyn Severance, “Revelation of a Racist Property Restriction Leads to New State Law in Connecticut,” UConn Today, July 27, 2021, <https://today.uconn.edu/2021/07/revelation-of-a-racist-property-restriction-leads-to-new-state-law-in-connecticut/>.
 - “Racist Covenant Removed From Deed to Manchester Home,” NBC Connecticut, August 3, 2021, <https://www.nbcconnecticut.com/news/local/racist-covenant-removed-from-deed-to-manchester-home/2551049/>.
+- Preparing for next class on exclusionary residential zoning
+  - Desegregate Connecticut, "Your Zoning Dictionary", 2022, <https://www.desegregatect.org/definitions>
+  - Vox, “Video: How the Us Made Affordable Homes Illegal” (YouTube video, August 16, 2021), <https://www.youtube.com/watch?v=0Flsg_mzG-M>.
 
 ### Thur 7 April
 - Topic: Exclusionary residential zoning
 - Before class, read items below and complete open-book quiz 6 on Moodle (if needed):
-- [Excluding Through Zoning Lines](https://ontheline.trincoll.edu/excluding.html), all parts in chapter, in On The Line. Discussion leader 8 Joe
+- [Excluding Through Zoning Lines](https://ontheline.trincoll.edu/excluding.html), all parts in chapter, in On The Line. Discussion leader 8: Joe
 - Christopher Booker and Sam Weber, “How Zoning Can Restrict, or Even Prevent, Affordable Housing,” PBS NewsHour broadcast video, January 30, 2021, <https://www.pbs.org/newshour/show/how-zoning-can-restrict-or-even-prevent-affordable-housing>.
 - Connecticut Zoning Atlas, Desegregate CT, 2021, <https://www.desegregatect.org/atlas>.
 
