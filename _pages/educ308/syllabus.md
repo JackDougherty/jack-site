@@ -214,13 +214,17 @@ I may modify the schedule to match the pace of our research projects, but the am
   - Vox, “Video: How the Us Made Affordable Homes Illegal” (YouTube video, August 16, 2021), <https://www.youtube.com/watch?v=0Flsg_mzG-M>.
 
 ### Thur 7 April
+- Class cancelled due to my illness
+
+
+### Tues 12 April
 - Topic: Exclusionary residential zoning
 - Before class, read items below and complete open-book quiz 6 on Moodle (if needed):
 - [Excluding Through Zoning Lines](https://ontheline.trincoll.edu/excluding.html), all parts in chapter, in On The Line. Discussion leader 8: Joe
 - Christopher Booker and Sam Weber, “How Zoning Can Restrict, or Even Prevent, Affordable Housing,” PBS NewsHour broadcast video, January 30, 2021, <https://www.pbs.org/newshour/show/how-zoning-can-restrict-or-even-prevent-affordable-housing>.
 - Connecticut Zoning Atlas, Desegregate CT, 2021, <https://www.desegregatect.org/atlas>.
 
-### Tues 12 April
+### TODO adjust schedule below
 - Topic: Activism for integrated schools, 1989-present
 - Sheff v O’Neill, “Complaint” (Connecticut Superior Court, April 26, 1989), <http://digitalrepository.trincoll.edu/cssp_archives/17/>.
 - Selected oral history interviews and transcripts with Sheff plaintiffs and attorneys in the Cities Suburbs & Schools Project in the [Trinity College Digital Repository](https://digitalrepository.trincoll.edu/cssp/) and [Connecticut Digital Archive](https://collections.ctdigitalarchive.org/islandora/object/120002:cssp)
