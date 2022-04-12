@@ -216,24 +216,21 @@ I may modify the schedule to match the pace of our research projects, but the am
 ### Thur 7 April
 - Class cancelled due to my illness
 
-
 ### Tues 12 April
 - Topic: Exclusionary residential zoning
 - Before class, read items below and complete open-book quiz 6 on Moodle (if needed):
-- [Excluding Through Zoning Lines](https://ontheline.trincoll.edu/excluding.html), all parts in chapter, in On The Line. Discussion leader 8: Joe
+- [Excluding Through Zoning Lines](https://ontheline.trincoll.edu/excluding.html), all parts in chapter, in On The Line. Discussion leader 8: Joe - [see his discussion materials](https://docs.google.com/spreadsheets/d/1OUEh1bmDz9PNLrWXrR5kwoX69XFFd03cRiXXnOYmT0E/edit#gid=0)
 - Christopher Booker and Sam Weber, “How Zoning Can Restrict, or Even Prevent, Affordable Housing,” PBS NewsHour broadcast video, January 30, 2021, <https://www.pbs.org/newshour/show/how-zoning-can-restrict-or-even-prevent-affordable-housing>.
 - Connecticut Zoning Atlas, Desegregate CT, 2021, <https://www.desegregatect.org/atlas>.
+- Recommended: 6-7:30pm Virtual Panel Discussion on Education, Housing, and the Role of Sheff vs O'Neill, hosted by the Amistad Center for Art & Culture at the Wadsworth Museum. [Register online](https://www.amistadcenter.org/event-details/education-housing-and-the-role-of-sheff-vs-oneill) to attend virtually or receive the video recording.
+![Event](/images/2022/2022-04-12-Sheff-event.jpg)
 
-### TODO adjust schedule below
+### Thur 14 April
 - Topic: Activism for integrated schools, 1989-present
 - Sheff v O’Neill, “Complaint” (Connecticut Superior Court, April 26, 1989), <http://digitalrepository.trincoll.edu/cssp_archives/17/>.
 - Selected oral history interviews and transcripts with Sheff plaintiffs and attorneys in the Cities Suburbs & Schools Project in the [Trinity College Digital Repository](https://digitalrepository.trincoll.edu/cssp/) and [Connecticut Digital Archive](https://collections.ctdigitalarchive.org/islandora/object/120002:cssp)
 - Assign Project 2, stage 1: submit proposals for your preferred lesson plans, due before Thu 14 April, worth 1 point
-
-### Thur 14 April
 - Topic: Enriching Inquiry-based Historical Thinking
-- Before class, read items below and complete open-book quiz 7 on Moodle (if needed):
-- "Introduction" and "Chapter 1: Did Pocahontas Rescue John Smith?" in Sam Wineburg, Daisy Martin, and Chauncey Monte-Sano, Reading Like a Historian: Teaching Literacy in Middle and High School History Classrooms (Teachers College Press, 2011), in Moodle.
 - Assign Project 2 stage 2: Draft Lesson Plan, due by end of Mon 18 April, worth 3 points.
 
 ### Tues 19 April
@@ -254,7 +251,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Topic: The Relationship between Schooling and Housing
 - Jack Dougherty, “Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut,” Journal of Urban History 38, no. 2 (March 2012): 205–24, in Moodle.
 - Selections from "Housing-Schooling Nexus," Poverty & Race Research Action Center, <https://www.prrac.org/housing-school-nexus/>.
-- Assign Final Reflective Essay on schooling-housing connections, due by Friday Fri 6 May at 6pm, worth 10 points.
+- Assign Final Reflective Essay on schooling-housing connections, past and present, due by Friday Fri 6 May at 6pm, worth 10 points.
 
 ### Thur 5 May
 - Summarize your approach for your Final Reflective Essay on schooling-housing connections. This final writing assignment substitutes for our final exam.
