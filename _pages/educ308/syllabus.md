@@ -233,8 +233,8 @@ I may modify the schedule to match the pace of our research projects, but the am
 - See additional oral history interviews and archival materials:
   - [Cities Suburbs & Schools Project in Trinity College Digital Repository](https://digitalrepository.trincoll.edu/cssp/)
   - [On The Line Digital Archives in Connecticut Digital Archive](https://collections.ctdigitalarchive.org/islandora/object/120002:otl)
-- In-class: Choose and define topics and partners for Project 2. You may work solo or in a duo, but all projects will be held to the same expectations.
-- Assign Project 2, stage 1: Draft lesson plan using the TeachIT CT framework, due by end of Mon 18 April, worth 5 points by instructor feedback.
+- In-class: [Trinity Student Ideas Google Doc](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit) to choose and define topics and partners for Project 2. You may work solo or in a duo, but all projects will be held to the same expectations.
+- Assign Project 2, stage 1: [Draft lesson plan using the TeachIT CT framework](https://docs.google.com/document/d/1faVdcRBH4JmcVQeDRRBdDd9CjkVY9taHGaBh0bf1RXQ/edit), due by end of Mon 18 April, worth 5 points by instructor feedback. Create a link to your draft in the [Trinity Student Ideas Google Doc](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit)
 
 ### Tues 19 April
 - In-class: Project 2 stage 2 peer review on draft lesson plans, worth 3 points for quality of peer review.
