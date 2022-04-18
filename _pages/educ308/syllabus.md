@@ -223,7 +223,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Christopher Booker and Sam Weber, “How Zoning Can Restrict, or Even Prevent, Affordable Housing,” PBS NewsHour broadcast video, January 30, 2021, <https://www.pbs.org/newshour/show/how-zoning-can-restrict-or-even-prevent-affordable-housing>.
 - Connecticut Zoning Atlas, Desegregate CT, 2021, <https://www.desegregatect.org/atlas>.
 - In class: Brainstorm about your potential topics and partners for Project 2
-- Recommended: 6-7:30pm Virtual Panel Discussion on Education, Housing, and the Role of Sheff vs O'Neill, hosted by the Amistad Center for Art & Culture at the Wadsworth Museum. [Register online](https://www.amistadcenter.org/event-details/education-housing-and-the-role-of-sheff-vs-oneill) to attend virtually or receive the video recording, which may be useful for your final reflective essay due on Friday 6 May.
+- Recommended: 6-7:30pm Virtual Panel Discussion on Education, Housing, and the Role of Sheff vs O'Neill, hosted by the Amistad Center for Art & Culture at the Wadsworth Museum. [Register online](https://www.amistadcenter.org/event-details/education-housing-and-the-role-of-sheff-vs-oneill) to attend virtually or receive the video recording, which may be useful for your final reflective essay due on Friday 6 May. See [video of event](https://vimeo.com/699114645).
 ![Event](/images/2022/2022-04-12-Sheff-event.jpg)
 
 ### Thur 14 April
@@ -242,9 +242,14 @@ I may modify the schedule to match the pace of our research projects, but the am
 
 ### Thur 21 April
 - Workshop: Refining lesson plans based on educator feedback.
-- Assign Project 2 stage 4: Revised lesson plans for guest evaluator, worth 10 points, due by Wed 27 April at 1pm (to be sent to guest evaluator for review.)
+
+### Sat 23 April
+- Two recommended virtual events that also will generate options for final reflective essay questions.
+  - [Sheff Movement monthly Zoom meeting](https://jackdougherty.org/images/2022/sheff-movement-2022-04-flyer.png), 10-11:30am, with CT Dept of Ed presentation on Sheff Choice Schools Dashboard. Email me if you wish to participate and I will forward your contact info to organizers.
+  - [Educator Discussion: Teaching History with Courage](https://www.eventbrite.com/e/asch-2022-spring-conference-teaching-history-with-courage-tickets-294219146387?aff=odeimcmailchimp&mc_cid=668f5de68f&mc_eid=de10b47f60), 11:15-12:15 panel during all-day virtual event by Association for Study of Connecticut History, free registration for students.
 
 ### Tues 26 April
+- Assign Project 2 stage 4: Revised lesson plans for guest evaluator, worth 10 points, due by Wed 27 April at 1pm (to be sent to guest evaluator for review.)
 - Workshop: Refining lesson plans based on educator feedback.
 
 ### Thur 28 April
