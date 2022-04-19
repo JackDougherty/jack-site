@@ -240,6 +240,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 - [Background about educators](https://bit.ly/2022-02-16) for upcoming Zoom feedback sessions and [matching-in-progress](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit)
 - Recommended virtual events on Saturday 23 April
 - In-class: [Project 2 stage 2 peer review on draft lesson plans](https://docs.google.com/document/d/1pmY7DONQVv2jBRmmJMI5fDADX2WOkPlk8hFuH2F1ihk/edit), worth 3 points for quality of peer review.
+- [Reminders](https://docs.google.com/document/d/1faVdcRBH4JmcVQeDRRBdDd9CjkVY9taHGaBh0bf1RXQ/edit) about identifying your primary sources and additional sources.
 
 ### Thur 21 April
 - Workshop: Refining lesson plans based on instructor feedback
