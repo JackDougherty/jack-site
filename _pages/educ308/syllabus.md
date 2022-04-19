@@ -234,14 +234,16 @@ I may modify the schedule to match the pace of our research projects, but the am
   - [Cities Suburbs & Schools Project in Trinity College Digital Repository](https://digitalrepository.trincoll.edu/cssp/)
   - [On The Line Digital Archives in Connecticut Digital Archive](https://collections.ctdigitalarchive.org/islandora/object/120002:otl)
 - In-class: [Trinity Student Ideas Google Doc](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit) to choose and define topics and partners for Project 2. You may work solo or in a duo, but all projects will be held to the same expectations.
-- Assign Project 2, stage 1: [Draft lesson plan using the TeachIT CT framework](https://docs.google.com/document/d/1faVdcRBH4JmcVQeDRRBdDd9CjkVY9taHGaBh0bf1RXQ/edit), due by end of Mon 18 April, worth 5 points by instructor feedback. Create a link to your draft in the [Trinity Student Ideas Google Doc](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit)
+- Assign Project 2, stage 1: [Draft lesson plan using the TeachIT CT framework](https://docs.google.com/document/d/1faVdcRBH4JmcVQeDRRBdDd9CjkVY9taHGaBh0bf1RXQ/edit), due by end of Mon 18 April, worth 5 points by instructor feedback. Create a link to your draft in the [Trinity Student Drafts Google Doc](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit)
 
 ### Tues 19 April
-- In-class: Project 2 stage 2 peer review on draft lesson plans, worth 3 points for quality of peer review.
-- Assign Project 2 stage 3: Zoom feedback sessions with designated educators on your lesson plans, worth 2 points for participation.
+- [Background about educators](https://bit.ly/2022-02-16) for upcoming Zoom feedback sessions and [matching-in-progress](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit)
+- Recommended virtual events on Saturday 23 April
+- In-class: [Project 2 stage 2 peer review on draft lesson plans](https://docs.google.com/document/d/1pmY7DONQVv2jBRmmJMI5fDADX2WOkPlk8hFuH2F1ihk/edit), worth 3 points for quality of peer review.
 
 ### Thur 21 April
-- Workshop: Refining lesson plans based on educator feedback.
+- Workshop: Refining lesson plans based on instructor feedback
+- Assign Project 2 stage 3: Zoom feedback sessions with designated educators on your lesson plans, worth 2 points for participation.
 
 ### Sat 23 April
 - Two recommended virtual events that also will generate options for final reflective essay questions.
@@ -250,15 +252,16 @@ I may modify the schedule to match the pace of our research projects, but the am
 
 ### Tues 26 April
 - Assign Project 2 stage 4: Revised lesson plans for guest evaluator, worth 10 points, due by Wed 27 April at 1pm (to be sent to guest evaluator for review.)
+- Practice your 3-minute oral summary of your lesson plan highlights
 - Workshop: Refining lesson plans based on educator feedback.
 
 ### Thur 28 April
 - Guest: Expert evaluator Rebecca Furer (11am)
+- 3-minute oral summaries of your lesson plans, followed by Q&A with guest evaluator
 
 ### Tues 3 May
 - Topic: The Relationship between Schooling and Housing
 - Jack Dougherty, “Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut,” Journal of Urban History 38, no. 2 (March 2012): 205–24, in Moodle.
-- Selections from "Housing-Schooling Nexus," Poverty & Race Research Action Center, <https://www.prrac.org/housing-school-nexus/>.
 - Assign Final Reflective Essay on schooling-housing connections, past and present, due by Friday Fri 6 May at 6pm, worth 10 points.
 
 ### Thur 5 May
