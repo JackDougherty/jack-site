@@ -240,11 +240,17 @@ I may modify the schedule to match the pace of our research projects, but the am
 - [Background about educators](https://bit.ly/2022-02-16) for upcoming Zoom feedback sessions and [matching-in-progress](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit)
 - Recommended virtual events on Saturday 23 April
 - In-class: [Project 2 stage 2 peer review on draft lesson plans](https://docs.google.com/document/d/1pmY7DONQVv2jBRmmJMI5fDADX2WOkPlk8hFuH2F1ihk/edit), worth 3 points for quality of peer review.
-- [Reminders](https://docs.google.com/document/d/1faVdcRBH4JmcVQeDRRBdDd9CjkVY9taHGaBh0bf1RXQ/edit) about identifying your primary sources and additional sources.
+- [Reminders](https://docs.google.com/document/d/1faVdcRBH4JmcVQeDRRBdDd9CjkVY9taHGaBh0bf1RXQ/edit) about displaying and identifying your primary sources and additional sources.
 
 ### Thur 21 April
-- Workshop: Refining lesson plans based on instructor feedback
-- Assign Project 2 stage 3: Zoom feedback sessions with designated educators on your lesson plans, worth 2 points for participation.
+- Assign Project 2 stage 3: [Schedule of Zoom feedback sessions](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit) with designated educators on your lesson plans, worth 2 points for participation.
+- Workshop: Refining lesson plans based on feedback from peers and instructor. [Reminder](https://docs.google.com/document/d/1faVdcRBH4JmcVQeDRRBdDd9CjkVY9taHGaBh0bf1RXQ/edit) to improve how you display and identify your primary sources.
+- Feedback meetings in-class with instructor
+  - 10:50 Daisy and Joe
+  - 11:05 Teddy
+  - 11:20 Mike and Victoria
+  - 11:35 Maria
+  - 11:50 Sophia and Azka
 
 ### Sat 23 April
 - Two recommended virtual events that also will generate options for final reflective essay questions.
@@ -252,7 +258,7 @@ I may modify the schedule to match the pace of our research projects, but the am
   - [Educator Discussion: Teaching History with Courage](https://www.eventbrite.com/e/asch-2022-spring-conference-teaching-history-with-courage-tickets-294219146387?aff=odeimcmailchimp&mc_cid=668f5de68f&mc_eid=de10b47f60), 11:15-12:15 panel during all-day virtual event by Association for Study of Connecticut History, free registration for students.
 
 ### Tues 26 April
-- Assign Project 2 stage 4: Revised lesson plans for guest evaluator, worth 10 points, due by Wed 27 April at 1pm (to be sent to guest evaluator for review.)
+- Assign Project 2 stage 4: Revised lesson plans for guest evaluator, worth 10 points, due by Wed 27 April at 1pm (when instructor will send links to guest evaluator for review.)
 - Practice your 3-minute oral summary of your lesson plan highlights
 - Workshop: Refining lesson plans based on educator feedback.
 
