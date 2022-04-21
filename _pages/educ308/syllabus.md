@@ -258,12 +258,12 @@ I may modify the schedule to match the pace of our research projects, but the am
   - [Educator Discussion: Teaching History with Courage](https://www.eventbrite.com/e/asch-2022-spring-conference-teaching-history-with-courage-tickets-294219146387?aff=odeimcmailchimp&mc_cid=668f5de68f&mc_eid=de10b47f60), 11:15-12:15 panel during all-day virtual event by Association for Study of Connecticut History, free registration for students.
 
 ### Tues 26 April
-- Assign Project 2 stage 4: Revised lesson plans for guest evaluator, worth 10 points, due by Wed 27 April at 1pm (when instructor will send links to guest evaluator for review.)
+- Assign Project 2 stage 4: [Final lesson plan to be evaluated by guest](https://docs.google.com/document/d/14omc2b4Y8HqFHpdS5rJddhKr9cL24gpfWosTCzzL1CM/edit), due by Wed 27 April at 1pm (when instructor will send links to guest evaluator to preview), worth 10 points.
 - Practice your 3-minute oral summary of your lesson plan highlights
 - Workshop: Refining lesson plans based on educator feedback.
 
 ### Thur 28 April
-- Guest: Expert evaluator Rebecca Furer (11am)
+- Guest: Expert evaluator Rebecca Furer
 - 3-minute oral summaries of your lesson plans, followed by Q&A with guest evaluator
 
 ### Tues 3 May
