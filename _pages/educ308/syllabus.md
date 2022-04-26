@@ -275,7 +275,7 @@ I may modify the schedule to match the pace of our research projects, but the am
   - Jack Dougherty, “Conflicting Questions: Why Historians and Policymakers Miscommunicate on Urban Education,” in *Clio at the Table: Using History to Inform and Improve Education Policy*, ed. Kenneth Wong and Robert Rothman (New York: Peter Lang, 2009), 251–62, <http://digitalrepository.trincoll.edu/cssp_papers/4/>.
 - Topic 2: TBA
 Your essay must include:
-  - Jack Dougherty, “Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut,” Journal of Urban History 38, no. 2 (March 2012): 205–24, in Moodle.
+  - Jack Dougherty, “Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut,” Journal of Urban History 38, no. 2 (March 2012): 205–24, available from Trinity Library at <https://doi-org.ezproxy.trincoll.edu/10.1177/0096144211427112>.
 - Topic 3: TBA
 
 ### Thur 5 May
