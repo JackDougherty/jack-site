@@ -258,18 +258,25 @@ I may modify the schedule to match the pace of our research projects, but the am
   - [Educator Discussion: Teaching History with Courage](https://www.eventbrite.com/e/asch-2022-spring-conference-teaching-history-with-courage-tickets-294219146387?aff=odeimcmailchimp&mc_cid=668f5de68f&mc_eid=de10b47f60), 11:15-12:15 panel during all-day virtual event by Association for Study of Connecticut History, free registration for students.
 
 ### Tues 26 April
-- Assign Project 2 stage 4: [Final lesson plan to be evaluated by guest](https://docs.google.com/document/d/14omc2b4Y8HqFHpdS5rJddhKr9cL24gpfWosTCzzL1CM/edit), due by Wed 27 April at 1pm (when instructor will send links to guest evaluator to preview), worth 10 points.
-- Practice your 3-minute oral summary of your lesson plan highlights
-- Workshop: Refining lesson plans based on educator feedback.
+- In-class: Student feedback on Zoom feedback sessions with high school educators; update from CT Public
+- Assign Project 2 stage 4: [Revise your final lesson plan](https://docs.google.com/document/d/1vDBSctXRwHacfmgUZcptcruwWC7V1-nf2CYClDqHFEM/edit) for [review by guest evaluator Rebecca Furer](https://docs.google.com/document/d/14omc2b4Y8HqFHpdS5rJddhKr9cL24gpfWosTCzzL1CM/edit). Resolve all Google Doc comments and finalize titles. Instructor will email your links to evaluator on Wed 27 April at 1pm to begin review, worth 10 points.
+- In-class: Prepare and practice an oral summary of highlights of your lesson plan, not to exceed 3 minutes, to deliver in-person to guest evaluator
+- Workshop time to review any edits with instructor, or schedule appointment [on my calendar](https://jackdougherty.youcanbook.me)
 
 ### Thur 28 April
-- Guest: Expert evaluator Rebecca Furer
+- In-person with guest expert evaluator Rebecca Furer, CT Humanities
 - 3-minute oral summaries of your lesson plans, followed by Q&A with guest evaluator
 
 ### Tues 3 May
-- Topic: The Relationship between Schooling and Housing
-- Jack Dougherty, “Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut,” Journal of Urban History 38, no. 2 (March 2012): 205–24, in Moodle.
-- Assign Final Reflective Essay on schooling-housing connections, past and present, due by Friday Fri 6 May at 6pm, worth 10 points.
+- Reflections on Schooling and Housing, Past and Present
+- Assign: Final Reflective Essay on ONE of the topics below, no more than 1200 words, due by Friday Fri 6 May at 6pm, worth 10 points.
+- Topic 1: In this [April 12th video](https://vimeo.com/699114645), attorney John Brittain suggested ways that present-day civil rights attorneys might take legal action to advance the goals of the original 1989 Sheff v. O'Neill case that he co-authored. Clarify at least one of his suggestions, and expand on it with your own evidence-based recommendations. Your essay must include:
+  - Sheff v O’Neill, “Complaint” (Connecticut Superior Court, April 26, 1989), <http://digitalrepository.trincoll.edu/cssp_archives/17/>.
+  - Jack Dougherty, “Conflicting Questions: Why Historians and Policymakers Miscommunicate on Urban Education,” in *Clio at the Table: Using History to Inform and Improve Education Policy*, ed. Kenneth Wong and Robert Rothman (New York: Peter Lang, 2009), 251–62, <http://digitalrepository.trincoll.edu/cssp_papers/4/>.
+- Topic 2: TBA
+Your essay must include:
+  - Jack Dougherty, “Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut,” Journal of Urban History 38, no. 2 (March 2012): 205–24, in Moodle.
+- Topic 3: TBA
 
 ### Thur 5 May
 - Summarize your approach for your Final Reflective Essay on schooling-housing connections. This final writing assignment substitutes for our final exam.
