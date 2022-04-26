@@ -269,7 +269,7 @@ I may modify the schedule to match the pace of our research projects, but the am
 
 ### Tues 3 May
 - Reflections on Schooling and Housing, Past and Present
-- Assign: Final Reflective Essay on ONE of the topics below, no more than 1200 words, due by Friday Fri 6 May at 6pm, worth 10 points.
+- Assign: Final Reflective Essay on ONE of the topics below, no more than 1200 words, due by Monday May 9th at 6pm, worth 10 points.
 - Topic 1: In this [April 12th video](https://vimeo.com/699114645), attorney John Brittain suggested ways that present-day civil rights attorneys might take legal action to advance the goals of the original 1989 Sheff v. O'Neill case that he co-authored. Clarify at least one of his suggestions, and expand on it with your own evidence-based recommendations. Your essay must include:
   - Sheff v O’Neill, “Complaint” (Connecticut Superior Court, April 26, 1989), <http://digitalrepository.trincoll.edu/cssp_archives/17/>.
   - Jack Dougherty, “Conflicting Questions: Why Historians and Policymakers Miscommunicate on Urban Education,” in *Clio at the Table: Using History to Inform and Improve Education Policy*, ed. Kenneth Wong and Robert Rothman (New York: Peter Lang, 2009), 251–62, <http://digitalrepository.trincoll.edu/cssp_papers/4/>.
