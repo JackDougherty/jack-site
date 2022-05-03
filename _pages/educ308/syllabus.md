@@ -271,10 +271,10 @@ I may modify the schedule to match the pace of our research projects, but the am
 - Connecting Schooling and Housing, Past and Present
 - Assign: Final Essay on ONE of the topics below, no more than 1200 words. Your essay will be evaluated on the clarity, insightfulness, and persuasiveness of your arguments and supporting evidence in response to the question. Submit on Moodle for blind-review by instructor (place your Trinity ID number at the top, NOT your name) by Monday May 9th at 6pm, worth 10 points. This final writing assignment takes the place of a final exam.
 - Topic 1: Legal Strategy
-  - In this [April 12th video](https://vimeo.com/699114645), attorney John Brittain suggested ways that present-day civil rights attorneys might take legal action to advance the goals of the original 1989 Sheff v. O'Neill case that he co-authored. (Brittain speaks about Sheff legal strategy at several points: 9:45, 20:00, 37:20, and 46:30). Clarify at least one of his suggestions for present-day legal activism, and respond to it with your own evidence-based recommendation. Your essay must cite supporting evidence from the following sources:
+  - In this [April 12th video](https://vimeo.com/699114645), attorney John Brittain suggested ways that present-day civil rights attorneys might take legal action to advance the goals of the original 1989 Sheff v. O'Neill case that he co-authored. (Brittain speaks about Sheff legal strategy at several points: 9:45, 20:00, 37:20, and 46:30). Clarify at least one of his suggestions for present-day legal activism, and respond to it with your own evidence-based recommendation. Your essay must cite supporting evidence from the first two sources below, plus other sources as you wish:
     - Amistad Center, "Education, Housing, and the Role of Sheff v O'Neill panel," April 12, 2022, <https://vimeo.com/699114645>. (Cite specific portions of video with time stamps.)       
     - Sheff v O’Neill, “Complaint” (Connecticut Superior Court, April 26, 1989), <http://digitalrepository.trincoll.edu/cssp_archives/17/>.
-    - Jack Dougherty, “Conflicting Questions: Why Historians and Policymakers Miscommunicate on Urban Education,” in *Clio at the Table: Using History to Inform and Improve Education Policy*, ed. Kenneth Wong and Robert Rothman (New York: Peter Lang, 2009), 251–62, <http://digitalrepository.trincoll.edu/cssp_papers/4/>.
+    - Optional: Jack Dougherty, “Conflicting Questions: Why Historians and Policymakers Miscommunicate on Urban Education,” in *Clio at the Table: Using History to Inform and Improve Education Policy*, ed. Kenneth Wong and Robert Rothman (New York: Peter Lang, 2009), 251–62, <http://digitalrepository.trincoll.edu/cssp_papers/4/>.
 - Topic 2: Sheff Data Transparency
   - In this [April 23rd video](https://trincoll.mediaspace.kaltura.com/media/t/1_p4u4eeii), Ajit Gopalakrishnan, Chief Performance Officer at the CT State Department of Education, presented updates in the coming weeks to the EdSight Data Platform. Key portions of his presentation:
     - Educator Diversity Dashboard (around 30:00)
@@ -283,7 +283,7 @@ I may modify the schedule to match the pace of our research projects, but the am
   - Your essay should answer both of these questions:
     - A) To what extent will the updated EdSight dashboards meet the Data Transparency requirements of the Sheff 2022 settlement? (see pages 2-3)
     - B) To what extent will the updated EdSight dashboards display the "Five Goals of the Sheff 2022 Settlement" created by our seminar?
-  - Your essay must cite supporting evidence from the following sources:
+  - Your essay must cite supporting evidence from the following sources, plus other sources as you wish:
     - CSDE, "EdSight Update Presentation," April 23, 2022, <https://trincoll.mediaspace.kaltura.com/media/t/1_p4u4eeii>. (Cite specific portions of video with time stamps.)        
     - Sheff v O’Neill, “Permanent Injunction and Comprehensive School Choice Plan” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 27, 2022), <http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303>.
     - Cities Suburbs & Schools Seminar, "Sheff 2022 Chart Preview," DataVizForAll, <https://datavizforall.org/sheff-2022/>.
