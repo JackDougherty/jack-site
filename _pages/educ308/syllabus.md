@@ -270,13 +270,27 @@ I may modify the schedule to match the pace of our research projects, but the am
 ### Tues 3 May
 - Reflections on Schooling and Housing, Past and Present
 - Assign: Final Reflective Essay on ONE of the topics below, no more than 1200 words, due by Monday May 9th at 6pm, worth 10 points. TODO: decide on blind-review submission on Moodle
-- Topic 1: In this [April 12th video](https://vimeo.com/699114645), attorney John Brittain suggested ways that present-day civil rights attorneys might take legal action to advance the goals of the original 1989 Sheff v. O'Neill case that he co-authored. Clarify at least one of his suggestions, and expand on it with your own evidence-based recommendations. Your essay must include:
-  - Sheff v O’Neill, “Complaint” (Connecticut Superior Court, April 26, 1989), <http://digitalrepository.trincoll.edu/cssp_archives/17/>.
-  - Jack Dougherty, “Conflicting Questions: Why Historians and Policymakers Miscommunicate on Urban Education,” in *Clio at the Table: Using History to Inform and Improve Education Policy*, ed. Kenneth Wong and Robert Rothman (New York: Peter Lang, 2009), 251–62, <http://digitalrepository.trincoll.edu/cssp_papers/4/>.
-- Topic 2: TBA
+- Topic 1: Legal Strategy
+  - In this [April 12th video](https://vimeo.com/699114645), attorney John Brittain suggested ways that present-day civil rights attorneys might take legal action to advance the goals of the original 1989 Sheff v. O'Neill case that he co-authored. Clarify at least one of his suggestions, and respond to it with your own evidence-based recommendations. Your essay must cite supporting evidence from the following sources:
+    - Amistad Center, "Education, Housing, and the Role of Sheff v O'Neill panel," April 12, 2022, <https://vimeo.com/699114645>. (Cite specific portions of video with time stamps.)        
+    - Sheff v O’Neill, “Complaint” (Connecticut Superior Court, April 26, 1989), <http://digitalrepository.trincoll.edu/cssp_archives/17/>.
+    - Jack Dougherty, “Conflicting Questions: Why Historians and Policymakers Miscommunicate on Urban Education,” in *Clio at the Table: Using History to Inform and Improve Education Policy*, ed. Kenneth Wong and Robert Rothman (New York: Peter Lang, 2009), 251–62, <http://digitalrepository.trincoll.edu/cssp_papers/4/>.
+- Topic 2: Sheff Data Transparency
+  - In this [April 23rd video](https://trincoll.mediaspace.kaltura.com/media/t/1_p4u4eeii), Ajit Gopalakrishnan, Chief Performance Officer at the CT State Department of Education, presented updates coming "in the next few weeks" to the EdSight Data Platform. Key portions of his presentation:
+    - Educator Diversity Dashboard (around 30:00)
+    - School Choice Dashboard for Sheff Magnet Schools (around 44:00)
+    - Resident Town dashboard (around 53:00)
+  - Your essay should answer both of these questions:
+    - A) To what extent will the updated EdSight dashboards meet the Data Transparency requirements of the Sheff 2022 settlement? (see pages 2-3)
+    - B) To what extent will the updated EdSight dashboards display the "Five Goals of the Sheff 2022 Settlement" created by our seminar?
+  - Your essay must cite supporting evidence from the following sources:
+    - CSDE, "EdSight Update Presentation," April 23, 2022, <https://trincoll.mediaspace.kaltura.com/media/t/1_p4u4eeii>. (Cite specific portions of video with time stamps.)        
+    - Sheff v O’Neill, “Permanent Injunction and Comprehensive School Choice Plan” (Superior Court: Complex Litigation Docket at Hartford, CT, HHD-X07-CV89-4026240-S, January 27, 2022), <http://civilinquiry.jud.ct.gov/DocumentInquiry/DocumentInquiry.aspx?DocumentNo=22109303>.
+    - Cities Suburbs & Schools Seminar, "Sheff 2022 Chart Preview," DataVizForAll, <https://datavizforall.org/sheff-2022/>.
+- Topic 3: Past and Present
+  - TODO question
 Your essay must include:
-  - Jack Dougherty, “Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut,” Journal of Urban History 38, no. 2 (March 2012): 205–24, available from Trinity Library at <https://doi-org.ezproxy.trincoll.edu/10.1177/0096144211427112>.
-- Topic 3: TBA
+  - Jack Dougherty, “Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut,” *Journal of Urban History* 38, no. 2 (March 2012): 205–24, available from Trinity Library at <https://doi-org.ezproxy.trincoll.edu/10.1177/0096144211427112>.
 
 ### Thur 5 May
 - Summarize your approach for your Final Reflective Essay on schooling-housing connections. This final writing assignment substitutes for our final exam.
