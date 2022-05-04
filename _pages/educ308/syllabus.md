@@ -266,6 +266,11 @@ I may modify the schedule to match the pace of our research projects, but the am
 ### Thur 28 April
 - In-person with guest expert evaluator Rebecca Furer, CT Humanities
 - 3-minute oral summaries of your lesson plans, followed by Q&A with guest evaluator
+  - [Redlining and its Effects on Hartford and Surrounding Suburbs Today](https://docs.google.com/document/u/0/d/1XCDP5bcCyPUDSFdgMX26cWyyWViwef88y_QN5oqrgv4/edit), by Maria
+  - [Understanding the relationship between redlining and segregation in CT](https://docs.google.com/document/d/1it30g3BfgqKgHRAgfilFqWOv-FKYmGokdnYQbs_3dMQ/edit?usp=sharingFKYmGokdnYQbs_3dMQ/edit?usp=sharing), by Azka and Sophia
+  - [Discover the connections between Race Restrictive Property Covenants and The Wealth Gap in Connecticut](https://docs.google.com/document/d/1Z2glGLD2NsJXWfTuNrqvBPbMocGnKIfCy69ALCQkh6U/edit?usp=sharing), by Joe and Daisy
+  - [Explaining how tactics of housing segregation changed over time](https://docs.google.com/document/d/1pCYKhpYJP_9lFRvnTh_gSeFTFzwn5ByQQdH7VUbIF6E/edit), by Teddy
+  - [Zoning: Examining Housing Policy in Connecticut](https://docs.google.com/document/d/1JMLW-JHxUdRjF20YvSNErycbnuhCwELP4lrituE_zeE/edit?usp=sharing), by Mike and Victoria
 
 ### Tues 3 May
 - Connecting Schooling and Housing, Past and Present
