@@ -294,5 +294,6 @@ I may modify the schedule to match the pace of our research projects, but the am
     - At least two additional sources published after my 2012 article, from our syllabus or your additional reading.
 
 ### Thur 5 May
-- Discuss your approach to your Final Essay on schooling-housing connections.
+- Update from Jacqueline Rabe Thomas, CT Public
 - In-class student evaluations on specific aspects of this seminar that helped you to learn.
+- Discuss your approach to your Final Essay on connecting schooling and housing, past and present.
