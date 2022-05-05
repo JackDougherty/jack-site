@@ -300,5 +300,5 @@ I may modify the schedule to match the pace of our research projects, but the am
 
 ### Thur 5 May
 - Update from Jacqueline Rabe Thomas, CT Public
-- In-class student evaluations on specific aspects of this seminar that helped you to learn.
-- Discuss your approach to your Final Essay on connecting schooling and housing, past and present.
+- [In-class student feedback](https://docs.google.com/document/d/1dQh9Fmy06GUkDi_j4AFQ6uN7WzbhUlA3jHNHRm8n8z8/edit#) on specific aspects that helped you to learn in this course.
+- Opportunity to ask questions or discuss your approach to your final essay response, due Monday 6pm.
