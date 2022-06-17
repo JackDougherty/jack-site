@@ -18,7 +18,7 @@ How can charts and maps tell meaningful stories? How can they mislead us from th
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
 Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 See syllabus, partners, and projects at [DataVizForAll.org](https://datavizforall.org)
-{% include figure image_path="images/2021/dataviz-jack-riley.png" alt="dataviz seminar" caption="Sharing dataviz drafts with community partners on Zoom, 2021" %}
+{% include figure image_path="images/2021/dataviz-jack-riley.png" alt="dataviz seminar" caption="Sharing draft data stories with Hartford community partners on Zoom, Fall 2021" %}
 
 ### Educ 300: Education Reform, Past & Present
 How do we explain the rise and decline of education reform movements? How do we evaluate their level of “success” from different sources of evidence? Drawing upon primary source materials and historical interpretations, this course examines a broad array of elementary, secondary, and higher education reform movements from the mid-nineteenth century to the present, analyzing social, material, and ideological contexts. This intermediate-level seminar explores a topic common to all branches of educational studies from both theoretical and comparative perspectives. Prerequisite: Ed 200 or permission of instructor. Enrollment limited to 24. [See my Educ 300 syllabus on WordPress](http://commons.trincoll.edu/edreform) or a [backup on this site](http://jackdougherty.org/educ300/).
