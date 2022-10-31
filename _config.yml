@@ -105,6 +105,9 @@ author:
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://jackdougherty.youcanbook.me"
+    - label: "Fediverse"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://scholar.social/@jackdougherty"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/doughertyjack"
@@ -127,9 +130,6 @@ footer:
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://jackdougherty.youcanbook.me"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/doughertyjack"
 
 # Reading Files
 include:
