@@ -107,7 +107,7 @@ author:
       url: "https://jackdougherty.youcanbook.me"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://scholar.social/@jackdougherty"
+      url: "https://vis.social/@jackdougherty"  
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/doughertyjack"
