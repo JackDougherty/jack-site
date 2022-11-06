@@ -53,7 +53,6 @@ feature_row3:
 {% include feature_row %}
 ### Digital Scholarship
 {% include feature_row id="feature_row2" %}
-### Social Media
 <a rel="me" href="https://vis.social/@jackdougherty">Mastodon</a>
 <!-- ### Community Engagement
 {% include feature_row id="feature_row3" %} -->
