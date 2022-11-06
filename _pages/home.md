@@ -53,4 +53,5 @@ feature_row3:
 {% include feature_row %}
 ### Digital Scholarship
 {% include feature_row id="feature_row2" %}
-<a rel="me" href="https://vis.social/@jackdougherty">Mastodon</a>
+
+Follow me on <a rel="me" href="https://vis.social/@jackdougherty">Mastodon</a>
