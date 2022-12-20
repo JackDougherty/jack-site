@@ -4,6 +4,8 @@ permalink: /
 date: 2022-11-05
 layout: single
 
+<link rel="me" href="https://vis.social/@jackdougherty" />
+
 # Teaching and Advising
 feature_row:
 - image_path: images/home/teaching-600x400.jpg
@@ -53,5 +55,3 @@ feature_row3:
 {% include feature_row %}
 ### Digital Scholarship
 {% include feature_row id="feature_row2" %}
-
-Follow me on <a rel="me" href="https://vis.social/@jackdougherty">Mastodon</a>
