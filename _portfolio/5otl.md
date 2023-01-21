@@ -2,7 +2,7 @@
 title: "On The Line"
 permalink: /otl/
 date: 2023-01-21
-excerpt: "Book-in-progress with student and alumni contributors, under contract with Amherst College Press"
+excerpt: "Book-in-progress with student contributors, under contract with Amherst College Press"
 redirect_to:
   - https://ontheline.trincoll.edu
 header:
