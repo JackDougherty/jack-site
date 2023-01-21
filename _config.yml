@@ -107,7 +107,7 @@ author:
       url: "https://jackdougherty.youcanbook.me"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://vis.social/@jackdougherty"  
+      url: "https://vis.social/@jackdougherty"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/doughertyjack"
@@ -260,6 +260,14 @@ compress_html:
 
 # Defaults
 defaults:
+  # _portfolio  IMPORTANT because home page runs _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
   # _posts
   - scope:
       path: "" # not same as pages below
