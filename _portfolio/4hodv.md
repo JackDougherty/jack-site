@@ -1,8 +1,8 @@
 ---
 title: "Hands-On DataViz"
-permalink: /handsondataviz/
+permalink: /hodv/
 date: 2023-01-21
-excerpt: "Open-access book, co-authored with Ilya Ilyankou, published with O'Reilly Media"
+excerpt: "Open-access book with co-author Ilya Ilyankou, published by O'Reilly Media"
 redirect_to:
   - https://handsondataviz.org
 header:
