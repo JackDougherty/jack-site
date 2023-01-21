@@ -257,10 +257,15 @@ compress_html:
   ignore:
     envs: development
 
+# Collections  IMPORTANT: home page = _portfolio contents
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
-  # _portfolio  IMPORTANT because home page runs _portfolio
+  # _portfolio  IMPORTANT: home page = _portfolio contents
   - scope:
       path: ""
       type: portfolio
