@@ -6,5 +6,5 @@ excerpt: "Book-in-progress under contract with Amherst College Press"
 redirect_to:
   - https://ontheline.trincoll.edu
 header:
-  teaser: images/home/coverOTL-600x400.jpg
+  teaser: images/portfolio/coverOTL-600x400.jpg
 ---

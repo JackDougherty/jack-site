@@ -1,7 +1,5 @@
 # main header
 main:
-- title: "Home"
-  url: /
 - title: "Teaching"
   url: /teaching/
 - title: "Advising"

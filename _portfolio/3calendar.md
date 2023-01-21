@@ -6,6 +6,6 @@ excerpt: "Schedule a Zoom or phone appointment on my online calendar"
 redirect_to:
   - https://jackdougherty.youcanbook.me
 header:
-  teaser: images/home/calendar-300x200.png
+  teaser: images/portfolio/calendar-300x200.png
 ---
 Go to [this link](https://jackdougherty.youcanbook.me)
