@@ -1,7 +1,10 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-date: 2021-12-13
+date: 2023-01-23
+header:
+  teaser: /images/home/teaching-600x400.jpg
+excerpt: "Courses in Cities, Suburbs & Schools; Teaching & Learning; and Data Visualization"
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 

@@ -1,7 +1,10 @@
 ---
-title: "Advising and Appointment Calendar"
+title: "Advising"
 permalink: /advising/
-date: 2022-06-17
+date: 2023-01-21
+excerpt: "Working with undergraduate students at Trinity College, Hartford CT"
+header:
+  teaser: /images/home/edstudies-600x400.jpg
 ---
 {% include figure image_path="images/2017/educ-dinner-small.jpg" alt="Educational Studies Majors Dinner 2017" caption="Educational Studies Majors Dinner, April 2017" %}
 
