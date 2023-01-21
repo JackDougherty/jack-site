@@ -1,10 +1,10 @@
 ---
 title: "Scholarship"
 permalink: /scholarship/
-date: 2023-01-23
+date: 2023-01-21
 header:
   teaser: images/portfolio/cover3Books-600x400.jpg
-excerpt: "Additional scholarship on education and digital history"
+excerpt: "Other publications on education and digital history"
 ---
 
 ## Works in-progress
