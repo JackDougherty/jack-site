@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "DoughertyJack"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -105,18 +105,12 @@ author:
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://jackdougherty.youcanbook.me"
-    - label: "Mastodon"
+    - label: "Mastodon"  #Custom verification: _includes/head/custom.html
       icon: "fab fa-fw fa-mastodon"
       url: "https://vis.social/@jackdougherty"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/doughertyjack"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jackdougherty"
-    - label: "RSS feed"
-      icon: "fas fa-fw fa-rss-square"
-      url: "https://jackdougherty.org/feed.xml"
     - label: "JackBikes.org"
       icon: "fas fa-fw fa-bicycle"
       url: "https://jackbikes.org"
@@ -257,7 +251,7 @@ compress_html:
   ignore:
     envs: development
 
-# Collections  IMPORTANT: home page = _portfolio contents
+# Collections  customized: home page = _portfolio contents
 collections:
   portfolio:
     output: true
@@ -265,7 +259,7 @@ collections:
 
 # Defaults
 defaults:
-  # _portfolio  IMPORTANT: home page = _portfolio contents
+  # _portfolio  customized: home page = _portfolio contents
   - scope:
       path: ""
       type: portfolio
