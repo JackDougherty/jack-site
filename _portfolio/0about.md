@@ -8,7 +8,7 @@ excerpt: "Partnering with students and community to explore metropolitan Hartfor
 ---
 Jack Dougherty is Professor and Director of the [Educational Studies Program](http://trincoll.edu/educ) at Trinity College. He works with students and community partners to explore cities, suburbs, and schools in metropolitan Hartford, Connecticut, using the tools of digital history and data visualization.
 
-See [Jack Dougherty's CV](http://bit.ly/cv-jack-dougherty) and [Trinity faculty profile](https://internet3.trincoll.edu/FacProfiles/default.aspx?fid=1004266&tid=0)
+See [Jack Dougherty's CV](https://bit.ly/cv-jack-dougherty) and [Trinity faculty profile](https://internet3.trincoll.edu/FacProfiles/default.aspx?fid=1004266&tid=0) and [web posts](https://jackdougherty.org/posts/).<a href rel="me" href="https://vis.social/@jackdougherty"></a><!-- Mastodon link-->
 
 Jack received his B.A. in philosophy from Swarthmore College, taught high school social studies in Newark, New Jersey, then earned his Ph.D. in educational policy studies, with a minor in U.S. history, from the University of Wisconsin-Madison. He arrived at Trinity College in 1999 to direct the Educational Studies Program and establish its interdisciplinary major. He also co-created the [Liberal Arts Action Lab](http://action-lab.org) and served as its first Faculty Director (2017-2020), and also led the team that launched the [Center for Hartford Engagement and Research (CHER)](https://www.trincoll.edu/cher/) and served as its first Director (2018-2020).
 
