@@ -4,7 +4,7 @@ permalink: /teaching/
 date: 2023-01-21
 header:
   teaser: /images/portfolio/teaching-600x400.jpg
-excerpt: "Courses in Cities, Suburbs & Schools; Teaching & Learning; and Data Visualization"
+excerpt: "Courses in Cities, Suburbs & Schools; Education Reform; Data Visualization"
 ---
 [See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
 

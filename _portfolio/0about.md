@@ -1,11 +1,16 @@
 ---
-title: "Bio + CV"
-permalink: /bio/
-date: 2021-03-08
+title: "About"
+permalink: /about/
+date: 2023-01-21
+header:
+  teaser: /images/portfolio/about-600x400.jpg
+excerpt: "Partnering with students and community to explore metropolitan Hartford through digital history and data visualization"
 ---
+Jack Dougherty is Professor and Director of the [Educational Studies Program](http://trincoll.edu/educ) at Trinity College. He works with students and community partners to explore cities, suburbs, and schools in metropolitan Hartford, Connecticut, using the tools of digital history and data visualization.
+
 See [Jack Dougherty's CV](http://bit.ly/cv-jack-dougherty) and [Trinity faculty profile](https://internet3.trincoll.edu/FacProfiles/default.aspx?fid=1004266&tid=0)
 
-Jack Dougherty is Professor and Director of the [Educational Studies Program](http://trincoll.edu/educ) at Trinity College. He and his students use tools from digital history, data visualization, and web writing to explore the relationship between cities, suburbs, and schools in metropolitan Hartford, Connecticut. Jack received his B.A. in philosophy from Swarthmore College, taught high school social studies in Newark, New Jersey, then earned his Ph.D. in educational policy studies, with a minor in U.S. history, from the University of Wisconsin-Madison. At Trinity, he co-created the [Liberal Arts Action Lab](http://action-lab.org) while serving as its first Faculty Director (2017-2020), and also led the team that launched the [Center for Hartford Engagement and Research (CHER)](https://www.trincoll.edu/cher/) while serving as its first Director (2018-2020).
+Jack received his B.A. in philosophy from Swarthmore College, taught high school social studies in Newark, New Jersey, then earned his Ph.D. in educational policy studies, with a minor in U.S. history, from the University of Wisconsin-Madison. He arrived at Trinity College in 1999 to direct the Educational Studies Program and establish its interdisciplinary major. He also co-created the [Liberal Arts Action Lab](http://action-lab.org) and served as its first Faculty Director (2017-2020), and also led the team that launched the [Center for Hartford Engagement and Research (CHER)](https://www.trincoll.edu/cher/) and served as its first Director (2018-2020).
 
 His published books include [More Than One Struggle: The Evolution of Black School Reform in Milwaukee](http://uncpress.unc.edu/books/T-4956.html) (University of North Carolina Press, 2004); [Writing History in the Digital Age](https://muse.jhu.edu/book/27633) (co-edited with Kristen Nawrotzki, University of Michigan Press, 2013); [Web Writing: Why and How for Liberal Arts Teaching and Learning](https://muse.jhu.edu/book/52297) (co-edited with Tennyson O'Donnell, University of Michigan Press, 2015); and [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code](https://handsondataviz.org) (co-authored with Ilya Ilyankou, O'Reilly Media, 2021).
 
@@ -22,7 +27,7 @@ For more than two decades, Jack has taught and advised hundreds of undergraduate
 
 Learn more on his [Teaching page](https://jackdougherty.org/teaching/) and his [Advising page](https://jackdougherty.org/advising/).
 
-As the inaugural Director of the [Center for Hartford Engagement and Research](https://www.trincoll.edu/cher/) (CHER) from 2018 to 2020, Jack led a team of nine staff with an annual combined budget of $1 million to strengthen educational partnerships between the campus and the city's diverse neighborhoods. Working together, team accomplishments included:
+As the inaugural Director of the [Center for Hartford Engagement and Research](https://www.trincoll.edu/cher/) (CHER) from 2018 to 2020, Jack led a team of nine staff, with an annual combined budget of $1 million, to strengthen educational partnerships between the campus and the city's diverse neighborhoods. Working together, team accomplishments included:
 - launch of the Liberal Arts Action Lab, where Hartford community partners propose research questions to be answered by teams of Trinity College and Capital Community College students and faculty fellows
 - startup of the Public Humanities Collaborative, a summer research program for Trinity students to partner with Hartford organizations and Trinity faculty, funded by the Mellon Foundation
 - expansion of professional development for faculty who teach Community Learning courses that connect with the city
