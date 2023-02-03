@@ -98,7 +98,7 @@ Important updates from the instructor will be marked **in bold**.
   - [Kyle Evans, Trinity professor](https://commons.trincoll.edu/kyleevans/) and Megan Staples, [Connecting Mathematics and Social Justice: Lessons and Resources for Secondary Math Teachers](https://sites.google.com/view/mtc4socialjustice/mtc4sj-book?pli=1) and [Zoom workshops](https://sites.google.com/view/mtc4socialjustice/workshops)
 - Start reading Peter Liljedahl, *Building Thinking Classrooms*, Introduction and chapters 1-5, and work with your partner to write 2-3 rich discussion questions for you to raise with class next week [on this Google Doc](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit)
 - Update on our [Env Sci and ELAMS workshop placements](https://docs.google.com/spreadsheets/d/1qUQpKdpu7zf4HXZV7EWrp6vumuWzR5WBQRyWdi9zPvA/edit#gid=1798596931)
-- Email your assigned Hartford teacher to suggest a day & time (30 minutes) when you can visit their class and listen to their workshop topic requests, anytime before our class meets again on Fri Feb 10th. We'll draft the template together in class.
+- [Personalize our template](https://docs.google.com/document/d/1jWI_EwJ1QyIoTSn3E8EPspTU8Ju4dYAOuS9ARPtc7ZA/edit) and email your assigned Hartford teacher (with cc: to me) to suggest a day & time (30 minutes) when you can visit their class and listen to their workshop topic requests, anytime before our class meets again on Fri Feb 10th. 
 
 ### Fri Feb 10
 - Class meets 1:30-4:10pm
