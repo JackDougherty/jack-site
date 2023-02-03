@@ -67,42 +67,51 @@ Important updates from the instructor will be marked **in bold**.
 
 ### Fri Jan 27
 - Class meets 1:30-4:10pm
-- What is inquiry-based teaching and learning? [A science example](https://docs.google.com/presentation/d/1F7M8MlNg-yzNp-5I4fChF8Ab7xoJxZJxsSQlcsfZVx0/edit#slide=id.p)
+- What is inquiry-based teaching and learning? [A science example: Can you light up an electrical bulb?](https://docs.google.com/presentation/d/1F7M8MlNg-yzNp-5I4fChF8Ab7xoJxZJxsSQlcsfZVx0/edit#slide=id.p)
 - Introduction to public online syllabus
 - Moodle will be used only for individual password-protected gradebook.
 - Arranging visits and workshops at two Hartford schools: Env Sci Magnet and ELAMS
-   - [Hartford school placement process](https://www.trincoll.edu/educ/schools/) 
+   - [Hartford school placement process](https://www.trincoll.edu/educ/schools/)
    - Fill out your schedule portion on the Educ 200 placement info sheet
    - This will help me schedule orientations at Env Sci and ELAMS
    - Sign the HPS Visitors Acknowledgement for Covid
    - Submit the HPS Volunteer form online by Monday 4pm
    - Complete the Mandated Reporting training and **email** PDF certificate of completion to me by Monday 4pm
 - Read and compare prior examples of student teaching portfolios
-   - [Julia Burdulis Teaching Portfolio, Zoo Tycoon](http://commons.trincoll.edu/juliaburdulis/2019/04/11/52/), Spring 2019 
+   - [Julia Burdulis Teaching Portfolio, Zoo Tycoon](http://commons.trincoll.edu/juliaburdulis/2019/04/11/52/), Spring 2019
    - [Gisselle Teaching Portfolio, 3-2-1 Blast Off!](https://commons.trincoll.edu/gisselle-hernandez/3-2-1-blast-off/), Spring 2019
 - [Sharpen Your Observation Skills with TIMSS Math Videos](https://docs.google.com/document/d/1n9NjwLlB2kZn8MLoiFdho_Fi5v6k3DJaXXmXhSFBrns/edit), write responses and be prepared to share in next class
 - What sparks your interest in this course? Write reflections in our [shared Google Document](https://docs.google.com/document/d/1E0zyjcbCA0UmSjMb_e46Lf782Z4MF2_aEsf86HWicZE/edit)
 
 ### Fri Feb 3
 - Class meets 1:30-4:10pm
-- What is inquiry-based teaching and learning? Mathematics examples
-- Review responses to TIMSS Math Videos
-- Review curriculum standards for CT Grade 3-8 math and science
-- Writing rich student learning goals
-- Hartford teacher requests for math or science workshop topics
-- Arrange a 45-minute visit to your Env Sci or ELAMS classroom by Fri Feb 10th
+- What is inquiry-based teaching and learning? [A mathematics example: How much did the temperature drop?](https://youtu.be/y13o1Gu4Oz4), [lesson from Robert Kaplinsky](https://robertkaplinsky.com/work/temperature-drop/) with [blank thermometer](https://www.worksheetplace.com/mf_pdf/Thermometer-Blank.pdf)
+- Share and review your responses to: [Sharpen Your Observation Skills with TIMSS Math Videos](https://docs.google.com/document/d/1n9NjwLlB2kZn8MLoiFdho_Fi5v6k3DJaXXmXhSFBrns/edit)
+- Understand Connecticut Core Standards
+  - CT Dept of Education, [Mathematics core standards overview](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Mathematics) and [searchable web version](https://portal.ct.gov/PriorityStandards_Mathematics_K-8_beta_v1.8.html) and [Common Core State Standards for Math PDF version](https://learning.ccsso.org/wp-content/uploads/2022/11/Math_Standards1.pdf)
+- CT Dept of Education, [Science core standards overview](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages) and [science resources page](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages/Science)
+- Explore inquiry-based math education resources to meet curriculum standards:
+  - [Jo Boaler](https://ed.stanford.edu/faculty/joboaler) and [YouCubed math education site](https://www.youcubed.org) with [tasks & lessons](https://www.youcubed.org/tasks/) and [videos](https://www.youcubed.org/resource/videos/)
+  - [Robert Kapklinsky math education site](https://robertkaplinsky.com) with [problem-based lessons](https://robertkaplinsky.com/lessons/) and [spreadsheet format](http://problems.robertkaplinsky.com) and [resources](https://robertkaplinsky.com/resources/) and [Twitter feed](https://twitter.com/robertkaplinsky)
+  - [Howie Hua math education site](https://howiehua.wordpress.com) with [YouTube videos](https://www.youtube.com/@HowieHua1/featured) and [TikTok videos](https://howiehua.wordpress.com/category/tiktok-videos/)
+  - [Georgina Rivera, Principal at Charter Oak International Academy, K-5 public school, West Hartford](https://charteroak.whps.org/school-information/principals-page) and [MathCoachRivera Twitter feed](https://twitter.com/mathcoachrivera)
+  - [Kyle Evans, Trinity professor](https://commons.trincoll.edu/kyleevans/) and Megan Staples, [Connecting Mathematics and Social Justice: Lessons and Resources for Secondary Math Teachers](https://sites.google.com/view/mtc4socialjustice/mtc4sj-book?pli=1) and [Zoom workshops](https://sites.google.com/view/mtc4socialjustice/workshops)
+- Start reading Peter Liljedahl, *Building Thinking Classrooms*, Introduction and chapters 1-5, and work with your partner to write 2-3 rich discussion questions for you to raise with class next week [on this Google Doc](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit)
+- Update on our [Env Sci and ELAMS workshop placements](https://docs.google.com/spreadsheets/d/1qUQpKdpu7zf4HXZV7EWrp6vumuWzR5WBQRyWdi9zPvA/edit#gid=1798596931)
+- Email your assigned Hartford teacher to suggest a day & time (30 minutes) when you can visit their class and listen to their workshop topic requests, anytime before our class meets again on Fri Feb 10th. We'll draft the template together in class.
 
 ### Fri Feb 10
 - Class meets 1:30-4:10pm
-- Before class, read Peter Liljedahl, Building Thinking Classrooms, Introduction and chapters 1-5, with discussion questions TBA
+- Before class, read
 - Review [Evaluation Criteria for Lesson Plans and Portfolios](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
+- Writing rich student learning goals
 - Start writing Lesson Plan 1, due before class on Fri Feb 17th
 
 ### Fri Feb 17
 - Class meets 1:30-4:10pm
 - Before class, read Peter Liljedahl, Building Thinking Classrooms, selected chapters 6-15, with discussion questions TBA
 - Review of meaningful strategies for assessment of student learning
-- In-class peer-review of Lesson Plan 1. 
+- In-class peer-review of Lesson Plan 1.
 - Revisions of Lesson Plan 1 due by Tues Feb 28th 4pm for evaluation by instructor.
 
 ### Fri Feb 24
@@ -138,7 +147,7 @@ No class: Trinity Spring Break
 
 ### Fri April 14
 - Class meets 1:30-4:10pm
-- In-class peer-review of Lesson Plan 3. 
+- In-class peer-review of Lesson Plan 3.
 - Revisions of Lesson Plan 3 due by Tues April 18th 4pm for instructor evaluation.
 - Reminder: HPS schools closed for spring break, Mon-Fri April 10-14
 
@@ -158,7 +167,3 @@ No class: Trinity Spring Break
 
 ### Tues May 9 from 3-6pm
 - Guest Educator Panel Evaluation (during our final exam slot). Students will deliver an 8-minute presentation of selected highlights from their public web portfolio, to be evaluated by a panel of experienced guest educators. Worth 20 points.
-
-
-
-
