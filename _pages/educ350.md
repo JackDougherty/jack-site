@@ -96,15 +96,16 @@ Important updates from the instructor will be marked **in bold**.
   - [Howie Hua math education site](https://howiehua.wordpress.com) with [YouTube videos](https://www.youtube.com/@HowieHua1/featured) and [TikTok videos](https://howiehua.wordpress.com/category/tiktok-videos/)
   - [Georgina Rivera, Principal at Charter Oak International Academy, K-5 public school, West Hartford](https://charteroak.whps.org/school-information/principals-page) and [MathCoachRivera Twitter feed](https://twitter.com/mathcoachrivera)
   - [Kyle Evans, Trinity professor](https://commons.trincoll.edu/kyleevans/) and Megan Staples, [Connecting Mathematics and Social Justice: Lessons and Resources for Secondary Math Teachers](https://sites.google.com/view/mtc4socialjustice/mtc4sj-book?pli=1) and [Zoom workshops](https://sites.google.com/view/mtc4socialjustice/workshops)
-- Start reading Peter Liljedahl, *Building Thinking Classrooms*, Introduction and chapters 1-5, and work with your partner to write 2-3 rich discussion questions for you to raise with class next week [on this Google Doc](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit)
+- Start reading Peter Liljedahl, *Building Thinking Classrooms*, Introduction and chapters 1-5, and work with your partner to [write 2-3 rich discussion questions for you to raise with class next week on this Google Doc](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit)
 - Update on our [Env Sci and ELAMS workshop placements](https://docs.google.com/spreadsheets/d/1qUQpKdpu7zf4HXZV7EWrp6vumuWzR5WBQRyWdi9zPvA/edit#gid=1798596931)
-- [Personalize our template](https://docs.google.com/document/d/1jWI_EwJ1QyIoTSn3E8EPspTU8Ju4dYAOuS9ARPtc7ZA/edit) and email your assigned Hartford teacher (with cc: to me) to suggest a day & time (30 minutes) when you can visit their class and listen to their workshop topic requests, anytime before our class meets again on Fri Feb 10th. 
+- [Personalize our template](https://docs.google.com/document/d/1jWI_EwJ1QyIoTSn3E8EPspTU8Ju4dYAOuS9ARPtc7ZA/edit) and email your assigned Hartford teacher (with cc: to me) to suggest a day & time (30 minutes) when you can visit their class and listen to their workshop topic requests, anytime before our class meets again on Fri Feb 10th.
 
 ### Fri Feb 10
 - Class meets 1:30-4:10pm
-- Before class, read
+- Before class, schedule time with Hartford teacher and write [Meeting Report and Observation Notes](https://docs.google.com/document/d/1SFH036Wv_hV6bZH7k9O4CNMyPaWjaZIqhG6tH0HxyW8/edit) to share on your own Google Doc with seminar
+- In-class: Students lead discussion on Liljedahl, chapters 1-5
+- In-class: Write rich student learning goals
 - Review [Evaluation Criteria for Lesson Plans and Portfolios](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
-- Writing rich student learning goals
 - Start writing Lesson Plan 1, due before class on Fri Feb 17th
 
 ### Fri Feb 17
