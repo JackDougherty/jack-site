@@ -87,18 +87,26 @@ Important updates from the instructor will be marked **in bold**.
 - Class meets 1:30-4:10pm
 - What is inquiry-based teaching and learning? [A mathematics example: How much did the temperature drop?](https://youtu.be/y13o1Gu4Oz4), [lesson from Robert Kaplinsky](https://robertkaplinsky.com/work/temperature-drop/) with [blank thermometer](https://www.worksheetplace.com/mf_pdf/Thermometer-Blank.pdf)
 - Share and review your responses to: [Sharpen Your Observation Skills with TIMSS Math Videos](https://docs.google.com/document/d/1n9NjwLlB2kZn8MLoiFdho_Fi5v6k3DJaXXmXhSFBrns/edit)
-- Understand Connecticut Core Standards
-  - CT Dept of Education, [Mathematics core standards overview](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Mathematics) and [searchable web version](https://portal.ct.gov/PriorityStandards_Mathematics_K-8_beta_v1.8.html) and [Common Core State Standards for Math PDF version](https://learning.ccsso.org/wp-content/uploads/2022/11/Math_Standards1.pdf)
-- CT Dept of Education, [Science core standards overview](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages) and [science resources page](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages/Science)
-- Explore inquiry-based math education resources to meet curriculum standards:
-  - [Jo Boaler](https://ed.stanford.edu/faculty/joboaler) and [YouCubed math education site](https://www.youcubed.org) with [tasks & lessons](https://www.youcubed.org/tasks/) and [videos](https://www.youcubed.org/resource/videos/)
-  - [Robert Kapklinsky math education site](https://robertkaplinsky.com) with [problem-based lessons](https://robertkaplinsky.com/lessons/) and [spreadsheet format](http://problems.robertkaplinsky.com) and [resources](https://robertkaplinsky.com/resources/) and [Twitter feed](https://twitter.com/robertkaplinsky)
-  - [Howie Hua math education site](https://howiehua.wordpress.com) with [YouTube videos](https://www.youtube.com/@HowieHua1/featured) and [TikTok videos](https://howiehua.wordpress.com/category/tiktok-videos/)
-  - [Georgina Rivera, Principal at Charter Oak International Academy, K-5 public school, West Hartford](https://charteroak.whps.org/school-information/principals-page) and [MathCoachRivera Twitter feed](https://twitter.com/mathcoachrivera)
-  - [Kyle Evans, Trinity professor](https://commons.trincoll.edu/kyleevans/) and Megan Staples, [Connecting Mathematics and Social Justice: Lessons and Resources for Secondary Math Teachers](https://sites.google.com/view/mtc4socialjustice/mtc4sj-book?pli=1) and [Zoom workshops](https://sites.google.com/view/mtc4socialjustice/workshops)
 - Start reading Peter Liljedahl, *Building Thinking Classrooms*, Introduction and chapters 1-5, and work with your partner to [write 2-3 rich discussion questions for you to raise with class next week on this Google Doc](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit)
 - Update on our [Env Sci and ELAMS workshop placements](https://docs.google.com/spreadsheets/d/1qUQpKdpu7zf4HXZV7EWrp6vumuWzR5WBQRyWdi9zPvA/edit#gid=1798596931)
 - [Personalize our template](https://docs.google.com/document/d/1jWI_EwJ1QyIoTSn3E8EPspTU8Ju4dYAOuS9ARPtc7ZA/edit) and email your assigned Hartford teacher (with cc: to me) to suggest a day & time (30 minutes) when you can visit their class and listen to their workshop topic requests, anytime before our class meets again on Fri Feb 10th.
+
+### Math Resources
+- CT Dept of Education, [Mathematics core standards overview](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Mathematics) and [searchable web version](https://portal.ct.gov/PriorityStandards_Mathematics_K-8_beta_v1.8.html) and [Common Core State Standards for Math PDF version](https://learning.ccsso.org/wp-content/uploads/2022/11/Math_Standards1.pdf)
+- [Jo Boaler faculty page](https://ed.stanford.edu/faculty/joboaler) and [YouCubed math education site](https://www.youcubed.org) with [tasks & lessons](https://www.youcubed.org/tasks/) and [videos](https://www.youcubed.org/resource/videos/)
+- [Kyle Evans, Trinity faculty site](https://commons.trincoll.edu/kyleevans/) and Megan Staples, [Connecting Mathematics and Social Justice: Lessons and Resources for Secondary Math Teachers](https://sites.google.com/view/mtc4socialjustice/mtc4sj-book?pli=1) and [Zoom workshops](https://sites.google.com/view/mtc4socialjustice/workshops)
+- [Howie Hua math education site](https://howiehua.wordpress.com) with [YouTube videos](https://www.youtube.com/@HowieHua1/featured) and [TikTok videos](https://howiehua.wordpress.com/category/tiktok-videos/)
+- [Robert Kapklinsky math education site](https://robertkaplinsky.com) with [problem-based lessons](https://robertkaplinsky.com/lessons/) and [spreadsheet format](http://problems.robertkaplinsky.com) and [resources](https://robertkaplinsky.com/resources/) and [Twitter feed](https://twitter.com/robertkaplinsky)
+- [Georgina Rivera, Principal at Charter Oak International Academy, K-5 public school, West Hartford](https://charteroak.whps.org/school-information/principals-page) and [MathCoachRivera Twitter feed](https://twitter.com/mathcoachrivera)
+- National Council of Teachers of Mathematics, [Classroom Resources](https://www.nctm.org/classroomresources/)
+- [Dan Meyer math educator](https://twitter.com/ddmeyer), with [classroom blog](https://blog.mrmeyer.com) and [Three-Act Math Tasks](https://docs.google.com/spreadsheets/u/0/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html), and newer [Mathworlds blog](https://danmeyer.substack.com)
+
+### Science Resources
+- CT Dept of Education, [Science core standards overview](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages) and [science resources page](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages/Science)
+- [Next Generation Science Standards](https://www.nextgenscience.org), with instructional resources; [Next Generation Science Assessment](https://ngss-assessment.portal.concord.org) tasks for G3-5 and G6-8
+- [National Science Teaching Association resources](https://www.nsta.org/resources)
+- [OpenSciEd curriculum units](https://www.openscied.org) - see middle school; elementary school in-progress
+- [Common Sense Education science websites](https://www.commonsense.org/education/lists/terrific-websites-for-science)
 
 ### Fri Feb 10
 - Class meets 1:30-4:10pm
