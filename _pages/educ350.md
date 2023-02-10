@@ -9,7 +9,7 @@ toc_sticky: true
 ## Spring 2023 Syllabus
 Our course meets in-person, wearing face masks in compliance with the [campus Covid policy](https://www.trincoll.edu/reopening/), on Fridays 1:30–4:10pm, McCook 313, Trinity College, Hartford CT.
 
-## Instructor
+### Instructor
 Professor Jack Dougherty, Trinity College, Hartford CT. [Email me a quick question](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom appointment on my calendar](https://jackdougherty.youcanbook.me). Portions of this syllabus were originally created with former co-instructor Kyle Evans, Visiting Assistant Professor of Mathematics.
 
 Course Description: This seminar will explore theoretical, policy, and practical issues of teaching and learning. Who should teach in public schools, and what kind of preparation is necessary? What type of curriculum should be taught, and how do different interest groups shape that decision? How should we assess the quality of student learning? Finally, how do debates on all of these questions influence the nature of teachers’ work and classroom life?
@@ -22,7 +22,7 @@ This book will be purchased for you by the instructor's course funds:
 
 Peter Liljedahl, *Building Thinking Classrooms in Mathematics, Grades K-12: 14 Teaching Practices for Enhancing Learning* (Corwin Press, 2020).
 
-## Learning Goals and Assessments
+### Learning Goals and Assessments
 
 1. Students will gain contextual understanding of K-12 teaching by comparing different pedagogical approaches, national standards, modes of assessment, and strategies to promote equity.
 
@@ -63,7 +63,7 @@ Religious observances or other advance scheduling conflicts: please request acco
 - If anything is interfering with your learning, email or talk with your instructors about it. We care about how you're doing in life, not just in our classroom.
 
 ## Schedule
-Important updates from the instructor will be marked **in bold**.
+- Important updates from the instructor will be marked **in bold**.
 
 ### Fri Jan 27
 - Class meets 1:30-4:10pm
