@@ -97,9 +97,10 @@ Religious observances or other advance scheduling conflicts: please request acco
 - [Kyle Evans, Trinity faculty site](https://commons.trincoll.edu/kyleevans/) and Megan Staples, [Connecting Mathematics and Social Justice: Lessons and Resources for Secondary Math Teachers](https://sites.google.com/view/mtc4socialjustice/mtc4sj-book?pli=1) and [Zoom workshops](https://sites.google.com/view/mtc4socialjustice/workshops)
 - [Howie Hua math education site](https://howiehua.wordpress.com) with [YouTube videos](https://www.youtube.com/@HowieHua1/featured) and [TikTok videos](https://howiehua.wordpress.com/category/tiktok-videos/)
 - [Robert Kapklinsky math education site](https://robertkaplinsky.com) with [problem-based lessons](https://robertkaplinsky.com/lessons/) and [spreadsheet format](http://problems.robertkaplinsky.com) and [resources](https://robertkaplinsky.com/resources/) and [Twitter feed](https://twitter.com/robertkaplinsky)
+- [Dan Meyer math educator Twitter feed](https://twitter.com/ddmeyer), with [classroom blog](https://blog.mrmeyer.com) and [Three-Act Math Tasks](https://docs.google.com/spreadsheets/u/0/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html), and newer [Mathworlds blog](https://danmeyer.substack.com)
+- [National Council of Teachers of Mathematics](https://www.nctm.org/), classroom resources
 - [Georgina Rivera, Principal at Charter Oak International Academy, K-5 public school, West Hartford](https://charteroak.whps.org/school-information/principals-page) and [MathCoachRivera Twitter feed](https://twitter.com/mathcoachrivera)
-- National Council of Teachers of Mathematics, [Classroom Resources](https://www.nctm.org/classroomresources/)
-- [Dan Meyer math educator](https://twitter.com/ddmeyer), with [classroom blog](https://blog.mrmeyer.com) and [Three-Act Math Tasks](https://docs.google.com/spreadsheets/u/0/d/1jXSt_CoDzyDFeJimZxnhgwOVsWkTQEsfqouLWNNC6Z4/pub?output=html), and newer [Mathworlds blog](https://danmeyer.substack.com)
+- Students: your recommended additions are welcome
 
 ### Science Resources
 - CT Dept of Education, [Science core standards overview](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages) and [science resources page](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Science-Social-Studies-World-Languages/Science)
@@ -107,18 +108,25 @@ Religious observances or other advance scheduling conflicts: please request acco
 - [National Science Teaching Association resources](https://www.nsta.org/resources)
 - [OpenSciEd curriculum units](https://www.openscied.org) - see middle school; elementary school in-progress
 - [Common Sense Education science websites](https://www.commonsense.org/education/lists/terrific-websites-for-science)
+- Students: your recommended additions are welcome
 
 ### Fri Feb 10
 - Class meets 1:30-4:10pm
-- Before class, schedule time with Hartford teacher and write [Meeting Report and Observation Notes](https://docs.google.com/document/d/1SFH036Wv_hV6bZH7k9O4CNMyPaWjaZIqhG6tH0HxyW8/edit) to share on your own Google Doc with seminar
-- In-class: Students lead discussion on Liljedahl, chapters 1-5
-- In-class: Write rich student learning goals
+- Before class, schedule time with Hartford teacher and write [Meeting Report and Observation Notes](https://docs.google.com/document/d/1SFH036Wv_hV6bZH7k9O4CNMyPaWjaZIqhG6tH0HxyW8/edit) in your own Google Doc to share with seminar
+- In-class: What is inquiry-based teaching and learning? Math example: [Growing Shapes](https://docs.google.com/document/d/1nCgaLkbT6_MlSgLgrKCzDY_A-G399dN712mus42JxjM/edit), with Jo Boaler, *Mathematical Mindsets* (2022), [excerpt from pp. 62-68](https://jackdougherty.org/documents/boaler-growing-shapes.pdf).
+- Math and Science Resources have been reorganized above, and recommended additions from students are welcome
+- In-class: [Students lead their discussion questions](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit) on Liljedahl, chapters 1-5
+- In-class: Insert meeting report links into our [GDoc Organizer](https://tinyurl.com/educ350-organizer) and bookmark this link for easy access this semester
 - Review [Evaluation Criteria for Lesson Plans and Portfolios](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
-- Start writing Lesson Plan 1, due before class on Fri Feb 17th
+- In-class: [Brainstorm and write higher-level student learning goals](https://docs.google.com/document/d/131XruitjSsh7Y5iM7hZ2Vi9LKKiczuo2SmS69kIRlZo/edit), with resources:
+  - Patricia Armstrong, [Bloom’s Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/), Center for Teaching, Vanderbilt University.
+  - [Writing Objectives Using Bloom’s Taxonomy](https://teaching.charlotte.edu/teaching-guides/course-design/writing-measurable-course-objectives), Center for Teaching and Learning, UNC Charlotte.
+- Start writing Lesson Plan 1, due on our [GDoc Organizer](https://tinyurl.com/educ350-organizer) by Fri Feb 17th 1pm
+- Read Peter Liljedahl, *Building Thinking Classrooms*, chapters 6, 9, 10, 12, 13, 15 and work with your partner to [write 2-3 rich discussion questions for you to raise with class next week on this Google Doc](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit)
 
 ### Fri Feb 17
 - Class meets 1:30-4:10pm
-- Before class, read Peter Liljedahl, Building Thinking Classrooms, selected chapters 6-15, with discussion questions TBA
+- In-class: [Students lead their discussion questions](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit) on Liljedahl, chapters chapters 6, 9, 10, 12, 13, 15
 - Review of meaningful strategies for assessment of student learning
 - In-class peer-review of Lesson Plan 1.
 - Revisions of Lesson Plan 1 due by Tues Feb 28th 4pm for evaluation by instructor.
