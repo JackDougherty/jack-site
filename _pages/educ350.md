@@ -90,6 +90,7 @@ Religious observances or other advance scheduling conflicts: please request acco
 - Start reading Peter Liljedahl, *Building Thinking Classrooms*, Introduction and chapters 1-5, and work with your partner to [write 2-3 rich discussion questions for you to raise with class next week on this Google Doc](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit)
 - Update on our [Env Sci and ELAMS workshop placements](https://docs.google.com/spreadsheets/d/1qUQpKdpu7zf4HXZV7EWrp6vumuWzR5WBQRyWdi9zPvA/edit#gid=1798596931)
 - [Personalize our template](https://docs.google.com/document/d/1jWI_EwJ1QyIoTSn3E8EPspTU8Ju4dYAOuS9ARPtc7ZA/edit) and email your assigned Hartford teacher (with cc: to me) to suggest a day & time (30 minutes) when you can visit their class and listen to their workshop topic requests, anytime before our class meets again on Fri Feb 10th.
+- ADDED: Use this [Teacher Meeting Report](https://docs.google.com/document/d/1SFH036Wv_hV6bZH7k9O4CNMyPaWjaZIqhG6tH0HxyW8/edit) to guide your questions and take notes to share with seminar next week
 
 ### Math Resources
 - CT Dept of Education, [Mathematics core standards overview](https://portal.ct.gov/SDE/CT-Core-Standards/Materials-for-Teachers/Mathematics) and [searchable web version](https://portal.ct.gov/PriorityStandards_Mathematics_K-8_beta_v1.8.html) and [Common Core State Standards for Math PDF version](https://learning.ccsso.org/wp-content/uploads/2022/11/Math_Standards1.pdf)
@@ -116,7 +117,7 @@ Religious observances or other advance scheduling conflicts: please request acco
 - In-class: What is inquiry-based teaching and learning? Math example: [Growing Shapes](https://docs.google.com/document/d/1nCgaLkbT6_MlSgLgrKCzDY_A-G399dN712mus42JxjM/edit), with Jo Boaler, *Mathematical Mindsets* (2022), [excerpt from pp. 62-68](https://jackdougherty.org/documents/boaler-growing-shapes.pdf).
 - Math and Science Resources have been reorganized above, and recommended additions from students are welcome
 - In-class: [Students lead their discussion questions](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit) on Liljedahl, chapters 1-5
-- In-class: Insert meeting report links into our [GDoc Organizer](https://tinyurl.com/educ350-organizer) and bookmark this link for easy access this semester
+- In-class: Insert your [Teacher Meeting Report](https://docs.google.com/document/d/1SFH036Wv_hV6bZH7k9O4CNMyPaWjaZIqhG6tH0HxyW8/edit) links into our [GDoc Organizer](https://tinyurl.com/educ350-organizer) and bookmark this link for easy access this semester
 - Review [Evaluation Criteria for Lesson Plans and Portfolios](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
 - In-class: [Brainstorm and write higher-level student learning goals](https://docs.google.com/document/d/131XruitjSsh7Y5iM7hZ2Vi9LKKiczuo2SmS69kIRlZo/edit), with resources:
   - Patricia Armstrong, [Bloom’s Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/), Center for Teaching, Vanderbilt University.
