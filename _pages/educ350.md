@@ -33,12 +33,12 @@ Peter Liljedahl, *Building Thinking Classrooms in Mathematics, Grades K-12: 14 T
 Your progress toward achieving these goals will be assessed in these ways:
 
 #### A. Lesson Plans and Portfolios
-Students will prepare three inquiry-based math or science lesson plans, on topics requested by Hartford teachers, designed for about forty minutes of classroom time. Each lesson plan will feature appropriate learning objectives, engaging hands-on activities, meaningful assessment, and strategies to promote equity. (3 x 10 points = 30 points)
+Students will prepare three inquiry-based math or science lesson plans, on topics requested by Hartford teachers, designed for about forty minutes of classroom time. Each lesson plan will feature appropriate learning objectives, engaging hands-on activities, meaningful assessment, and strategies to promote equity. (3 lesson plans x 10 points = 30 points)
 
-After teaching each workshop, students will create a public web portfolio with narrative, video, and images of their lesson plan, reflections on their teaching experience, and ways to improve for next time. Students have the right to remove their web content after the course, or keep it online to share as part of their resume for future employment or graduate school. (3 x 10 points = 30 points)
+After teaching each workshop, students will create a public web portfolio with narrative, video, and images of their lesson plan, reflections on their teaching experience, and ways to improve for next time. Students have the right to remove their web content after the course, or keep it online to share as part of their resume for future employment or graduate school. (3 portfolios x 10 points = 30 points)
 
 #### B. Guest Educator Panel Evaluation
-Students will deliver an 8-minute presentation of selected highlights from their public web portfolio, to be evaluated by a panel of experienced guest educators. This event will be scheduled during our final exam timeslot on Tuesday May 9th from 3-6pm. (20 points)
+Students will deliver an 8-minute presentation of selected highlights from their public web portfolio, to be evaluated by a panel of experienced guest educators. This event will be scheduled during our final exam time slot on Tuesday May 9th from 3-6pm. (20 points)
 
 #### C. Class Exercises and Participation
 To encourage active learning and accountability, each student begins the course with 20 participation points. During class, you may be randomly called on to discuss a concept in our reading, share your responses to a pre-assigned exercise, or peer-review writing by another student. If you are not present or not able to participate when called upon, 2 points will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance. (20 points)
@@ -128,14 +128,14 @@ Religious observances or other advance scheduling conflicts: please request acco
 ### Fri Feb 17
 - Class meets 1:30-4:10pm
 - In class:
-  - Meaningful student assessment strategies for your workshops
+  - [Show Us the Learning: assessment presentation and exercise](https://docs.google.com/presentation/d/10eD4_s3D04WAfw1I0_WkeF0XKM0ULtD6N1utinuMvbQ/edit#slide=id.p)
   - [Students lead their discussion questions](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit) on Liljedahl, chapters chapters 6, 9, 10, 12, 13, 15  
   - Fun 5-minute field trip to the McCook scanner-copier (use 2515)
   - Copy and paste our [Evaluation Criteria 1-5](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit) to the top of your draft Lesson 1 on [GDoc Organizer](https://tinyurl.com/educ350-organizer)
   - Deliver a 60-second pitch about Lesson Plan 1. Emphasize what aspects you are most excited about, and what kind of feedback you need to help you improve.
   - Peer reviews assigned: read and write suggestions and comments based on our evaluation criteria, then discuss.
 - Revisions of Lesson Plan 1 due by Tues Feb 28th 4pm on [GDoc Organizer](https://tinyurl.com/educ350-organizer) for evaluation by instructor.
-- Need materials for your lesson? Email me specifics (including links) as soon as possible, and I will assist when feasible.
+- Need materials for your lesson? Email me specifics (including rationale, quantity, costs, and links) as soon as possible, and I will assist when feasible.
 
 ### Fri Feb 24
 - No class: Trinity Days
