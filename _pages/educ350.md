@@ -128,7 +128,7 @@ Religious observances or other advance scheduling conflicts: please request acco
 ### Fri Feb 17
 - Class meets 1:30-4:10pm
 - In class:
-  - [Show Us the Learning: assessment presentation and exercise](https://docs.google.com/presentation/d/10eD4_s3D04WAfw1I0_WkeF0XKM0ULtD6N1utinuMvbQ/edit#slide=id.p)
+  - [Show Us the Learning: assessment presentation and exercise](https://docs.google.com/presentation/d/10eD4_s3D04WAfw1I0_WkeF0XKM0ULtD6N1utinuMvbQ/edit#slide=id.p) and discuss how you might adapt ideas in your 40-minute workshop lessons
   - [Students lead their discussion questions](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit) on Liljedahl, chapters chapters 6, 9, 10, 12, 13, 15  
   - Fun 5-minute field trip to the McCook scanner-copier (use 2515)
   - Copy and paste our [Evaluation Criteria 1-5](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit) to the top of your draft Lesson 1 on [GDoc Organizer](https://tinyurl.com/educ350-organizer)
