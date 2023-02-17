@@ -127,10 +127,11 @@ Religious observances or other advance scheduling conflicts: please request acco
 
 ### Fri Feb 17
 - Class meets 1:30-4:10pm
+- In-class: Meaningful student assessment strategies for your workshops
 - In-class: [Students lead their discussion questions](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit) on Liljedahl, chapters chapters 6, 9, 10, 12, 13, 15
-- Review of meaningful strategies for assessment of student learning
-- In-class peer-review of Lesson Plan 1.
+- In-class: Deliver a 60-second pitch of your Lesson Plan 1, then assigned peer-review on [GDoc Organizer](https://tinyurl.com/educ350-organizer).
 - Revisions of Lesson Plan 1 due by Tues Feb 28th 4pm for evaluation by instructor.
+
 
 ### Fri Feb 24
 - No class: Trinity Days
