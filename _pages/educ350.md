@@ -127,11 +127,14 @@ Religious observances or other advance scheduling conflicts: please request acco
 
 ### Fri Feb 17
 - Class meets 1:30-4:10pm
-- In-class: Meaningful student assessment strategies for your workshops
-- In-class: [Students lead their discussion questions](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit) on Liljedahl, chapters chapters 6, 9, 10, 12, 13, 15
-- In-class: Deliver a 60-second pitch of your Lesson Plan 1, then assigned peer-review on [GDoc Organizer](https://tinyurl.com/educ350-organizer).
-- Revisions of Lesson Plan 1 due by Tues Feb 28th 4pm for evaluation by instructor.
-
+- In class:
+  - Meaningful student assessment strategies for your workshops
+  - [Students lead their discussion questions](https://docs.google.com/document/d/1QthRcWNe4icGrbmLaUuDvpBFMayO3b8jTIAfLzGUBvE/edit) on Liljedahl, chapters chapters 6, 9, 10, 12, 13, 15  
+  - Fun 5-minute field trip to the McCook scanner-copier (use 2515)
+  - Deliver a 60-second pitch of your Lesson Plan 1, emphasizing what you are most excited about, and what kind of feedback you need most right now.
+  - Peer reviews assigned on [GDoc Organizer](https://tinyurl.com/educ350-organizer): read and write suggestions and comments based on our criteria, then discuss.
+- Revisions of Lesson Plan 1 due by Tues Feb 28th 4pm on [GDoc Organizer](https://tinyurl.com/educ350-organizer) for evaluation by instructor.
+- Need materials for your lesson? Email me specifics (including links) as soon as possible, and I will assist when feasible.
 
 ### Fri Feb 24
 - No class: Trinity Days
