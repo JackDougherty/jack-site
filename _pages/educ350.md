@@ -143,8 +143,29 @@ Religious observances or other advance scheduling conflicts: please request acco
 
 ### Fri March 3
 - Class meets 1:30-4:10pm
-- In-class practice teaching Lesson 1 for peer and instructor feedback
-- Video prep: Students and their support partners will collect video of their teaching, using either your laptops (set up on a table in the back of the room) or your smartphones (with tripod and mount provided by instructor), pending permission from each school. Most HPS parents/guardians already have signed media consent forms for their children.
+- Video prep: Test recording video using either your laptop (set up on a table in the back of the room) or your smartphone (with tripod and mount provided by instructor). In your classroom, ask teacher if any students' families have opted-out of the HPS media consent form, since they should not appear in your video on public web.
+  - How to record video on Mac: QuickTime app > File > New Video Recording, start and stop, then Save
+  - Create a duplicate backup before editing
+  - Simple way to edit short video clips on Mac with Quicktime: drag slider then Edit > Split Clip, save new clip, then Edit > Trim clip.
+  - Upload selected short clips to a video streaming service, such as YouTube or Vimeo. An "unlisted" setting will make your video public, but not findable unless users have the link.
+- How and Why to use Visual Advance Organizers (or Agendas)
+- Deliver 2-minute launch of Lesson 1, which should include, at minimum:
+  - your name for classroom students
+  - opening visuals or sample materials
+  - guiding question to encourage deeper thinking
+  - visual and/or verbal guides for students' next steps
+  - record on video using either laptop or smartphone
+- Feedback on lesson launches from peers and instructor: what worked and what to improve?
+- WordPress Workshop to start your site with at least three web pages:
+  - About (serves as your home page)
+  - Teaching (overview of all your teaching this semester)
+      - Lesson 1 (portfolio of lesson plan, images and video clips, reflection)
+  - Jack Sample with instructions <https://jackdougherty.domains.trincoll.edu>
+  - Write your website address, due today, on [GDoc Organizer](https://tinyurl.com/educ350-organizer)
+  - After teaching, Portfolio 1 due Fri March 17th 4pm
+- Small-group feedback sessions on Lesson 1 plans with instructor
+- One more time! Deliver 2-minute launch of Lesson 1, and beware of distractions...
+
 
 ### Fri March 10
 - Teach Lesson 1 in Hartford school placement anytime before 3pm
