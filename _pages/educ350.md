@@ -160,10 +160,11 @@ Religious observances or other advance scheduling conflicts: please request acco
   - About (serves as your home page)
   - Teaching (overview of all your teaching this semester)
       - Lesson 1 (portfolio of lesson plan, images and video clips, reflection)
+  - Get Started at <https://domains.trincoll.edu>
   - Jack Sample with instructions <https://jackdougherty.domains.trincoll.edu>
   - Write your website address, due today, on [GDoc Organizer](https://tinyurl.com/educ350-organizer)
-  - After teaching, Portfolio 1 due Fri March 17th 4pm
-- Small-group feedback sessions on Lesson 1 plans with instructor
+  - After teaching, Portfolio 1 is due Fri March 17th 4pm
+- Small-group feedback sessions on Lesson 1 plans with instructor, while others work on websites
 - One more time! Deliver 2-minute launch of Lesson 1, and beware of distractions...
 
 
