@@ -108,6 +108,7 @@ Religious observances or other advance scheduling conflicts: please request acco
 - [Next Generation Science Standards](https://www.nextgenscience.org), with instructional resources; [Next Generation Science Assessment](https://ngss-assessment.portal.concord.org) tasks for G3-5 and G6-8
 - [National Science Teaching Association resources](https://www.nsta.org/resources)
 - [OpenSciEd curriculum units](https://www.openscied.org) - see middle school; elementary school in-progress
+- [Teach Engineering](https://www.teachengineering.org)
 - [Common Sense Education science websites](https://www.commonsense.org/education/lists/terrific-websites-for-science)
 - Students: your recommended additions are welcome
 
@@ -156,7 +157,6 @@ Religious observances or other advance scheduling conflicts: please request acco
   - visual and/or verbal guides for students' next steps
   - record on video using either laptop or smartphone
 - Feedback on lesson launches from peers and instructor: what worked and what to improve?
-- How and Why to use Visual Advance Organizers (or Agendas) in your launch
 - WordPress Workshop to start your site with at least three web pages:
   - Jack Sample with instructions <https://jackdougherty.domains.trincoll.edu>
     - About (serves as your home page)
@@ -166,7 +166,7 @@ Religious observances or other advance scheduling conflicts: please request acco
   - Write your website address, due today, on [GDoc Organizer](https://tinyurl.com/educ350-organizer)
   - After teaching, Portfolio 1 (with revised lesson plan, images and video clips, reflection) is due Fri March 17th 4pm, based on [Evaluation Criteria](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
 - During class: Small-group 10-minute feedback sessions on Lesson 1 plans with instructor, while others work on websites and practice video clips
-- One more time! Deliver *improved* 2-minute launch of Lesson 1. Also, beware of distractions...
+- One more time! Deliver *improved* 2-minute launch of Lesson 1. Also, beware of distractions... (note: ran out of time)
 
 ### Fri March 10
 - Teach Lesson 1 in Hartford school placement anytime before 3pm
@@ -187,6 +187,7 @@ No class: Trinity Spring Break
 ### Fri April 7
 - Class meets 1:30-4:10pm
 - In-class Peer-review of Portfolio 2. Revisions due by Sun April 9th 4pm for evaluation by instructor.
+- How and Why to use Visual Advance Organizers (or Agendas) in your launch
 - Start preparing Lesson 3, due before class on Fri April 14th
 - Reminder: HPS schools closed today for Good Friday
 
