@@ -166,7 +166,7 @@ Religious observances or other advance scheduling conflicts: please request acco
   - Write your website address, due today, on [GDoc Organizer](https://tinyurl.com/educ350-organizer)
   - After teaching, Portfolio 1 (with revised lesson plan, images and video clips, reflection) is due Fri March 17th 4pm, based on [Evaluation Criteria](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
 - During class: Small-group 10-minute feedback sessions on Lesson 1 plans with instructor, while others work on websites and practice video clips
-- One more time! Deliver *improved* 2-minute launch of Lesson 1. Also, beware of distractions... (note: ran out of time)
+- One more time! Deliver *improved* 2-minute launch of Lesson 1. Also, beware of distractions... 
 
 ### Fri March 10
 - Teach Lesson 1 in Hartford school placement anytime before 3pm
