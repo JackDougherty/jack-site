@@ -166,12 +166,18 @@ Religious observances or other advance scheduling conflicts: please request acco
   - Write your website address, due today, on [GDoc Organizer](https://tinyurl.com/educ350-organizer)
   - After teaching, Portfolio 1 (with revised lesson plan, images and video clips, reflection) is due Fri March 17th 4pm, based on [Evaluation Criteria](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
 - During class: Small-group 10-minute feedback sessions on Lesson 1 plans with instructor, while others work on websites and practice video clips
-- One more time! Deliver *improved* 2-minute launch of Lesson 1. Also, beware of distractions... 
+- One more time! Deliver *improved* 2-minute launch of Lesson 1. Also, beware of distractions...
 
 ### Fri March 10
 - Teach Lesson 1 in Hartford school placement anytime before 3pm
-- Class meets 3:10-4:10pm to share reflections and start writing Portfolio 1, due by Fri March 17th 4pm
-- Start preparing Lesson 2, due 24 hours before instructor meeting for peer-review by duo/trio.
+- Class meets 3:10-4:10pm to debrief and share reflections
+- Recommended: If you need guidance with sample web pages or preparing for the next lesson, see me in our classroom anytime 2:10-3:10pm today
+- Start writing Portfolio 1, [due on Google Organizer](https://tinyurl.com/educ350-organizer) by Fri March 17th 4pm. See [Evaluation Criteria](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
+- Work as a group to sign up for 2-3 consecutive appointments [on my calendar](https://jackdougherty.org) to discuss your Lesson 2 submissions with peer(s) and instructor
+- Start preparing Lesson 2, due [on Google Organizer](https://tinyurl.com/educ350-organizer) 24 hours before meeting with peer(s) and instructor
+- A personal note about learning from our mistakes
+- Advice on editing video and reducing size before uploading to streaming service
+
 
 ### Fri March 17
 - Instead of our regular class time this week, schedule two consecutive 20-minute appointments in duos/trios on my online calendar for anytime prior to Fri March 17th at 4pm.
