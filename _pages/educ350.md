@@ -189,7 +189,7 @@ No class: Trinity Spring Break
 - Teach Lesson 2 in Hartford school placement anytime before 3pm
 - Class meets 3:10-4:10pm to share reflections about today's workshops
 - Communicate with your classroom teachers about topics for Workshop 3, since HPS schools will be closed from Fri April 7th - Fri April 14th. Lesson Plan 3 will be due for in-class peer review on Fri April 14th, and you teach it on Fri April 28th.
-- Start writing Portfolio 2, with link in Google Doc Organizer due by Thursday April 6th 4pm for peer review to be assigned during class on Fri April 7
+- Start writing Portfolio 2, and place link in our [Google Doc Organizer](https://tinyurl.com/educ350-organizer) due by Thursday April 6th 9pm for peer review to be assigned during class on Fri April 7
 - Web portfolio feedback and WordPress advice
   - Normal emails from Installatron Trinity.ReclaimHosting.com whenever your WP site is updated
   - WP > Dashboard > Plugins > Add New > search for Disable Comments plugin, then Activate, and Settings > Everywhere
@@ -198,7 +198,7 @@ No class: Trinity Spring Break
 
 ### Fri April 7
 - Class meets 1:30-4:10pm
-- In-class Peer-review of Portfolio 2. Revisions due by Sun April 9th 4pm for evaluation by instructor.
+- In-class peer review of Portfolio 2. Revisions due by Sun April 9th 9pm for evaluation by instructor.
 - How and Why to use Visual Advance Organizers (or Agendas) in your launch
 - Start preparing Lesson 3, due before class on Fri April 14th
 - Reminder: HPS schools closed today for Good Friday
