@@ -178,7 +178,6 @@ Religious observances or other advance scheduling conflicts: please request acco
 - A personal note about learning from our mistakes
 - Advice on editing video and reducing size before uploading to streaming service
 
-
 ### Fri March 17
 - Instead of our regular class time this week, schedule two consecutive 20-minute appointments in duos/trios on my online calendar for anytime prior to Fri March 17th at 4pm.
 - Lesson Plan 2 due 24 hours before scheduled meeting time for peer-review by duo/trio.
@@ -188,7 +187,14 @@ No class: Trinity Spring Break
 
 ### Fri March 31
 - Teach Lesson 2 in Hartford school placement anytime before 3pm
-- Class meets 3:10-4:10pm to share reflections and start writing Portfolio 2, due by Thursday April 6th 4pm
+- Class meets 3:10-4:10pm to share reflections about today's workshops
+- Communicate with your classroom teachers about topics for Workshop 3, since HPS schools will be closed from Fri April 7th - Fri April 14th. Lesson Plan 3 will be due for in-class peer review on Fri April 14th, and you teach it on Fri April 28th.
+- Start writing Portfolio 2, with link in Google Doc Organizer due by Thursday April 6th 4pm for peer review to be assigned during class on Fri April 7
+- Web portfolio feedback and WordPress advice
+  - Normal emails from Installatron Trinity.ReclaimHosting.com whenever your WP site is updated
+  - WP > Dashboard > Plugins > Add New > search for Disable Comments plugin, then Activate, and Settings > Everywhere
+  - WP > Dashboard > Plugins > Add New > search for Simple Page Ordering plugin, then Activate, which allows you to reorder Pages with drag-and-drop
+  - Share advice with classmates
 
 ### Fri April 7
 - Class meets 1:30-4:10pm
@@ -217,5 +223,5 @@ No class: Trinity Spring Break
 - In-class peer-review of Portfolio 3. Revisions due by Fri May 5th 4pm for instructor evaluation.
 - Reflecting on your teaching trajectory and preparing presentation for guest educators
 
-### Tues May 9 from 3-6pm
-- Guest Educator Panel Evaluation (during our final exam slot). Students will deliver an 8-minute presentation of selected highlights from their public web portfolio, to be evaluated by a panel of experienced guest educators. Worth 20 points.
+### Tues May 9
+- Presentations and Q&A with guest evaluators from 3-5pm (during our final exam slot).  Students will deliver a 7-minute presentation of their teaching trajectory, emphasizing how they have grown as educators, with selected highlights from their public web portfolios. Guest evaluators: Professors Kyle Evans (Mathematics) Britney Jones (Ed Studies). Worth 20 points.
