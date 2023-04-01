@@ -202,6 +202,7 @@ No class: Trinity Spring Break
 - Start preparing Lesson 3, due on [Organizer](https://tinyurl.com/educ350-organizer) by Fri April 14th 12 noon
   - How and Why to use Visual Advance Organizers (or Agendas) in your launch
   - Show Us the Learning! Creative Ways to Collect Assessments
+  - 
   - Brainstorming about Classroom Management Strategies
 
 ### Fri April 14
