@@ -197,13 +197,12 @@ No class: Trinity Spring Break
   - Share advice with classmates
 
 ### Fri April 7
-- Class meets 1:30-4:10pm
-- In-class peer review of Portfolio 2. Revisions due by Sun April 9th 9pm for evaluation by instructor.
-- How and Why to use Visual Advance Organizers (or Agendas) in your launch
-- Show Us the Learning! Creative Ways to Collect Assessments
-- Brainstorming about Classroom Management Strategies
-- Start preparing Lesson 3, due before class on Fri April 14th
-- Reminder: HPS schools closed today for Good Friday
+- Class meets 1:30-4:10pm. Reminder: HPS schools closed today for Good Friday
+- In-class peer review of Portfolio 2. Revisions due on [Organizer](https://tinyurl.com/educ350-organizer) by Sun April 9th 9pm for evaluation by instructor.
+- Start preparing Lesson 3, due on [Organizer](https://tinyurl.com/educ350-organizer) by Fri April 14th 12 noon
+  - How and Why to use Visual Advance Organizers (or Agendas) in your launch
+  - Show Us the Learning! Creative Ways to Collect Assessments
+  - Brainstorming about Classroom Management Strategies
 
 ### Fri April 14
 - Class meets 1:30-4:10pm
