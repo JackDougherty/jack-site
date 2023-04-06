@@ -205,15 +205,19 @@ No class: Trinity Spring Break
   - Ways to Launch Lessons with Authentic Questions
   - Show Us the Learning! Creative Ways to Collect Assessments
   - Brainstorm about Strategies for Classroom Management
+- Assign for next week: Pathways to Teaching and Alumni Interviews
 
 ### Fri April 14
 - Class meets 1:30-4:10pm
-- In-class peer-review of Lesson Plan 3.
-- Revisions of Lesson Plan 3 due by Tues April 18th 4pm for instructor evaluation.
+- Lesson 3
+  - Draft due on Organizer by Fri 12 noon
+  - In-class peer-review of Lesson Plan 3.
+  - Revisions due by Tues April 18th 4pm for instructor evaluation.
+- Pathways to Teaching and Alumni Interviews
 - Reminder: HPS schools closed for spring break, Mon-Fri April 10-14
 
 ### Fri April 21
-- Class meets 1:30-4:10pm
+- Class meets 1:30-4:10pm. (Pending: potential visit to another school)
 - In-class practice teaching of Lesson 3 for peer and instructor feedback
 
 ### Fri April 28
