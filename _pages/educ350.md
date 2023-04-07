@@ -206,6 +206,7 @@ No class: Trinity Spring Break
   - Discuss Ways to Launch Lessons with Guiding Questions
   - Show Us the Learning! Creative Ways to Collect Assessments
   - Brainstorm about Strategies for Classroom Management
+- Questions before pre-registration for Fall 2023?
 
 ### Fri April 14
 - Class meets 1:30-4:10pm
