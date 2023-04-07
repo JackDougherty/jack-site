@@ -199,13 +199,13 @@ No class: Trinity Spring Break
 ### Fri April 7
 - Class meets 1:30-4:10pm. Reminder: HPS schools closed today for Good Friday
 - Reminder: Place link to your draft Portfolio 2 on our [Google Doc Organizer](https://tinyurl.com/educ350-organizer) by Thursday April 6th 9pm
-- In-class peer review of Portfolio 2 in assigned trios
+- In-class peer review of Portfolio 2 in designated trios, using [Evaluation Criteria](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
 - Portfolio 2 revisions due on [Organizer](https://tinyurl.com/educ350-organizer) by Sun April 9th 9pm for evaluation by instructor.
+  - Tip: [Link to a specific time in Vimeo playback](https://help.vimeo.com/hc/en-us/articles/12426502519313-How-to-share-your-videos)
 - Start preparing Lesson 3, due on [Organizer](https://tinyurl.com/educ350-organizer) by Fri April 14th 12 noon
-  - Ways to Launch Lessons with Authentic Questions
+  - Discuss Ways to Launch Lessons with Guiding Questions
   - Show Us the Learning! Creative Ways to Collect Assessments
   - Brainstorm about Strategies for Classroom Management
-- Assign for next week: Pathways to Teaching and Alumni Interviews
 
 ### Fri April 14
 - Class meets 1:30-4:10pm
@@ -217,13 +217,13 @@ No class: Trinity Spring Break
 - Reminder: HPS schools closed for spring break, Mon-Fri April 10-14
 
 ### Fri April 21
-- Class meets 1:30-4:10pm. (Pending: potential visit to another school)
+- Class meets 1:30-4:10pm. (Pending: possible school visit)
 - In-class practice teaching of Lesson 3 for peer and instructor feedback
 
 ### Fri April 28
 - Teach Lesson 3 in Hartford school placement anytime before 3pm
 - Class meets 3:10-4:10pm to share reflections.
-- Start writing Portfolio 3, due before class on Thursday May 4 for peer-review.
+- Start writing Portfolio 3, due Thursday May 4 by 10am for peer-review.
 
 ### Thu May 4
 - Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, **make sure that you do not have any schedule conflicts**.
