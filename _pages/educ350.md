@@ -202,6 +202,7 @@ No class: Trinity Spring Break
 - In-class peer review of Portfolio 2 in designated trios, using [Evaluation Criteria](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit)
 - Portfolio 2 revisions due on [Organizer](https://tinyurl.com/educ350-organizer) by Sun April 9th 9pm for evaluation by instructor.
   - Tip: [Link to a specific time in Vimeo playback](https://help.vimeo.com/hc/en-us/articles/12426502519313-How-to-share-your-videos)
+  - Tip: Cite sources using https://ZBib.org tool, but beware that you may need to click Edit to manually edit items -- see [Section 3 in my Dataviz class template](https://datavizforall.org/dataviz-story-template/)
 - Start preparing Lesson 3, due on [Organizer](https://tinyurl.com/educ350-organizer) by Fri April 14th 12 noon
   - Discuss Ways to Launch Lessons with Guiding Questions
   - Show Us the Learning! Creative Ways to Collect Assessments
