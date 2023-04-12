@@ -219,7 +219,7 @@ No class: Trinity Spring Break
 - Reminder: HPS schools closed for spring break, Mon-Fri April 10-14
 
 ### Fri April 21
-- Class meets 1:30-4:10pm. (Pending: possible school visit)
+- Class meets 1:30-4:10pm.
 - In-class practice teaching of Lesson 3 for peer and instructor feedback
 
 ### Fri April 28
@@ -229,6 +229,7 @@ No class: Trinity Spring Break
 
 ### Thu May 4
 - Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, **make sure that you do not have any schedule conflicts**.
+- *Pending*: possible school visit
 - In-class peer-review of Portfolio 3. Revisions due by Fri May 5th 4pm for instructor evaluation.
 - Reflecting on your teaching trajectory and preparing presentation for guest educators
 
