@@ -211,12 +211,14 @@ No class: Trinity Spring Break
 
 ### Fri April 14
 - Class meets 1:30-4:10pm
-- Lesson 3
-  - Draft due on Organizer by Fri 12 noon
-  - In-class peer-review of Lesson Plan 3.
-  - Revisions due by Tues April 18th 4pm for instructor evaluation.
-- Pathways to Teaching and Alumni Interviews
 - Reminder: HPS schools closed for spring break, Mon-Fri April 10-14
+- Lesson 3
+  - Draft due on [Organizer](https://tinyurl.com/educ350-organizer) by Fri 12 noon
+  - In-class peer-review of Lesson Plan 3
+  - Revisions due by Tues April 18th 4pm for instructor evaluation.
+- About [Pathways to Teaching](https://www.trincoll.edu/educ/pathways-to-teaching/)
+- About [Ed Studies Alumni Video Interviews](https://www.trincoll.edu/educ/alumni/)
+  - Write a 200-word reflection that compares and contrasts experiences of any two Alumni Video Interviews, due on our [Organizer](https://tinyurl.com/educ350-organizer) by Sun April 16th 9pm, for class participation credit. You are welcome to watch and discuss videos with a classmate. Choose any two, and insert their names and your link
 
 ### Fri April 21
 - Class meets 1:30-4:10pm.
