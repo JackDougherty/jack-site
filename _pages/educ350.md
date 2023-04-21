@@ -239,7 +239,6 @@ No class: Trinity Spring Break
 
 ### Thu May 4
 - Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, **make sure that you do not have any schedule conflicts**.
-- *Still pending*: possible school visit
 - In-class peer-review of Portfolio 3. Revisions due by Fri May 5th 4pm for instructor evaluation.
 - Reflecting on your teaching trajectory and preparing presentation for guest educators
 
