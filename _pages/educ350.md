@@ -221,17 +221,25 @@ No class: Trinity Spring Break
   - Write a 200-word reflection that compares and contrasts experiences of any two Alumni Video Interviews, due on our [Organizer](https://tinyurl.com/educ350-organizer) by Sun April 16th 9pm, for class participation credit. You are welcome to watch and discuss videos with a classmate. Choose any two, and insert their names and your link
 
 ### Fri April 21
-- Class meets 1:30-4:10pm.
-- In-class practice teaching of Lesson 3 for peer and instructor feedback
+- Class meets 1:30-4:10pm
+- Follow-up on your reflections in [Organizer](https://tinyurl.com/educ350-organizer) about [Ed Studies Alumni Video Interviews](https://www.trincoll.edu/educ/alumni/)
+  - Are recorded video interviews with alumni useful? Or do you strongly prefer real-time (but virtual) interaction? Or opportunities to visit their schools?
+  - If recorded videos have some value, how do you recommend that Ed Studies faculty use them with current students?
+- In-class practice teaching: 2-minute "launch" of Lesson 3 for peer and instructor feedback
+  - Insert any visuals in our [Organizer](https://tinyurl.com/educ350-organizer)
+  - Pitch your 2-minute launch to us as if we were your students
+  - Emphasize your higher-level "guiding question" and hands-on inquiry
+- Reminder: in web portfolios, remove or blur names of individual elementary students
 
 ### Fri April 28
 - Teach Lesson 3 in Hartford school placement anytime before 3pm
-- Class meets 3:10-4:10pm to share reflections.
+- Class meets 3:10-4:10pm to share reflections
+- Write thank-you email to your teacher (with cc: to me) and link to your portfolio
 - Start writing Portfolio 3, due Thursday May 4 by 10am for peer-review.
 
 ### Thu May 4
 - Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, **make sure that you do not have any schedule conflicts**.
-- *Pending*: possible school visit
+- *Still pending*: possible school visit
 - In-class peer-review of Portfolio 3. Revisions due by Fri May 5th 4pm for instructor evaluation.
 - Reflecting on your teaching trajectory and preparing presentation for guest educators
 
