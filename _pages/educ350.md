@@ -211,6 +211,7 @@ No class: Trinity Spring Break
 
 ### Fri April 14
 - Class meets 1:30-4:10pm
+- Effective today, face masks are optional in class
 - Reminder: HPS schools closed for spring break, Mon-Fri April 10-14
 - Lesson 3
   - Draft due on [Organizer](https://tinyurl.com/educ350-organizer) by Fri 12 noon
