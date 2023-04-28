@@ -243,9 +243,10 @@ No class: Trinity Spring Break
   - Recommended: In your resume, create entry for "math/sci workshop instructor" with link to your portfolio, to demonstrate skills to prospective employers and graduate schools.
   - Recommended: Continue to expand your portfolio by adding other work and skills, such as summaries and links to research projects, etc.
 - Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
+- Any questions about course and advisor changes for 2023-24?
 
 ### Thu May 4
-- Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, **make sure that you do not have any schedule conflicts**.
+- Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, *make sure that you do not have any schedule conflicts*.
 - In-class peer-review of Portfolio 3. Revisions due by Sun May 7th 9pm for instructor evaluation.
 - WordPress skills:
   - How to add new items to appear in your menu
