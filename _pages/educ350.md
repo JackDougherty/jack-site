@@ -253,7 +253,7 @@ No class: Trinity Spring Break
   - How to change the URL web address after you have published a page
   - How to insert anchor links to jump to a specific location on a page
   - Reminder: remove or blur full names of K-12 students, but first initials are fine
-- Finish your Teaching reflections: Write a rich reflection (at least 300 words) that shows evidence of how you have grown as an educator this semester, with images and/or links to selected highlights in your web portfolios. Due Monday May 8 by 12 noon at links below, in order to share with guest evaluators one day before our event.
+- Finish your Teaching reflections: Write a rich reflection (at least 300 words) that shows evidence of how you have grown as an educator this semester, with images and/or links to selected highlights in your web portfolios. Due Monday May 8 by 12 noon at the links below, in order to share with guest evaluators one day before our event.
   - Jack D <https://jackdougherty.org/2023/05/08/reflections-educ350/>
   - Jess C <https://jessicacruz.domains.trincoll.edu/teaching/>
   - Alberlis H <https://alberlishernandez.domains.trincoll.edu/teaching/>
