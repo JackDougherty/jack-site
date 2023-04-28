@@ -236,16 +236,22 @@ No class: Trinity Spring Break
 - Teach Lesson 3 in Hartford school placement anytime before 3pm
 - Class meets 3-4pm to share reflections
 - Write thank-you email to your teacher (with cc: to me) and link to your portfolio
-- Start writing Portfolio 3, link due on [Organizer](https://tinyurl.com/educ350-organizer) by Thursday May 4 by 10am for peer-review, with revisions due by Fri May 5th 4pm for instructor evaluation.
-- Start drafting your Teaching reflections (see details below)
+- Start writing Portfolio 3, link due on [Organizer](https://tinyurl.com/educ350-organizer) by Thursday May 4 by 10am for peer-review, with revisions due by *Sun May 7th 9pm* for instructor evaluation.
+- Brainstorm and start writing your Teaching reflections (details below)
+- Decisions to make about your Web Portfolio:
+  - Insert your full name (recommended), or you have the right to use only your first name or initials, or delete after May 9th. See what other students did in my "[Public Writing and Student Privacy](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/)" chapter of [Web Writing](https://webwriting.trincoll.edu) book (2015).
+  - Recommended: In your resume, create entry for "math/sci workshop instructor" with link to your portfolio, to demonstrate skills to prospective employers and graduate schools.
+  - Recommended: Continue to expand your portfolio by adding other work and skills, such as summaries and links to research projects, etc.
+- Keep in touch: See [my Advising page](https://jackdougherty.org/advising/) on "How to request a reference or recommendation letter"
 
 ### Thu May 4
 - Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, **make sure that you do not have any schedule conflicts**.
-- In-class peer-review of Portfolio 3. Revisions due by Fri May 5th 4pm for instructor evaluation.
-- WordPress skills
+- In-class peer-review of Portfolio 3. Revisions due by Sun May 7th 9pm for instructor evaluation.
+- WordPress skills:
   - How to add new items to appear in your menu
   - How to change the URL web address after you have published a page
   - How to insert anchor links to jump to a specific location on a page
+  - Reminder: remove or blur full names of K-12 students, but first initials are fine
 - Finish your Teaching reflections: Write a rich reflection (at least 300 words) that shows evidence of how you have grown as an educator this semester, with images and/or links to selected highlights in your web portfolios. Due Monday May 8 by 12 noon at links below, in order to share with guest evaluators one day before our event.
   - Jack D <https://jackdougherty.org/2023/05/08/reflections-educ350/>
   - Jess C <https://jessicacruz.domains.trincoll.edu/teaching/>
