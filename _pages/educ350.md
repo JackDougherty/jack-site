@@ -234,14 +234,29 @@ No class: Trinity Spring Break
 
 ### Fri April 28
 - Teach Lesson 3 in Hartford school placement anytime before 3pm
-- Class meets 3:10-4:10pm to share reflections
+- Class meets 3-4pm to share reflections
 - Write thank-you email to your teacher (with cc: to me) and link to your portfolio
-- Start writing Portfolio 3, due Thursday May 4 by 10am for peer-review.
+- Start writing Portfolio 3, link due on [Organizer](https://tinyurl.com/educ350-organizer) by Thursday May 4 by 10am for peer-review, with revisions due by Fri May 5th 4pm for instructor evaluation.
+- Start drafting your Teaching reflections (see details below)
 
 ### Thu May 4
 - Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, **make sure that you do not have any schedule conflicts**.
 - In-class peer-review of Portfolio 3. Revisions due by Fri May 5th 4pm for instructor evaluation.
-- Reflecting on your teaching trajectory and preparing presentation for guest educators
+- WordPress skills
+  - How to add new items to appear in your menu
+  - How to change the URL web address after you have published a page
+  - How to insert anchor links to jump to a specific location on a page
+- Finish your Teaching reflections: Write a rich reflection (at least 300 words) that shows evidence of how you have grown as an educator this semester, with images and/or links to selected highlights in your web portfolios. Due Monday May 8 by 12 noon at links below, in order to share with guest evaluators one day before our event.
+  - Jack D <https://jackdougherty.org/2023/05/08/reflections-educ350/>
+  - Jess C <https://jessicacruz.domains.trincoll.edu/teaching/>
+  - Alberlis H <https://alberlishernandez.domains.trincoll.edu/teaching/>
+  - Sloane L <https://slatimer.domains.trincoll.edu/teaching/>
+  - Sonia L <https://yantungsonialau.domains.trincoll.edu/teaching/>
+  - Maria M <https://mariamarkosyan.domains.trincoll.edu/teaching/>
+  - Xavier M <https://xaviermercado.domains.trincoll.edu/teaching>
+  - Marie N <https://marienaka.domains.trincoll.edu/teaching/>
+  - Maria V <https://mariavicuna.domains.trincoll.edu/teaching/>
+  - Shelley X <https://shelleyxia.domains.trincoll.edu/teaching/>
 
 ### Tues May 9
-- Presentations and Q&A with guest evaluators from 3-5pm (during our final exam slot).  Students will deliver a 7-minute presentation of their teaching trajectory, emphasizing how they have grown as educators, with selected highlights from their public web portfolios. Guest evaluators: Professors Kyle Evans (Mathematics) Britney Jones (Ed Studies). Worth 20 points.
+- Presentations and Q&A with guest evaluators from 3-5pm (during our final exam slot) in McCook 201 conference room. Students will deliver a 5-minute presentation based on their Teaching reflections, emphasizing how they have grown as educators, and featuring selected highlights from their public web portfolios. Guest evaluators: Professors Kyle Evans (Mathematics) Britney Jones (Ed Studies). Worth 20 points.
