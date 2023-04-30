@@ -235,7 +235,7 @@ No class: Trinity Spring Break
 ### Fri April 28
 - Teach Lesson 3 in Hartford school placement anytime before 3pm
 - Class meets 3-4pm to share reflections
-- Write thank-you email to your teacher (with cc: to me) and link to your portfolio, no later than May 4th for participation grade
+- Write thank-you email to your teacher (with cc: to me), including 1-2 paragraphs of reflections and link to your portfolio, no later than May 4th for participation grade
 - Start writing Portfolio 3, link due on [Organizer](https://tinyurl.com/educ350-organizer) by Thursday May 4 by 10am for peer-review, with revisions due by *Sun May 7th 9pm* for instructor evaluation.
 - Brainstorm and start writing your Teaching reflections (details below)
 - Decisions to make about your Web Portfolio:
