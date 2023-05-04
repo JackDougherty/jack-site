@@ -248,13 +248,13 @@ No class: Trinity Spring Break
 ### Thu May 4
 - Class meets 1:30-4:10pm. Since the College decided that our last "Friday" class meets on Thur May 4, *make sure that you do not have any schedule conflicts*.
 - Return all tripods
-- In-class peer-review of Portfolio 3. Revisions due by Sun May 7th 9pm for instructor evaluation.
-- WordPress skills:
-  - How to add new items to appear in your menu
-  - How to change the URL web address after you have published a page
-  - How to insert anchor links to jump to a specific location on a page
+- WordPress skills with [Jack Sample demo site](https://jackdougherty.domains.trincoll.edu)
+  - Remember to add new items to appear in your menu
+  - How to change a URL web address after publishing a page
+  - Create an anchor links to jump to a specific section of a page
   - Reminder: remove or blur full names of K-12 students, but first initials are fine
-- Finish your Teaching reflections: Write a rich reflection (at least 300 words) that shows evidence of how you have grown as an educator this semester, with images and/or links to selected highlights in your web portfolios. Due Monday May 8 by 12 noon at the links below, in order to share with guest evaluators one day before our event.
+- In-class peer-review of Portfolio 3. Revisions due by Sun May 7th 9pm for instructor evaluation.
+- Writing our Teaching Reflections: *Show Us Your Learning about Building Thinking Classrooms* Write a rich reflection (at least 300 words) that highlights key themes and persuasive evidence of how you have grown as an educator this semester, with images and/or links to selected highlights in your web portfolios. One or more themes should emphasize what you learned about *building thinking classrooms* with your curriculum design and teaching skills this semester. Due Monday May 8 by 12 noon at the links below, in order to share with guest evaluators one day before our event.
   - Jack D <https://jackdougherty.org/2023/05/08/reflections-educ350/>
   - Jess C <https://jessicacruz.domains.trincoll.edu/teaching/>
   - Alberlis H <https://alberlishernandez.domains.trincoll.edu/teaching/>
