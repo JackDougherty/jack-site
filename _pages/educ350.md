@@ -254,7 +254,13 @@ No class: Trinity Spring Break
   - Create an anchor links to jump to a specific section of a page
   - Reminder: remove or blur full names of K-12 students, but first initials are fine
 - In-class peer-review of Portfolio 3. Revisions due by Sun May 7th 9pm for instructor evaluation.
-- Writing our Teaching Reflections: *Show Us Your Learning about Building Thinking Classrooms* Write a rich reflection (at least 300 words) that highlights key themes and persuasive evidence of how you have grown as an educator this semester, with images and/or links to selected highlights in your web portfolios. One or more themes should emphasize what you learned about *building thinking classrooms* with your curriculum design and teaching skills this semester. Due Monday May 8 by 12 noon at the links below, in order to share with guest evaluators one day before our event.
+- Writing our Teaching Reflections: *Show Us Your Learning about Building Thinking Classrooms*. See details below. Due Monday May 8 by 12 noon at the links below, in order to share with guest evaluators one day before our event.
+
+### Tues May 9
+- Teaching Reflections: Show Us Your Learning about Building Thinking Classrooms. Presentations and Q&A with guest evaluators from 3-5pm (during our final exam slot) in McCook 201 conference room.
+- Each student will deliver a 5-minute presentation of their Teaching Reflections, based on their web post (at least 300 words) that highlights key themes and persuasive evidence of how you have grown as educators this semester, with images and/or links to selected highlights in your three teaching portfolios. One or more themes should emphasize what you learned about *building thinking classrooms* with your curriculum design and teaching skills this semester.
+- After each presentation, up to 5 minutes of Q&A will be led by our guest evaluators: Professors Kyle Evans (Mathematics) and Britney Jones (Ed Studies). Guests will be asked to assess depth and growth in your Teaching Reflection, not using any rubric, but knowing that we previously assessed your three lesson plans and web portfolios using these [Evaluation Criteria](https://docs.google.com/document/d/1o1yaOXO7u8W5RVyDelTuHsrWI2g8Q22bS9APMuCtOQU/edit). Worth 20 points.
+- Teaching Reflections (completed by Mon May 8th at 12 noon)
   - Jack D <https://jackdougherty.org/2023/05/08/reflections-educ350/>
   - Jess C <https://jessicacruz.domains.trincoll.edu/teaching/>
   - Alberlis H <https://alberlishernandez.domains.trincoll.edu/teaching/>
@@ -265,6 +271,3 @@ No class: Trinity Spring Break
   - Marie N <https://marienaka.domains.trincoll.edu/teaching/>
   - Maria V <https://mariavicuna.domains.trincoll.edu/teaching/>
   - Shelley X <https://shelleyxia.domains.trincoll.edu/teaching/>
-
-### Tues May 9
-- Presentations and Q&A with guest evaluators from 3-5pm (during our final exam slot) in McCook 201 conference room. Students will deliver a 5-minute presentation based on their Teaching reflections, emphasizing how they have grown as educators, and featuring selected highlights from their public web portfolios. Guest evaluators: Professors Kyle Evans (Mathematics) Britney Jones (Ed Studies). Worth 20 points.
