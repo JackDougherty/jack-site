@@ -45,7 +45,7 @@ Sloane Latimer designed and led 7th grade science workshops on multiple topics. 
 
 Sonia Lau created and taught three hands-on science lessons with different 5th grade classrooms. [In Sonia's second lesson on phases of the Moon](https://yantungsonialau.domains.trincoll.edu/lesson-2-ahh-it-is-so-bright/), students moved spheres in their orbits around a bright light, representing the Sun, to simulate how we on Earth perceive light to create different phases: new moon to half moon to full moon.
 
-{% include figure image_path="images/2023/sonia-lau.jpg" caption="Sloane Lau and her students move spheres in orbit around a bright bulb to represent the sun lighting up phases of the moon as perceived from earth." %}
+{% include figure image_path="images/2023/sonia-lau.png" caption="Sonia Lau and her students move spheres in orbit around a bright bulb to represent the sun lighting up phases of the moon as perceived from earth." %}
 
 Maria Markosyan designed and led hands-on workshops that emphasized scientific thinking with 4th grade students. [In their first lesson on creating energy with renewable resources](https://mariamarkosyan.domains.trincoll.edu/lesson-1/), students compared the pros and cons of powering small bulbs and motors with hand-crank generators, batteries, and mini solar cells.
 
