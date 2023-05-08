@@ -1,6 +1,6 @@
 ---
 title: 'Reflections on Teaching Educ 350: Writing the Essay Assigned to My Teaching & Learning Students'
-date: 2023-04-28
+date: 2023-05-08
 permalink: /2023/05/08/reflections-educ350/
 categories:
   - teaching
@@ -9,27 +9,20 @@ categories:
   - Hartford
   - community engagement
 ---
-*When assigning the final reflective essay to students in my [Educ 350: Teaching and Learning](https://jackdougherty.org/educ350) course at Trinity College, I decided to place myself in their role and write my own reflections about my growth as an educator this semester. See also [my related essay from May 2019](https://jackdougherty.org/2019/05/01/facing-mirror-educ350/)*
+*When assigning the final essay in our [Educ 350: Teaching and Learning](https://jackdougherty.org/educ350) course at Trinity College, I decided to place myself in the students' role and also write my own response. Our assignment was titled "Teaching Reflections: Show Us Your Learning about Building Thinking Classrooms," which asked us to highlight key themes and show persuasive evidence on our growth as educators this semester, with an emphasis on building thinking classrooms through our developing skills in curriculum design and teaching. In my case, I'm focusing on what I learned while teaching our Educ 350 class this semester. See also [my related essay from May 2019](https://jackdougherty.org/2019/05/01/facing-mirror-educ350/)*
 
-DRAFT THEMES on Show Us the Learning: Building Thinking Classrooms
+In Spring 2023 I had the opportunity to offer one of my favorite courses with Trinity undergraduates, [Educ 350: Teaching and Learning](https://jackdougherty.org/educ350). While many of my more conventional courses require students to *analyze* schools and systems through syllabus readings and participant-observation, in Educ 350 students advance their higher-order thinking by *designing, teaching, and creating web portfolios* of three inquiry-based math or science workshops requested by Grade 3-7 teachers at two partnering Hartford public schools: Expeditional Learning Academy at Moylan School (ELAMS) and Environmental Science Magnet at Mary Hooker School (ESM).
 
-TODO: Introduce readers to my Trinity course design and how students were assigned to design, teach, and create web portfolios on three math or science lessons they created for Hartford G3-7 classrooms. Emphasize these aspects:
+The last time I taught Educ 350 was in Spring 2019, and the Covid pandemic and prolonged recovery made it more challenging than usual to set up the course. Many thanks to our Hartford school coordinators Jenifer Doherty (ELAMS) and Kellie Wagner (EMS) for kindly agreeing to recruit classroom teachers, especially during this period of increased stress and high turnover. I'm very grateful to all who made time and space available to help my students learn how to develop their skills as novice educators, especially since Trinity has no official teacher preparation program (this is a standalone elective course) and our Ed Studies budget has very limited resources to offer (about $200 per coordinator and a $20 gift card for each teacher). I'm intentionally including the dollar amount here to reveal -- with embarrassment -- how little of Trinity's $140 million budget is allocated to support this course. But the educational benefits to Trinity students are tremendous, in my view. This essay will highlight three themes that stand out when reflecting on what I've learned as an educator this semester:
 
-- inquiry-based discovery learning and building thinking classrooms
-- pandemic recovery challenges: Trinity students had less experience in Hartford classrooms, and Hartford teachers had more stress than usual
+## Building Pedagogical Thinking through Public Web Portfolios
+Readers who already know me will recognize that I'm a strong believer in students sharing their writing on the public web, with protections for individual student privacy, a theme previously discussed in [my chapter in Web Writing](https://epress.trincoll.edu/webwriting/chapter/dougherty-public/) (U of Michigan Press, 2015). In this course, students created web portfolios to document their intellectual work as teachers, including lesson plans, images and videos of classroom learning, and their reflections on what worked and what they might do differently next time.
 
-## Highlights from Trinity Student Teaching Portfolios
-One lesson I previously learned before this semester is the value of students sharing their work on the public web.
-Quote from Web Writing chapter, and also point out privacy issues, meaning that students own their words
+This semester I discovered a deeper analogy in one of our new syllabus readings, Peter Liljedahl's *Building Thinking Classrooms in Mathematics* (Corwin 2021). Liljedahl advances fourteen teaching practices that enhance learning, based on his extensive classroom research. One example is using vertical non-permanent writing surfaces (aka whiteboards) to make students' *mathematical thinking* more visible for classroom discussion and contrasting different ways to approach problems. Now I realize that assigning my Trinity students to create public web portfolios of their teaching, and enriching drafts through peer review, makes their *pedagogical thinking* more visible, not just in our classroom, but to anyone on the web.
 
-When our Educ 350 class read Peter L's Building Thinking Classrooms, one parallel that stood out is his emphasis on using vertical non-permanent writing surfaces (aka whiteboards) to make students' *mathematical thinking* more visible in the classroom. In one sense, requiring my Trinity students to create public web portfolios of their teaching makes their *pedagogical thinking* more visible, not just in our classroom, but to anyone on the web, including their future prospective employers or graduate programs.
+In addition, this semester I have emphasized to my students that their teaching portfolios are highly valuable evidence of their teaching work, especially for future employers or graduate programs. Teaching skills are not easily captured in a traditional essay or recommendation letter, but their web portfolios do far better because they are enriched with their lesson plans, images and excerpts from sample student assessments, short video clips of classroom learning in action, and the wisdom accumulated through reflection. Realizing the value of their web portfolios, I incorporated a new final assignment this semester, where students write their own "Teaching Reflection" introduction to their web portfolio and present it to a pair of guest expert evaluators.
 
-
-
-
-
-Show highlights from each Trinity student here (with one-sentence summary and screenshot of one class)
-
+Highlights from each of my nine Trinity students' portfolios: 
 
 Jessica Cruz designed and led a series of mathematics workshops on adding and subtracting decimals with 5th grade students. [In Jess's final workshop](https://jessicacruz.domains.trincoll.edu/lesson-3-feed-the-monster-let-the-beast-feast/), her class played two different math games, each using word problems written by students, to compare differences between the games and to evaluate which most helped to improve their learning.
 
