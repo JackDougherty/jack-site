@@ -1,5 +1,5 @@
 ---
-title: 'Reflections on Teaching Educ 350: Writing the Essay Assigned to My Teaching & Learning Students'
+title: 'Reflections on Teaching Educ 350: Writing the Essay Assigned to My Students'
 date: 2023-05-08
 permalink: /2023/05/08/reflections-educ350/
 categories:
@@ -34,7 +34,7 @@ Alberlis Hernandez created and taught three hands-on inquiry-based 5th grade sci
 
 Sloane Latimer designed and led 7th grade science workshops on multiple topics. In [Sloane's final lesson on renewable energy](https://slatimer.domains.trincoll.edu/lesson-3/), she led her students in comparing renewable energy collected from mini solar panels to power a small motor versus non-renewable energy stored inside a battery.
 
-{% include figure image_path="images/2023/sloane-latimer.jpg" caption="Sloane Latimer (top) guides her students in comparing renewable energy from mini solar panels (bottom left) versus non-renewable energy from a battery (bottom right)." %}
+{% include figure image_path="images/2023/sloane-latimer.jpg" caption="Sloane Latimer (left) guides her students in comparing renewable energy from mini solar panels versus non-renewable energy from a battery (bottom right)." %}
 
 Sonia Lau created and taught three hands-on science lessons with different 5th grade classrooms. [In Sonia's second lesson on phases of the Moon](https://yantungsonialau.domains.trincoll.edu/lesson-2-ahh-it-is-so-bright/), students moved spheres in their orbits around a bright light, representing the Sun, to simulate how we on Earth perceive light to create different phases: new moon to half moon to full moon.
 
@@ -50,15 +50,15 @@ Xavier Mercado innovated with different strategies to help 4th grade students ad
 
 Marie Naka created three different hands-on science lessons to promote deeper scientific thinking with 4th grade students. [In Marie's final lesson on the Eggciting Eggsperiment](https://marienaka.domains.trincoll.edu/lesson-3-eggciting-eggsperiment/), students tested different strategies to reduce the effect of gravity on a falling egg, using materials such as cotton balls and popsicle sticks.  
 
-{% include figure image_path="images/2023/marie-naka.jpg" caption="Marie Naka (bottom) guides students on testing different ways to cushion a falling egg from the impact of gravity." %}
+{% include figure image_path="images/2023/marie-naka.jpg" caption="Marie Naka (right) guides students on testing different ways to cushion a falling egg from the impact of gravity." %}
 
 Maria Vicuña innovated with strategies for teaching mathematical thinking with 4th grade students. [In Maria's second lesson on equivalent fractions](https://mariavicuna.domains.trincoll.edu/equivalent-fractions/), she created color-coded fraction bars to help students visualize equal proportions of fractions with different numerators and denominators.
 
-{% include figure image_path="images/2023/maria-vicuna.jpg" caption="Maria Vicuña leads students through a hands-on inquiry to visualize equivalent fractions." %}
+{% include figure image_path="images/2023/maria-vicuna.jpg" caption="Maria Vicuña (left) leads students through a hands-on inquiry to visualize equivalent fractions." %}
 
 Shelley Xia created and taught three different workshops to promote deeper scientific thinking with 4th grade students. [In Shelley's final lesson on earthquakes](https://shelleyxia.domains.trincoll.edu/lesson-3/), she led students through an activity to design, build, and test earthquake-resistant structures using model buildings they constructed and experimented with on a "shake table."
 
-{% include figure image_path="images/2023/shelley-xia.jpg" caption="Shelley Xia (top) guides students through a hands-on experiment on designing model structures to resist earthquakes." %}
+{% include figure image_path="images/2023/shelley-xia.jpg" caption="Shelley Xia (left) guides students through a hands-on experiment on designing model structures to resist earthquakes." %}
 
 ## From Traditional to Inquiry-Based Teaching and Learning
 Newer educators often mimic behaviors -- positive or negative -- that their own teachers have ingrained into their minds through continuous repetition during twelve or more years of schooling. Since many "traditional" teaching methods do not necessarily spark thinking classrooms (Liljedahl 2021), I consciously try to model different inquiry-based approaches and identify exemplary math and science teaching resources during the first few weeks [in our Educ 350 syllabus](https://jackdougherty.org/educ350), when students are preparing their first lessons. For example, at the start of each of the first three classes, we did inquiry-based lessons with guiding questions, such as: 1) Can you light up a light bulb? (about electrical circuits); 2) How much did the temperature drop? (about negative and positive numbers); 3) Growing Shapes (adapted from Jo Boaler, Mathematical Mindsets).
