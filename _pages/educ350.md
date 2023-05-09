@@ -267,7 +267,7 @@ No class: Trinity Spring Break
   - Sloane L <https://slatimer.domains.trincoll.edu/teaching/>
   - Sonia L <https://yantungsonialau.domains.trincoll.edu/teaching/>
   - Maria M <https://mariamarkosyan.domains.trincoll.edu/teaching/>
-  - Xavier M <https://xaviermercado.domains.trincoll.edu/teaching> or [this link](https://xaviermercado.domains.trincoll.edu/teaching-2/)
+  - Xavier M <https://xaviermercado.domains.trincoll.edu/teaching>
   - Marie N <https://marienaka.domains.trincoll.edu/teaching/>
   - Maria V <https://mariavicuna.domains.trincoll.edu/teaching/>
   - Shelley X <https://shelleyxia.domains.trincoll.edu/teaching/>
