@@ -1,7 +1,7 @@
 ---
 title: "Educ 350: Teaching and Learning"
 permalink: /educ350/
-date: 2023-01-27
+date: 2023-05-09
 toc: true
 toc_label: "Contents"
 toc_sticky: true
