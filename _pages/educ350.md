@@ -38,7 +38,7 @@ Students will prepare three inquiry-based math or science lesson plans, on topic
 After teaching each workshop, students will create a public web portfolio with narrative, video, and images of their lesson plan, reflections on their teaching experience, and ways to improve for next time. Students have the right to remove their web content after the course, or keep it online to share as part of their resume for future employment or graduate school. (3 portfolios x 10 points = 30 points)
 
 #### B. Guest Educator Panel Evaluation
-Students will deliver an 8-minute presentation of selected highlights from their public web portfolio, to be evaluated by a panel of experienced guest educators. This event will be scheduled during our final exam time slot on Tuesday May 9th from 3-6pm. (20 points)
+Students will deliver a 5-minute presentation of selected highlights from their public web portfolio, to be evaluated by a panel of experienced guest educators. This event will be scheduled during our final exam time slot on Tuesday May 9th from 3-6pm. (20 points)
 
 #### C. Class Exercises and Participation
 To encourage active learning and accountability, each student begins the course with 20 participation points. During class, you may be randomly called on to discuss a concept in our reading, share your responses to a pre-assigned exercise, or peer-review writing by another student. If you are not present or not able to participate when called upon, 2 points will be deducted from your participation score. Exceptions are granted only for documented health or family emergencies, or scheduling conflicts where you have notified me well in advance. (20 points)
