@@ -107,7 +107,7 @@ author:
       url: "https://jackdougherty.youcanbook.me"
     - label: "Mastodon"  #Custom verification: _includes/head/custom.html
       icon: "fab fa-fw fa-mastodon"
-      url: "https://vis.social/@jackdougherty"
+      url: "https://urbanists.social/@jackdougherty"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jackdougherty"
