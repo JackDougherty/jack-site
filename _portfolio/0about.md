@@ -8,7 +8,7 @@ excerpt: "Partnering with students and community to explore metropolitan Hartfor
 ---
 Jack Dougherty is Professor and Director of the [Educational Studies Program](http://trincoll.edu/educ) at Trinity College. He works with students and community partners to explore cities, suburbs, and schools in metropolitan Hartford, Connecticut, using the tools of digital history and data visualization.
 
-See [Jack Dougherty's CV](https://bit.ly/cv-jack-dougherty) and [Trinity faculty profile](https://internet3.trincoll.edu/FacProfiles/default.aspx?fid=1004266&tid=0) and [web posts](https://jackdougherty.org/posts/).<a rel="me" href="https://urbanists.social/@jackdougherty"></a><!-- Mastodon link-->
+See [Jack Dougherty's CV](https://bit.ly/cv-jack-dougherty) and [Trinity faculty profile](https://internet3.trincoll.edu/FacProfiles/default.aspx?fid=1004266&tid=0) and [web posts](https://jackdougherty.org/posts/).
 
 Jack received his B.A. in philosophy from Swarthmore College, taught high school social studies in Newark, New Jersey, then earned his Ph.D. in educational policy studies, with a minor in U.S. history, from the University of Wisconsin-Madison. He arrived at Trinity College in 1999 to direct the Educational Studies Program and establish its interdisciplinary major. He also co-created the [Liberal Arts Action Lab](http://action-lab.org) and served as its first Faculty Director (2017-2020), and also led the team that launched the [Center for Hartford Engagement and Research (CHER)](https://www.trincoll.edu/cher/) and served as its first Director (2018-2020).
 
@@ -33,5 +33,3 @@ As the inaugural Director of the [Center for Hartford Engagement and Research](h
 - expansion of professional development for faculty who teach Community Learning courses that connect with the city
 - richer assessment of the quality of Trinity's engagement with Hartford through community partner focus groups and neighborhood resident door-to-door interviews in Spanish and English
 - improved communications between campus and the community through social media, videos, and monthly newsletter
-
-As the saying goes, all work and no play makes Jack a dull boy, so follow along on his adventures at [JackBikes.org](http://jackbikes.org).
