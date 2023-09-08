@@ -1,7 +1,7 @@
 ---
 title: "Advising"
 permalink: /advising/
-date: 2023-01-21
+date: 2023-09-03
 excerpt: "Guidance for undergraduates at Trinity College, Hartford CT"
 header:
   teaser: /images/portfolio/edstudies-600x400.jpg
