@@ -1,5 +1,5 @@
 ---
-title: 'When Your Professor Welcomes You to Address Them by Their First Name'
+title: 'My Response to Miss Manners on Professors and First Names'
 date: 2023-10-02
 permalink: /2023/10/02/professor-by-first-name/
 categories:
@@ -32,5 +32,7 @@ As one of *those* professors who welcomes students to call me by my first name, 
 Why do I prefer for students to call me by my first name? The answer is a mix of personal tradition and treating young people as the adults that we expect them to become. Looking back at my own undergraduate education, many faculty who genuinely listened and taught me how to think more clearly also invited me to address them by their first names. Not all did this, of course, but remembering those who did and how it made me feel as an adult, I wish to respect and continue that tradition.
 
 Furthermore, if I was trying to be *with it*, as you say, I probably would not have assigned a 20+ page syllabus with weekly quizzes and demanding standards for academic assignments. But that's what learning looks like in my classroom: a combination of high expectations, authentic learning, and addressing each other on a first-name basis.
+
+If we can respect why people prefer to be addressed with they/them pronouns, it's not too hard to understand why some prefer to be called by their first name. Time to get *with it*, Miss Manners, and no one is asking you to change your name.
 
 - Jack Dougherty
