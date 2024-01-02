@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-date: 2023-09-01
+date: 2024-01-02
 header:
   teaser: /images/portfolio/about-600x400.jpg
 excerpt: "Partnering with students and community to explore metropolitan Hartford through digital history and data visualization"

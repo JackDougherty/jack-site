@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-date: 2023-09-02
+date: 2024-01-02
 header:
   teaser: /images/portfolio/teaching-600x400.jpg
 excerpt: "Courses in Cities, Suburbs & Schools; Education Reform; Data Visualization"
