@@ -1,7 +1,7 @@
 ---
 title: "Hands-On DataViz"
 permalink: /hodv/
-date: 2023-09-05
+date: 2024-01-06
 excerpt: "Open-access book with co-author Ilya Ilyankou, published by O'Reilly Media"
 redirect_to:
   - https://handsondataviz.org
