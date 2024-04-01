@@ -11,3 +11,17 @@
     margin-bottom: 0;
     border-bottom: 0;
 }
+
+.img-75 {
+  width: 75%;
+  border-radius: $border-radius;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+}
+
+.img-50 {
+  width: 50%;
+  border-radius: $border-radius;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+}
