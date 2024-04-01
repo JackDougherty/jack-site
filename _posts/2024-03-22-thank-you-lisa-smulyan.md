@@ -9,7 +9,7 @@ categories:
 ---
 *A thank-you letter to Lisa Smulyan, who taught me as an undergraduate in the Education Program at Swarthmore College, in celebration of her retirement.*
 
-{% include figure image_path="images/2024/thank-you-lisa-from-jack.jpg" caption="Thank you Lisa Smulyan for caring and guiding me to think and write more clearly." style="float: right; height: 50%; width: 50%" %}
+{% include figure image_path="images/2024/thank-you-lisa-from-jack.jpg" caption="Thank you Lisa Smulyan for caring and guiding me to think and write more clearly." %}{: .align-center style="width:75%;"}
 
 Dear Lisa,
 
