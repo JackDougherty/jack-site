@@ -6,7 +6,7 @@ header:
   teaser: /images/portfolio/about-600x400.jpg
 excerpt: "Partnering with students and community to explore metropolitan Hartford through digital history and data visualization"
 ---
-Jack Dougherty is Professor and Director of the [Educational Studies Program](http://trincoll.edu/educ) at Trinity College. He works with students and community partners to explore cities, suburbs, and schools in metropolitan Hartford, Connecticut, using the tools of digital history and data visualization.
+Jack Dougherty is Professor and Director of the [Educational Studies Program](http://trincoll.edu/educ) at Trinity College. He works with students and community partners to analyze the relationship between schooling and housing in the city and suburbs of Hartford, Connecticut, using the tools of digital history and data visualization.
 
 See [Jack Dougherty's CV](https://bit.ly/cv-jack-dougherty) and [Trinity faculty profile](https://internet3.trincoll.edu/FacProfiles/default.aspx?fid=1004266&tid=0) and [web posts](https://jackdougherty.org/posts/).
 
