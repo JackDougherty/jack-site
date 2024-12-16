@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jack Dougherty"
   avatar           : "images/portfolio/jackdougherty2023.jpg"
-  bio              : "Professor and Director of Educational Studies at Trinity College, Hartford CT, USA"
+  bio              : "Professor of Educational Studies at Trinity College, Hartford CT, USA"
   # location         : " "
   # email            : " "
   links:
@@ -105,9 +105,9 @@ author:
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://jackdougherty.youcanbook.me"
-    - label: "Mastodon"  #Custom verification: _includes/head/custom.html
+    - label: "Mastodon"  #Verification: _pages/portfolio.md
       icon: "fab fa-fw fa-mastodon"
-      url: "https://urbanists.social/@jackdougherty"
+      url: "https://mstdn.social/@jackdougherty"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jackdougherty"
