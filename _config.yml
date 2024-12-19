@@ -105,7 +105,7 @@ author:
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://jackdougherty.youcanbook.me"
-    - label: "Mastodon"  #Verification: _pages/portfolio.md
+    - label: "Mastodon"  #Verification tests: _pages/portfolio.md and custom header
       icon: "fab fa-fw fa-mastodon"
       url: "https://mstdn.social/@jackdougherty"
     - label: "GitHub"
