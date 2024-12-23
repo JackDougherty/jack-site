@@ -2,10 +2,10 @@
 main:
 - title: "About"
   url: /about/
+- title: "Coaching"
+  url: /coaching/
 - title: "Teaching"
   url: /teaching/
-- title: "Advising"
-  url: /advising/
 - title: "Scholarship"
   url: /scholarship/
 - title: "Posts"

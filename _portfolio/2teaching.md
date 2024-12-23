@@ -4,18 +4,17 @@ permalink: /teaching/
 date: 2024-12-23
 header:
   teaser: /images/portfolio/teaching-600x400.jpg
-excerpt: "Data Visualization for All course syllabus and guidance for undergraduates at Trinity College"
+excerpt: "Data Visualization for All syllabus and guidance for undergraduates at Trinity College"
 ---
-{% include figure image_path="images/portfolio/edstudies-600x400.jpg" alt="ed studies senior seminar discussion with virtual guest" %}
 
-## How to reach out
+## Reach out
 - For questions about teaching and advising, email me at [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu).
 - Or schedule a 20-minute Zoom appointment on my [Trinity online calendar](https://jackdougherty.youcanbook.me)
-- To request feedback on a Google Document, set Share to `Anyone Can Comment`, and email the link to my Trinity address (which is not a Google address).
+- To request feedback on a Google Document, change Share settings to *Anyone Can Comment* and email the link to my Trinity address (which is not a Google address).
 - [How to declare your Educational Studies major](https://trincoll.edu/educ/major)
 - [How to request a reference or recommendation letter](http://jackdougherty.org/letter)
 - [Advice on applying to graduate school](http://jackdougherty.org/grad-school)
-- See also my [posts about teaching](https://jackdougherty.org/categories/#teaching) and [posts about advising] for pedagogical resources and personal reflections.
+- See also my [posts about teaching](https://jackdougherty.org/categories/#teaching) and [posts about advising](https://jackdougherty.org/categories/#advising) for pedagogical resources and personal reflections.
 
 ## Current Courses and Syllabi
 - See all courses offered by the [Educational Studies Program](https://trincoll.edu/educ/courses) at Trinity College.
