@@ -1,27 +1,37 @@
 ---
-title: "Teaching"
+title: "Teaching & Advising"
 permalink: /teaching/
-date: 2024-01-03
+date: 2024-12-23
 header:
   teaser: /images/portfolio/teaching-600x400.jpg
-excerpt: "Courses in Cities, Suburbs & Schools; Education Reform; Data Visualization"
+excerpt: "Data Visualization for All course syllabus and guidance for undergraduates at Trinity College"
 ---
-[See also my posts about teaching](https://jackdougherty.org/categories/#teaching) for pedagogical resources and personal reflections.
+{% include figure image_path="images/portfolio/edstudies-600x400.jpg" alt="ed studies senior seminar discussion with virtual guest" %}
 
-See also all courses offered by the [Educational Studies Program](https://trincoll.edu/educ/courses) at Trinity College.
+## How to reach out
+- For questions about teaching and advising, email me at [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu).
+- Or schedule a 20-minute Zoom appointment on my [Trinity online calendar](https://jackdougherty.youcanbook.me)
+- To request feedback on a Google Document, set Share to `Anyone Can Comment`, and email the link to my Trinity address (which is not a Google address).
+- [How to declare your Educational Studies major](https://trincoll.edu/educ/major)
+- [How to request a reference or recommendation letter](http://jackdougherty.org/letter)
+- [Advice on applying to graduate school](http://jackdougherty.org/grad-school)
+- See also my [posts about teaching](https://jackdougherty.org/categories/#teaching) and [posts about advising] for pedagogical resources and personal reflections.
 
-## My Course Syllabi
-
-### Educ 200: Analyzing Schools
-This course introduces the study of schooling within an interdisciplinary framework. Drawing upon sociology, we investigate the resources, structures, and social contexts which influence student opportunities and outcomes in the United States and other countries. Drawing upon psychology, we contrast theories of learning, both in the abstract and in practice. Drawing upon philosophy, we examine competing educational goals and their underlying assumptions regarding human nature, justice, and democracy. In addition, a community learning component, where students observe and participate in nearby K-12 classrooms for three hours per week, will be integrated with course readings and written assignments. Each student must reserve one three-hour block of time in their weekly schedule (anytime between 9am – 3pm weekdays) for a community learning placement in a neighborhood Hartford public school, to be arranged by the instructor during the first week of the course. Enrollment limited to 29. [See my Educ 200 syllabus, Fall 2016](http://jackdougherty.org/educ200).
-{% include figure image_path="images/2016/2016-orientation-ELAMS.jpg" alt="Orientation at ELAMS, 2016" caption="School Placement Orientation at ELAMS, 2016" %}
+## Current Courses and Syllabi
+- See all courses offered by the [Educational Studies Program](https://trincoll.edu/educ/courses) at Trinity College.
 
 ### Educ 206: Data Visualization for All
 How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
 Fulfills requirement in Numerical and Symbolic Reasoning (NUM).   
 Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 See syllabus, partners, and projects at [DataVizForAll.org](https://datavizforall.org)
-{% include figure image_path="images/2021/dataviz-jack-riley.png" alt="dataviz seminar" caption="Sharing draft data stories with Hartford community partners on Zoom, Fall 2021" %}
+{% include figure image_path="images/2024/clj-dataviz-partners.png" alt="dataviz partners" caption="Introducing Hartford community partners from the Center for Leadership and Justice to our DataViz seminar for our affordable housing project" %}
+
+## My Prior Courses & Syllabi
+
+### Educ 200: Analyzing Schools
+This course introduces the study of schooling within an interdisciplinary framework. Drawing upon sociology, we investigate the resources, structures, and social contexts which influence student opportunities and outcomes in the United States and other countries. Drawing upon psychology, we contrast theories of learning, both in the abstract and in practice. Drawing upon philosophy, we examine competing educational goals and their underlying assumptions regarding human nature, justice, and democracy. In addition, a community learning component, where students observe and participate in nearby K-12 classrooms for three hours per week, will be integrated with course readings and written assignments. Each student must reserve one three-hour block of time in their weekly schedule (anytime between 9am – 3pm weekdays) for a community learning placement in a neighborhood Hartford public school, to be arranged by the instructor during the first week of the course. Enrollment limited to 29. [See my Educ 200 syllabus, Fall 2016](http://jackdougherty.org/educ200).
+{% include figure image_path="images/2016/2016-orientation-ELAMS.jpg" alt="Orientation at ELAMS, 2016" caption="School Placement Orientation at ELAMS, 2016" %}
 
 ### Educ 300: Education Reform, Past & Present
 How do we explain the rise and decline of education reform movements? How do we evaluate their level of “success” from different sources of evidence? Drawing upon primary source materials and historical interpretations, this course examines a broad array of elementary, secondary, and higher education reform movements from the mid-nineteenth century to the present, analyzing social, material, and ideological contexts. This intermediate-level seminar explores a topic common to all branches of educational studies from both theoretical and comparative perspectives. Prerequisite: Ed 200 or permission of instructor. Enrollment limited to 24. [See my Educ 300 syllabus on WordPress](http://commons.trincoll.edu/edreform) or a [backup on this site](http://jackdougherty.org/educ300/).

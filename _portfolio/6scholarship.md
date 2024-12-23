@@ -1,7 +1,7 @@
 ---
 title: "Scholarship"
 permalink: /scholarship/
-date: 2024-01-08
+date: 2024-12-23
 header:
   teaser: images/portfolio/cover3Books-600x400.jpg
 excerpt: "Publications (with abstracts) on education and digital history"
@@ -12,6 +12,8 @@ excerpt: "Publications (with abstracts) on education and digital history"
 Dougherty, Jack, and contributors. *On the Line: How Schooling, Housing, and Civil Rights Shaped Hartford and Its Suburbs*. Open-access book-in-progress, under contract with Amherst College Press. <https://OnTheLine.trincoll.edu>. Abstract: Draft edition of a digital-first, open-access, book-in-progress. A history of housing and schooling boundaries that have divided metropolitan Hartford, Connecticut, and the struggles of families and civil rights activists to cross over, redraw, or erase these lines.
 
 ## Publications (in descending chronological order)
+
+Gold, June, David K. Ware, and Jack Dougherty. “Does My Connecticut Property Deed Contain A Racist Covenant?,” outreach website, 2024. https://myctdeed.com.
 
 Dougherty, Jack. “Context: Hartford, CT.” Mapping Inequality: Redlining in New Deal America, third version, December 2023. <https://dsl.richmond.edu/panorama/redlining/map/CT/Hartford/context>. Abstract: Historical overview of US federal government redlining in the Hartford region, adapted from On The Line book-in-progress.
 

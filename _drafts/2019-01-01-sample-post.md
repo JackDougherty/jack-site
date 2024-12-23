@@ -19,6 +19,7 @@ categories:
   - GitHub
   - data visualization
   - web writing
+  - CTData
 ---
 ## Markdown formatting with Minimal Mistakes Jekyll theme
 Text after header appears in new line.  

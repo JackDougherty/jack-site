@@ -1,19 +1,26 @@
 ---
 title: "About"
 permalink: /about/
-date: 2024-01-02
+date: 2024-12-23
 header:
   teaser: /images/portfolio/about-600x400.jpg
-excerpt: "Partnering with students and community to explore metropolitan Hartford through digital history and data visualization"
+excerpt: "Partnering with CT nonprofits and Trinity students on data visualization and storytelling"
 ---
-Jack Dougherty is Professor and Director of the [Educational Studies Program](http://trincoll.edu/educ) at Trinity College. He works with students and community partners to analyze the relationship between schooling and housing in the city and suburbs of Hartford, Connecticut, using the tools of digital history and data visualization.
+Jack Dougherty works half-time at the Connecticut Data Collaborative ([CTData.org](https://ctdata.org)) and half-time at Trinity College in Hartford CT.
+
+As a member of the [CTData Strategic Planning team](https://ctdata.org/our-team), Jack coaches nonprofits and public agencies on effectively using data and storytelling to achieve their goals.
+
+At Trinity College, Jack is Professor of [Educational Studies](https://trincoll.edu/educ), where he and his students have collaborated with Hartford-area partners on education, housing, and data visualization projects since 1999.
+
+He completed his undergraduate degree at Swarthmore College and earned his Ph.D. in educational policy studies at the University of Wisconsin-Madison. When not in front of a computer, you'll likely find [Jack on his bike](https://jackbikes.org) in the Hartford area or on one of his longer-distance adventures.
 
 ![Jack Dougherty photo](/images/portfolio/jackdougherty2023.jpg)    
 [download photo](https://jackdougherty.org/images/portfolio/jackdougherty2023.jpg)
 
 See [Jack Dougherty's CV](https://bit.ly/cv-jack-dougherty) and [Trinity faculty profile](https://internet3.trincoll.edu/FacProfiles/default.aspx?fid=1004266&tid=0) and [web posts](https://jackdougherty.org/posts/).
 
-Jack received his B.A. in philosophy from Swarthmore College, taught high school social studies in Newark, New Jersey, then earned his Ph.D. in educational policy studies, with a minor in U.S. history, from the University of Wisconsin-Madison. He arrived at Trinity College in 1999 to direct the Educational Studies Program and establish its interdisciplinary major. He also co-created the [Liberal Arts Action Lab](http://action-lab.org) and served as its first Faculty Director (2017-2020), and also led the team that launched the [Center for Hartford Engagement and Research (CHER)](https://www.trincoll.edu/cher/) and served as its first Director (2018-2020).
+## Additional biography
+Jack received his B.A. in philosophy from Swarthmore College, taught high school social studies in Newark, New Jersey, then earned his Ph.D. in educational policy studies, with a minor in U.S. history, from the University of Wisconsin-Madison. He arrived at Trinity College in 1999 to direct the Educational Studies Program and establish its interdisciplinary major. He also co-created the [Liberal Arts Action Lab](https://action-lab.org) and served as its first Faculty Director (2017-2020), and also led the team that launched the [Center for Hartford Engagement and Research (CHER)](https://www.trincoll.edu/cher/) and served as its first Director (2018-2020).
 
 His published books include [More Than One Struggle: The Evolution of Black School Reform in Milwaukee](http://uncpress.unc.edu/books/T-4956.html) (University of North Carolina Press, 2004); [Writing History in the Digital Age](https://muse.jhu.edu/book/27633) (co-edited with Kristen Nawrotzki, University of Michigan Press, 2013); [Web Writing: Why and How for Liberal Arts Teaching and Learning](https://muse.jhu.edu/book/52297) (co-edited with Tennyson O'Donnell, University of Michigan Press, 2015); and [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code](https://handsondataviz.org) (co-authored with Ilya Ilyankou, O'Reilly Media, 2021).
 
