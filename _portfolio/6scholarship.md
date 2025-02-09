@@ -13,7 +13,7 @@ Dougherty, Jack, and contributors. *On the Line: How Schooling, Housing, and Civ
 
 ## Publications (in descending chronological order)
 
-Gold, June, David K. Ware, and Jack Dougherty. “Does My Connecticut Property Deed Contain A Racist Covenant?,” outreach website, 2024. https://myctdeed.com.
+Gold, June, David K. Ware, and Jack Dougherty. “Does My Connecticut Property Deed Contain A Racist Covenant?,” public outreach site, 2024. <https://myctdeed.com>.
 
 Dougherty, Jack. “Context: Hartford, CT.” Mapping Inequality: Redlining in New Deal America, third version, December 2023. <https://dsl.richmond.edu/panorama/redlining/map/CT/Hartford/context>. Abstract: Historical overview of US federal government redlining in the Hartford region, adapted from On The Line book-in-progress.
 
