@@ -4,6 +4,7 @@ date: 2019-01-01
 last_modified_at: 2024-01-01
 permalink: /2019/01/01/sample-post/
 categories:
+  - advocacy
   - teaching
   - advising
   - scholarship
