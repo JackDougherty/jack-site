@@ -26,11 +26,13 @@ categories:
 Text after header appears in new line.  
 At the end of the line above, add two blank spaces to make next sentence appear on a new line.
 
-Lists:  
-- Visible link uses angle brackets <https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#via-markdown>
-- [Embedded link text in brackets, URL in parentheses](http://google.com)
-- Note that embedded links to internal pages or posts on this site require the full URL <https://jackdougherty.org/...>
+### Smaller header with list of link types
+- Visible link with angle brackets <https://www.w3schools.io/file/markdown-links/>
+- [External link](https://www.w3schools.io/file/markdown-links/)
+- [Internal relative link](/categories/)
+- [Internal anchor link on same page](#images)
 
+### More formatting
 - Single tic marks for short one-line `code` snippets
 - Use 3 tics and add 4 spaces after each line for multi-line code snippets, like this reminder about code manually added to `assets > css > main.scss`:
 ```
