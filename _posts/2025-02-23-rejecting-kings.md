@@ -8,7 +8,7 @@ categories:
 ---
 *Originally posted February 23rd 2025. Updated April 5th.*
 
-Sometimes, getting angry motivates you to get stuff done. Tonight my spouse Beth Rose and I designed our new lawn sign to speak out against Trump monarchical words and actions, with a flag-centric message to remind people of our nation's united stance in favor of democracy. After all, what's more American than "Rejecting Kings" since Independence Day?
+Sometimes, getting angry motivates you to get stuff done. Tonight my spouse Beth Rose and I designed a lawn sign, our small way to speak out against Trump's monarchical words and actions, with a flag-centric message to remind everyone of our nation's united stance for democracy. After all, what's more American than "Rejecting Kings" since Independence Day?
 
 {% include figure image_path="images/2025/rejecting-kings.jpg" caption="Rejecting Kings Since 1776 (Even Earlier in Connecticut). Download public [PDF link](/images/2025/rejecting-kings.jpg) or [Canva link](https://www.canva.com/design/DAGf-BEoG_w/w2hOEGX-mQ0cvTXDXJvL9g/edit?utm_content=DAGf-BEoG_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" %}{: .align-center style="width:60%;"}
 
@@ -24,4 +24,8 @@ So in late February, we took our design to a local print shop and ordered 50 law
 
 {% include figure image_path="images/2025/rejecting-kings-collage1.jpg" caption="Oscar has made many new friends as our top sales dog" %}{: .align-center style="width:90%;"}
 
-Beth and I thought we were done, but two neighbors kindly frontly most of the cash for a second batch of 100 signs.
+Beth and I thought we were done, but two neighbors kindly fronted most of the cash for a second batch of 100 signs. During the month of March into early April, our "Rejecting Kings" design became even more popular. Historian Heather Cox Richardson liked our neighbor Adam's photo of the sign on social media, which gained over a thousand likes. At the Connecticut State Capitol rally to save Medicaid, someone held the sign directly behind Governor Ned Lamont while he spoke at the podium. Rather than picking up one or two signs, some people placed orders for five or ten signs to share with their neighbors. Oscar took the opportunity to make many new friends on our porch.
+
+And yes, because this is America, some people began using our public domain image to sell online merchandise -- shirts, stickers, banners -- with computer-generated models. But that's perfectly fine. Beth and I intentionally shared our design to speak out, in our own small way, to better our nation. Lots of other people found this message to be meaningful, too. 
+
+{% include figure image_path="images/2025/rejecting-kings-collage2.jpg" caption="Our 'Rejecting Kings' sign became popular on social media, at protest events, and in other people's for-profit merchandising" %}{: .align-center style="width:90%;"}
