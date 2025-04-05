@@ -8,7 +8,7 @@ categories:
 ---
 *Originally posted February 23rd 2025. Updated April 5th.*
 
-Sometimes, getting angry motivates you to get stuff done. Tonight my spouse Beth Rose and I designed a lawn sign, our small way to speak out against Trump's monarchical words and actions, with a flag-centric message to remind everyone of our nation's united stance for democracy. After all, what's more American than "Rejecting Kings" since Independence Day?
+Sometimes, getting angry motivates you to get stuff done. Tonight my spouse Beth Rose and I designed a lawn sign, our small way to speak out against Trump's monarchical words and actions, with a flag-centric message to remind everyone of our nation's united stance for democracy. After all, what's more American than "Rejecting Kings" since the July 4th Declaration of Independence?
 
 {% include figure image_path="images/2025/rejecting-kings.jpg" caption="Rejecting Kings Since 1776 (Even Earlier in Connecticut). Download public [PDF link](/images/2025/rejecting-kings.pdf) or [Canva link](https://www.canva.com/design/DAGf-BEoG_w/w2hOEGX-mQ0cvTXDXJvL9g/edit?utm_content=DAGf-BEoG_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" %}{: .align-center style="width:60%;"}
 
