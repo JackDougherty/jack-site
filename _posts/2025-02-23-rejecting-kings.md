@@ -33,3 +33,5 @@ And yes, because this is America, some people began using our public domain imag
 Today, Beth and I brought our last fifteen signs to the [Hands Off Day of Action](https://ctmirror.org/2025/04/05/ct-hands-off-protests/) against Trump at the CT State Capitol. Despite the rain, this protest event had a very strong turnout. We took pride in seeing several people bring the signs we designed to the event, and quickly sold out our remaining stock. Feels good that our "Rejecting Kings" message resonated with so many people. Let's keep working together to make the change we need.
 
 {% include figure image_path="images/2025/rejecting-kings-collage3.jpg" caption="Sold our remaining signs and saw many people bring them to the April 5th protest. Photos by Beth K." %}{: .align-center style="width:90%;"}
+
+Several folks have already asked: Do you have more signs? Beth and I do not plan to order another batch unless friends wish to help front the $1k cost for 100 more at $10 each. Or anyone can download the design and print their own using the links at the top of this page.
