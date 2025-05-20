@@ -8,7 +8,7 @@ categories:
 ---
 *Originally posted February 23rd 2025. Updated April 5th; May 20th.*
 
-**Updated May 20th:** While you can still print your own (see below), individual "Rejecting Kings" lawn signs are **now available for sale** at Cricket Press, 236 Park Road, West Hartford CT (next to AC Peterson's ice cream), phone 860-521-9279 or email info@cricketpress.net. We intentionally published the sign with "public domain" licensing, so anyone can print it. We do not set the price nor make any money. We just want to spread the word: #NoKings!
+**Updated May 20th:** *While you can still print your own (see below), individual "Rejecting Kings" lawn signs are **now available for sale** at Cricket Press, 236 Park Road, West Hartford CT (next to AC Peterson's ice cream), phone 860-521-9279 or email info@cricketpress.net. We intentionally published the sign with "public domain" licensing, so anyone can print it. We do not set the price nor make any money. We just want to spread the word: #NoKings!*
 
 Sometimes, getting angry motivates you to get stuff done. Tonight my spouse Beth Rose and I designed a lawn sign, our small way to speak out against Trump's monarchical words and actions, with a flag-centric message to remind everyone of our nation's united stance for democracy. After all, what's more American than "Rejecting Kings" since the July 4th Declaration of Independence?
 
