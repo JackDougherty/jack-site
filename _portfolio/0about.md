@@ -1,15 +1,11 @@
 ---
 title: "About"
 permalink: /about/
-date: 2024-12-23
+date: 2025-06-17
 header:
   teaser: /images/portfolio/about-600x400.jpg
-excerpt: "Partnering with CT nonprofits and Trinity students on data visualization and storytelling"
+excerpt: "Partnering with Hartford-area organizations and Trinity College students on data visualization and storytelling"
 ---
-Jack Dougherty works half-time at the Connecticut Data Collaborative ([CTData.org](https://ctdata.org)) and half-time at Trinity College in Hartford CT.
-
-As a member of the [CTData Strategic Planning team](https://ctdata.org/our-team), Jack coaches nonprofits and public agencies on effectively using data and storytelling to achieve their goals.
-
 At Trinity College, Jack is Professor of [Educational Studies](https://trincoll.edu/educ), where he and his students have collaborated with Hartford-area partners on education, housing, and data visualization projects since 1999.
 
 He completed his undergraduate degree at Swarthmore College and earned his Ph.D. in educational policy studies at the University of Wisconsin-Madison. When not in front of a computer, you'll likely find [Jack on his bike](https://jackbikes.org) in the Hartford area or on one of his longer-distance adventures.
