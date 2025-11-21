@@ -10,6 +10,8 @@ At Trinity College, Jack is Professor of [Educational Studies](https://trincoll.
 
 He completed his undergraduate degree at Swarthmore College and earned his Ph.D. in educational policy studies at the University of Wisconsin-Madison. When not in front of a computer, you'll likely find [Jack on his bike](https://jackbikes.org) in the Hartford area or on one of his longer-distance adventures.
 
+Contact [Jack Dougherty by email](mailto:jack.dougherty@trincoll.edu) or [schedule a Zoom meeting on his calendar](https://jackdougherty.org/calendar)
+
 ![Jack Dougherty photo](/images/portfolio/jackdougherty2023.jpg)    
 [download photo](https://jackdougherty.org/images/portfolio/jackdougherty2023.jpg)
 
