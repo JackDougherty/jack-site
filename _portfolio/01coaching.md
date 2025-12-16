@@ -4,7 +4,7 @@ permalink: /coaching/
 date: 2025-12-01
 # reminder: chronological layout
 header:
-  teaser: /images/portfolio/about-600x400.jpg
+  teaser: images/portfolio/placeholder-600x400.jpg
 excerpt: "Coaching community groups..."
 ---
 <!-- TODO REVISE and expand -->

@@ -1,6 +1,6 @@
 ---
 title: "Contact & Calendar"
-permalink: /calendar/
+permalink: /contact/
 date: 2025-12-04
 # reminder: chronological layout
 excerpt: "Email me or schedule an appointment"
