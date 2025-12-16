@@ -1,15 +1,11 @@
 # main header
 main:
+- title: "Coaching"
+  url: /coaching/
 - title: "About"
   url: /about/
-- title: "Posts"
+- title: "All Posts"
   url: /posts/
-- title: "Scholarship"
-  url: /scholarship/
-- title: "Teaching"
-  url: /teaching/
-- title: "Site Info"
-  url: /site-info/
 
 # optional page sidebar (not needed when using Contents)
 # dataviz:
