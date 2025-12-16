@@ -1,11 +1,11 @@
 ---
 title: "Scholarship"
 permalink: /scholarship/
-date: 2025-12-15
+date: 2025-12-11
 # reminder: chronological layout
 header:
   teaser: images/portfolio/cover3Books-600x400.jpg
-excerpt: "Publications (with abstracts) on education and digital history"
+excerpt: "Publications on education and digital history"
 ---
 
 ## Works in-progress
