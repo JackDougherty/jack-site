@@ -2,6 +2,7 @@
 title: "On The Line"
 permalink: /otl/
 date: 2025-12-14
+# reminder: chronological layout
 excerpt: "Book-in-progress with contributors, under contract with Amherst College Press"
 redirect_to:
   - https://ontheline.trincoll.edu

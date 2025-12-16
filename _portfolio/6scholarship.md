@@ -2,6 +2,7 @@
 title: "Scholarship"
 permalink: /scholarship/
 date: 2025-12-15
+# reminder: chronological layout
 header:
   teaser: images/portfolio/cover3Books-600x400.jpg
 excerpt: "Publications (with abstracts) on education and digital history"

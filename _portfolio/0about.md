@@ -2,10 +2,14 @@
 title: "About"
 permalink: /about/
 date: 2025-12-10
+# reminder: chronological layout
 header:
   teaser: /images/portfolio/about-600x400.jpg
 excerpt: "Partnering with Hartford-area organizations and Trinity College students on data visualization and storytelling"
 ---
+<!-- TODO REVISE -->
+Jack Dougherty arrived at Trinity College in 1999 to direct the Educational Studies Program, which he and faculty colleagues developed into a robust interdisciplinary major. He created new courses such as Educ 200: Analyzing Schools, where students investigate learning and inequality while doing participant-observation in Hartford public school classrooms, and Educ 300: Education Reform Past & Present, which draws on historical and policy analysis to understand system-wide change. In his Educ 308: Cities Suburbs and Schools seminar and research project, over 25 students co-authored publications and/or presented their work at national conferences. Jack also served as a faculty director of the Community Learning Initiative, the first faculty director of the Liberal Arts Action Lab, and he led the team that launched the Center for Hartford Engagement and Research (CHER) in 2018. More recently, students in his Educ 206: Data Visualization for All course partnered with local organizations to dig into their data on various topics (affordable housing, public health, environmental justice) and help tell their stories on the web with interactive charts and maps. Jack and his spouse Beth recently relocated to Boston.
+
 At Trinity College, Jack is Professor of [Educational Studies](https://trincoll.edu/educ), where he and his students have collaborated with Hartford-area partners on education, housing, and data visualization projects since 1999.
 
 He completed his undergraduate degree at Swarthmore College and earned his Ph.D. in educational policy studies at the University of Wisconsin-Madison. When not in front of a computer, you'll likely find [Jack on his bike](https://jackbikes.org) in the Hartford area or on one of his longer-distance adventures.
