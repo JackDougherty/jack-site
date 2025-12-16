@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-date: 2025-06-17
+date: 2025-12-10
 header:
   teaser: /images/portfolio/about-600x400.jpg
 excerpt: "Partnering with Hartford-area organizations and Trinity College students on data visualization and storytelling"

@@ -1,7 +1,7 @@
 ---
 title: "Teaching & Advising"
 permalink: /teaching/
-date: 2024-12-23
+date: 2025-12-11
 header:
   teaser: /images/portfolio/teaching-600x400.jpg
 excerpt: "Data Visualization for All syllabus and guidance for undergraduates at Trinity College"
