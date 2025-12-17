@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "JackDougherty.org"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jack Dougherty"
+name                     : "Jack Dougherty, Coach"
 description              : "Tell your story with data, maps & video"
 url                      : "https://jackdougherty.org" # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#site-url
 baseurl                  : # the subpath of your site, e.g. "/blog" - BUT for GitHub Pages site with custom domain, there is NO subpath
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jack Dougherty, Coach for Community Groups"
+  name             : "Jack Dougherty, Coach"
   avatar           : "images/portfolio/jackdougherty2023.jpg"
   bio              : "How to tell your story with data, maps, and video"
   location         : "Boston, MA"
