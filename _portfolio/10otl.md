@@ -1,9 +1,9 @@
 ---
 title: "On The Line"
-permalink: /otl/
+permalink: /ontheline/
 date: 2025-12-10
 # reminder: chronological layout
-excerpt: "Book-in-progress on schooling and housing in Hartford and its suburbs"
+excerpt: "Open-access book on schooling and housing in Hartford and suburbs"
 header:
   teaser: images/portfolio/coverOTL-600x400.jpg
 ---
