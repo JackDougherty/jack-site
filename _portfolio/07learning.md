@@ -1,6 +1,6 @@
 ---
-title: "Active Learning"
-permalink: /learning/
+title: "Educational Equity"
+permalink: /education/
 date: 2025-12-07
 # reminder: chronological layout
 header:
