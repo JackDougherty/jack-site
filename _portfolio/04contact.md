@@ -7,6 +7,8 @@ excerpt: "Email me or schedule a free 30-minute Zoom appointment"
 header:
   teaser: images/portfolio/calendar-300x200.png
 ---
-[Email me](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom appointment [on my calendar](https://jackdougherty.youcanbook.me)
+[Email me](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom appointment [on my calendar](https://calendar.app.google/7qhDNHbSUGtthSak6)
 
-<script src="https://embed.ycb.me"	async="true"	data-domain="jackdougherty"	data-displaymode="auto"></script>
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ39acXo26EnNNEOLLp-9ZMJ8ObeqePMhqRW5GbTQUS4XJ2I-UVK915Y6X4ngnw0W1OwSzkd_udb?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
