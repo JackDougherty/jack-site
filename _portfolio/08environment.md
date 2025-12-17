@@ -1,5 +1,5 @@
 ---
-title: "Just Environment"
+title: "Environment Justice"
 permalink: /environment/
 date: 2025-12-08
 # reminder: chronological layout

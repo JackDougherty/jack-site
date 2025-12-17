@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "About Jack"
 permalink: /about/
 date: 2025-12-02
 # reminder: chronological layout
 header:
   teaser: /images/portfolio/about-600x400.jpg
-excerpt: "Decades of experience with community partnerships and digital storytelling"
+excerpt: "Experienced with community partnerships and digital storytelling"
 ---
 <!-- TODO REVISE to shorten for length -->
 REVISE.... Jack Dougherty arrived at Trinity College in 1999 to direct the Educational Studies Program, which he and faculty colleagues developed into a robust interdisciplinary major. He created new courses such as Educ 200: Analyzing Schools, where students investigate learning and inequality while doing participant-observation in Hartford public school classrooms, and Educ 300: Education Reform Past & Present, which draws on historical and policy analysis to understand system-wide change. In his Educ 308: Cities Suburbs and Schools seminar and research project, over 25 students co-authored publications and/or presented their work at national conferences. Jack also served as a faculty director of the Community Learning Initiative, the first faculty director of the Liberal Arts Action Lab, and he led the team that launched the Center for Hartford Engagement and Research (CHER) in 2018. More recently, students in his Educ 206: Data Visualization for All course partnered with local organizations to dig into their data on various topics (affordable housing, public health, environmental justice) and help tell their stories on the web with interactive charts and maps. Jack and his spouse Beth recently relocated to Boston.

@@ -5,7 +5,7 @@ date: 2025-12-05
 # reminder: chronological layout
 header:
   teaser: images/portfolio/placeholder-600x400.jpg
-excerpt: "Mapping where non-profits have built homes"
+excerpt: "Mapping barriers and progress on home affordability"
 ---
 <!-- TODO REVISE and expand -->
 Description to come....
