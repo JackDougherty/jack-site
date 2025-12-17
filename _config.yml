@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jackdrty@gmail.com
+      url: mailto:jack@jackdougherty.org
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar-alt"
       url: "https://jackdougherty.youcanbook.me"
@@ -140,7 +140,7 @@ footer:
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
-    url: mailto:jackdrty@gmail.com
+    url: mailto:jack@jackdougherty.org
   - label: "Mastodon"
     icon: "fab fa-fw fa-mastodon"
     url: "https://mstdn.social/@jackdougherty"
