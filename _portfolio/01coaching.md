@@ -4,7 +4,7 @@ permalink: /coaching/
 date: 2025-12-01
 # reminder: chronological layout
 header:
-  teaser: images/portfolio/placeholder-600x400.jpg
+  teaser: images/portfolio/coaching-600x400.jpg
 excerpt: "Listening & advising to make meaningful change more visible"
 ---
 <!-- TODO REVISE and expand -->
