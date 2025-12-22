@@ -5,7 +5,7 @@ date: 2025-12-04
 # reminder: chronological layout
 excerpt: "Email me or schedule a free 30-minute Zoom meeting"
 header:
-  teaser: images/portfolio/calendar-300x200.png
+  teaser: images/portfolio/calendar-600x400.png
 ---
 [Email me](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on my calendar](https://jackdougherty.youcanbook.me/)
 
