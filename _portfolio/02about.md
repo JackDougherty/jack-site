@@ -1,5 +1,5 @@
 ---
-title: "About Jack"
+title: "About me"
 permalink: /about/
 date: 2025-12-02
 # reminder: chronological layout
