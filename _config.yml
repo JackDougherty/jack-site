@@ -124,7 +124,7 @@ author:
       url: mailto:jack@jackdougherty.org
     - label: "Calendar"
       icon: "fas fa-fw fa-calendar-alt"
-      url: "https://jackdougherty.youcanbook.me"
+      url: "https://jackdougherty.org/calendar"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mstdn.social/@jackdougherty"
@@ -141,12 +141,9 @@ footer:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: mailto:jack@jackdougherty.org
-  - label: "Mastodon"
-    icon: "fab fa-fw fa-mastodon"
-    url: "https://mstdn.social/@jackdougherty"
-  - label: "GitHub"
-    icon: "fab fa-fw fa-github"
-    url: "http://github.com/jackdougherty"
+  - label: "Calendar"
+    icon: "fas fa-fw fa-calendar-alt"
+    url: "https://jackdougherty.org/calendar"
   since: "2011"
 # Reading Files
 include:
