@@ -5,7 +5,17 @@ date: 2025-12-01
 # reminder: chronological layout
 header:
   teaser: images/portfolio/coaching-600x400.jpg
-excerpt: "Listening & advising to make meaningful change more visible"
+excerpt: "Listening, advising, and taking action steps together"
 ---
 <!-- TODO REVISE and expand -->
-REVISE More recently, students in his Educ 206: Data Visualization for All course partnered with local organizations to dig into their data on various topics (affordable housing, public health, environmental justice) and help tell their stories on the web with interactive charts and maps. Jack and his spouse Beth recently relocated to Boston.
+SUMMARIZE: Coaching partnerships available for community groups and non-profit organizations in the Boston area and beyond. Let's work together to understand challenges you face, and how digital tools can make your story of meaningful change more visible.
+
+EXPAND to describe coaching process:
+
+1. Strategize
+
+2. Investigate
+
+3. Visualize
+
+4. Tell Your Story
