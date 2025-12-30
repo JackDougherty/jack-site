@@ -5,19 +5,16 @@ date: 2025-12-09
 # reminder: chronological layout
 header:
   teaser: /images/portfolio/teaching-600x400.jpg
-excerpt: "Sharing my course materials from Trinity College"
+excerpt: "Shared course materials from 27 years at Trinity College"
 ---
 
-## Reach out
-- For questions about teaching and advising, contact me at my Trinity College email address [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu).
-- Or schedule a Zoom appointment on my [online calendar](/calendar)
-- To request feedback on a Google Document, change Share settings to *Anyone Can Comment* and email the link to my Trinity address (which is not a Google address).
+From 1999 to 2026 I taught undergraduate students and partnered with community organizations as a professor in the [Educational Studies Program at Trinity College](https://trincoll.edu/educ) in Hartford, Connecticut. For questions about teaching and advising, contact me at my Trinity College email address [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu) or schedule a Zoom appointment on my [online calendar](/calendar).    
 - [How to request a reference or recommendation letter](/letter)
 - [Advice on applying to graduate school](/grad-school)
-- See also my [posts about teaching](/categories/#teaching) and [posts about advising](/categories/#advising) for pedagogical resources and personal reflections.
+- See also pedagogical resources and personal reflections in my [posts about teaching](/categories/#teaching) and [posts about advising](/categories/#advising)
 
-## Current Courses and Syllabi
-- See all courses offered by the [Educational Studies Program](https://trincoll.edu/educ/courses) at Trinity College.
+## Course Materials and Syllabi
+During my 27 years of teaching at Trinity College, I openly sharing course materials and syllabi on the public web. If and when you find broken links, search the [Way Back Machine by the Internet Archive](https://archive.org), a non-profit organization that has backed up over a trillion web pages since the 1990s. 
 
 ### Educ 206: Data Visualization for All
 How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  
@@ -25,8 +22,6 @@ Fulfills requirement in Numerical and Symbolic Reasoning (NUM).
 Cross-referenced with Community Learning, Public Policy & Law, Writing & Rhetoric, Urban Studies.  
 See syllabus, partners, and projects at [DataVizForAll.org](https://datavizforall.org)
 {% include figure image_path="images/2024/clj-dataviz-partners.png" alt="dataviz partners" caption="Introducing Hartford community partners from the Center for Leadership and Justice to our DataViz seminar for our affordable housing project" %}
-
-## My Prior Courses & Syllabi
 
 ### Educ 200: Analyzing Schools
 This course introduces the study of schooling within an interdisciplinary framework. Drawing upon sociology, we investigate the resources, structures, and social contexts which influence student opportunities and outcomes in the United States and other countries. Drawing upon psychology, we contrast theories of learning, both in the abstract and in practice. Drawing upon philosophy, we examine competing educational goals and their underlying assumptions regarding human nature, justice, and democracy. In addition, a community learning component, where students observe and participate in nearby K-12 classrooms for three hours per week, will be integrated with course readings and written assignments. Each student must reserve one three-hour block of time in their weekly schedule (anytime between 9am – 3pm weekdays) for a community learning placement in a neighborhood Hartford public school, to be arranged by the instructor during the first week of the course. Enrollment limited to 29. [See my Educ 200 syllabus, Fall 2016](/educ200).
