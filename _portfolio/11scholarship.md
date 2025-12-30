@@ -1,18 +1,16 @@
 ---
-title: "Scholarship"
-permalink: /scholarship/
+title: "Publications"
+permalink: /publications/
 date: 2025-12-11
 # reminder: chronological layout
 header:
   teaser: images/portfolio/cover3Books-600x400.jpg
-excerpt: "Publications on education policy, urban studies, and digital history"
+excerpt: "Published works on education policy, urban studies, and digital history"
 ---
 
-## Works in-progress
+## Publications (in descending chronological order)
 
 Dougherty, Jack, and contributors. *On the Line: How Schooling, Housing, and Civil Rights Shaped Hartford and Its Suburbs*. Open-access book-in-progress, under contract with Amherst College Press. <https://OnTheLine.trincoll.edu>. Abstract: Draft edition of a digital-first, open-access, book-in-progress. A history of housing and schooling boundaries that have divided metropolitan Hartford, Connecticut, and the struggles of families and civil rights activists to cross over, redraw, or erase these lines.
-
-## Publications (in descending chronological order)
 
 Gold, June, David K. Ware, and Jack Dougherty. “Does My Connecticut Property Deed Contain A Racist Covenant?,” public outreach site, 2024. <https://myctdeed.com>.
 
