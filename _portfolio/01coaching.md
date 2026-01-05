@@ -5,7 +5,7 @@ date: 2025-12-01
 # reminder: chronological layout
 header:
   teaser: images/portfolio/coaching-600x400.jpg
-excerpt: "Listening, advising, and taking action steps with community groups in Boston and beyond"
+excerpt: "Listening, advising, and creation solutions with community groups in Boston and beyond"
 ---
 Digital strategy coaching available to community groups and non-profit organizations in the Boston area and beyond.
 
