@@ -1,5 +1,5 @@
 ---
-title: "Affordable Housing"
+title: "Housing examples"
 permalink: /housing/
 date: 2025-12-05
 # reminder: chronological layout

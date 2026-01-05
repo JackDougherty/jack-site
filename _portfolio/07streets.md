@@ -1,7 +1,7 @@
 ---
-title: "Safer Streets for All"
+title: "Safer Streets examples"
 permalink: /streets/
-date: 2025-12-05
+date: 2025-12-07
 # reminder: chronological layout
 header:
   teaser: images/portfolio/placeholder-600x400.jpg

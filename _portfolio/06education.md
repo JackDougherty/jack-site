@@ -1,7 +1,7 @@
 ---
-title: "Educational Equity"
+title: "Education examples"
 permalink: /education/
-date: 2025-12-07
+date: 2025-12-06
 # reminder: chronological layout
 header:
   teaser: images/portfolio/placeholder-600x400.jpg
