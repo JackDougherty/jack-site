@@ -2,6 +2,8 @@
 title: 'Teaching My Last Class at Trinity College'
 date: 2025-12-03
 permalink: /2025/12/03/last-class/
+header:
+  teaser: images/2025/last-class-combo.jpg
 categories:
   - teaching
   - Educational Studies
