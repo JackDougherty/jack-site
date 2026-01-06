@@ -9,9 +9,10 @@ categories:
   - education
   - streets
   - more examples
-  - data visualization
   - Boston
   - Hartford
+  - data visualization
+  - tools
   - advocacy
   - teaching
   - advising

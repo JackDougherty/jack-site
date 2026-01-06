@@ -5,17 +5,17 @@ date: 2025-12-01
 # reminder: chronological layout
 header:
   teaser: images/portfolio/coaching-600x400.jpg
-excerpt: "Listening, advising, and creating solutions with community groups in Boston and beyond"
+excerpt: "Listening, advising, and creating digital solutions in Boston and beyond"
 ---
-{% include figure image_path="images/portfolio/coaching-600x400.jpg" alt="coaching session on Zoom" caption="Zoom meeting with the Center for Leadership & Justice in Hartford CT" %}{: .align-left style="width:50%;"}
+{% include figure image_path="images/portfolio/coaching-600x400.jpg" alt="coaching session on Zoom" caption="Working with Center for Leadership & Justice in Hartford CT" %}{: .align-center style="width:50%;"}
 
 Digital strategy coaching available to community groups and non-profit organizations in Boston and beyond.
 
 Let's meet up to listen to your goals and the challenges you face. Let's find ways to **make your work for change more visible** with better data, interactive charts and maps, and digital storytelling tools to reach your desired audiences.
 
-I specialize in designing low-cost and easy-to-learn digital solutions that are customized for the specific needs of small-to-medium sized organizations that work for change. Also, I teach you and your team how to sustainably manage your digital tools, and avoid paying high-cost subscriptions and fees for unneeded services. See recent examples of my work with people working for change on [housing](/housing), [education](/education), [safer streets](/streets), and [more](/more-examples).
+I specialize in designing low-cost and easy-to-learn digital solutions that are customized for the specific needs of small-to-medium sized organizations. Also, I teach you and your team how to sustainably manage your digital tools, and avoid paying high-cost subscriptions for unnecessary services. See recent posts of my partnerships with people working for change on [housing](/housing), [education](/education), [safer streets](/streets), and [more examples](/more-examples).
 
-**Schedule a [free 30-minute Zoom meeting on my calendar](/calendar) to discuss what's on your mind**. Here's some typical steps in my coaching process and questions to reflect on ahead of time:
+**Schedule a [free 30-minute Zoom meeting on my calendar](/calendar) to discuss what's on your mind**. Here's typical steps in my coaching process and questions to reflect on ahead of time:
 
 1. Strategize
   - What's your organization's story of change? What is your mission and how do you make it work?
