@@ -2,6 +2,7 @@
 title: "Housing examples"
 layout: category
 taxonomy: teaching
+entries_layout: grid
 permalink: /housing/
 date: 2025-12-05
 # reminder: chronological layout
@@ -10,4 +11,4 @@ header:
 excerpt: "Mapping barriers and progress on home affordability"
 ---
 <!-- TODO REVISE and expand -->
-Description to come... intro text should be visible above the category posts!
+Description to come... intro text should be visible above the category posts... testing grid layout!
