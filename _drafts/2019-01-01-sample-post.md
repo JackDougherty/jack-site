@@ -3,7 +3,15 @@ title: 'Sample Post'
 date: 2019-01-01
 last_modified_at: 2024-01-01
 permalink: /2019/01/01/sample-post/
+excerpt: "A unique one-line post summary that appears in archive list and metadata for SEO"
 categories:
+  - housing
+  - education
+  - streets
+  - more examples
+  - data visualization
+  - Boston
+  - Hartford
   - advocacy
   - teaching
   - advising
@@ -13,14 +21,11 @@ categories:
   - policy
   - Educational Studies
   - Trinity College
-  - Hartford
   - community engagement
   - technology
   - tutorial
   - GitHub
-  - data visualization
   - web writing
-  - CTData
 ---
 ## Markdown formatting with Minimal Mistakes Jekyll theme
 Text after header appears in new line.  
