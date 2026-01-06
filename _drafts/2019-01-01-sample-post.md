@@ -4,6 +4,8 @@ date: 2019-01-01
 last_modified_at: 2024-01-01
 permalink: /2019/01/01/sample-post/
 excerpt: "A unique one-line post summary that appears in archive list and metadata for SEO"
+header:
+  teaser: images/portfolio/placeholder-600x400.jpg
 categories:
   - housing
   - education

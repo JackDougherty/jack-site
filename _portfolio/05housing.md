@@ -1,14 +1,14 @@
 ---
 title: "Housing examples"
-layout: category
-taxonomy: teaching
-entries_layout: grid
 permalink: /housing/
 date: 2025-12-05
 # reminder: chronological layout
+layout: category
+taxonomy: housing
+entries_layout: grid
 header:
-  teaser: images/portfolio/placeholder-600x400.jpg
-excerpt: "Mapping barriers and progress on home affordability"
+  teaser: images/portfolio/housing-habitat-map.jpg
+excerpt: "Mapping barriers and progress on fair & affordable housing"
 ---
 <!-- TODO REVISE and expand -->
 Description to come... intro text should be visible above the category posts... testing grid layout!

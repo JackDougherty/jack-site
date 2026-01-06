@@ -37,4 +37,6 @@ Overview of my coaching process, with typical questions to focus our work:
   - What  for most people to grasp about your story of change?
   - What digital storytelling strategies can we include into your current work, without making too much additional work?
 
-**Schedule a [free 30-minute Zoom meeting on my calendar](/calendar) to discuss what's on your mind**. For additional coaching beyond our introductory meeting, my services are available for a modest fee. Upon request, I will send you a proposal with pricing for a specific project and time period.
+[Email me](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on my calendar](https://jackdougherty.youcanbook.me/). For additional coaching beyond our introductory meeting, my services are available for a modest fee. Upon request, I will send you a proposal with pricing for a specific project and time period.
+
+<script src="https://embed.ycb.me"	async="true"	data-domain="jackdougherty"	data-displaymode="auto"></script>
