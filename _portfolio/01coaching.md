@@ -7,18 +7,18 @@ header:
   teaser: images/portfolio/coaching-600x400.jpg
 excerpt: "Listening, advising, and creating digital solutions in Boston and beyond"
 ---
-{% include figure image_path="images/portfolio/coaching-600x400.jpg" alt="coaching session on Zoom" caption="Working with Center for Leadership & Justice in Hartford CT" %}{: .align-center style="width:50%;"}
+{% include figure image_path="images/portfolio/coaching-600x400.jpg" alt="coaching session on Zoom" caption="Working with Center for Leadership & Justice in Hartford CT" %}{: .align-center style="width:90%;"}
 
-Digital strategy coaching available to community groups and non-profit organizations in Boston and beyond.
+Digital strategy coaching available to community groups and non-profit organizations in Boston and beyond. **Schedule a [free 30-minute Zoom meeting on my calendar](/calendar) to discuss what's on your mind**.
 
 Let's meet up to listen to your goals and the challenges you face. Let's find ways to **make your work for change more visible** with better data, interactive charts and maps, and digital storytelling tools to reach your desired audiences.
 
 I specialize in designing low-cost and easy-to-learn digital solutions that are customized for the specific needs of small-to-medium sized organizations. Also, I teach you and your team how to sustainably manage your digital tools, and avoid paying high-cost subscriptions for unnecessary services. See recent posts of my partnerships with people working for change on [housing](/housing), [education](/education), [safer streets](/streets), and [more examples](/more-examples).
 
-**Schedule a [free 30-minute Zoom meeting on my calendar](/calendar) to discuss what's on your mind**. Here's typical steps in my coaching process and questions to reflect on ahead of time:
+Overview of my coaching process, with typical questions to focus our work:
 
 1. Strategize
-  - What's your organization's story of change? What is your mission and how do you make it work?
+  - What's your organization's story of change? What's your mission and how do you make it work?
   - What are some challenges your organization faces while working toward your goals?
   - How do you and your team prioritize how to spend your limited time and resources?
 
@@ -37,4 +37,4 @@ I specialize in designing low-cost and easy-to-learn digital solutions that are 
   - What  for most people to grasp about your story of change?
   - What digital storytelling strategies can we include into your current work, without making too much additional work?
 
-If you would like more coaching beyond our free 30-minute meeting, my services are available for a modest fee. Upon request, I will send you a proposal with pricing for a specific project and time period.
+**Schedule a [free 30-minute Zoom meeting on my calendar](/calendar) to discuss what's on your mind**. For additional coaching beyond our introductory meeting, my services are available for a modest fee. Upon request, I will send you a proposal with pricing for a specific project and time period.
