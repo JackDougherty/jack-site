@@ -5,7 +5,7 @@ date: 2025-12-01
 # reminder: chronological layout
 header:
   teaser: images/portfolio/coaching-600x400.jpg
-excerpt: "Listening, advising, and creating digital solutions in Boston and beyond"
+excerpt: "Listening & creating digital solutions in Boston & beyond"
 ---
 {% include figure image_path="images/portfolio/coaching-600x400.jpg" alt="coaching session on Zoom" caption="Working with Center for Leadership & Justice in Hartford CT" %}{: .align-center style="width:90%;"}
 

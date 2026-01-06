@@ -10,7 +10,7 @@ categories:
   - housing
   - education
   - streets
-  - more examples
+  - video
   - Boston
   - Hartford
   - data visualization
