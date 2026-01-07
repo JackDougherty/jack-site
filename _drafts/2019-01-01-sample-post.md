@@ -14,7 +14,8 @@ categories:
   - Boston
   - Hartford
   - data visualization
-  - tools
+  - digital tools
+  - technology
   - advocacy
   - teaching
   - advising
@@ -22,13 +23,9 @@ categories:
   - presentation
   - history
   - policy
+  - community engagement
   - Educational Studies
   - Trinity College
-  - community engagement
-  - technology
-  - tutorial
-  - GitHub
-  - web writing
 ---
 ## Markdown formatting with Minimal Mistakes Jekyll theme
 Text after header appears in new line.  

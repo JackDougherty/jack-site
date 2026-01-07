@@ -5,7 +5,7 @@ permalink: /2019/01/01/record-and-transcribe-interview/
 categories:
   - teaching
   - technology
-  - tutorial
+  - digital tools
 ---
 One of my most popular posts, originally published in November 2013, and updated October 2019:
 

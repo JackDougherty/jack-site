@@ -5,7 +5,7 @@ permalink: /2019/01/01/you-can-book-me/
 categories:
   - advising
   - technology
-  - tutorial
+  - digital tools
 ---
 One of the most popular posts that I originally wrote in December 2012 was the tutorial below on customizing the YouCanBook.me calendar service to display appointment slots -- such as "office hours" -- using your Google Calendar. Until 2018, this option was free for educators who received a non-profit account, but it is **NO LONGER FREE**. But the notes below may be helpful for people (like me) who now pay to use this service, since as of early 2019 I still have not found a good replacement that allows me to manage office hour slots from within my Google Calendar application.
 
