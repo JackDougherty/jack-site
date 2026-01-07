@@ -4,7 +4,7 @@ date: 2024-12-14
 permalink: /2024/12/14/charting-30-years-clj/
 excerpt: "To track the effectiveness of an affordable home ownership program, we researched and tracked home prices during its first 30 years and compared them to nearby homes, in partnership with the Center for Leadership and Justice in Hartford CT."
 header:
-  teaser: images/2024/charting-30-years-clj.jpg
+  teaser: images/2024/housing-clj-safy-almukhtar.jpg
 categories:
   - housing
   - Hartford
@@ -15,7 +15,7 @@ categories:
   - community engagement
 
 ---
-In partnership with the [Center for Leadership and Justice in Hartford CT](https://cljct.org), we tracked the effectiveness of their shared equity land trust program, one of the oldest and largest home ownership programs of its type in the Northeastern US. Shared equity land trusts, also known as [community land trusts](https://groundedsolutions.org/strengthening-neighborhoods/community-land-trusts/), allow lower-income buyers to purchase a home while the trust maintains ownership of the land to block speculators and assure that future resale prices remain affordable. As a class project for my [Data Visualization for All](https://datavizforall.org) course in Fall 2024, students and I cleaned up CLJ's dataset of 211 properties in this 30-year-old homeownership program, and linked the data to public assessor records to analyze trends. Jana Safy and Hameed Almukhtar published [their data story](https://datavizforall.org/clt-safy-almukhtar/), where they researched prices for a sample of homes in CLJ's Urban Suburban Affordables (USA) program. Median home prices in this sample rose 253 percent since they were acquired by CLJ, as shown by the blue line [in Figure 1](https://datawrapper.dwcdn.net/xjLMb/4/) below.
+In partnership with the [Center for Leadership and Justice in Hartford CT](https://cljct.org), we tracked the effectiveness of their shared equity land trust program, one of the oldest and largest home ownership programs of its type in the Northeastern US. Shared equity land trusts, also known as [community land trusts](https://groundedsolutions.org/strengthening-neighborhoods/community-land-trusts/), allow lower-income buyers to purchase a home while the trust maintains ownership of the land to block speculators and assure that future resale prices remain affordable. As a class project for my [Data Visualization for All](https://datavizforall.org) course in Fall 2024, students and I cleaned up CLJ's dataset of 211 properties in this 30-year-old homeownership program, and linked the data to public assessor records to analyze trends. [Jana Safy and Hameed Almukhtar published their data story](https://datavizforall.org/clt-safy-almukhtar/), where they researched prices for a sample of homes in CLJ's Urban Suburban Affordables (USA) homeownership program. Median home prices in this sample rose 253 percent since they were acquired by CLJ, as shown by the blue line [in Figure 1](https://datawrapper.dwcdn.net/xjLMb/4/) below.
 
 <iframe src="https://datawrapper.dwcdn.net/xjLMb/4/" width="90%" height="600px"></iframe>
 
