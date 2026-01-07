@@ -9,13 +9,13 @@ excerpt: "Listening and creating digital solutions in Boston & beyond"
 ---
 {% include figure image_path="images/portfolio/coaching-600x400.jpg" alt="coaching session on Zoom" caption="Working with Center for Leadership & Justice in Hartford CT" %}{: .align-center style="width:90%;"}
 
-Digital strategy coaching available to community groups and non-profit organizations in Boston and beyond. **Schedule a [free 30-minute Zoom meeting on my calendar](/calendar) to discuss what's on your mind**.
+Digital strategy coaching services are available to community groups and non-profit organizations in Boston and beyond. **Schedule a [free 30-minute Zoom meeting on my calendar](/calendar) to discuss what's on your mind**.
 
 Let's meet up to listen to your goals and the challenges you face. Let's find ways to **make your work for change more visible** with better data, interactive charts and maps, and digital storytelling tools to reach your desired audiences.
 
-I specialize in designing low-cost and easy-to-learn digital solutions that are customized for the specific needs of small-to-medium sized organizations. Also, I teach you and your team how to sustainably manage your digital tools, and avoid paying high-cost subscriptions for unnecessary services. See recent posts of my partnerships with people working for change on [housing](/housing), [education](/education), [safer streets](/streets), and [storytelling with short videos](/storytelling).
+I specialize in designing low-cost and easy-to-learn digital solutions that are customized to the specific needs of small-to-medium sized organizations. Also, I teach you and your team how to sustainably manage your digital tools and avoid paying unnecessary high-cost subscriptions. See recent examples of my partnerships with people working for change on [housing](/housing), [education](/education), [safer streets](/streets), and [storytelling with short videos](/storytelling).
 
-Overview of my coaching process, with typical questions to focus our work:
+Overview of my coaching process, with reflection questions to help focus our conversation:
 
 1. Strategize
   - What's your organization's story of change? What's your mission and how do you make it work?
@@ -37,6 +37,6 @@ Overview of my coaching process, with typical questions to focus our work:
   - What  for most people to grasp about your story of change?
   - What digital storytelling strategies can we include into your current work, without making too much additional work?
 
-[Email me](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on my calendar](https://jackdougherty.youcanbook.me/). For additional coaching beyond our introductory meeting, my services are available for a modest fee. Upon request, I will send you a proposal with pricing for a specific project and time period.
+[Email me](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on my calendar](/calendar). For additional coaching beyond our introductory meeting, my services are available for a modest fee. Upon request, I will send you a proposal with pricing for a specific project and time period.
 
 <script src="https://embed.ycb.me"	async="true"	data-domain="jackdougherty"	data-displaymode="auto"></script>

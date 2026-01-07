@@ -10,5 +10,4 @@ header:
   teaser: images/portfolio/housing-habitat-map.jpg
 excerpt: "Mapping progress and structural obstacles to affordable homes"
 ---
-<!-- TODO REVISE and expand -->
-Description to come... intro text should be visible above the category posts... testing grid layout!
+See recent examples of visualizing progress and structural obstacles to fair and affordable housing, through better data, charts and maps, and video storytelling. To learn how [digital strategy coaching](/coaching/) can help your community organization, [email me](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on my calendar](/calendar/).
