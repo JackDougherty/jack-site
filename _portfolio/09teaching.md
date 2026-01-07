@@ -5,7 +5,7 @@ date: 2025-12-09
 # reminder: chronological layout
 header:
   teaser: /images/portfolio/teaching-600x400.jpg
-excerpt: "Shared course materials from 27 years at Trinity College"
+excerpt: "Sharing course materials from 27 years at Trinity College"
 ---
 
 From 1999 to 2026 I taught undergraduate students and partnered with community organizations as a professor in the [Educational Studies Program at Trinity College](https://trincoll.edu/educ) in Hartford, Connecticut. For questions about teaching and advising, contact me at my Trinity College email address [jack.dougherty@trincoll.edu](mailto:jack.dougherty@trincoll.edu) or schedule a Zoom appointment on my [online calendar](/calendar).    
@@ -14,7 +14,7 @@ From 1999 to 2026 I taught undergraduate students and partnered with community o
 - See also pedagogical resources and personal reflections in my [posts about teaching](/categories/#teaching) and [posts about advising](/categories/#advising)
 
 ## Course Materials and Syllabi
-During my 27 years of teaching at Trinity College, I openly sharing course materials and syllabi on the public web. If and when you find broken links, search the [Way Back Machine by the Internet Archive](https://archive.org), a non-profit organization that has backed up over a trillion web pages since the 1990s. 
+During my 27 years of teaching at Trinity College, I openly sharing course materials and syllabi on the public web. If and when you find broken links, search the [Way Back Machine by the Internet Archive](https://archive.org), a non-profit organization that has backed up over a trillion web pages since the 1990s.
 
 ### Educ 206: Data Visualization for All
 How can charts and maps tell meaningful stories? How can they mislead us from the truth? In this introductory hands-on course, we will create data visualizations in order to better understand design principles and develop a critical analysis of the field. Students will learn skills in both quantitative reasoning and digital storytelling as we advance from beginner tools to editing code templates. For the community learning component, our class will build interactive charts and maps on a public policy issue with a Hartford-area partner organization. No coding experience is necessary, but curiosity is required.  

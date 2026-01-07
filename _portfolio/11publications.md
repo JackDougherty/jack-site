@@ -5,7 +5,7 @@ date: 2025-12-11
 # reminder: chronological layout
 header:
   teaser: images/portfolio/cover3Books-600x400.jpg
-excerpt: "Published works on education policy, urban studies, and digital history"
+excerpt: "Works on US education history, urban policy, digital tools"
 ---
 
 ## Publications (in descending chronological order)
