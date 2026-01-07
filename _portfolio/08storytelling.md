@@ -8,7 +8,7 @@ taxonomy: storytelling
 entries_layout: grid
 header:
   teaser: images/portfolio/storytelling-bike-safety.jpg
-excerpt: "Storytelling with data and video to make change more visible"
+excerpt: "Storytelling with short videos to make change more visible"
 ---
 <!-- TODO REVISE and expand -->
 Description to come....

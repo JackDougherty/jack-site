@@ -8,7 +8,7 @@ taxonomy: streets
 entries_layout: grid
 header:
   teaser: images/portfolio/streets-hartford-crash.jpg
-excerpt: "Advocating for safer streets with interactive maps"
+excerpt: "Advocating for safer streets with linked data & interactive maps"
 ---
 <!-- TODO REVISE and expand -->
 Description to come....
