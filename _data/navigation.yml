@@ -4,6 +4,8 @@ main:
   url: /coaching/
 - title: "About"
   url: /about/
+- title: "Contact"
+  url: /contact/
 - title: "All Posts"
   url: /posts/
 

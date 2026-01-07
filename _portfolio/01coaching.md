@@ -5,7 +5,7 @@ date: 2025-12-01
 # reminder: chronological layout
 header:
   teaser: images/portfolio/coaching-600x400.jpg
-excerpt: "Listening & creating digital solutions in Boston & beyond"
+excerpt: "Listening & creating digital solutions with communities in Boston & beyond"
 ---
 {% include figure image_path="images/portfolio/coaching-600x400.jpg" alt="coaching session on Zoom" caption="Working with Center for Leadership & Justice in Hartford CT" %}{: .align-center style="width:90%;"}
 
@@ -13,7 +13,7 @@ Digital strategy coaching available to community groups and non-profit organizat
 
 Let's meet up to listen to your goals and the challenges you face. Let's find ways to **make your work for change more visible** with better data, interactive charts and maps, and digital storytelling tools to reach your desired audiences.
 
-I specialize in designing low-cost and easy-to-learn digital solutions that are customized for the specific needs of small-to-medium sized organizations. Also, I teach you and your team how to sustainably manage your digital tools, and avoid paying high-cost subscriptions for unnecessary services. See recent posts of my partnerships with people working for change on [housing](/housing), [education](/education), [safer streets](/streets), and [more examples](/more-examples).
+I specialize in designing low-cost and easy-to-learn digital solutions that are customized for the specific needs of small-to-medium sized organizations. Also, I teach you and your team how to sustainably manage your digital tools, and avoid paying high-cost subscriptions for unnecessary services. See recent posts of my partnerships with people working for change on [housing](/housing), [education](/education), [safer streets](/streets), and [storytelling with short videos](/storytelling).
 
 Overview of my coaching process, with typical questions to focus our work:
 
