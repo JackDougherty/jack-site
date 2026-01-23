@@ -1,7 +1,7 @@
 ---
 title: "On The Line book"
 permalink: /ontheline/
-date: 2025-12-10
+date: 2026-01-10
 # reminder: chronological layout
 excerpt: "How schooling, housing & activism shaped Hartford CT and its suburbs"
 header:

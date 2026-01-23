@@ -1,7 +1,7 @@
 ---
 title: "Housing examples"
 permalink: /housing/
-date: 2025-12-05
+date: 2026-01-05
 # reminder: chronological layout
 layout: category
 taxonomy: housing

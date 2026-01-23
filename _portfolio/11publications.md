@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-date: 2025-12-11
+date: 2026-01-11
 # reminder: chronological layout
 header:
   teaser: images/portfolio/cover3Books-600x400.jpg

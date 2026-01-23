@@ -1,7 +1,7 @@
 ---
 title: "Contact & Calendar"
 permalink: /contact/
-date: 2025-12-03
+date: 2026-01-03
 # reminder: chronological layout
 excerpt: "Email me or schedule a free 30-minute Zoom meeting"
 header:

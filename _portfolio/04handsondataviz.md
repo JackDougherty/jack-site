@@ -1,7 +1,7 @@
 ---
 title: "Free Hands-On Book"
 permalink: /handsondataviz/
-date: 2025-12-04
+date: 2026-01-04
 # reminder: chronological layout
 excerpt: "Easy-to-learn tutorials about data, charts, and maps"
 header:

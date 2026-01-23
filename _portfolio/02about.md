@@ -1,18 +1,15 @@
 ---
 title: "About"
 permalink: /about/
-date: 2025-12-02
+date: 2026-01-02
 # reminder: chronological layout
 header:
   teaser: /images/portfolio/about-600x400.jpg
 excerpt: "Experienced with data, digital storytelling, and community partnerships"
 ---
-Jack Dougherty, a digital strategy coach in Boston, shares more than thirty years of experience in partnering with community organizations to make change more visible through data and digital storytelling. [Email him](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on his calendar](/calendar).
+![Jack Dougherty](/images/portfolio/jackdougherty2025.jpg){: .align-right style="width: 25%;"}Jack Dougherty, a digital strategy coach in Boston, shares over thirty years of experience in partnering with community organizations to make change more visible through data and digital storytelling. [Email him](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on his calendar](/calendar).
 
-![Jack Dougherty photo](/images/portfolio/jackdougherty2023.jpg)    
-[download photo](https://jackdougherty.org/images/portfolio/jackdougherty2023.jpg)
-
-<!-- TODO in future check faculty profile link to emeritus page; TODO update publication links -->
+<!-- TODO in future check faculty profile link to emeritus page -->
 Jack retired as [Professor of Educational Studies at Trinity College](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1004266) in Hartford, Connecticut, where he worked from 1999 to 2026. Most recently in his [Data Visualization for All](https://datavizforall.org) course, students partnered with community organizations to dig into data on different policy topics (such as affordable housing, educational equity, public health, environmental justice) and [published their data stories with interactive charts and maps](https://datavizforall.org/partners-projects).
 
 Jack also directed the Educational Studies Program and collaborated with faculty across campus to develop its robust interdisciplinary major, with a focus on experiential urban learning and research training. He created new courses such as:
@@ -31,8 +28,8 @@ As a long-time contributor to the Community Learning initiative at Trinity, Jack
 Jack received his B.A. in philosophy from Swarthmore College in 1987, taught high school social studies in Newark, New Jersey, then earned his Ph.D. in educational policy studies, with a minor in U.S. history, from the University of Wisconsin-Madison in 1997. His books and major articles include:
 - [On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs](https://ontheline.trincoll.edu) (with student contributors), an open-access work-in-progress that blends historical narrative with digitized primary sources and interactive maps.
 - [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code](https://handsondataviz.org), co-authored with Ilya Ilyankou, published by O'Reilly Media, 2021.
-- [Web Writing: Why and How for Liberal Arts Teaching and Learning](https://muse.jhu.edu/book/52297), co-edited with Tennyson O'Donnell, open-access book by University of Michigan Press, 2015.
-- [Writing History in the Digital Age](https://muse.jhu.edu/book/27633), co-edited with Kristen Nawrotzki, open-access book by University of Michigan Press, 2013.
+- [Web Writing: Why and How for Liberal Arts Teaching and Learning](https://doi.org/10.3998/dh.13396229.0001.001), co-edited with Tennyson O'Donnell, open-access book published by University of Michigan Press, 2015.
+- [Writing History in the Digital Age](https://doi.org/10.3998/dh.12230987.0001.001), co-edited with Kristen Nawrotzki, open-access book published by University of Michigan Press, 2013.
 - [Shopping for Schools: How Public Education and Private Housing Shaped Suburban Connecticut](https://doi.org/10.1177/0096144211427112), *Journal of Urban History*, 2012.
 - [School Choice in Suburbia: Test Scores, Race, and Housing Markets](http://digitalrepository.trincoll.edu/cssp_papers/1) , co-authored with Trinity College economics professor Diane Zannoni and students, *American Journal of Education*, 2009,
 - [More Than One Struggle: The Evolution of Black School Reform in Milwaukee](http://uncpress.unc.edu/books/T-4956.html) University of North Carolina Press, 2004)

@@ -1,7 +1,7 @@
 ---
 title: "Education examples"
 permalink: /education/
-date: 2025-12-06
+date: 2026-01-06
 # reminder: chronological layout
 layout: category
 taxonomy: education

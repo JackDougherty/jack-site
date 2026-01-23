@@ -1,7 +1,7 @@
 ---
 title: "Teaching & Advising"
 permalink: /teaching/
-date: 2025-12-09
+date: 2026-01-09
 # reminder: chronological layout
 header:
   teaser: /images/portfolio/teaching-600x400.jpg

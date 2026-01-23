@@ -1,7 +1,7 @@
 ---
 title: "JackBikes.org"
 permalink: /jackbikes/
-date: 2025-12-12
+date: 2026-01-12
 # reminder: chronological layout
 excerpt: "Adventure, advocacy, and an appetite on two wheels"
 redirect_to:

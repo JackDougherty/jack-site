@@ -1,7 +1,7 @@
 ---
 title: "Coaching services"
 permalink: /coaching/
-date: 2025-12-01
+date: 2026-01-01
 # reminder: chronological layout
 header:
   teaser: images/portfolio/coaching-600x400.jpg

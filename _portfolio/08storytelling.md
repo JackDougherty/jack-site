@@ -1,7 +1,7 @@
 ---
 title: "Storytelling examples"
 permalink: /storytelling/
-date: 2025-12-08
+date: 2026-01-08
 # reminder: chronological layout
 layout: category
 taxonomy: storytelling

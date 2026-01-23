@@ -1,7 +1,7 @@
 ---
 title: "Streets examples"
 permalink: /streets/
-date: 2025-12-07
+date: 2026-01-07
 # reminder: chronological layout
 layout: category
 taxonomy: streets
