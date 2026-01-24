@@ -1,7 +1,7 @@
 ---
 title: 'Comparing School Finance Equity in MA vs CT'
 date: 2025-12-15
-permalink: /2025/12/15/education-finance-ma-ct/
+permalink: /2025/12/15/school-finance-ma-ct/
 excerpt: "Our partners at the School + State Finance Project asked us to create data visualizations to compare school finance equity between Connecticut and Massachusetts."
 header:
   teaser: images/2025/education-ma-ct.jpg
