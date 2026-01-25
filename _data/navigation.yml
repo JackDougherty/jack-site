@@ -1,12 +1,14 @@
 # main header
 main:
-- title: "Coaching"
-  url: /coaching/
+- title: "Home"
+- url: /
 - title: "About"
   url: /about/
+- title: "Coaching"
+  url: /coaching/
 - title: "Contact"
   url: /contact/
-- title: "All Posts"
+- title: "Posts"
   url: /posts/
 
 # optional page sidebar (not needed when using Contents)
