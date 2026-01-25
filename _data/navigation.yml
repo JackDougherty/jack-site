@@ -1,7 +1,7 @@
 # main header
 main:
-- title: "Home"
-- url: /home/ # redirect
+- title: "Home4"
+  url: "/"
 - title: "Coaching"
   url: /coaching/
 - title: "About"
