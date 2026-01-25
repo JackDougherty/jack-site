@@ -1,11 +1,11 @@
 # main header
 main:
 - title: "Home"
-- url: /
-- title: "About"
-  url: /about/
+- url: /index/
 - title: "Coaching"
   url: /coaching/
+- title: "About"
+  url: /about/
 - title: "Contact"
   url: /contact/
 - title: "Posts"
