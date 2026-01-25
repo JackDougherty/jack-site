@@ -1,7 +1,7 @@
 # main header
 main:
-- title: "Home3"
-- url: "https://jackdougherty.org"
+- title: "Home"
+- url: /home/ # redirect
 - title: "Coaching"
   url: /coaching/
 - title: "About"
