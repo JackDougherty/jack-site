@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-date: 2026-01-02
+date: 2026-07-02
 # reminder: chronological layout
 header:
   teaser: /images/portfolio/about-600x400.jpg
@@ -9,8 +9,7 @@ excerpt: "Experienced with data, digital storytelling, and community partnership
 ---
 ![Jack Dougherty](/images/portfolio/jackdougherty2025.jpg){: .align-right style="width: 25%;"}Jack Dougherty, a digital strategy coach in Boston, shares over thirty years of experience in partnering with community organizations to make change more visible through data and digital storytelling. [Email him](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on his calendar](/calendar).
 
-<!-- TODO in future check faculty profile link to emeritus page -->
-Jack retired as [Professor of Educational Studies at Trinity College](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1004266) in Hartford, Connecticut, where he worked from 1999 to 2026. Most recently in his [Data Visualization for All](https://datavizforall.org) course, students partnered with community organizations to dig into data on different policy topics (such as affordable housing, educational equity, public health, environmental justice) and [published their data stories with interactive charts and maps](https://datavizforall.org/partners-projects).
+Jack retired as [Professor of Educational Studies, Emeritus, at Trinity College](https://internet3.trincoll.edu/facProfiles/Default.aspx?fid=1004266) in Hartford, Connecticut, where he worked from 1999 to 2026. Most recently in his [Data Visualization for All](https://datavizforall.org) course, students partnered with community organizations to dig into data on different policy topics (such as affordable housing, educational equity, public health, environmental justice) and [published their data stories with interactive charts and maps](https://datavizforall.org/partners-projects).
 
 Jack also directed the Educational Studies Program and collaborated with faculty across campus to develop its robust interdisciplinary major, with a focus on experiential urban learning and research training. He created new courses such as:
 - [Educ 200: Analyzing Schools](teaching/#educ-200-analyzing-schools), an introductory course where students investigate learning and inequality while doing participant-observation in Hartford public school classrooms.

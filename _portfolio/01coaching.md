@@ -1,7 +1,7 @@
 ---
 title: "Coaching services"
 permalink: /coaching/
-date: 2026-01-01
+date: 2026-07-01
 # reminder: chronological layout
 header:
   teaser: images/portfolio/coaching-600x400.jpg
@@ -39,4 +39,6 @@ Overview of my coaching process, with reflection questions to help focus our con
 
 [Email me](mailto:jack@jackdougherty.org) or schedule a free 30-minute Zoom meeting [on my calendar](/calendar). For additional coaching beyond our introductory meeting, my services are available for a modest fee. Upon request, I will send you a proposal with pricing for a specific project and time period.
 
-<script src="https://embed.ycb.me"	async="true"	data-domain="jackdougherty"	data-displaymode="auto"></script>
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0e_lUQQbACMybH8WBfGt_bikBYPEa1InCN77GP9we9K65O350D4lnWFu3U3FQA_mARaZRvNR1P?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->

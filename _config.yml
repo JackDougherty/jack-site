@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
+remote_theme             : "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -118,6 +118,7 @@ author:
   bio              : "Digital Strategy Coach for community organizations"
   location         : "Boston, MA"
   # email            : " "
+  fediverse        : "@mstdn.social@jackdougherty"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -207,7 +208,8 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  quiet_deps: true
+  silence_deprecations: ['import']
 
 # Outputting
 permalink: /:categories/:title/
