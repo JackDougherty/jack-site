@@ -6,10 +6,11 @@ date: 2026-10-05
 
 # Demo maps for Massport CAC
 
-All of these maps
+All of these demo maps pull source data from a public Google spreadsheet, or it can be linked or pasted from to any external spreadsheet (such as Excel)
 
-## Source data
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS65Exe-9hQpKiELjB-Ha68fMVAA31qSjaMkl1GA6evMcN-4HFLJ73DyeGokX2VLeXbDi3_EHoFAHBc/pubhtml?gid=538245959&amp;single=true&amp;widget=true&amp;headers=false" width=100%></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS65Exe-9hQpKiELjB-Ha68fMVAA31qSjaMkl1GA6evMcN-4HFLJ73DyeGokX2VLeXbDi3_EHoFAHBc/pubhtml?gid=538245959&amp;single=true&amp;widget=true&amp;headers=false" width="100%"></iframe>
+
+Note that City of Boston has 6 appointees from designated neighborhoods
 
 Options include:
 - one solid color vs. randomized multi-colors (to help viewers differentiate municipalities)
