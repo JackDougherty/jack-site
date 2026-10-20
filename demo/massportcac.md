@@ -19,6 +19,11 @@ Additional options: initial size of map on web page (demos show 650 pixels tall)
 
 Note that City of Boston has 7 appointees from 23 designated neighborhoods, so I decided to group all of them into the Boston polygon and list their neighborhood in parentheses after their name, such as: Alan Wright (Roslindale). This also was the simplest geographical solution. A more complex geographical solution would attempt to show the 23-neighborhood boundaries inside the City of Boston, but most of these would be blank because there are only 6 appointees.
 
+Note: Added drafts 9 & 10 as requested
+
+<iframe title="Draft 9: Massport CAC municipalities (state, solid, 8 initial)" aria-label="Choropleth map" id="datawrapper-chart-LoYOD" src="https://datawrapper.dwcdn.net/LoYOD/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="460" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
+
+<iframe title="Draft 10: Massport CAC munis (state, multi, 8 initial)" aria-label="Choropleth map" id="datawrapper-chart-IGsJj" src="https://datawrapper.dwcdn.net/IGsJj/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="460" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
 
 Note: Drafts 6-7-8 use one solid color and focus on the metro Boston region
 
